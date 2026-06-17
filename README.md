@@ -136,9 +136,22 @@ Please also cite the original PrimeKG:
 
 ## Team
 
-**Principal Investigator:** Trinh Trung Duong Nguyen (University of Copenhagen)
+**Principal Investigators:** Trinh Trung Duong Nguyen · Albert J. Kooistra · Dinh Truong Nguyen
 
-**Contributors:** Nguyen Phuong Thuy (Hanoi Medical University) · Tung Kieu (Aalborg University) · Alexander S. Hauser (University of Copenhagen) · Albert J. Kooistra (University of Copenhagen) · Nguyen Dinh Truong (CUNY School of Medicine)
+| Author | Affiliation |
+|---|---|
+| Trinh Trung Duong Nguyen | Department of Drug Design and Pharmacology, University of Copenhagen, Denmark |
+| Alexander S. Hauser | Department of Drug Design and Pharmacology, University of Copenhagen, Denmark |
+| Albert J. Kooistra | Department of Drug Design and Pharmacology, University of Copenhagen, Denmark |
+| Thuy Nguyen-Phuong | Faculty of Medical Technology, Hanoi Medical University, Vietnam |
+| Hoai Nguyen-Quy | Faculty of Medical Technology, Hanoi Medical University, Vietnam |
+| Hanh-Dung Le Phan | Faculty of Medical Technology, Hanoi Medical University, Vietnam |
+| Bao-Anh Nguyen Luong | Faculty of Medical Technology, Hanoi Medical University, Vietnam |
+| Nhat-Thien Phan | Faculty of Medical Technology, Hanoi Medical University, Vietnam |
+| Amna Mumtaz Abbasi | Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Finland |
+| Ziaurrehman Tanoli | Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of Helsinki, Finland |
+| Nurettin Nusret Curabaz | Faculty of Medicine, Hacettepe University, Ankara, Turkey |
+| Dinh Truong Nguyen | Department of Molecular and Cellular Biomedical Sciences, School of Medicine, The City University of New York, USA |
 
 ---
 
