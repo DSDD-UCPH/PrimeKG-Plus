@@ -163,5 +163,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-Trinh Trung Duong Nguyen · Department of Drug Design and Pharmacology, University of Copenhagen · [nguyentrinhtrungduong@gmail.com](mailto:nguyentrinhtrungduong@gmail.com)
+Trinh Trung Duong Nguyen · Department of Drug Design and Pharmacology, University of Copenhagen ·[trung.trinh@sund.ku.dk](mailto:trung.trinh@sund.ku.dk) or [nguyentrinhtrungduong@gmail.com](mailto:nguyentrinhtrungduong@gmail.com) 
 
