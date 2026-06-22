@@ -1,0 +1,174 @@
+record_type,anchor_group_name,node_id,node_name,canonical_group_name,expert_review,source_rule
+anchor,Cowden disease,,,,Cowden disease,dup26_fix
+anchor,anorexia nervosa,,,,yes,dup26_fix
+anchor,arrhythmogenic right ventricular dysplasia,,,,arrhythmogenic right ventricular dysplasia,dup26_fix
+anchor,benign fibrous histiocytoma,,,,yes,dup26_fix
+anchor,benign neonatal seizures,,,,yes,dup26_fix
+anchor,"cerebellar ataxia, intellectual disability, and dysequilibrium",,,,yes,dup26_fix
+anchor,choroid plexus papilloma,,,,yes,dup26_fix
+anchor,congenital anomalies of kidney and urinary tract,,,,congenital anomalies of kidney and urinary tract,dup26_fix
+anchor,juvenile dermatomyositis,,,,yes,dup26_fix
+anchor,dermatomyositis,,,,no,dup26_fix
+anchor,endophthalmitis,,,,yes,dup26_fix
+anchor,epiglottitis,,,,yes,dup26_fix
+anchor,erythrokeratodermia variabilis et progressiva,,,,yes,dup26_fix
+anchor,familial hyperaldosteronism,,,,no,dup26_fix
+anchor,familial hyperreninemic hypoaldosteronism type 2,,,,no,dup26_fix
+anchor,fetal alcohol spectrum disorder,,,,yes,dup26_fix
+anchor,frontal sinusitis,,,,yes,dup26_fix
+anchor,intracranial thrombosis,,,,yes,dup26_fix
+anchor,"pigmented nodular adrenocortical disease, primary",,,,yes,dup26_fix
+anchor,leptomeningeal melanoma,,,,yes,dup26_fix
+anchor,liposarcoma,,,,no,dup26_fix
+anchor,optic tract astrocytoma,,,,yes,dup26_fix
+anchor,osteoarthritis,,,,yes,dup26_fix
+anchor,osteosarcoma,,,,yes,dup26_fix
+anchor,paraneoplastic limbic encephalitis,,,,yes,dup26_fix
+anchor,periodontitis,,,,yes,dup26_fix
+anchor,retinoblastoma,,,,no,dup26_fix
+anchor,uveitis,,,,yes,dup26_fix
+anchor,"bulimia nervosa, susceptibility to, 1",,,,"eating disorder, susceptibility to",dup26_fix
+node,,12878,Cowden syndrome 2,Cowden disease,,legacy
+node,,14047,Cowden syndrome 5,Cowden disease,,legacy
+node,,8021,Cowden syndrome 1,Cowden disease,,legacy
+node,,14046,Cowden syndrome 4,Cowden disease,,legacy
+node,,14048,Cowden syndrome 6,Cowden disease,,legacy
+node,,14045,Cowden syndrome 3,Cowden disease,,legacy
+node,,14802,Cowden syndrome 7,Cowden disease,,legacy
+node,,16063,Cowden disease,Cowden disease,,legacy
+node,,16027,benign neonatal seizures,benign neonatal seizures,,legacy
+node,,15642,benign partial infantile seizures,benign neonatal seizures,,legacy
+node,,18981,benign idiopathic neonatal seizures,benign neonatal seizures,,legacy
+node,,12430,"cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 2","cerebellar ataxia, intellectual disability, and dysequilibrium",,legacy
+node,,24542,"cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 1","cerebellar ataxia, intellectual disability, and dysequilibrium",,legacy
+node,,14104,"cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 4","cerebellar ataxia, intellectual disability, and dysequilibrium",,legacy
+node,,13188,"cerebellar ataxia, intellectual disability, and dysequilibrium syndrome 3","cerebellar ataxia, intellectual disability, and dysequilibrium",,legacy
+node,,9133,"cerebellar ataxia, intellectual disability, and dysequilibrium","cerebellar ataxia, intellectual disability, and dysequilibrium",,legacy
+node,,21720,,fetal alcohol spectrum disorder,,legacy
+node,,15594,,paraneoplastic limbic encephalitis,,legacy
+node,,5452,bulimia nervosa,bulimia nervosa,,exclude_bad_cluster
+node,,5351,anorexia nervosa,anorexia nervosa,,legacy
+node,,33926,prepubertal anorexia nervosa,anorexia nervosa,,legacy
+node,,6717,cutaneous fibrous histiocytoma,cutaneous fibrous histiocytoma,,exclude_bad_cluster
+node,,2989,benign fibrous histiocytoma,benign fibrous histiocytoma,,legacy
+node,,2990,benign deep fibrous histiocytoma,benign fibrous histiocytoma,,legacy
+node,,8054,juvenile dermatomyositis,dermatomyositis,,legacy
+node,,16367,dermatomyositis,dermatomyositis,,legacy
+node,,1907,adult dermatomyositis,dermatomyositis,,legacy
+node,,2040,dermatomycosis,dermatomycosis,,exclude_bad_cluster
+node,,957456,classical dermatomyositis,classical dermatomyositis,,exclude_bad_cluster
+node,,1010064,anti-MDA5 dermatomyositis,anti-MDA5 dermatomyositis,,exclude_bad_cluster
+node,,19719,congenital anomaly of kidney and urinary tract,congenital anomalies of kidney and urinary tract,,legacy
+node,,12561,congenital anomalies of kidney and urinary tract 1,congenital anomalies of kidney and urinary tract,,legacy
+node,,27676,congenital anomalies of kidney and urinary tract 2,congenital anomalies of kidney and urinary tract,,legacy
+node,,32646,congenital anomalies of kidney and urinary tract 3,congenital anomalies of kidney and urinary tract,,legacy
+node,,60549,"congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay","congenital anomalies of kidney and urinary tract syndrome with or without hearing loss, abnormal ears, or developmental delay",,exclude_bad_cluster
+node,,9837,choroid plexus papilloma,choroid plexus papilloma,,legacy
+node,,2684,atypical choroid plexus papilloma,choroid plexus papilloma,,legacy
+node,,16718,choroid plexus carcinoma,choroid plexus carcinoma,,exclude_bad_cluster
+node,,3053,choroid plexus meningioma,choroid plexus meningioma,,exclude_bad_cluster
+node,,16047,endophthalmitis,endophthalmitis,,legacy
+node,,17202,acute endophthalmitis,endophthalmitis,,legacy
+node,,17203,chronic endophthalmitis,endophthalmitis,,legacy
+node,,6884,panophthalmitis,panophthalmitis,,exclude_bad_cluster
+node,,5753,epiglottitis,epiglottitis,,legacy
+node,,41366,acute epiglottitis,epiglottitis,,legacy
+node,,4473,epiglottis cancer,epiglottis cancer,,exclude_bad_cluster
+node,,17851,erythrokeratodermia variabilis,erythrokeratodermia variabilis et progressiva,,legacy
+node,,30941,erythrokeratodermia variabilis et progressiva 7,erythrokeratodermia variabilis et progressiva,,legacy
+node,,32801,erythrokeratodermia variabilis et progressiva 6,erythrokeratodermia variabilis et progressiva,,legacy
+node,,33010,erythrokeratodermia variabilis et progressiva 1,erythrokeratodermia variabilis et progressiva,,legacy
+node,,33012,erythrokeratodermia variabilis et progressiva 2,erythrokeratodermia variabilis et progressiva,,legacy
+node,,33013,erythrokeratodermia variabilis et progressiva 3,erythrokeratodermia variabilis et progressiva,,legacy
+node,,33014,erythrokeratodermia variabilis et progressiva 4,erythrokeratodermia variabilis et progressiva,,legacy
+node,,33015,erythrokeratodermia variabilis et progressiva 5,erythrokeratodermia variabilis et progressiva,,legacy
+node,,18541,familial hypoaldosteronism,familial hypoaldosteronism,,singleton
+node,,13359,familial hyperaldosteronism type III,familial hyperaldosteronism type III,,reject_hyper_cluster
+node,,11576,familial hyperaldosteronism type II,familial hyperaldosteronism type II,,reject_hyper_cluster
+node,,14875,"hyperaldosteronism, familial, type IV","hyperaldosteronism, familial, type IV",,reject_hyper_cluster
+node,,16525,familial hyperaldosteronism,familial hyperaldosteronism,,reject_hyper_cluster
+node,,11754,familial hyperreninemic hypoaldosteronism type 2,familial hyperreninemic hypoaldosteronism type 2,,reject_hyper_cluster
+node,,408,fetal alcohol spectrum disorder,fetal alcohol spectrum disorder,,legacy
+node,,16011,fetal alcohol syndrome,fetal alcohol syndrome,,legacy_fas
+node,,815,fetal nicotine spectrum disorder,fetal nicotine spectrum disorder,,exclude_bad_cluster
+node,,1121,frontal sinusitis,frontal sinusitis,,legacy
+node,,1120,chronic frontal sinusitis,frontal sinusitis,,legacy
+node,,1912,acute frontal sinusitis,frontal sinusitis,,legacy
+node,,1756,frontal sinus cancer,frontal sinus cancer,,exclude_bad_cluster
+node,,2907,intracranial thrombosis,intracranial thrombosis,,legacy
+node,,2692,intracranial sinus thrombosis,intracranial thrombosis,,legacy
+node,,6809,intracranial embolism,intracranial embolism,,exclude_bad_cluster
+node,,958262,isolated primary pigmented nodular adrenocortical disease,isolated primary pigmented nodular adrenocortical disease,,manual
+node,,12505,"pigmented nodular adrenocortical disease, primary, 2",isolated primary pigmented nodular adrenocortical disease,,manual
+node,,12509,"pigmented nodular adrenocortical disease, primary, 1",isolated primary pigmented nodular adrenocortical disease,,manual
+node,,13616,"pigmented nodular adrenocortical disease, primary, 3",isolated primary pigmented nodular adrenocortical disease,,manual
+node,,14359,"pigmented nodular adrenocortical disease, primary, 4",isolated primary pigmented nodular adrenocortical disease,,manual
+node,,15999,primary pigmented nodular adrenocortical disease,isolated primary pigmented nodular adrenocortical disease,,manual
+node,,3761,leptomeningeal melanoma,leptomeningeal melanoma,,legacy
+node,,3765,adult leptomeningeal melanoma,leptomeningeal melanoma,,legacy
+node,,4330,leptomeningeal sarcoma,leptomeningeal sarcoma,,exclude_bad_cluster
+node,,5060,liposarcoma,liposarcoma,,legacy
+node,,4510,inflammatory liposarcoma,liposarcoma,,legacy
+node,,3591,kidney liposarcoma,liposarcoma,,legacy
+node,,4989,breast carcinoma,breast carcinoma,,exclude_bad_cluster
+node,,2490,breast sarcoma,breast sarcoma,,exclude_bad_cluster
+node,,2058,breast adenoma,breast adenoma,,exclude_bad_cluster
+node,,3589,liposarcoma of the ovary,liposarcoma of the ovary,,exclude_bad_cluster
+node,,970,breast lipoma,breast lipoma,,exclude_bad_cluster
+node,,3431,lipoadenoma,lipoadenoma,,exclude_bad_cluster
+node,,3593,breast liposarcoma,breast liposarcoma,,exclude_bad_cluster
+node,,5238,round cell liposarcoma,round cell liposarcoma,,exclude_bad_cluster
+node,,24649,optic tract astrocytoma,optic tract astrocytoma,,legacy
+node,,3234,optic nerve astrocytoma,optic tract astrocytoma,,legacy
+node,,3931,childhood optic tract astrocytoma,optic tract astrocytoma,,legacy
+node,,5178,osteoarthritis,osteoarthritis,,legacy
+node,,6629,"osteoarthritis, hip",osteoarthritis,,legacy
+node,,5416,"osteoarthritis, knee",osteoarthritis,,legacy
+node,,6630,"osteoarthritis, spine",osteoarthritis,,legacy
+node,,6631,"osteoarthritis, toe",osteoarthritis,,legacy
+node,,6632,"osteoarthritis, hand",osteoarthritis,,legacy
+node,,2933,osteosclerosis,osteosclerosis,,exclude_bad_cluster
+node,,5246,osteomyelitis,osteomyelitis,,exclude_bad_cluster
+node,,9807,osteosarcoma,osteosarcoma,,manual
+node,,2628,peripheral osteosarcoma,osteosarcoma,,manual
+node,,2631,conventional osteosarcoma,osteosarcoma,,manual
+node,,6246,high grade surface osteosarcoma,osteosarcoma,,manual
+node,,15589,paraneoplastic limbic encephalitis,paraneoplastic limbic encephalitis,,legacy
+node,,15590,classic paraneoplastic limbic encephalitis,paraneoplastic limbic encephalitis,,legacy
+node,,850104,paraneoplastic isolated brainstem encephalitis,paraneoplastic isolated brainstem encephalitis,,exclude_bad_cluster
+node,,5076,periodontitis,periodontitis,,legacy
+node,,5593,chronic periodontitis,periodontitis,,legacy
+node,,4508,periapical periodontitis,periapical periodontitis,,exclude_bad_cluster
+node,,2635,periodontal disorder,periodontal disorder,,exclude_bad_cluster
+node,,1251,chronic apical periodontitis,chronic apical periodontitis,,exclude_bad_cluster
+node,,8380,retinoblastoma,retinoblastoma,,legacy
+node,,3075,bilateral retinoblastoma,retinoblastoma,,legacy
+node,,16707,astroblastoma,astroblastoma,,exclude_bad_cluster
+node,,24340,retinal neuroblastoma,retinal neuroblastoma,,exclude_bad_cluster
+node,,20283,uveitis,uveitis,,legacy
+node,,6651,anterior uveitis,uveitis,,legacy
+node,,17210,infectious anterior uveitis,infectious anterior uveitis,,exclude_bad_cluster
+node,,6918,posterior uveitis,posterior uveitis,,exclude_bad_cluster
+node,,2661,uveal disorder,uveal disorder,,exclude_bad_cluster
+node,,17255,panuveitis,panuveitis,,exclude_bad_cluster
+node,,16587,arrhythmogenic right ventricular cardiomyopathy,arrhythmogenic right ventricular cardiomyopathy,,singleton_keep
+node,,11188,arrhythmogenic right ventricular dysplasia 3,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,11189,arrhythmogenic right ventricular dysplasia 4,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,11459,arrhythmogenic right ventricular dysplasia 5,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,11460,arrhythmogenic right ventricular dysplasia 6,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,11831,arrhythmogenic right ventricular dysplasia 8,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,12180,arrhythmogenic right ventricular dysplasia 9,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,12434,arrhythmogenic right ventricular dysplasia 10,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,12506,arrhythmogenic right ventricular dysplasia 11,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,12684,arrhythmogenic right ventricular dysplasia 12,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,30062,"arrhythmogenic right ventricular dysplasia, familial, 14",arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,7152,arrhythmogenic right ventricular dysplasia 1,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+node,,908,arrhythmogenic right ventricular dysplasia 13,arrhythmogenic right ventricular dysplasia,,legacy_dysplasia
+anchor,progressive external ophthalmoplegia,,,,yes,peo_dup_fix
+anchor,severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion,,,,severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion,peo_dup_fix
+anchor,spinocerebellar ataxia with epilepsy,,,,spinocerebellar ataxia with epilepsy,peo_dup_fix
+node,,5181,progressive external ophthalmoplegia,progressive external ophthalmoplegia,,peo_dup_fix
+node,,8003,autosomal dominant progressive external ophthalmoplegia,progressive external ophthalmoplegia,,peo_dup_fix
+node,,16810,autosomal recessive progressive external ophthalmoplegia,progressive external ophthalmoplegia,,peo_dup_fix
+node,,17811,severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion,severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion,,peo_dup_fix
+node,,16809,spinocerebellar ataxia with epilepsy,spinocerebellar ataxia with epilepsy,,peo_dup_fix

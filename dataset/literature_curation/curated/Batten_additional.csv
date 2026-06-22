@@ -1,0 +1,28 @@
+entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,integratable
+unconventional secretory pathway,DNAJC5,biological_process,protein/gene,bioprocess_protein,34188051,C1159342,in_kg,True
+DHDDS,cis-prenyltransferase activity,protein/gene,molecular_function,molfunc_protein,34382076,in_kg,C1152043,True
+Retinal degeneration,scattered drusen,phenotype,phenotype,phenotype_phenotype,34532411,in_kg,C1260959,True
+Adult-Onset Neuronal Ceroid Lipofuscinosis,postural vertical nystagmus,disease,phenotype,disease_phenotype_positive,34679057,C0022798|C0751383,C0344246,True
+Adult-Onset Neuronal Ceroid Lipofuscinosis,symmetrical progressive atrophy of the cervical spinal cord,disease,phenotype,disease_phenotype_positive,34679057,C0022798|C0751383,C0742191,True
+neuronal ceroid lipofuscinoses,soluble lysosomal enzymes,disease,protein/gene,disease_protein,35033660,C0027877|C0751383,C0391845,True
+ethosuximide,restored chemotaxis,drug,phenotype,drug_effect,36282524,in_kg,C0008018,True
+degrading cysteine residues,PPT1,biological_process,protein/gene,bioprocess_protein,36088080,C4314398,in_kg,True
+destabilize the protein structure,PPT1,phenotype,protein/gene,phenotype_protein,36088080,C1622120,in_kg,True
+progressive neurological disorder,loss of control over urination,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,C0042024,True
+progressive neurological disorder,loss of control over defecation,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,C0015732,True
+inherited neurodegenerative diseases,Neuronal ceroid lipofuscinosis,disease,disease,disease_disease,35462699,C5680568,in_kg,True
+neuronal ceroid lipofuscinoses,dementia in children,disease,phenotype,disease_phenotype_positive,36833170,C0027877|C0751383,C0497327,True
+accumulation of ceroid lipopigment,MFSD8,phenotype,protein/gene,phenotype_protein,36833170,C0268279,in_kg,True
+CLN3,1.02 kb deletion on exons 7,protein/gene,protein/gene,protein_protein,36576693,in_kg,C3482296,True
+CLN3,1.02 kb deletion on exons 8,protein/gene,protein/gene,protein_protein,36576693,in_kg,C3482296,True
+stress granule dynamics,CLN3,biological_process,protein/gene,bioprocess_protein,36965618,C5442023,in_kg,True
+MFSD8,lysosomal chloride channel,protein/gene,biological_process,bioprocess_protein,37742391,in_kg,C0055363,True
+Lithium,inositol monophosphatase inhibition,drug,molecular_function,drug_effect,37746514,in_kg,C3269497,True
+TPP1,intronic splice variant,protein/gene,phenotype,phenotype_protein,37922835,in_kg,C1881249,True
+neuronal ceroid lipofuscinosis,childhood dementia,disease,phenotype,disease_phenotype_positive,38117343,in_kg,C0497327,True
+DNAJC5,cysteine string protein α,protein/gene,protein/gene,protein_protein,38193346,in_kg,C3489497,True
+ultrahigh frequency - transcutaneous electrical nerve stimulation,neuropathic pain,drug,phenotype,drug_effect,38368171,C0040654,in_kg,True
+high-dose intravenous immunoglobulin,no effect,drug,phenotype,drug_effect,39470529,C0085297,C1301751,True
+transacylation reaction,acylating the precursor lipid phosphatidylglycerol,biological_process,biological_process,bioprocess_bioprocess,39548099,C0597598,C3271638,True
+learning and memory impairment,PPT1,phenotype,protein/gene,phenotype_protein,39695089,C0423943,in_kg,True
+brain,severe cortical atrophy,anatomy,anatomy,anatomy_anatomy,39718800,in_kg,C4551583,True

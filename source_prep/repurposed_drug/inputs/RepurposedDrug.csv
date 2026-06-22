@@ -1,0 +1,657 @@
+﻿Drug_name,Disease_name
+Acetylcysteine,"Kidney Failure, Acute"
+Acitretin,Psoriasis
+Aclidinium Bromide,Chronic Obstructive Airway Disease
+Adapalene,Acne Vulgaris
+Adefovir Dipivoxil,Hepatitis b
+Adefovir Dipivoxil,"Hepatitis B, Chronic"
+Adefovir,Hepatitis b
+Adefovir,"Hepatitis B, Chronic"
+Adenosine,Atherosclerosis
+Adenosine,Coronary Artery Disease
+Albuterol Sulfate,Asthma
+Albuterol,Asthma
+Alendronate Sodium,Osteoporosis
+Alfuzosin,Benign Prostatic Hyperplasia
+Alfuzosin,Prostatic Hyperplasia
+Aliskiren,Essential Hypertension
+Allopurinol,Gout
+Allopurinol,Hyperuricemia
+Almotriptan Malate,Common Migraine
+Ambrisentan,Pulmonary Arterial Hypertension
+Amiodarone,Atrial Fibrillation
+Amlodipine Besylate,Essential Hypertension
+Amlodipine,Essential Hypertension
+Amlodipine,Metabolic Syndrome x
+Amodiaquine,Malaria
+Amoxicillin,Aggressive Periodontitis
+Amoxicillin,"Helicobacter Pylori Infection, Susceptibility to"
+Amoxicillin,Pneumonia
+Amphotericin b,"Leishmaniasis, Visceral"
+Anidulafungin,Candidiasis
+Antibiotic,Pneumonia
+Apixaban,Deep Vein Thrombosis
+Apixaban,Pulmonary Embolism
+Arformoterol,"Bronchitis, Chronic"
+Arformoterol,Focal Emphysema
+Aripiprazole,Autistic Disorder
+Aripiprazole,Bipolar Disorder
+Aripiprazole,Major Depressive Disorder
+Aripiprazole,Schizoaffective Disorder
+Aripiprazole,"Schizoaffective Disorder, Bipolar Type"
+Aripiprazole,Schizophrenia
+Armodafinil,Narcolepsy
+Arsenic Trioxide,Leukemia
+Artesunate,Malaria
+Aspirin,Cerebral Infarction
+Aspirin,Common Migraine
+Aspirin,Coronary Artery Disease
+Aspirin,Ischemic Stroke
+Aspirin,Myocardial Infarction
+Aspirin,Myocardial Ischemia
+Aspirin,Transient Ischemic Attack
+Atenolol,Essential Hypertension
+Atomoxetine Hydrochloride,Attention Deficit Hyperactivity Disorder
+Atomoxetine,Attention Deficit Hyperactivity Disorder
+Atorvastatin,Acute Coronary Syndrome
+Atorvastatin,Atherosclerosis
+Atorvastatin,Coronary Arteriosclerosis
+Atorvastatin,Coronary Artery Disease
+Atorvastatin,Coronary Heart Disease
+Atorvastatin,Hypercholesterolemia
+Atorvastatin,"Hypercholesterolemia, Familial"
+Atorvastatin,Hyperlipidemia
+Atorvastatin,Metabolic Syndrome x
+Atorvastatin,Myocardial Infarction
+Avanafil,Erectile Dysfunction
+Azathioprine,Crohn Disease
+Azathioprine,Lupus Nephritis
+Azathioprine,Vasculitis
+Azilsartan Medoxomil,Essential Hypertension
+Azithromycin,"Bronchitis, Chronic"
+Beclomethasone Dipropionate,Asthma
+Beclomethasone Dipropionate,Rhinitis
+Beclomethasone Dipropionate,"Rhinitis, Allergic, Perennial"
+Beclomethasone,Asthma
+Benzoyl Peroxide,Acne Vulgaris
+Bilastine,Urticaria
+Bimatoprost,Glaucoma
+Bimatoprost,Ocular Hypertension
+Bisoprolol,Chronic Heart Failure
+Bivalirudin,Acute Coronary Syndrome
+Bivalirudin,Myocardial Infarction
+Boceprevir,Hepatitis c
+Boceprevir,"Hepatitis C, Chronic"
+Bortezomib,Multiple Myeloma
+Bosentan,Pulmonary Arterial Hypertension
+Bosentan,Scleroderma
+Brimonidine,Glaucoma
+Brimonidine,Ocular Hypertension
+Bromfenac,Cataract
+Budesonide,Asthma
+Budesonide,Eosinophilic Esophagitis
+Budesonide,Nasal Polyps
+Budesonide,Sinusitis
+Buprenorphine,Heroin Dependence
+Bupropion,Major Depressive Disorder
+Bupropion,Nicotine Dependence
+Bupropion,Severe Depression
+Calcipotriol,Psoriasis
+Calcitriol,Hyperparathyroidism
+Calcium Acetate,Hyperphosphatemia (Disorder)
+Calcium Carbonate,Hyperphosphatemia (Disorder)
+Calcium Carbonate,Vitamin d Deficiency
+Calcium Gluconate,Osteoporosis
+Calcium,Osteoporosis
+Candesartan Cilexetil,Essential Hypertension
+Carbamazepine,Epilepsy
+Carbidopa,Parkinson Disease
+Carboplatin,Large Cell Carcinoma of Lung
+Carvedilol,Chronic Heart Failure
+Carvedilol,Cirrhosis
+Carvedilol,Essential Hypertension
+Carvedilol,Portal Hypertension
+Caspofungin,Candidiasis
+Ceftriaxone,Pneumonia
+Celecoxib,Ankylosing Spondylitis
+Celecoxib,"Osteoarthritis, Knee"
+Cetirizine,Rhinitis
+Cetirizine,"Rhinitis, Allergic, Perennial"
+Chlordiazepoxide,Alcohol Withdrawal Syndrome
+Chloroquine,Malaria
+Chloroquine,Rheumatoid Arthritis
+Cholecalciferol,Vitamin d Deficiency
+Chondroitin Sulfate,"Osteoarthritis, Knee"
+Ciclesonide,Asthma
+Ciclesonide,Rhinitis
+Ciclesonide,"Rhinitis, Allergic, Perennial"
+Cilostazol,Cerebral Infarction
+Cinacalcet,Hyperparathyroidism
+Cinacalcet,"Hyperparathyroidism, Secondary"
+Citalopram,Depressive Disorder
+Citalopram,"Major Depression, Single Episode"
+Citalopram,Major Depressive Disorder
+Citalopram,Mental Depression
+Citalopram,Severe Depression
+Clarithromycin,"Helicobacter Pylori Infection, Susceptibility to"
+Clevudine,Hepatitis b
+Clevudine,"Hepatitis B, Chronic"
+Clindamycin,Acne Vulgaris
+Clobetasol,Psoriasis
+Clomiphene Citrate,Hyperandrogenism
+Clomiphene Citrate,Polycystic Ovary Syndrome
+Clonazepam,Panic Disorder
+Clopidogrel,Acute Coronary Syndrome
+Clopidogrel,"Angina, Unstable"
+Clopidogrel,Coronary Arteriosclerosis
+Clopidogrel,Coronary Artery Disease
+Clopidogrel,Myocardial Infarction
+Clopidogrel,Transient Ischemic Attack
+Clotrimazole,Candidiasis
+Clozapine,Schizophrenia
+Colchicine,Gout
+Cotrimoxazole,Pneumonia
+Cyclophosphamide,Lupus Nephritis
+Cyclosporine,Dry Eye Syndrome
+Cyclosporine,Kidney Failure
+Cytarabine,Leukemia
+Cytarabine,"Leukemia, Myelocytic, Acute"
+Daclatasvir,Hepatitis c
+Daclatasvir,"Hepatitis C, Chronic"
+Daptomycin,Bacteremia
+Darifenacin,Overactive Bladder
+Dasabuvir,Hepatitis c
+Dasabuvir,"Hepatitis c Virus, Susceptibility to"
+Dasabuvir,"Hepatitis C, Chronic"
+Daunorubicin Hydrochloride,L2 Acute Lymphoblastic Leukemia
+Deferiprone,Iron Overload
+Deferoxamine,Beta-Thalassemia
+Desloratadine,Rhinitis
+Desloratadine,"Rhinitis, Allergic, Perennial"
+Desloratadine,Urticaria
+Desvenlafaxine Succinate,Major Depressive Disorder
+Dexamethasone,Keratitis
+Dexlansoprazole,Gastroesophageal Reflux Disease
+Dexmedetomidine,Delirium
+Diacerein,Osteoarthritis of Hip
+Diclofenac,"Osteoarthritis, Knee"
+Diltiazem,Atrial Fibrillation
+Dimethyl Fumarate,Multiple Sclerosis
+Divalproex Sodium,Bipolar Disorder
+Donepezil Hydrochloride,"Alzheimer Disease, Early Onset"
+Donepezil Hydrochloride,Delirium
+Donepezil Hydrochloride,Dementia
+Donepezil,"Alzheimer Disease, Early Onset"
+Doripenem,Pneumonia
+Doxazosin,Prostatic Hyperplasia
+Doxercalciferol,Hyperparathyroidism
+Dronabinol,Cannabis Dependence
+Duloxetine Hydrochloride,Depressive Disorder
+Duloxetine Hydrochloride,Major Depressive Disorder
+Duloxetine Hydrochloride,Mental Depression
+Duloxetine,Major Depressive Disorder
+Duloxetine,Mental Depression
+Duloxetine,"Osteoarthritis, Knee"
+Dutasteride,Prostatic Hyperplasia
+Efavirenz,Hiv Coinfection
+Efavirenz,Malaria
+Efavirenz,Tuberculosis
+Elbasvir,Hepatitis c
+Elbasvir,"Hepatitis C, Chronic"
+Enalaprilat,Essential Hypertension
+Enalapril,Chronic Heart Failure
+Enalapril,Essential Hypertension
+Enalapril,Heart Failure
+Entacapone,Parkinson Disease
+Entecavir,Hepatitis b
+Entecavir,"Hepatitis B, Chronic"
+Eplerenone,Essential Hypertension
+Epoprostenol,Pulmonary Arterial Hypertension
+Eptifibatide,Acute Coronary Syndrome
+Erlotinib,Non-Small Cell Lung Carcinoma
+Escitalopram Oxalate,Major Depressive Disorder
+Escitalopram,Anxiety
+Escitalopram,Depressive Disorder
+Escitalopram,"Major Depression, Single Episode"
+Escitalopram,Major Depressive Disorder
+Escitalopram,Mental Depression
+Escitalopram,Obsessive-Compulsive Disorder
+Escitalopram,Phobic Anxiety Disorder
+Escitalopram,Schizophrenia
+Escitalopram,Severe Depression
+Esomeprazole,Gastric Ulcer
+Esomeprazole,Gastroesophageal Reflux Disease
+Estradiol,Premature Menopause
+Estrogen,Turner Syndrome
+Eszopiclone,Chronic Insomnia
+Eszopiclone,Primary Insomnia
+Ethambutol Hydrochloride,Tuberculosis
+Ethambutol,Tuberculosis
+Ezetimibe,Atherosclerosis
+Ezetimibe,Coronary Artery Disease
+Ezetimibe,Coronary Heart Disease
+Ezetimibe,Hypercholesterolemia
+Ezetimibe,Hyperlipidemia
+Febuxostat,Gout
+Fenofibrate,Diabetic Retinopathy
+Fenofibrate,Hyperlipidemia
+Fesoterodine Fumarate,Overactive Bladder
+Fesoterodine,Overactive Bladder
+Fimasartan,Essential Hypertension
+Finasteride,Benign Prostatic Hyperplasia
+Finasteride,Prostatic Hyperplasia
+Fingolimod,Multiple Sclerosis
+Flecainide,Atrial Fibrillation
+Fluconazole,Candidiasis
+Fluconazole,"Candidiasis, Vulvovaginal"
+Fluoxetine,Major Depressive Disorder
+Fluoxetine,Mental Depression
+Fluoxetine,Severe Depression
+Fluticasone Furoate,Asthma
+Fluticasone Furoate,Chronic Obstructive Airway Disease
+Fluticasone Furoate,Rhinitis
+Fluticasone Furoate,"Rhinitis, Allergic, Perennial"
+Fluticasone Propionate,Asthma
+Fluticasone Propionate,Chronic Obstructive Airway Disease
+Fluticasone Propionate,Eosinophilic Esophagitis
+Fluticasone Propionate,Rhinitis
+Fluticasone Propionate,"Rhinitis, Allergic, Perennial"
+Fluticasone,Asthma
+Fluticasone,"Rhinitis, Allergic, Perennial"
+Fluvastatin,Hypercholesterolemia
+Fluvoxamine Maleate,Obsessive-Compulsive Disorder
+Fluvoxamine,Obsessive-Compulsive Disorder
+Folic Acid,Rheumatoid Arthritis
+Folinic Acid,Schizophrenia
+Fondaparinux,Deep Vein Thrombosis
+Formoterol Fumarate,Chronic Obstructive Airway Disease
+Formoterol,Asthma
+Formoterol,Chronic Obstructive Airway Disease
+Frovatriptan,Common Migraine
+Furosemide,Congestive Heart Failure
+Furosemide,Heart Failure
+Galantamine Hydrobromide,"Alzheimer Disease, Early Onset"
+Galantamine Hydrobromide,Dementia
+Galantamine,"Alzheimer Disease, Early Onset"
+Galantamine,Dementia
+Glucosamine Sulfate,"Osteoarthritis, Knee"
+Goserelin,Endometriosis
+Grazoprevir,Hepatitis c
+Grazoprevir,"Hepatitis C, Chronic"
+Halobetasol,Psoriasis
+Haloperidol,Schizophrenia
+Hyaluronic Acid,"Osteoarthritis, Knee"
+Hydrochlorothiazide,Essential Hypertension
+Hydroxychloroquine,Rheumatoid Arthritis
+Hydroxyurea,"Anemia, Sickle Cell"
+Ibuprofen,Patent Ductus Arteriosus
+Idarubicin,Leukemia
+Ifosfamide,L2 Acute Lymphoblastic Leukemia
+Ilaprazole,Peptic Ulcer
+Iloprost,Pulmonary Arterial Hypertension
+Imatinib Mesylate,Gastrointestinal Stromal Sarcoma
+Imatinib,Myeloid Leukemia
+Imatinib,"Myeloid Leukemia, Chronic"
+Imiquimod,Basal Cell Carcinoma
+Indacaterol,Chronic Obstructive Airway Disease
+Ipratropium Bromide,Asthma
+Ipratropium Bromide,Chronic Obstructive Airway Disease
+Ipratropium,Chronic Obstructive Airway Disease
+Irbesartan,Diabetic Nephropathy
+Irbesartan,Essential Hypertension
+Isoniazid,Tuberculosis
+Ivabradine,Heart Failure
+Lacidipine,Essential Hypertension
+Lacosamide,Epilepsy
+Lactulose,Hepatic Encephalopathy
+Lamivudine,Hepatitis b
+Lamivudine,"Hepatitis B, Chronic"
+Lamivudine,Tuberculosis
+Lamotrigine,"Depression, Bipolar"
+Lamotrigine,Epilepsy
+Lanreotide Acetate,Acromegaly
+Lansoprazole,Esophagitis
+Lansoprazole,Gastric Ulcer
+Lansoprazole,"Helicobacter Pylori Infection, Susceptibility to"
+Latanoprost,Glaucoma
+Latanoprost,Ocular Hypertension
+Leflunomide,Arthritis
+Leflunomide,Rheumatoid Arthritis
+Letrozole,Polycystic Ovary Syndrome
+Levetiracetam,Epilepsy
+Levocetirizine Dihydrochloride,Rhinitis
+Levocetirizine Dihydrochloride,Urticaria
+Levocetirizine,Rhinitis
+Levocetirizine,"Rhinitis, Allergic, Perennial"
+Levocetirizine,Urticaria
+Levodopa,Parkinson Disease
+Levofloxacin,"Helicobacter Pylori Infection, Susceptibility to"
+Levofloxacin,Pneumonia
+Levothyroxine Sodium,Subclinical Hypothyroidism
+Levothyroxine,Subclinical Hypothyroidism
+Lifitegrast,Dry Eye Syndrome
+Lisdexamfetamine Dimesylate,Attention Deficit Hyperactivity Disorder
+Lisinopril,Essential Hypertension
+Lithium Carbonate,"Depression, Bipolar"
+Lithium Carbonate,Major Depressive Disorder
+Lithium,Bipolar Disorder
+Lithium,"Schizoaffective Disorder, Bipolar Type"
+Lithium,Severe Depression
+Losartan Potassium,Essential Hypertension
+Losartan,Diabetic Nephropathy
+Losartan,Essential Hypertension
+Lurasidone,"Depression, Bipolar"
+Lurasidone,Schizophrenia
+Mefloquine,Malaria
+Melphalan,Multiple Myeloma
+Memantine,"Alzheimer Disease, Early Onset"
+Mercaptopurine,L2 Acute Lymphoblastic Leukemia
+Mercaptopurine,Leukemia
+Meropenem,Sepsis
+Meropenem,Severe Sepsis
+Mesalamine,Ulcerative Colitis
+Metformin,"Diabetes Mellitus, Non-Insulin-Dependent"
+Metformin,Polycystic Ovary Syndrome
+Metformin,Schizoaffective Disorder
+Methacholine,Asthma
+Methadone,Hepatitis c
+Methadone,Opiate Addiction
+Methadone,Substance Dependence
+Methotrexate,Ankylosing Spondylitis
+Methotrexate,Arthritis
+Methotrexate,Crohn Disease
+Methotrexate,Psoriasis
+Methotrexate,Rheumatoid Arthritis
+Methylphenidate Hydrochloride,Attention Deficit Hyperactivity Disorder
+Methylphenidate,Attention Deficit Hyperactivity Disorder
+Methylprednisolone,Lupus Nephritis
+Methylprednisolone,Rheumatoid Arthritis
+Methylprednisolone,Sinusitis
+Metoclopramide,Common Migraine
+Metoprolol Succinate,Essential Hypertension
+Metoprolol,Atrial Fibrillation
+Metoprolol,Essential Hypertension
+Metronidazole,Aggressive Periodontitis
+Micafungin,Candidiasis
+Miconazole,Candidiasis
+Midazolam,"Polyneuropathy, Critical Illness"
+Mirabegron,Overactive Bladder
+Misoprostol,Fetus or Newborn Affected by Alcohol Transmitted via Placenta or Breast Milk
+Misoprostol,Miscarriage
+Modafinil,Narcolepsy
+Mometasone Furoate,Rhinitis
+Mometasone Furoate,"Rhinitis, Allergic, Perennial"
+Mometasone,"Rhinitis, Allergic, Perennial"
+Montelukast Sodium,Asthma
+Montelukast Sodium,Rhinitis
+Montelukast,Asthma
+Montelukast,Rhinitis
+Morphine,"Scoliosis, Unspecified"
+Mycophenolate Mofetil,Idiopathic Nephrotic Syndrome
+Mycophenolate Mofetil,Lupus Nephritis
+Mycophenolate Mofetil,Vasculitis
+Naloxone,Heroin Dependence
+Naltrexone,Alcohol Abuse
+Naproxen,Gastric Ulcer
+Naproxen,Gout
+Nebivolol,Essential Hypertension
+Niacin,Atherosclerosis
+Niacin,Hypercholesterolemia
+Nilotinib,"Myeloid Leukemia, Chronic"
+Nitroglycerin,Myocardial Ischemia
+Nystatin,Candidiasis
+Octreotide,Acromegaly
+Olanzapine,Bipolar Disorder
+Olanzapine,"Depression, Bipolar"
+Olanzapine,Schizoaffective Disorder
+Olanzapine,"Schizoaffective Disorder, Bipolar Type"
+Olanzapine,Schizophrenia
+Olmesartan Medoxomil,Essential Hypertension
+Olmesartan,Essential Hypertension
+Olodaterol,Chronic Obstructive Airway Disease
+Ombitasvir,"Hepatitis C, Chronic"
+Omeprazole,Esophagitis
+Omeprazole,Gastric Ulcer
+Omeprazole,Gastroesophageal Reflux Disease
+Omeprazole,Peptic Ulcer
+Ondansetron,Gastroenteritis
+Oseltamivir Phosphate,Influenza
+Oseltamivir,Influenza
+Oxaliplatin,Colorectal Carcinoma
+Oxcarbazepine,Epilepsy
+Oxygen,Respiratory Failure
+Paclitaxel,Large Cell Carcinoma of Lung
+Paliperidone Palmitate,Schizoaffective Disorder
+Paliperidone Palmitate,Schizophrenia
+Paliperidone,Schizophrenia
+Pantoprazole,Gastroesophageal Reflux Disease
+Pantoprazole,Peptic Ulcer
+Paricalcitol,Hyperparathyroidism
+Paricalcitol,"Hyperparathyroidism, Secondary"
+Paricalcitol,Vitamin d Deficiency
+Paritaprevir,"Hepatitis C, Chronic"
+Paroxetine,"Depression, Bipolar"
+Paroxetine,Major Depressive Disorder
+Paroxetine,Panic Disorder
+Paroxetine,Unipolar Depression
+Pemetrexed,Non-Small Cell Lung Carcinoma
+Phentermine,Obesity
+Phenylephrine,Rhinitis
+Pimecrolimus,"Dermatitis, Atopic"
+Pirfenidone,Idiopathic Pulmonary Fibrosis
+Pitavastatin,Hypercholesterolemia
+Posaconazole,Leukopenia
+Potassium Chloride,Essential Hypertension
+Pramipexole,Parkinson Disease
+Pramipexole,"Parkinson Disease 1, Autosomal Dominant (Disorder)"
+Pramipexole,Restless Legs Syndrome
+Prasugrel,Acute Coronary Syndrome
+Prasugrel,"Angina, Unstable"
+Prasugrel,Coronary Arteriosclerosis
+Prasugrel,Coronary Artery Disease
+Prasugrel,Myocardial Infarction
+Prasugrel,St Segment Elevation Myocardial Infarction
+Pravastatin,Hypercholesterolemia
+Pravastatin,Hyperlipidemia
+Praziquantel,Schistosomiasis
+Praziquantel,Schistosomiasis Mansoni
+Prednisolone Acetate,Cataract
+Prednisolone Acetate,Uveitis
+Prednisolone,Asthma
+Prednisolone,Rheumatoid Arthritis
+Prednisolone,Ulcerative Colitis
+Prednisone,"Prostatic Neoplasms, Castration-Resistant"
+Prednisone,Rheumatoid Arthritis
+Prednisone,Vasculitis
+Primaquine,Malaria
+Progesterone,Premature Menopause
+Propafenone,Atrial Fibrillation
+Pseudoephedrine,Rhinitis
+Pyrazinamide,Tuberculosis
+Pyridoxine Hydrochloride,Tuberculosis
+Quetiapine Fumarate,Bipolar Disorder
+Quetiapine Fumarate,Major Depressive Disorder
+Quetiapine Fumarate,Obsessive-Compulsive Disorder
+Quetiapine Fumarate,Schizophrenia
+Quetiapine,Bipolar Disorder
+Quetiapine,"Major Depression, Single Episode"
+Quetiapine,Major Depressive Disorder
+Quetiapine,Schizoaffective Disorder
+Quetiapine,"Schizoaffective Disorder, Bipolar Type"
+Quetiapine,Schizophrenia
+Quinine,Malaria
+Rabeprazole Sodium,Gastroesophageal Reflux Disease
+Rabeprazole,Gastroesophageal Reflux Disease
+Raloxifene,Osteopenia
+Raloxifene,Osteoporosis
+Ramelteon,Chronic Insomnia
+Ramelteon,Primary Insomnia
+Ramelteon,Sleep Initiation and Maintenance Disorders
+Ramipril,Atherosclerosis
+Ramipril,Essential Hypertension
+Ranitidine,Gastric Ulcer
+Ranolazine,Pulmonary Arterial Hypertension
+Rasagiline Mesylate,Parkinson Disease
+Rasagiline,Parkinson Disease
+Ribavirin,"Anemia, Hemolytic"
+Ribavirin,Cirrhosis
+Ribavirin,Hepatitis c
+Ribavirin,"Hepatitis c Virus, Susceptibility to"
+Ribavirin,"Hepatitis C, Chronic"
+Ribavirin,Liver Cirrhosis
+Rifampin,Tuberculosis
+Rifaximin,Hepatic Encephalopathy
+Risedronate Sodium,Osteoporosis
+Risperidone,Asperger Syndrome
+Risperidone,Autistic Disorder
+Risperidone,Bipolar Disorder
+Risperidone,Dementia
+Risperidone,Disruptive Behavior Disorder
+Risperidone,Oppositional Defiant Disorder
+Risperidone,Schizoaffective Disorder
+Risperidone,Schizophrenia
+Ritonavir,"Hepatitis C, Chronic"
+Rivaroxaban,Deep Vein Thrombosis
+Rivastigmine,"Alzheimer Disease, Early Onset"
+Rizatriptan Benzoate,Common Migraine
+Rizatriptan,Common Migraine
+Ropinirole,Parkinson Disease
+Ropinirole,Restless Legs Syndrome
+Rosiglitazone,"Diabetes Mellitus, Non-Insulin-Dependent"
+Rosuvastatin Calcium,Acute Coronary Syndrome
+Rosuvastatin Calcium,Coronary Arteriosclerosis
+Rosuvastatin Calcium,Coronary Heart Disease
+Rosuvastatin Calcium,Hypercholesterolemia
+Rosuvastatin Calcium,"Hypercholesterolemia, Familial"
+Rosuvastatin,Acute Coronary Syndrome
+Rosuvastatin,Atherosclerosis
+Rosuvastatin,Coronary Heart Disease
+Rosuvastatin,Hypercholesterolemia
+Rosuvastatin,"Hypercholesterolemia, Familial"
+Rosuvastatin,Hyperlipidemia
+Rosuvastatin,Metabolic Syndrome x
+Rosuvastatin,Myocardial Ischemia
+Rotigotine,Parkinson Disease
+Rotigotine,"Parkinson Disease 1, Autosomal Dominant (Disorder)"
+Rotigotine,Restless Legs Syndrome
+Rotigotine,Secondary Parkinson Disease
+Salmeterol Xinafoate,Asthma
+Salmeterol Xinafoate,Chronic Obstructive Airway Disease
+Salmeterol,Asthma
+Salmeterol,"Bronchitis, Chronic"
+Salmeterol,Chronic Obstructive Airway Disease
+Sertraline,Major Depressive Disorder
+Sertraline,Mental Depression
+Sertraline,Obsessive-Compulsive Disorder
+Sertraline,Panic Disorder
+Sertraline,Severe Depression
+Sildenafil Citrate,Pulmonary Arterial Hypertension
+Silodosin,Benign Prostatic Hyperplasia
+Simeprevir,Hepatitis c
+Simeprevir,"Hepatitis C, Chronic"
+Simvastatin,Atherosclerosis
+Simvastatin,Coronary Heart Disease
+Simvastatin,Hypercholesterolemia
+Simvastatin,Hyperlipidemia
+Sitagliptin Phosphate,Diabetes
+Sitagliptin,Diabetes
+Sodium Oxybate,Narcolepsy
+Sofosbuvir,Cirrhosis
+Sofosbuvir,Hepatitis c
+Sofosbuvir,"Hepatitis C, Chronic"
+Solifenacin Succinate,Overactive Bladder
+Solifenacin,Overactive Bladder
+Sorafenib,Adult Hepatocellular Carcinoma
+Sorafenib,Liver Carcinoma
+Sotalol,Atrial Fibrillation
+Spironolactone,Heart Failure
+Sulfasalazine,Rheumatoid Arthritis
+Sumatriptan Succinate,Common Migraine
+Sunitinib,Clear-Cell Metastatic Renal Cell Carcinoma
+Suvorexant,Primary Insomnia
+Tacrolimus,Lupus Nephritis
+Tacrolimus,Rheumatoid Arthritis
+Tadalafil,Benign Prostatic Hyperplasia
+Tadalafil,Erectile Dysfunction
+Tafluprost,"Glaucoma, Primary Open Angle"
+Tafluprost,Ocular Hypertension
+Tamsulosin,Benign Prostatic Hyperplasia
+Tamsulosin,Ureteral Calculi
+Telaprevir,"Hepatitis c Virus, Susceptibility to"
+Telbivudine,Hepatitis b
+Telbivudine,"Hepatitis B, Chronic"
+Telmisartan,Essential Hypertension
+Telmisartan,Metabolic Syndrome x
+Temsirolimus,Renal Cell Carcinoma
+Tenapanor,Hyperphosphatemia (Disorder)
+Tenofovir,Hepatitis b
+Tenofovir,"Hepatitis B, Chronic"
+Terbutaline,Asthma
+Teriflunomide,Multiple Sclerosis
+Teriparatide,Osteopenia
+Teriparatide,Osteoporosis
+Teriparatide,"Osteoporosis, Postmenopausal"
+Testosterone Undecanoate,Hypogonadism
+Testosterone Undecanoate,Primary Hypogonadism
+Testosterone,Erectile Dysfunction
+Testosterone,Hypoactive Sexual Desire Disorder
+Testosterone,Hypogonadism
+Theophylline,Asthma
+Ticagrelor,Acute Coronary Syndrome
+Ticagrelor,Coronary Artery Disease
+Ticagrelor,Myocardial Infarction
+Timolol,Glaucoma
+Timolol,"Glaucoma, Primary Open Angle"
+Timolol,Ocular Hypertension
+Tiotropium Bromide,Chronic Obstructive Airway Disease
+Tiotropium,Chronic Obstructive Airway Disease
+Tirofiban,St Segment Elevation Myocardial Infarction
+Tobramycin,Cystic Fibrosis
+Tolterodine Tartrate,Overactive Bladder
+Tolterodine,Overactive Bladder
+Topiramate,Bipolar Disorder
+Topiramate,Common Migraine
+Topiramate,Epilepsy
+Topiramate,Obsessive-Compulsive Disorder
+Travoprost,Glaucoma
+Travoprost,Ocular Hypertension
+Tretinoin,Acne
+Tretinoin,Leukemia
+Triamcinolone Acetonide,Diabetic Retinopathy
+Triamcinolone Acetonide,"Osteoarthritis, Knee"
+Triamcinolone Acetonide,Rhinitis
+Triamcinolone,Rhinitis
+Trospium Chloride,Overactive Bladder
+Ursodiol,Cholestasis
+Valproic Acid,Epilepsy
+Valsartan,Essential Hypertension
+Valsartan,Metabolic Syndrome x
+Vancomycin,Bacteremia
+Vancomycin,Pneumonia
+Varenicline,Nicotine Dependence
+Varenicline,Tobacco Dependence
+Venlafaxine,Major Depressive Disorder
+Venlafaxine,Mental Depression
+Venlafaxine,Severe Depression
+Verteporfin,Age-Related Macular Degeneration
+Vilazodone,Major Depressive Disorder
+Vincristine Sulfate,L2 Acute Lymphoblastic Leukemia
+Vincristine,L2 Acute Lymphoblastic Leukemia
+Voriconazole,Aspergillosis
+Voriconazole,Candidiasis
+Vortioxetine,Major Depressive Disorder
+Warfarin,Deep Vein Thrombosis
+Warfarin,Pulmonary Embolism
+Warfarin,Transient Ischemic Attack
+Ziprasidone,"Depression, Bipolar"
+Ziprasidone,Schizoaffective Disorder
+Ziprasidone,Schizophrenia
+Zoledronic Acid,Multiple Myeloma
+Zoledronic Acid,Non-Small Cell Lung Carcinoma
+Zoledronic Acid,Osteopenia
+Zoledronic Acid,Osteoporosis
+Zoledronic Acid,"Osteoporosis, Postmenopausal"
+Zolmitriptan,Common Migraine
+Zolpidem,Sleep Initiation and Maintenance Disorders
+Zonisamide,Epilepsy
+Zopiclone,Primary Insomnia

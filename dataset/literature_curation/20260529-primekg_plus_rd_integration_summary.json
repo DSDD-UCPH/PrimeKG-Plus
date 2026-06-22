@@ -1,0 +1,46 @@
+{
+  "created_at_utc": "2026-06-21T08:36:18.176736+00:00",
+  "run_date": "20260529",
+  "base_kg_edges": 7683206,
+  "base_nodes": 129317,
+  "literature_new_nodes": 36,
+  "kg_rd_nodes": 129353,
+  "curated_input_rows": 1290,
+  "curated_integrated_rows": 626,
+  "curated_novel_rows": 550,
+  "curated_skipped_rows": 664,
+  "kg_rd_edges": 7683756,
+  "kg_rd_delta_edges": 550,
+  "by_disease_integrated": {
+    "Batten": 160,
+    "Canavan": 44,
+    "NPC": 380,
+    "Tay-Sachs": 42
+  },
+  "by_disease_skipped": {
+    "Batten": 59,
+    "Canavan": 59,
+    "NPC": 506,
+    "Tay-Sachs": 40
+  },
+  "skip_reasons": {
+    "duplicate_literature_row": 318,
+    "unresolved_entity2": 142,
+    "unresolved_entity1": 102,
+    "unsupported_relation:anatomy_disease": 37,
+    "unsupported_relation:drug_bioprocess": 24,
+    "unsupported_relation:pathology_anatomy_present": 14,
+    "unsupported_relation:pathology_phenotype": 7,
+    "unsupported_relation:lipid_protein": 5,
+    "unsupported_relation:bioprocess_disease": 3,
+    "unsupported_relation:disease_pathway": 2,
+    "unsupported_relation:exposure_phenotype": 2,
+    "unknown_relation:cellcomp_bioprocess": 2,
+    "unsupported_relation:bioprocess_phenotype": 1,
+    "unsupported_relation:phenotype_anatomy": 1,
+    "unsupported_relation:phenotype_cellcomp": 1,
+    "unsupported_relation:bioprocess_cellcomp": 1,
+    "empty_relation": 1,
+    "unknown_relation:disease_bioprocess": 1
+  }
+}

@@ -1,0 +1,37 @@
+node_id,node_type,node_name,node_source
+10079,disease,Canavan disease,MONDO
+30141,cellular component,secretory granule,GO
+2561,disease,lysosomal storage disease,MONDO
+99703,cellular component,induction of synaptic vesicle exocytosis by positive regulation of presynaptic cytosolic calcium ion concentration,GO
+1902883,biological process,negative regulation of response to oxidative stress,GO
+4659,molecular function,prenyltransferase activity,GO
+8767,disease,neuronal ceroid lipofuscinosis 3,MONDO
+726,effect/phenotype,Dementia,HPO
+10494,biological process,cytoplasmic stress granule,GO
+1900089,molecular function,negative regulation of inositol biosynthetic process,GO
+36148,biological process,phosphatidylglycerol acyl-chain remodeling,GO
+DB15379,drug,Hydroxypropyl betadex,DrugBank
+5773,cellular component,vacuole,GO
+266,biological process,mitochondrial fission,GO
+5764,cellular component,lysosome,GO
+8610,biological process,lipid biosynthetic process,GO
+5154,disease,liver disorder,MONDO
+100464,disease,acid sphingomyelinase deficiency,MONDO
+31410,cellular component,cytoplasmic vesicle,GO
+18982,disease,Niemann-Pick disease type C,MONDO
+9757,disease,"Niemann-Pick disease, type C1",MONDO
+1558,biological process,regulation of cell growth,GO
+8333,cellular component,endosome to lysosome transport,GO
+43226,cellular component,organelle,GO
+18279,biological process,protein N-linked glycosylation via asparagine,GO
+1903831,biological process,signal transduction involved in cellular response to ammonium ion,GO
+97750,biological process,endosome membrane tubulation,GO
+33344,biological process,cholesterol efflux,GO
+46624,biological process,sphingolipid transporter activity,GO
+5765,cellular component,lysosomal membrane,GO
+9756,disease,Niemann-Pick disease type A,MONDO
+11871,disease,Niemann-Pick disease type B,MONDO
+70508,biological process,cholesterol import,GO
+43277,biological process,apoptotic cell clearance,GO
+6869,biological process,lipid transport,GO
+4857,molecular function,enzyme inhibitor activity,GO

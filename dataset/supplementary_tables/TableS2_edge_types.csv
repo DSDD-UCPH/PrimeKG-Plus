@@ -1,0 +1,31 @@
+relation,old_count,new_count,delta_n,old_pct,new_pct,reasoning
+anatomy_protein_present,3033804,1860930,-1172874,37.5,24.2,"Bgee reprocessed with expression_rank ≤ 5,000 (vs all ranks in Original PrimeKG), reducing redundant anatomy–gene edges."
+drug_drug,2672628,2855310,182682,33.0,37.2,Updated drug–drug interaction sources in DrugBank / supplementary drug interaction tables.
+protein_protein,642150,765720,123570,7.9,10.0,STRING 12.0 high-confidence human PPIs added to legacy PrimeKG pairs.
+disease_phenotype_positive,300629,369608,68979,3.7,4.8,Updated MONDO–HPO phenotype cross-references.
+bioprocess_protein,289599,320402,30803,3.6,4.2,Updated NCBI gene2go / GO annotation release.
+cellcomp_protein,166782,192902,26120,2.1,2.5,Updated gene–cellular-component annotations.
+disease_protein,160813,516740,355927,2.0,6.7,Updated DisGeNET plus newly integrated OpenTargets disease–gene associations; disease grouping aggregates member edges onto MONDO_grouped hubs.
+molfunc_protein,139053,186978,47925,1.7,2.4,Updated gene–molecular-function annotations from GO 2025-10-10.
+drug_effect,129568,121840,-7728,1.6,1.6,SIDER + nSIDES integration refresh; modest net decrease after deduplication.
+bioprocess_bioprocess,105772,85940,-19832,1.3,1.1,GO hierarchy update; obsolete biological-process is_a edges removed.
+pathway_protein,85292,94046,8754,1.1,1.2,Reactome 2024 pathway–protein mapping update.
+disease_disease,64388,67720,3332,0.8,0.9,MONDO hierarchy refresh; some parent–child edges removed as obsolete.
+contraindication,61350,26826,-34524,0.8,0.3,Same MONDO / UMLS mapping policy as indications; ambiguous drug–disease links dropped.
+drug_protein,50936,62948,12012,0.6,0.8,"DrugBank 5.1.13 — more carrier, enzyme, target, and transporter links."
+anatomy_protein_absent,39774,1476,-38298,0.5,0.0,Same Bgee expression filter; absent calls largely dropped with stricter threshold.
+phenotype_phenotype,37472,44358,6886,0.5,0.6,HPO hierarchy update added phenotype–phenotype edges.
+anatomy_anatomy,28064,29212,1148,0.3,0.4,UBERON anatomy hierarchy update.
+molfunc_molfunc,27148,24950,-2198,0.3,0.3,GO hierarchy update; obsolete molecular-function is_a edges removed.
+indication,18776,10006,-8770,0.2,0.1,Stricter MONDO disease curation and UMLS→MONDO single-CUI mapping; updated DrugCentral integration.
+cellcomp_cellcomp,9690,9302,-388,0.1,0.1,GO hierarchy update; minor pruning of cellular-component is_a edges.
+phenotype_protein,6660,6620,-40,0.1,0.1,Stable HPO–protein mapping; near-unchanged after deduplication.
+off-label use,5136,2398,-2738,0.1,0.0,Same MONDO / UMLS mapping policy as indications.
+pathway_pathway,5070,5728,658,0.1,0.1,Reactome pathway hierarchy update.
+exposure_disease,4608,4770,162,0.1,0.1,Updated CTD exposure–disease events with MONDO remap.
+exposure_exposure,4140,4884,744,0.1,0.1,CTD exposure hierarchy update.
+exposure_bioprocess,3250,4206,956,0.0,0.1,Additional CTD exposure–biological-process links.
+exposure_protein,2424,6086,3662,0.0,0.1,Expanded CTD exposure–protein associations in 2025 processing.
+disease_phenotype_negative,2386,1180,-1206,0.0,0.0,Fewer negative phenotype links after MONDO/HPO remap and filtering.
+exposure_molfunc,90,94,4,0.0,0.0,Minor CTD exposure–molecular-function update.
+exposure_cellcomp,20,26,6,0.0,0.0,Minor CTD exposure–cellular-component update.

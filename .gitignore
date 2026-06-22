@@ -1,0 +1,26 @@
+# Large graphs (distributed via Zenodo)
+dataset/primekg_plus.csv
+dataset/nodes.csv
+dataset/edges.csv
+dataset/baseline/
+dataset/literature_curation/20260529-primekg_plus_rd*.csv
+dataset/literature_curation/primekg_plus_rd*.csv
+dataset/auxillary/kg_raw.csv
+dataset/auxillary/kg_giant.csv
+dataset/auxillary/kg_grouped.csv
+
+# Zenodo archive (local packaging only)
+zenodo_bundle.tar.gz
+
+# Large upstream inputs (see source_prep/*/README.md)
+source_prep/opentarget/inputs/
+source_prep/opentarget/outputs/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+~$*

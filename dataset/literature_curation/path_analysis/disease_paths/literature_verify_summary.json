@@ -1,0 +1,50 @@
+{
+  "Batten": {
+    "literature_paths_in_export": 16127,
+    "by_length": {
+      "1": 6,
+      "3": 10586,
+      "2": 326,
+      "4": 5084,
+      "5": 106,
+      "6": 19
+    },
+    "integrated_novel_edges": 109
+  },
+  "Canavan": {
+    "literature_paths_in_export": 429159,
+    "by_length": {
+      "1": 27,
+      "3": 399204,
+      "4": 27162,
+      "2": 1812,
+      "5": 727,
+      "6": 227
+    },
+    "integrated_novel_edges": 27
+  },
+  "NPC": {
+    "literature_paths_in_export": 698831,
+    "by_length": {
+      "1": 125,
+      "3": 640661,
+      "2": 17377,
+      "4": 38658,
+      "5": 1748,
+      "6": 262
+    },
+    "integrated_novel_edges": 269
+  },
+  "Tay-Sachs": {
+    "literature_paths_in_export": 265353,
+    "by_length": {
+      "1": 13,
+      "3": 246652,
+      "4": 16286,
+      "2": 1774,
+      "5": 552,
+      "6": 76
+    },
+    "integrated_novel_edges": 20
+  }
+}

@@ -1,0 +1,194 @@
+,entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,entity1_suggested_name,entity2_suggested_name,second_search_suggested_name
+0,adult neuronal ceroid lipofuscinosis,DNAJC5,disease,protein/gene,disease_protein,34188051,C0022797|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+6,secretory vesicles,DNAJC5,cellular_component,protein/gene,cellcomp_protein,34188051,C0886515,in_kg,,,
+16,Endoplasmic Reticulum,CLN8,cellular_component,protein/gene,cellcomp_protein,34201538,in_kg,in_kg,,,
+17,Endoplasmic Reticulum-Golgi intermediate compartment,CLN8,cellular_component,protein/gene,cellcomp_protein,34201538,in_kg,in_kg,,,
+97,CTSD,autophagy,protein/gene,biological_process,bioprocess_protein,34331747,in_kg,in_kg,,,
+100,CTSD,lysosome,protein/gene,cellular_component,cellcomp_protein,34331747,in_kg,in_kg,,,
+101,CTSD,brain,protein/gene,anatomy,anatomy_protein_present,34331747,in_kg,in_kg,,,
+104,Neuronal Ceroid Lipofuscinoses,CTSD,disease,protein/gene,disease_protein,34331747,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+105,cellular localization,CTSD,cellular_component,protein/gene,cellcomp_protein,34331747,in_kg,in_kg,,,
+110,DHDDS,neurodevelopmental and neurodegenerative disorder,protein/gene,disease,disease_protein,34382076,in_kg,C5568766,,complex neurodevelopmental disorder,complex neurodevelopmental disorder
+112,neurodevelopmental and neurodegenerative disorder,action myoclonus,disease,phenotype,disease_phenotype_positive,34382076,C5568766,in_kg,complex neurodevelopmental disorder,,complex neurodevelopmental disorder
+116,NUS1,neurodevelopmental and neurodegenerative disorder,protein/gene,disease,disease_protein,34382076,in_kg,C5568766,,complex neurodevelopmental disorder,complex neurodevelopmental disorder
+118,neurodevelopmental and neurodegenerative disorder,ataxia,disease,phenotype,disease_phenotype_positive,34382076,C5568766,in_kg,complex neurodevelopmental disorder,,complex neurodevelopmental disorder
+123,DHDDS,endoplasmic reticulum,protein/gene,cellular_component,cellcomp_protein,34382076,in_kg,in_kg,,,
+125,retinitis pigmentosa 59,DHDDS,disease,protein/gene,disease_protein,34382076,C0035334|C3151227,in_kg,retinitis pigmentosa,,retinitis pigmentosa
+126,neurodevelopmental and neurodegenerative disorder,genetic progressive encephalopathies with myoclonus,disease,disease,disease_disease,34382076,C5568766,C4755298,complex neurodevelopmental disorder,myoclonic encephalopathy in non-progressive disorder,entity1:complex neurodevelopmental disorder|entity2:myoclonic encephalopathy in non-progressive disorder
+151,respiratory failure,death,phenotype,phenotype,phenotype_phenotype,34491000,in_kg,C1306577,,,
+152,neurological deterioration,death,phenotype,phenotype,phenotype_phenotype,34491000,C1536136|C4024908,C1306577,Rapid neurologic deterioration,,Rapid neurologic deterioration
+155,Retinal degeneration,retinal pigment epithelium mottling,phenotype,phenotype,phenotype_phenotype,34532411,in_kg,C1857644|C4227990,,Retinal pigment epithelial mottling,Retinal pigment epithelial mottling
+161,Retinal degeneration,retinal vascular attenuation,phenotype,phenotype,phenotype_phenotype,34532411,in_kg,C3278975|C4231158,,Attenuation of retinal blood vessels,Attenuation of retinal blood vessels
+187,neurodegenerative diseases,frontotemporal lobar degeneration,disease,disease,disease_disease,34618685,in_kg,C0751072|C1843792,,Grn-related frontotemporal lobar degeneration with Tdp43 inclusions,Grn-related frontotemporal lobar degeneration with Tdp43 inclusions
+214,Adult-Onset Neuronal Ceroid Lipofuscinosis,progressive gait abnormality,disease,phenotype,disease_phenotype_positive,34679057,C0751383,C1843885,neuronal ceroid lipofuscinosis,Progressive gait ataxia,entity1:neuronal ceroid lipofuscinosis|entity2:Progressive gait ataxia
+215,Adult-Onset Neuronal Ceroid Lipofuscinosis,hypermetria,disease,phenotype,disease_phenotype_positive,34679057,C0751383,C1855925|C3668822,neuronal ceroid lipofuscinosis,High hypermetropia,entity1:neuronal ceroid lipofuscinosis|entity2:High hypermetropia
+216,Adult-Onset Neuronal Ceroid Lipofuscinosis,proprioceptive deficits,disease,phenotype,disease_phenotype_positive,34679057,C0751383,C0576690|C1856691,neuronal ceroid lipofuscinosis,Impaired proprioception,entity1:neuronal ceroid lipofuscinosis|entity2:Impaired proprioception
+217,Adult-Onset Neuronal Ceroid Lipofuscinosis,reduced patellar reflex,disease,phenotype,disease_phenotype_positive,34679057,C0751383,C3277184,neuronal ceroid lipofuscinosis,Decreased patellar reflex,entity1:neuronal ceroid lipofuscinosis|entity2:Decreased patellar reflex
+220,Adult-Onset Neuronal Ceroid Lipofuscinosis,ataxia,disease,phenotype,disease_phenotype_positive,34679057,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+221,Adult-Onset Neuronal Ceroid Lipofuscinosis,visual deficits,disease,phenotype,disease_phenotype_positive,34679057,C0751383,C3665347|C4732817,neuronal ceroid lipofuscinosis,Mildly reduced visual acuity,entity1:neuronal ceroid lipofuscinosis|entity2:Mildly reduced visual acuity
+236,astrocytic,Gfap,anatomy,protein/gene,anatomy_protein_present,34749772,C0521395,in_kg,,,
+237,astrocytic,C4b,anatomy,protein/gene,anatomy_protein_present,34749772,C0521395,in_kg,,,
+238,astrocytic,Osmr,anatomy,protein/gene,anatomy_protein_present,34749772,C0521395,in_kg,,,
+240,microglial,Ctss,anatomy,protein/gene,anatomy_protein_present,34749772,C0521398,in_kg,,,
+241,microglial,Itgb2,anatomy,protein/gene,anatomy_protein_present,34749772,C0521398,in_kg,,,
+242,microglial,Itgax,anatomy,protein/gene,anatomy_protein_present,34749772,C0521398,in_kg,,,
+253,SPG11,gait disturbance,disease,phenotype,disease_phenotype_positive,35605667,in_kg,in_kg,,,
+254,neuronal ceroid lipofuscinoses,hereditary spastic paraplegia type 2,disease,disease,disease_disease,35605667,C0027877|C0751383,C0037773|C0751604,neuronal ceroid lipofuscinosis,hereditary spastic paraplegia,entity1:neuronal ceroid lipofuscinosis|entity2:hereditary spastic paraplegia
+257,SPG11,abnormalities in gait coordination,disease,phenotype,disease_phenotype_positive,35605667,in_kg,C1867864|C5667576,,Poor motor coordination,Poor motor coordination
+258,SPG11,ataxia,disease,phenotype,disease_phenotype_positive,35605667,in_kg,in_kg,,,
+259,SPG11,reduced strength during walking,disease,phenotype,disease_phenotype_positive,35605667,in_kg,C2674511,,Loss of ability to walk,Loss of ability to walk
+260,SPG11,neuroinflammation,disease,phenotype,disease_phenotype_positive,35605667,in_kg,in_kg,,,
+263,adaptive immune system,SPG11,biological_process,disease,bioprocess_disease,35605667,in_kg,in_kg,,,
+280,Infantile neuronal ceroid lipofuscinosis,PPT1,disease,protein/gene,disease_protein,35628400,in_kg,in_kg,,,
+283,Infantile neuronal ceroid lipofuscinosis,seizures,disease,phenotype,disease_phenotype_positive,35628400,in_kg,C0036572,,,
+284,Infantile neuronal ceroid lipofuscinosis,premature death,disease,phenotype,disease_phenotype_positive,35628400,in_kg,C1855073,,,
+290,microglial activation,seizures,pathology,phenotype,pathology_phenotype,35628400,C1326169,C0036572,,,
+295,ZDHHC8,NFATC4,protein/gene,protein/gene,protein_protein,35150145,in_kg,in_kg,,,
+296,ZDHHC4,NFATC4,protein/gene,protein/gene,protein_protein,35150145,in_kg,in_kg,,,
+318,neuronal ceroid lipofuscinoses,neurodegeneration,disease,phenotype,disease_phenotype_positive,34868216,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+320,neuronal ceroid lipofuscinoses,motor impairment,disease,phenotype,disease_phenotype_positive,34868216,C0027877|C0751383,C4025360|C5436522,neuronal ceroid lipofuscinosis,Functional motor deficit,entity1:neuronal ceroid lipofuscinosis|entity2:Functional motor deficit
+321,neuronal ceroid lipofuscinoses,ataxia,disease,phenotype,disease_phenotype_positive,34868216,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+323,neuronal ceroid lipofuscinoses,seizures,disease,phenotype,disease_phenotype_positive,34868216,C0027877|C0751383,C0036572,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+324,neuronal ceroid lipofuscinoses,premature death,disease,phenotype,disease_phenotype_positive,34868216,C0027877|C0751383,C1855073,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+327,juvenile neuronal ceroid lipofuscinoses,CLN6,disease,protein/gene,disease_protein,34868216,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+353,lysosomal storage diseases,Neuronal ceroid lipofuscinoses,disease,disease,disease_disease,34910516,C0085078,C0027877|C0751383,lysosomal storage disease,neuronal ceroid lipofuscinosis,entity1:lysosomal storage disease|entity2:neuronal ceroid lipofuscinosis
+363,late-infantile neuronal ceroid lipofuscinoses,retinal degeneration,disease,phenotype,disease_phenotype_positive,34910516,C0268281,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+364,late-infantile neuronal ceroid lipofuscinoses,autofluorescent lipofuscin,disease,phenotype,disease_phenotype_positive,34910516,C0268281,C4025642,infantile neuronal ceroid lipofuscinosis,Intracellular accumulation of autofluorescent lipopigment storage material,entity1:infantile neuronal ceroid lipofuscinosis|entity2:Intracellular accumulation of autofluorescent lipopigment storage material
+378,progressive vision loss,CLN3,phenotype,protein/gene,phenotype_protein,34913584,C1839364|C2751056,in_kg,Progressive visual loss,,Progressive visual loss
+383,neuronal ceroid lipofuscinoses,progressive retinal degeneration,disease,phenotype,disease_phenotype_positive,35033660,C0027877|C0751383,C1854888,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+384,lysosomal storage diseases,neuronal ceroid lipofuscinoses,disease,disease,disease_disease,35033660,C0085078,C0027877|C0751383,lysosomal storage disease,neuronal ceroid lipofuscinosis,entity1:lysosomal storage disease|entity2:neuronal ceroid lipofuscinosis
+391,mutant retinas,CTSD,anatomy,protein/gene,anatomy_protein_present,35033660,C0035298,in_kg,retina,,retina
+397,Cerliponase alfa,neuronal ceroid lipofuscinosis type 2,drug,disease,indication,35045884,in_kg,C0751383|C1876161,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+398,Neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis type 2,disease,disease,disease_disease,35045884,in_kg,C0751383|C1876161,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+404,mitochondrial reactive oxygen species,PFKFB3,molecular_function,protein/gene,molfunc_protein,35087090,C3156654,in_kg,reactive oxygen species metabolic process,,reactive oxygen species metabolic process
+417,Adult Neuronal Ceroid Lipofuscinosis,DNAJC5,disease,protein/gene,disease_protein,36282524,C0022797|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+418,neurodegenerative disorder,Adult Neuronal Ceroid Lipofuscinosis,disease,disease,disease_disease,36282524,C0524851,C0022797|C0751383,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+420,Adult Neuronal Ceroid Lipofuscinosis,premature death,disease,phenotype,disease_phenotype_positive,36282524,C0022797|C0751383,C1855073,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+422,ethosuximide,Adult Neuronal Ceroid Lipofuscinosis,drug,disease,indication,36282524,in_kg,C0022797|C0751383,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+470,CLN5,lipid homeostasis,protein/gene,phenotype,phenotype_protein,35681535,in_kg,in_kg,,,
+471,CLN5,sphingolipid metabolism,protein/gene,phenotype,phenotype_protein,35681535,in_kg,in_kg,,,
+474,miglustat,rescued locomotor impairment,drug,phenotype,drug_effect,35681535,in_kg,C5680277,,non-syndromic limb reduction defect,non-syndromic limb reduction defect
+475,trehalose,rescued locomotor impairment,drug,phenotype,drug_effect,35681535,C0040815,C5680277,,non-syndromic limb reduction defect,non-syndromic limb reduction defect
+480,miglustat,decreased in lipid droplets,drug,phenotype,drug_effect,35681535,in_kg,C4020730,,Increased intramyocellular lipid droplets,Increased intramyocellular lipid droplets
+551,sepsis,acanthocytosis,disease,phenotype,disease_phenotype_positive,35917699,in_kg,in_kg,,,
+554,neurodegenerative lysosomal storage disorders,Neuronal ceroid lipofuscinoses,disease,disease,disease_disease,35921411,C0085078,C0027877|C0751383,lysosomal storage disease,neuronal ceroid lipofuscinosis,entity1:lysosomal storage disease|entity2:neuronal ceroid lipofuscinosis
+583,neurodegenerative diseases,neuronal ceroid lipofuscinoses,disease,disease,disease_disease,36011304,in_kg,C0027877|C0751383,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+600,neurodegenerative lysosomal storage disorder,neuronal ceroid lipofuscinosis,disease,disease,disease_disease,36040802,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+642,Neuronal Ceroid Lipofuscinoses,CLN3,disease,protein/gene,disease_protein,36088080,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+644,Neuronal Ceroid Lipofuscinoses,CLN5,disease,protein/gene,disease_protein,36088080,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+645,Neuronal Ceroid Lipofuscinoses,CLN6,disease,protein/gene,disease_protein,36088080,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+647,Neuronal Ceroid Lipofuscinoses,CLN8,disease,protein/gene,disease_protein,36088080,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+654,Neuronal Ceroid Lipofuscinoses,PPT1,disease,protein/gene,disease_protein,36088080,C0027877|C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+658,disrupt the alpha helix,PPT1,phenotype,protein/gene,phenotype_protein,36088080,C1837731,in_kg,Overfolded helix,,Overfolded helix
+659,higher deviation,PPT1,phenotype,protein/gene,phenotype_protein,36088080,C2201633|C5539690,in_kg,Extreme axis deviation,,Extreme axis deviation
+660,fluctuation,PPT1,phenotype,protein/gene,phenotype_protein,36088080,C0231239|C1820737,in_kg,Temperature instability,,Temperature instability
+663,impact the function,PPT1,phenotype,protein/gene,phenotype_protein,36088080,C5539751|C5934341,in_kg,Diminished physical functioning,,Diminished physical functioning
+667,Lysosomal storage disease,CLCN6,disease,protein/gene,disease_protein,35262198,in_kg,in_kg,,,
+668,Neurodegenerative disorders,CLCN6,disease,protein/gene,disease_protein,35262198,C0524851,in_kg,,,
+702,PPT1,synaptic cytosol,protein/gene,cellular_component,cellcomp_protein,35358180,in_kg,C4236514,,,
+719,CLN3,neurologic dysfunction,protein/gene,phenotype,phenotype_protein,35395398,in_kg,C0751377|C1854838,,Progressive neurologic deterioration,Progressive neurologic deterioration
+726,membrane,CLN6,cellular_component,protein/gene,cellcomp_protein,35404973,in_kg,in_kg,,,
+744,lysosomal enzyme,TPP1,cellular_component,protein/gene,cellcomp_protein,35425725,C0391845|C2246713,in_kg,secretion of lysosomal enzymes,,secretion of lysosomal enzymes
+749,proteolysis,CTSD,biological_process,protein/gene, bioprocess_protein,36347423,in_kg,in_kg,,,
+806,KCTD7,CLN5,protein/gene,protein/gene,protein_protein,36368077,in_kg,in_kg,,,
+807,KCTD7,CLN5,protein/gene,protein/gene,protein_protein,36368077,in_kg,in_kg,,,
+830,neurodegenerative diseases,Developmental regression,disease,phenotype,disease_phenotype_positive,36435927,in_kg,in_kg,,,
+836,progressive neurological disorder,anxiety,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,in_kg,progressive multiple sclerosis,,progressive multiple sclerosis
+838,progressive neurological disorder,circling,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,C0231706,progressive multiple sclerosis,,progressive multiple sclerosis
+839,progressive neurological disorder,hypersensitivity,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,in_kg,progressive multiple sclerosis,,progressive multiple sclerosis
+841,progressive neurological disorder,sleep disturbance,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,in_kg,progressive multiple sclerosis,,progressive multiple sclerosis
+842,progressive neurological disorder,loss of coordination,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,C2751891|C3552909,progressive multiple sclerosis,Poor coordination,entity1:progressive multiple sclerosis|entity2:Poor coordination
+845,progressive neurological disorder,visual impairment,disease,phenotype,disease_phenotype_positive,35447247,C0393665|C2677535,in_kg,progressive multiple sclerosis,,progressive multiple sclerosis
+856,late-infantile form of neuronal ceroid lipofuscinosis,MFSD8,disease,protein/gene,disease_protein,35457110,C0268281,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+860,late-infantile form of neuronal ceroid lipofuscinosis,early onset severe retinal dystrophy,disease,phenotype,disease_phenotype_positive,35457110,C0268281,C1858080,infantile neuronal ceroid lipofuscinosis,severe early-childhood-onset retinal dystrophy,entity1:infantile neuronal ceroid lipofuscinosis|entity2:severe early-childhood-onset retinal dystrophy
+867,Adult-onset Neuronal ceroid lipofuscinosis,DNAJC5,disease,protein/gene,disease_protein,35462699,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+872,Neuronal ceroid lipofuscinosis,lipofuscin deposit,disease,phenotype,disease_phenotype_positive,35462699,in_kg,C4014672|C4023177,,Increased cerebral lipofuscin,Increased cerebral lipofuscin
+899,Juvenile neuronal ceroid lipofuscinosis,CLN3,disease,protein/gene,disease_protein,36697260,C0268281|C0751383,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+900,neurodegenerative disease,Juvenile neuronal ceroid lipofuscinosis,disease,disease,disease_disease,36697260,C0524851,C0268281|C0751383,,infantile neuronal ceroid lipofuscinosis,infantile neuronal ceroid lipofuscinosis
+910,gemfibrozil,neuroinflammation,drug,biological_process,drug_bioprocess,36697260,in_kg,in_kg,,,
+917,CLN3,battenin,protein/gene,protein/gene,molfunc_protein,36777709,in_kg,C1413495,,,
+918,battenin,cellular homeostasis,protein/gene,biological_process, bioprocess_protein,36777709,C1413495,in_kg,,,
+936,neuronal ceroid lipofuscinosis type 7,MFSD8,disease,protein/gene,disease_protein,36833170,C0751383|C1838571,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+938,neuronal ceroid lipofuscinosis type 7,microcephaly,disease,phenotype,disease_phenotype_positive,36833170,C0751383|C1838571,C0025958|C1836806,neuronal ceroid lipofuscinosis,Mild microcephaly,entity1:neuronal ceroid lipofuscinosis|entity2:Mild microcephaly
+939,cerebellar atrophy,MFSD8,phenotype,protein/gene,phenotype_protein,36833170,in_kg,in_kg,,,
+940,cerebral atrophy,MFSD8,phenotype,protein/gene,phenotype_protein,36833170,in_kg,in_kg,,,
+941,developmental regression,MFSD8,phenotype,protein/gene,phenotype_protein,36833170,in_kg,in_kg,,,
+943,microcephaly,MFSD8,phenotype,protein/gene,phenotype_protein,36833170,C0025958|C1836806,in_kg,Mild microcephaly,,Mild microcephaly
+944,neurodegenerative disorder,neuronal ceroid lipofuscinoses,disease,disease,disease_disease,36876653,C0524851,C0027877|C0751383,,neuronal ceroid lipofuscinosis,neuronal ceroid lipofuscinosis
+959,berberine,autophagy,drug,biological_process,drug_bioprocess,36880056,in_kg,in_kg,,,
+960,resveratrol,SIRT1,drug,protein/gene,drug_protein,36880056,in_kg,in_kg,,,
+961,resveratrol,mitochondrial biogenesis,drug,biological_process,drug_bioprocess,36880056,in_kg,in_kg,,,
+1001,Cln3,macropinocytosis,protein/gene,biological_process, bioprocess_protein,36640303,in_kg,in_kg,,,
+1039,neuroinflammation,neurodegenerative diseases,biological_process,disease,disease_phenotype_positive,36880056,in_kg,in_kg,,,
+1041,neurogenesis,neurodegenerative diseases,biological_process,disease,disease_phenotype_positive,36880056,in_kg,in_kg,,,
+1042,autophagy,neurodegenerative diseases,biological_process,disease,disease_phenotype_positive,36880056,in_kg,in_kg,,,
+1050,neuronal ceroid lipofuscinosis,seizures,disease,phenotype,disease_phenotype_positive,36918063,in_kg,C0036572,,,
+1051,neuronal ceroid lipofuscinosis,visual impairment,disease,phenotype,disease_phenotype_positive,36918063,in_kg,in_kg,,,
+1065,CLN3,G3BP1,protein/gene,protein/gene,protein_protein,36965618,in_kg,in_kg,,,
+1081,hepatocellular carcinoma,CLN3,disease,protein/gene,disease_protein,37014321,in_kg,in_kg,,,
+1082,hepatocellular carcinoma,SNRPE,disease,protein/gene,disease_protein,37014321,in_kg,in_kg,,,
+1085,cell migration,SNRPE,biological_process,protein/gene,bioprocess_protein,37014321,in_kg,in_kg,,,
+1100,neuronal ceroid lipofuscinosis,CLN6,disease,protein/gene,disease_protein,37074398,in_kg,in_kg,,,
+1103,neuronal ceroid lipofuscinosis,CLN3,disease,protein/gene,disease_protein,37074398,in_kg,in_kg,,,
+1133,spinocerebellar ataxia 34,ELOVL4,disease,protein/gene,disease_protein,37184663,C0087012|C1851481,in_kg,spinocerebellar ataxia,,spinocerebellar ataxia
+1135,spinocerebellar ataxia 34,late-onset progressive ataxia,disease,phenotype,disease_phenotype_positive,37184663,C0087012|C1851481,C4518339,spinocerebellar ataxia,sporadic adult-onset ataxia of unknown etiology,entity1:spinocerebellar ataxia|entity2:sporadic adult-onset ataxia of unknown etiology
+1136,spinocerebellar ataxia 34,storage lipid accumulation within neuronal lipofuscin,disease,phenotype,disease_phenotype_positive,37184663,C0087012|C1851481,C4023177,spinocerebellar ataxia,Increased cerebral lipofuscin,entity1:spinocerebellar ataxia|entity2:Increased cerebral lipofuscin
+1137,lipid storage disease,spinocerebellar ataxia 34,disease,disease,disease_disease,37184663,C0023794|C5848057,C0087012|C1851481,neutral lipid storage disease,spinocerebellar ataxia,entity1:neutral lipid storage disease|entity2:spinocerebellar ataxia
+1138,lysosomal storage disorder,neuronal ceroid lipofuscinoses,disease,disease,disease_disease,37209872,C0085078,C0027877|C0751383,lysosomal storage disease,neuronal ceroid lipofuscinosis,entity1:lysosomal storage disease|entity2:neuronal ceroid lipofuscinosis
+1160,cerliponase alfa,reduced neurological decline,drug,phenotype,drug_effect,37329878,in_kg,C1854838,,Progressive neurologic deterioration,Progressive neurologic deterioration
+1193,adult-onset neuronal ceroid lipofuscinoses,epilepsy,disease,phenotype,disease_phenotype_positive,37566176,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1194,adult-onset neuronal ceroid lipofuscinoses,cognitive impairment,disease,phenotype,disease_phenotype_positive,37566176,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1197,adult-onset neuronal ceroid lipofuscinoses,DNAJC5,disease,protein/gene,disease_protein,37566176,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1199,DNAJC5,cysteine string protein,protein/gene,protein/gene,protein_protein,37566176,in_kg,C0288968,,,
+1201,cysteine string protein,oxidative stress inhibition,protein/gene,biological_process,bioprocess_protein,37566176,C0288968,C3823581,,,
+1244,Lithium,neuronal ceroid lipofuscinosis,drug,disease,drug_effect,37746516,in_kg,in_kg,,,
+1275,cerliponase alfa,prevent motor decline,drug,phenotype,drug_effect,37926545,in_kg,C4023681,,Delayed fine motor development,Delayed fine motor development
+1276,cerliponase alfa,prevent language decline,drug,phenotype,drug_effect,37926545,in_kg,C1843793,,Progressive language deterioration,Progressive language deterioration
+1319,cerliponase alfa,TPP1,drug,protein/gene,drug_protein,38101904,in_kg,in_kg,,,
+1320,cerliponase alfa,slowed language function decline,drug,phenotype,drug_effect,38101904,in_kg,C1843793,,Progressive language deterioration,Progressive language deterioration
+1321,cerliponase alfa,slowed motor decline,drug,phenotype,drug_effect,38101904,in_kg,C1866284,,Motor deterioration,Motor deterioration
+1323,CLN5,lysosomal enzyme,protein/gene,molecular_function,exposure_bioprocess,38141359,in_kg,C0391845|C2246713,,secretion of lysosomal enzymes,secretion of lysosomal enzymes
+1331,adult-onset neuronal ceroid lipofuscinosis,DNAJC5,disease,protein/gene,disease_protein,38193346,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1337,juvenile neuronal ceroid lipofuscinosis,CLN3,disease,protein/gene,disease_protein,38195117,C0268281|C0751383,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+1357,neuronal ceroid lipofuscinosis,ATP13A2,disease,protein/gene,disease_protein,38249738,in_kg,in_kg,,,
+1360,neuronal ceroid lipofuscinosis,seizures,disease,phenotype,disease_phenotype_positive,38249738,in_kg,C0036572,,,
+1361,neuronal ceroid lipofuscinosis,visual impairments,disease,phenotype,disease_phenotype_positive,38249738,in_kg,C3665347,,,
+1366,CLN5,secretion,protein/gene,biological_process,bioprocess_protein,38272448,in_kg,in_kg,,,
+1367,CTSD,secretion,protein/gene,biological_process,bioprocess_protein,38272448,in_kg,in_kg,,,
+1380,neuroinflammation,neuropathic pain,phenotype,phenotype,phenotype_phenotype,38368171,in_kg,in_kg,,,
+1415,dystonia,THAP1,disease,protein/gene,disease_protein,38498291,in_kg,in_kg,,,
+1416,THAP1,ATF4,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1417,THAP1,CLN3,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1418,THAP1,EIF2A,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1419,THAP1,RRM1,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1420,THAP1,YY1,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1421,THAP1,BDKRB2,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1422,THAP1,LPAR1,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1423,THAP1,CRADD,protein/gene,protein/gene,protein_protein,38498291,in_kg,in_kg,,,
+1424,neurological disorders,STXBP1,disease,protein/gene,disease_protein,38498291,C0027765,in_kg,,,
+1425,neurological disorders,TOR1A,disease,protein/gene,disease_protein,38498291,C0027765,in_kg,,,
+1461,cerliponase alfa,TPP1,drug,protein/gene,drug_protein,38693756,in_kg,in_kg,,,
+1539,cerliponase alfa,slow movement disorder progression,drug,phenotype,drug_effect,38976822,in_kg,C1856565,,Progressive psychomotor deterioration,Progressive psychomotor deterioration
+1545,cerliponase alfa,slow supratentorial gray matter volume loss,drug,phenotype,drug_effect,38977290,in_kg,C1856979,,Deep white matter hypodensities,Deep white matter hypodensities
+1583,lysosomal storage disease,white matter involvement,disease,phenotype,disease_phenotype_positive,39139602,in_kg,C4539597,,,
+1597,cerliponase alfa,slow deteriorated motor function,drug,phenotype,drug_effect,39201975,in_kg,C1866284,,Motor deterioration,Motor deterioration
+1598,cerliponase alfa,slow deteriorated language function,drug,phenotype,drug_effect,39201975,in_kg,C1843793,,Progressive language deterioration,Progressive language deterioration
+1618,infantile neuronal ceroid-lipofuscinoses,Neurodegeneration,disease,phenotype,disease_phenotype_positive,39284877,C0268281,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+1619,infantile neuronal ceroid-lipofuscinoses,cognitive impairment,disease,phenotype,disease_phenotype_positive,39284877,C0268281,in_kg,infantile neuronal ceroid lipofuscinosis,,infantile neuronal ceroid lipofuscinosis
+1640,metformin,against neurodegeneration,drug,phenotype,drug_effect,39364042,in_kg,C1859863,,Cerebral cortical neurodegeneration,Cerebral cortical neurodegeneration
+1643,metformin,Lafora disease,drug,disease,off_label_use,39364042,in_kg,in_kg,,,
+1644,progressive myoclonus epilepsies,Lafora disease,disease,disease,disease_disease,39364042,C0751778,in_kg,progressive myoclonic epilepsy,,progressive myoclonic epilepsy
+1674,adult-onset neuronal ceroid lipofuscinosis,brain atrophy,disease,phenotype,disease_phenotype_positive,39470529,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1675,adult-onset neuronal ceroid lipofuscinosis,retinopathy,disease,phenotype,disease_phenotype_positive,39470529,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1677,adult-onset neuronal ceroid lipofuscinosis,autoimmune encephalitis,disease,disease,disease_disease,39470529,C0751383,in_kg,neuronal ceroid lipofuscinosis,,neuronal ceroid lipofuscinosis
+1678,adult-onset neuronal ceroid lipofuscinosis,normal-pressure hydrocephalus,disease,disease,disease_disease,39470529,C0751383,C0020258,neuronal ceroid lipofuscinosis,normal pressure hydrocephalus,entity1:neuronal ceroid lipofuscinosis|entity2:normal pressure hydrocephalus
+1680,methylprednisolone,no effect,drug,phenotype,drug_effect,39470529,in_kg,C1301751,,,
+1785,cerliponase alfa,lower extremity strength,drug,phenotype,drug_effect,39762319,in_kg,C1866010|C4061111,,Proximal lower limb muscle weakness,Proximal lower limb muscle weakness
+1786,cerliponase alfa,ankle stiffness,drug,phenotype,drug_effect,39762319,in_kg,C0427032,,Stiff ankle,Stiff ankle
+1787,cerliponase alfa,declined sit-to-stand performance,drug,phenotype,drug_effect,39762319,in_kg,C4476709,,Delayed ability to stand,Delayed ability to stand
+1838,CLN3,intestinal stem cell activation,protein/gene,biological_process,bioprocess_protein,39917569,in_kg,C3549197,,intestinal stem cell homeostasis,intestinal stem cell homeostasis
+1851,cerliponase alfa,slowed motor decline,drug,protein/gene,drug_effect,40162009,in_kg,C1866284,,Motor deterioration,Motor deterioration
+1853,Neuronal ceroid lipofuscinosis,lipofuscin accumulation,disease,phenotype,disease_phenotype_positive,40166029,in_kg,C4023177|C5936774,,Increased cerebral lipofuscin,Increased cerebral lipofuscin
+1896,metformin,behavior improvement,drug,phenotype,off_label_use,40346285,in_kg,C5546893,,,
+1897,cerliponase alfa,slowed disease progression,drug,phenotype,drug_effect,40355884,in_kg,C1854494|C4025580,,Pace of progression,Pace of progression
+1907,increased astrogliosis,retina,protein/gene,anatomy,anatomy_protein_present,40358187,C2750915,in_kg,Basal ganglia gliosis,,Basal ganglia gliosis

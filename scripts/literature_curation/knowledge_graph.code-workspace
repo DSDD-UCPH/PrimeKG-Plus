@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../knowledge_graph"
+		},
+		{
+			"path": "../../../../Albert group/PrimeKG_extension_manuscript"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

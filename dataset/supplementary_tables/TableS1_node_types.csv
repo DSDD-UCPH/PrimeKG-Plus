@@ -1,0 +1,11 @@
+node_type,old_count,new_count,delta_n,old_pct,new_pct,reasoning
+biological_process,28642,25153,-3489,22.1,19.5,Updated GO release; obsolete biological-process terms removed during harmonization.
+gene/protein,27671,23668,-4003,21.4,18.3,Stricter protein ID harmonization and removal of unresolved Entrez mappings in updated sources.
+disease,17080,19884,2804,13.2,15.4,"MONDO 2025 disease-only filter plus refined disease grouping (more singleton MONDO nodes, fewer grouped hubs)."
+effect/phenotype,15311,18688,3377,11.8,14.5,Expanded HPO / MONDO–phenotype cross-references in the updated build.
+anatomy,14035,14611,576,10.8,11.3,Additional UBERON anatomy terms from updated Bgee processing.
+molecular_function,11169,10143,-1026,8.6,7.8,Updated GO molecular-function release; obsolete terms excluded.
+drug,7957,9384,1427,6.2,7.3,DrugBank 5.1.13 vocabulary update and broader drug node coverage.
+cellular_component,4176,4058,-118,3.2,3.1,Minor GO cellular-component pruning; net change small.
+pathway,2516,2848,332,1.9,2.2,Reactome 2024 update added pathway nodes.
+exposure,818,880,62,0.6,0.7,Updated CTD exposure processing (October 2025).

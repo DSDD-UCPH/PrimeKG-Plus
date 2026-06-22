@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use PrimeKG-Plus, please cite the Zenodo record."
+title: "PrimeKG-Plus knowledge graphs (build 20260529)"
+version: "1.0.0"
+date-released: "2026-06-20"
+license: MIT
+repository-code: "https://github.com/DSDD-UCPH/PrimeKG-Plus"
+doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: article
+  title: "PrimeKG-Plus: a literature-derived expansion of a multimodal precision medicine knowledge graph"
+  authors:
+    - family-names: Nguyen
+      given-names: Trinh Trung Duong
+    - family-names: Tanoli
+      given-names: Ziaurrehman
+    - family-names: Nguyen-Phuong
+      given-names: Thuy
+    - family-names: "Le Phan"
+      given-names: Hanh-Dung
+    - family-names: "Nguyen Luong"
+      given-names: Bao-Anh
+    - family-names: Phan
+      given-names: Nhat-Thien
+    - family-names: Hauser
+      given-names: Alexander S.
+    - family-names: Nguyen
+      given-names: Dinh Truong
+    - family-names: Kooistra
+      given-names: Albert J.
+  journal: "Scientific Data"
+  year: 2026
+  notes: "Replace Zenodo DOI placeholder (10.5281/zenodo.XXXXXXX) after deposit."
+authors:
+  - family-names: Nguyen
+    given-names: Trinh Trung Duong
+  - family-names: Tanoli
+    given-names: Ziaurrehman
+  - family-names: Nguyen-Phuong
+    given-names: Thuy
+  - family-names: "Le Phan"
+    given-names: Hanh-Dung
+  - family-names: "Nguyen Luong"
+    given-names: Bao-Anh
+  - family-names: Phan
+    given-names: Nhat-Thien
+  - family-names: Hauser
+    given-names: Alexander S.
+  - family-names: Nguyen
+    given-names: Dinh Truong
+  - family-names: Kooistra
+    given-names: Albert J.
+keywords:
+  - knowledge graph
+  - PrimeKG
+  - biomedical data integration
+  - rare disease
+  - literature curation
