@@ -10,7 +10,7 @@ Reproducibility bundle for the PrimeKG-Plus dataset (build **20260529**).
 - **`primekg_plus.csv`** — PrimeKG-Plus from **public databases only** (no PubMed).
 - **`primekg_plus_rd.csv`** — **`primekg_plus.csv` + literature edges** for 4 neurological disorders (Canavan, Batten, Niemann–Pick type C, Tay–Sachs).
 
-Same 12-column schema as `primekg_plus.csv`. **`primekg_plus_rd.csv`** adds literature **edges** on top of `primekg_plus.csv`; endpoints with a UMLS CUI that maps to MONDO/HPO are matched or added as new nodes (canonical ontology label). Rows without resolvable endpoints are skipped.
+Same 12-column schema as `primekg_plus.csv`. **`primekg_plus_rd.csv`** adds literature **edges** on top of `primekg_plus.csv`
 
 ## Layout
 
@@ -38,16 +38,6 @@ PrimeKG-Plus_release/
 └── scripts/SCRIPTS.md
 ```
 
-Large CSVs may be **symlinks** on the author machine; materialize before Zenodo upload:
-
-```bash
-chmod +x scripts/materialize_release_bundle.sh
-./scripts/materialize_release_bundle.sh          # copy symlinks + curated + supp tables
-./scripts/materialize_release_bundle.sh --tarball  # optional zenodo_bundle.tar.gz
-```
-
-See `docs/ZENODO_UPLOAD_CHECKLIST.md` and `dataset/README.md`.
-
 ## Quick start
 
 ```python
@@ -69,10 +59,6 @@ print(len(kg_rd), "edges (with literature)")
 
 Details: `scripts/SCRIPTS.md`
 
-## Before Zenodo / GitHub release
-
-```bash
-chmod +x scripts/materialize_release_bundle.sh
 ./scripts/materialize_release_bundle.sh
 ```
 
