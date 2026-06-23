@@ -45,20 +45,4 @@ Same 12-column schema. Adds literature **edges**; disease/phenotype endpoints wi
 | `literature_curation/primekg_plus_rd.csv` | Main file |
 | `literature_curation/curated/` | Input CSVs to rebuild (`integrate_primekg_plus_rd.py`) |
 
-### Literature verify paths (optional)
 
-`literature_curation/path_analysis/disease_paths/*_verify_literature_direct.csv` — short paths for literature reconciliation (~7 MB total). Full path enumeration outputs are in **`../PrimeKG-Plus_validation/`**.
-
-## Supplementary tables (internal)
-
-Table S1–S9 and script **03** are in **`../PrimeKG-Plus_validation/dataset/supplementary_tables/`** (manuscript validation; not required for graph use).
-
-## Symlinks
-
-On the author machine, large files are symlinks into `PrimeKG/datasets/data/kg/` and `PrimeKG/dataverse_files/`. For Zenodo/GitHub release, run:
-
-```bash
-./scripts/materialize_release_bundle.sh
-```
-
-This replaces symlinks with file copies and populates `literature_curation/curated/` plus `supplementary_tables/`.
