@@ -120,7 +120,18 @@ If you use PrimeKG-Plus, cite the Zenodo record and the manuscript (under review
 ```
 @dataset{primekg_plus_2026,
   title  = {PrimeKG-Plus knowledge graphs (build 20260529)},
-  author = {Nguyen, Trinh Trung Duong and Nguyen-Phuong, Thuy and Nguyen, Quy-Hoai and Abbasi, Amna Mumtaz and Le Phan, Hanh-Dung and Nguyen, Luong Bao-Anh and Phan, Nhat-Thien and Curabaz, Nurettin Nusret and Hauser, Alexander S. and Tanoli, Ziaurrehman and Nguyen, Dinh Truong and Kooistra, Albert J.},
+  author = {Nguyen, Trinh Trung Duong
+            and Nguyen-Phuong, Thuy
+            and Nguyen, Quy-Hoai
+            and Abbasi, Amna Mumtaz
+            and Le Phan, Hanh-Dung
+            and Nguyen, Luong Bao-Anh
+            and Phan, Nhat-Thien
+            and Curabaz, Nurettin Nusret
+            and Hauser, Alexander S.
+            and Tanoli, Ziaurrehman
+            and Nguyen, Dinh Truong
+            and Kooistra, Albert J.},
   year   = {2026},
   doi    = {10.5281/zenodo.20796545},
   url    = {https://doi.org/10.5281/zenodo.20796545}
