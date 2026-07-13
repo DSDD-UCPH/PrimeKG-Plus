@@ -162,6 +162,8 @@ def normalize_mondo_id(oid: str) -> str:
     oid = str(oid).strip()
     if oid.upper().startswith("MONDO:"):
         oid = oid[6:]
+    if oid.isdigit():
+        return str(int(oid))
     return oid
 
 
@@ -343,10 +345,14 @@ class EntityResolver:
         if not path:
             return {}
         df = pd.read_csv(path, dtype=str).fillna("")
-        return {
-            str(r["id"]): {"name": str(r["name"]), "is_obsolete": str(r["is_obsolete"]).lower()}
-            for _, r in df.iterrows()
-        }
+        out: dict[str, dict[str, str]] = {}
+        for _, r in df.iterrows():
+            rec = {"name": str(r["name"]), "is_obsolete": str(r["is_obsolete"]).lower()}
+            oid = str(r["id"]).strip()
+            out[oid] = rec
+            if oid.isdigit():
+                out.setdefault(normalize_mondo_id(oid), rec)
+        return out
 
     @staticmethod
     def _load_hp_terms(data_dir: Path) -> dict[str, dict[str, str]]:
