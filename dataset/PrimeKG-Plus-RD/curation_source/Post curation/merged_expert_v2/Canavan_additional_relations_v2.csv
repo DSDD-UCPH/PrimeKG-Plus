@@ -1,0 +1,8 @@
+entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,integratable
+inverted echogenicity,cortical gray,pathology,anatomy,pathology_anatomy_present,35187608,C4693119,C0007776|C1707348,True
+inverted echogenicity,subcortical white matter,pathology,anatomy,pathology_anatomy_present,35187608,C4693119,C1706995|C1851430,True
+Canavan disease,progressive cognitive and motor,disease,phenotype,disease_phenotype_positive,37610133,in_kg,C5233137|C5233139,True
+Canavan disease,astroglial vacuolation,disease,phenotype,disease_phenotype_positive,37610133,in_kg,C5206989,True
+Canavan disease,astroglial  vacuolation,disease,phenotype,disease_phenotype_positive,38282243,in_kg,C5206989,True
+dilated perivascular spaces,bifrontal regions,pathology,anatomy,pathology_anatomy_present,40298596,C4020719,C0445448,True
+Canavan disease,demylination,disease,phenotype,disease_phenotype_positive,37271923,in_kg,C0011304,True

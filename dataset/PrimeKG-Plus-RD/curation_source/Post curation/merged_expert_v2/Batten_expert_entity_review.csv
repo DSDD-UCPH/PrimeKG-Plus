@@ -1,0 +1,442 @@
+entity_name,entity_type,algo_accepted,algo_suggested_name,algo_cui,expert_accepted,expert_rejected,expert_suggested_name,expert_cui,note,entity_name_norm,expert_resolution
+1.02 kb deletion on exons 7,protein/gene,False,,C3482296,True,False,,,,1.02 kb deletion on exons 7,expert_cui
+1.02 kb deletion on exons 8,protein/gene,False,,C3482296,True,False,,,,1.02 kb deletion on exons 8,expert_cui
+966 bp deletion,protein/gene,False,,C3482296,True,False,,,,966 bp deletion,expert_cui
+abnormal activated microglial cell,phenotype,False,,C3895752,False,True,,,,abnormal activated microglial cell,not_accepted
+abnormal palmitoylation,phenotype,False,,C3822971,False,True,,,,abnormal palmitoylation,not_accepted
+abnormal storage material in myocardium,phenotype,False,,C0268279,True,False,,,,abnormal storage material in myocardium,expert_cui
+absented vision loss,phenotype,False,,C3665386,False,True,Preserved vision,C4228013,,absented vision loss,not_accepted
+accumulation of ceroid lipofuscins,phenotype,False,,C0268279,True,False,,,,accumulation of ceroid lipofuscins,expert_cui
+accumulation of ceroid lipopigment,phenotype,False,,C0268279,True,False,,,,accumulation of ceroid lipopigment,expert_cui
+accumulation of glycerophosphodiesters,phenotype,False,,,True,False,,,,accumulation of glycerophosphodiesters,expert_accept_unresolved
+accumulation of lipofuscin granules,phenotype,False,,C0268279,True,False,,,,accumulation of lipofuscin granules,expert_cui
+accumulation of lipoprotein aggregates,phenotype,False,,C0268279,True,False,,,,accumulation of lipoprotein aggregates,expert_cui
+accumulation of lysosomal storage,phenotype,False,,C0085078,True,False,,,,accumulation of lysosomal storage,expert_cui
+accumulation of lysosomal storage bodies,phenotype,False,,C0085078,True,False,,,,accumulation of lysosomal storage bodies,expert_cui
+accumulation of lysosomal storage deposits,phenotype,False,,C0085078,True,False,,,,accumulation of lysosomal storage deposits,expert_cui
+accumulations of autofluorescent inclusions,phenotype,False,,C3809248,True,False,,,,accumulations of autofluorescent inclusions,expert_cui
+acidified drinking water,exposure,False,,,False,True,Acidification,C2987513,,acidified drinking water,not_accepted
+activation of lysosomal proteases,biological_process,False,,C4231755,True,False,,,,activation of lysosomal proteases,expert_cui
+acylating the precursor lipid phosphatidylglycerol,biological_process,False,,C3271638,True,False,,,,acylating the precursor lipid phosphatidylglycerol,expert_cui
+adeno-associated virus-mediated gene therapy,drug,False,,C0877350,True,False,,,,adeno-associated virus-mediated gene therapy,expert_cui
+adult-onset neuronal ceroid lipofuscinoses,disease,True,neuronal ceroid lipofuscinosis (C0751383),C0022797,True,False,,,,adult-onset neuronal ceroid lipofuscinoses,expert_cui
+adult-onset neuronal ceroid lipofuscinosis,disease,True,neuronal ceroid lipofuscinosis,C0022798,True,False,,,,adult-onset neuronal ceroid lipofuscinosis,expert_cui
+against neurodegeneration,phenotype,True,Cerebral cortical neurodegeneration (C1859863),,False,True,Neuroprotection,C0598958,,against neurodegeneration,not_accepted
+altered axonal growth,biological_process,False,,C4025609,True,False,,,,altered axonal growth,expert_cui
+altered calcium signaling,phenotype,False,,C2259037,False,True,,,,altered calcium signaling,not_accepted
+altered glycerophospholipid metabolism,phenotype,False,,,True,False,,,,altered glycerophospholipid metabolism,expert_accept_unresolved
+altered protein secretion,biological_process,False,,,True,False,,,,altered protein secretion,expert_accept_unresolved
+altered sphingolipid metabolism,phenotype,False,,C3649367,True,False,,,,altered sphingolipid metabolism,expert_cui
+ameliorated enteric neuron loss,phenotype,False,,C4293668,False,True,,,,ameliorated enteric neuron loss,not_accepted
+ameliorated neurodegeneration,phenotype,False,,,True,False,,,,ameliorated neurodegeneration,expert_accept_unresolved
+ameliorated neuropathology,phenotype,False,,,True,False,,,,ameliorated neuropathology,expert_accept_unresolved
+amelioration of cholesterol accumulation,phenotype,False,,,True,False,,,,amelioration of cholesterol accumulation,expert_accept_unresolved
+amelioration of lipofuscin accumulation,phenotype,False,,,True,False,,,,amelioration of lipofuscin accumulation,expert_accept_unresolved
+amelioration of the formation of abnormal vacuoles,phenotype,False,,,True,False,,,,amelioration of the formation of abnormal vacuoles,expert_accept_unresolved
+anterograde vesicular trafficking,biological_process,False,,,False,True,vesicle-mediated transport,C1325417,,anterograde vesicular trafficking,not_accepted
+anti-diabetec drug,drug,False,,C1875327,False,True,Antidiabetics,C0935929,,anti-diabetec drug,not_accepted
+anxiety,phenotype,False,,C0003467,True,False,,,,anxiety,expert_cui
+mood disturbances,,,,C2939186,True,False,,,,mood disturbances,expert_cui
+fear,,,,C0015726,True,False,,,,fear,expert_cui
+anxious,phenotype,False,,C0003467,True,False,,,,anxious,expert_cui
+fear circuit,,,,,True,False,,,,fear circuit,expert_accept_unresolved
+attention may have limited abilities,phenotype,False,,C0566192,False,True,Impairment of attention,C0238707,,attention may have limited abilities,not_accepted
+attenuated lysosomal hypertrophy,phenotype,False,,,True,False,,,,attenuated lysosomal hypertrophy,expert_accept_unresolved
+attenuated neuroinflammation,biological_process,False,,,False,True,negative regulation of neuroinflammatory response,C5137643,,attenuated neuroinflammation,not_accepted
+attenuated pathological phenotype,phenotype,False,,,True,False,,,,attenuated pathological phenotype,expert_accept_unresolved
+autofluorescent intracellular inclusions,pathology,False,,C3809248,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,autofluorescent intracellular inclusions,not_accepted
+autofluorescent lipofuscin,phenotype,True,Intracellular accumulation of autofluorescent lipopigment storage material (C4025642),C3809248,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,autofluorescent lipofuscin,not_accepted
+autofluorescent lysosomal storage material accumulation,phenotype,False,,C3809248,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,autofluorescent lysosomal storage material accumulation,not_accepted
+autofluorescent storage granules,pathology,False,,C3809248,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,autofluorescent storage granules,not_accepted
+autophagic defects,phenotype,False,,,False,True,Autophagy lesions,C5543046,,autophagic defects,not_accepted
+autophagic flux,biological_process,False,,,True,False,,,,autophagic flux,expert_accept_unresolved
+autophagosome-related factor,cellular_component,False,,,True,False,,,,autophagosome-related factor,expert_accept_unresolved
+autophagy defects,phenotype,False,,,False,True,Autophagy lesions,C5543046,,autophagy defects,not_accepted
+autophagy impairment,biological_process,False,,,False,True,Autophagy lesions,C5543046,,autophagy impairment,not_accepted
+autophagy pathway activation,phenotype,False,,C2265640,False,True,positive regulation of autophagy,C2265642,,autophagy pathway activation,not_accepted
+autophagy-lysosomal pathway,biological_process,False,,C2265640,False,True,,,,autophagy-lysosomal pathway,not_accepted
+averting skeletal muscle atrophy,phenotype,False,,,True,False,,,,averting skeletal muscle atrophy,expert_accept_unresolved
+behavioural issue,phenotype,False,,C5678433,True,False,,,,behavioural issue,expert_cui
+bilateral progressive retinal thinning,phenotype,False,,C1854888,True,False,,,,bilateral progressive retinal thinning,expert_cui
+bis(monoacylglycero)phosphate deficiency,protein/gene,False,,,True,False,,,,bis(monoacylglycero)phosphate deficiency,expert_accept_unresolved
+bull’s eye maculopathy,phenotype,False,,C0339512,True,False,,,,bull’s eye maculopathy,expert_cui
+c.1086del,mutation,False,,,True,False,,,,c.1086del,expert_accept_unresolved
+c.461-280_677 + 382del966,mutation,False,,,True,False,,,,c.461-280_677 + 382del966,expert_accept_unresolved
+c.768_769dup,mutation,False,,,True,False,,,,c.768_769dup,expert_accept_unresolved
+c.944dup,mutation,False,,,True,False,,,,c.944dup,expert_accept_unresolved
+cerebral accumulation of lipopigments,phenotype,False,,,True,False,,,,cerebral accumulation of lipopigments,expert_accept_unresolved
+cerebral neurodegenerative disease,disease,False,,C0524851,True,False,,,,cerebral neurodegenerative disease,expert_cui
+ceroid lipofuscin accumulation,phenotype,False,,C4023177,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,ceroid lipofuscin accumulation,not_accepted
+childhood dementia,phenotype,False,,C0497327,True,False,,,,childhood dementia,expert_cui
+cholesterol accumulation in microglia,phenotype,False,,C3553603,True,False,,,,cholesterol accumulation in microglia,expert_cui
+cholesteryl ester accumulation,phenotype,False,,C3553603,False,True,Positive regulation of cholesterol storage,C2612191,,cholesteryl ester accumulation,not_accepted
+choreo-athetotic movements,phenotype,False,,C0234967,True,False,,,,choreo-athetotic movements,expert_cui
+cis-prenyltransferase activity,molecular_function,False,,C1152043,True,False,,,,cis-prenyltransferase activity,expert_cui
+classic storage material accumulation,phenotype,False,,C4025642,True,False,,,,classic storage material accumulation,expert_cui
+clearance of storage,phenotype,False,,C1382187,True,False,,,,clearance of storage,expert_cui
+clearanced protein aggregates,phenotype,False,,,True,False,,,,clearanced protein aggregates,expert_accept_unresolved
+cognitive ability loss,phenotype,False,,C4534483,True,False,,,,cognitive ability loss,expert_cui
+combination in trans of two severe variants,phenotype,False,,,False,True,Compound Heterozygosity,C4264438,,combination in trans of two severe variants,not_accepted
+combination of miglustat and trehalose,drug,False,,C0013218,False,True,Drug combination,C0013162,,combination of miglustat and trehalose,not_accepted
+completely rescued tremor,phenotype,False,,,True,False,,,,completely rescued tremor,expert_accept_unresolved
+cone system dysfunction,phenotype,False,,C0543968,True,False,,,,cone system dysfunction,expert_cui
+conjunctival endothelial cells,anatomy,False,,C0225336,True,False,,,,conjunctival endothelial cells,expert_cui
+control clathrin-dependent endocytosis,biological_process,False,,C3156642,True,False,,,,control clathrin-dependent endocytosis,expert_cui
+correction of protein deficiency,biological_process,False,,,True,False,,,,correction of protein deficiency,expert_accept_unresolved
+cysteine palmitoyl thioesterase,protein/gene,False,,,False,True,palmitoyl-protein thioesterase 1,C0917464,,cysteine palmitoyl thioesterase,not_accepted
+cysteine string protein α,protein/gene,False,,C3489497,True,False,,,,cysteine string protein α,expert_cui
+decline in cognitive,phenotype,False,,C2750110,True,False,,,,decline in cognitive,expert_cui
+decline in motor capacities,phenotype,False,,C5936451,True,False,,,,decline in motor capacities,expert_cui
+decline in memory,phenotype,False,,,False,True,Memory impairment,C0233794,,decline in memory,not_accepted
+declined sit-to-stand performance,phenotype,True,Delayed ability to stand (C4476709),C0560800,True,False,,,,declined sit-to-stand performance,expert_cui
+decreased bis(monoacylglycero)phosphate species,phenotype,False,,,False,True,Phospholipid below reference range,C0860543,,decreased bis(monoacylglycero)phosphate species,not_accepted
+decreased cell viability,phenotype,False,,,True,False,,,,decreased cell viability,expert_accept_unresolved
+decreased chloride permeability,phenotype,False,,,True,False,,,,decreased chloride permeability,expert_accept_unresolved
+decreased grey matter volume,phenotype,False,,,True,False,,,,decreased grey matter volume,expert_accept_unresolved
+decreased in lipid droplets,phenotype,True,Increased intramyocellular lipid droplets,C4020730,True,False,,,,decreased in lipid droplets,expert_cui
+decreased in the dimensions of the lipid droplet-like structures,phenotype,False,,,True,False,,,,decreased in the dimensions of the lipid droplet-like structures,expert_accept_unresolved
+decreased lysosomal bis(monoacylglycero)phosphate,biological_process,False,,,False,True,Phospholipid below reference range,C0860543,,decreased lysosomal bis(monoacylglycero)phosphate,not_accepted
+decreased myofibril nuclei,cellular_component,False,,C4479412,True,False,,,,decreased myofibril nuclei,expert_cui
+decreased seizure frequency,phenotype,False,,C3888488,True,False,,,,decreased seizure frequency,expert_cui
+decreased synapse density,phenotype,False,,,True,False,,,,decreased synapse density,expert_accept_unresolved
+decreased the number of lipid droplet-like structures,phenotype,False,,,True,False,,,,decreased the number of lipid droplet-like structures,expert_accept_unresolved
+decreased visual tracking,phenotype,False,,C5883560,True,False,,,,decreased visual tracking,expert_cui
+decreased volumes of basal ganglia,phenotype,False,,C5775793,True,False,,,,decreased volumes of basal ganglia,expert_cui
+decreased volumes of cerebellar gray matter,phenotype,False,,,True,False,,,,decreased volumes of cerebellar gray matter,expert_accept_unresolved
+decreased volumes of hippocampus,phenotype,False,,C4315130,True,False,,,,decreased volumes of hippocampus,expert_cui
+decreased volumes of supratentorial cortical gray matter volume,phenotype,False,,,True,False,,,,decreased volumes of supratentorial cortical gray matter volume,expert_accept_unresolved
+decreased volumes of supratentorial white matter,phenotype,False,,C2675974,True,False,,,,decreased volumes of supratentorial white matter,expert_cui
+decreased volumes of thalamus,phenotype,False,,C4022771,True,False,,,,decreased volumes of thalamus,expert_cui
+decreasing cortical thicknesses,phenotype,False,,C4539875,True,False,,,,decreasing cortical thicknesses,expert_cui
+decreasing intracranial volumes,phenotype,False,,C0456892,False,True,Cerebral volume loss,C4324406,,decreasing intracranial volumes,not_accepted
+defect in photoreceptor to bipolar cell synaptic connectivity,phenotype,False,,,True,False,,,,defect in photoreceptor to bipolar cell synaptic connectivity,expert_accept_unresolved
+defected lipid droplet formation in microglia,phenotype,False,,,True,False,,,,defected lipid droplet formation in microglia,expert_accept_unresolved
+defective autophagic flow,phenotype,False,,,True,False,,,,defective autophagic flow,expert_accept_unresolved
+defective autophagic lysosomal reformation,biological_process,False,,,True,False,,,,defective autophagic lysosomal reformation,expert_accept_unresolved
+defective phagocytosis of photoreceptor outer segments,biological_process,False,,,True,False,,,,defective phagocytosis of photoreceptor outer segments,expert_accept_unresolved
+defective protein degradation,phenotype,False,,C1372810,False,True,Protein Degradation Inhibition,C1514541,,defective protein degradation,not_accepted
+degradation of unfolded or abnormal intracellular proteins,biological_process,False,,C1372810,False,True,"Protein Degradation, Metabolic",C0597297,,degradation of unfolded or abnormal intracellular proteins,not_accepted
+degrading cysteine residues,biological_process,False,,C4314398,True,False,,,,degrading cysteine residues,expert_cui
+delayed functional decline,phenotype,False,,C4304688,True,False,,,,delayed functional decline,expert_cui
+dementia in children,phenotype,False,,C0497327,True,False,,,,dementia in children,expert_cui
+deposition of ceroid lipopigment,phenotype,False,,C4025728,True,False,,,,deposition of ceroid lipopigment,expert_cui
+deposition of light-brown pigments,pathology,False,,,True,False,,,,deposition of light-brown pigments,expert_accept_unresolved
+destabilize the protein structure,phenotype,False,,C1622120,True,False,,,,destabilize the protein structure,expert_cui
+deteriorating heart function,phenotype,False,,,False,True,heart; deterioration,C1386060,,deteriorating heart function,not_accepted
+diffuse acanthocytes,phenotype,False,,,True,False,,,,diffuse acanthocytes,expert_accept_unresolved
+diffuse neurodegeneration,phenotype,False,,C3806240,True,False,,,,diffuse neurodegeneration,expert_cui
+diminished neuronal loss,phenotype,False,,,True,False,,,,diminished neuronal loss,expert_accept_unresolved
+disrupt the alpha helix,phenotype,True,Overfolded helix (C1837731),C1856660,True,False,,,,disrupt the alpha helix,expert_cui
+disrupted calcium homeostasis,biological_process,False,,,True,False,,,,disrupted calcium homeostasis,expert_accept_unresolved
+disturbed autophagic flow,phenotype,False,,,True,False,,,,disturbed autophagic flow,expert_accept_unresolved
+disturbed somatosensory modulation,phenotype,False,,C0422850,True,False,,,,disturbed somatosensory modulation,expert_cui
+downregulation of proteins related to axon guidance,phenotype,False,,,True,False,,,,downregulation of proteins related to axon guidance,expert_accept_unresolved
+downregulation of proteins related to endocytosis,phenotype,False,,,True,False,,,,downregulation of proteins related to endocytosis,expert_accept_unresolved
+dysfucntional lipid metabolism,biological_process,False,,C0154251,True,False,,,,dysfucntional lipid metabolism,expert_cui
+early loss of cone function,phenotype,False,,C3808916,False,True,Cone dysfunction seen on ERG,C4315940,,early loss of cone function,not_accepted
+early loss of rod function,phenotype,False,,C3808916,False,True,Early rod dysfunction seen on electroretinography,C5883376,,early loss of rod function,not_accepted
+early-stage neuroinflammation,phenotype,False,,,False,True,Neuroinflammation,C5394393,,early-stage neuroinflammation,not_accepted
+elevated glycerophosphoinositol,protein/gene,False,,,True,False,,,,elevated glycerophosphoinositol,expert_accept_unresolved
+endo components,protein/gene,False,,,True,False,,,,endo components,expert_accept_unresolved
+endolysosomal chloride channel,molecular_function,False,,C0055363,True,False,,,,endolysosomal chloride channel,expert_cui
+endolysosomal chloride currents,biological_process,False,,C0055363,True,False,,,,endolysosomal chloride currents,expert_cui
+endoplasmic reticulum non-glycosylated transmembrain,protein/gene,False,,,False,True,Membrane protein of endoplasmic reticulum cistern,C1180011,,endoplasmic reticulum non-glycosylated transmembrain,not_accepted
+enhanced cell adhesion,phenotype,False,,,False,True,positive regulation of cell-cell adhesion,C1818624,,enhanced cell adhesion,not_accepted
+enhanced hippocampal γ oscillation,phenotype,False,,,False,True,,,,enhanced hippocampal γ oscillation,not_accepted
+enhanced inhibitory synaptic transmission,biological_process,False,,C4328873,True,False,,,,enhanced inhibitory synaptic transmission,expert_cui
+enhanced lysosomal exocytosis,biological_process,False,,C1372327,True,False,,,,enhanced lysosomal exocytosis,expert_cui
+enlarged endolysosomes,phenotype,False,,,False,True,Abnormal lysosomal morphology,C4531183,,enlarged endolysosomes,not_accepted
+enteric glia changes,phenotype,False,,,True,False,,,,enteric glia changes,expert_accept_unresolved
+enteric neuron loss,phenotype,False,,C4293668,True,False,,,,enteric neuron loss,expert_cui
+epilepsy of unknown etiology,phenotype,False,,C0014553,False,True,idiopathic epilepsy,C0391957,,epilepsy of unknown etiology,not_accepted
+epithelial-mesenchymal transition pathway enrichment,protein/gene,False,,C2612017,False,True,epithelial to mesenchymal transition,C1523298,,epithelial-mesenchymal transition pathway enrichment,not_accepted
+epithelial-mesenchymal transition pathway inducer,protein/gene,False,,C2612016,False,True,positive regulation of epithelial to mesenchymal transition,C2612017,,epithelial-mesenchymal transition pathway inducer,not_accepted
+exocytic components,protein/gene,False,,,True,False,,,,exocytic components,expert_accept_unresolved
+exon-skipping antisense oligonucleotides,drug,False,,,True,False,,,,exon-skipping antisense oligonucleotides,expert_accept_unresolved
+failed autophagy,phenotype,False,,C5543046,True,False,,,,failed autophagy,expert_cui
+fatal neurodegeneration,disease,False,,C0027746,False,True,Neurodegenerative Disorders,C0524851,,fatal neurodegeneration,not_accepted
+focal right lower limb dystonia,phenotype,False,,C4313190,True,False,,,,focal right lower limb dystonia,expert_cui
+general proprioceptive ataxia,phenotype,False,,C1387107,True,False,,,,general proprioceptive ataxia,expert_cui
+genetic progressive encephalopathies with myoclonus,disease,True,myoclonic encephalopathy in non-progressive disorder,C4755298,False,True,Familial Progressive Myoclonic Epilepsy,C0751777,,genetic progressive encephalopathies with myoclonus,not_accepted
+glucosylsphingosine 18:1 accumulation,phenotype,False,,,False,True,Glucosylsphingosine increased,C4728134,,glucosylsphingosine 18:1 accumulation,not_accepted
+glycerophosphodiester release defect,biological_process | protein/gene,False,,,False,True,,,,glycerophosphodiester release defect,not_accepted
+glycerophosphodiesters accumulation,phenotype,False,,,True,False,,,,glycerophosphodiesters accumulation,expert_accept_unresolved
+habitual seizures,phenotype,False,,C0036572,True,False,,,,habitual seizures,expert_cui
+haploinsufficiency of the progranulin,molecular_function,False,,,False,True,Reduced circulating progranulin concentration,C6016451,,haploinsufficiency of the progranulin,not_accepted
+"heavy metal toxicity (manganese, iron, zinc)",exposure,False,,C0274869,True,False,,,,"heavy metal toxicity (manganese, iron, zinc)",expert_cui
+heavy metal toxicity sensitivity,biological_process,False,,C0274869,True,False,,,,heavy metal toxicity sensitivity,expert_cui
+heterozygous variants c.544_545del,protein/gene,False,,,True,False,,,,heterozygous variants c.544_545del,expert_accept_unresolved
+high-dose intravenous immunoglobulin,drug,False,,C0085297,True,False,,,,high-dose intravenous immunoglobulin,expert_cui
+hippocampal dysfunction,phenotype,False,,C4746824,True,False,,,,hippocampal dysfunction,expert_cui
+homozygous variant c.316dup,mutation,False,,,True,False,,,,homozygous variant c.316dup,expert_accept_unresolved
+hydrolized acyl-phosphatidylglycerol,biological_process,False,,,True,False,,,,hydrolized acyl-phosphatidylglycerol,expert_accept_unresolved
+hypersensitivity to pro-convulsive drugs,phenotype,False,,C3541994,False,True,,,,hypersensitivity to pro-convulsive drugs,not_accepted
+hyposensitivity to abrupt light changes,phenotype,False,,,True,False,,,,hyposensitivity to abrupt light changes,expert_accept_unresolved
+immune cell increase,phenotype,False,,,True,False,,,,immune cell increase,expert_accept_unresolved
+impaired autophagy,phenotype,False,,C5543046,True,False,,,,impaired autophagy,expert_cui
+impaired carnitine biosynthesis,phenotype,False,,,True,False,,,,impaired carnitine biosynthesis,expert_accept_unresolved
+impaired long-term potentiation,phenotype,False,,C3546205,True,False,,,,impaired long-term potentiation,expert_cui
+impaired myelin integrity,phenotype,False,,,False,True,Myelin abnormalities,C6066581,,impaired myelin integrity,not_accepted
+impaired prehension,phenotype,False,,,True,False,,,,impaired prehension,expert_accept_unresolved
+impairment locomotion,phenotype,False,,C4087189,True,False,,,,impairment locomotion,expert_cui
+improved locomotor activities,phenotype,False,,C2248087,False,True,positive regulation of locomotion,C1154346,,improved locomotor activities,not_accepted
+improved lysosomal pathology,phenotype,False,,,True,False,,,,improved lysosomal pathology,expert_accept_unresolved
+improved motor function,phenotype,False,,C5452884,True,False,,,,improved motor function,expert_cui
+improved neural network activity,phenotype,False,,,True,False,,,,improved neural network activity,expert_accept_unresolved
+improved neuroinflammation,phenotype,False,,,False,True,negative regulation of neuroinflammatory response,C5137643,,improved neuroinflammation,not_accepted
+improved neuronal survival,phenotype,False,,C1819944,True,False,,,,improved neuronal survival,expert_cui
+improved social behavior,phenotype,False,,,True,False,,,,improved social behavior,expert_accept_unresolved
+increase in lysosomal-related proteins,phenotype,False,,C1372391,False,True,lysosomal proteins,C0065400,,increase in lysosomal-related proteins,not_accepted
+increase in many ribosomal subunit proteins,phenotype,False,,,False,True,Ribosomes,C0035553,,increase in many ribosomal subunit proteins,not_accepted
+increase in the volume of the ventricular system,phenotype,False,,,False,True,Ventricular enlargement,C2675972,,increase in the volume of the ventricular system,not_accepted
+increased astrogliosis,phenotype | protein/gene,True,Basal ganglia gliosis ( C2750915),C3887640,False,True,,,,increased astrogliosis,not_accepted
+increased atypical muscle activity,phenotype,False,,,True,False,,,,increased atypical muscle activity,expert_accept_unresolved
+increased autophagic flux,biological_process,False,,,True,False,,,,increased autophagic flux,expert_accept_unresolved
+increased autophagic vacuoles,cellular_component,False,,,False,True,Autophagic vaculoes (finding),C0544966,,increased autophagic vacuoles,not_accepted
+increased expression of choroid plexus genes,phenotype,False,,,True,False,,,,increased expression of choroid plexus genes,expert_accept_unresolved
+increased hydrolase in lysosome,biological_process,False,,,True,False,,,,increased hydrolase in lysosome,expert_accept_unresolved
+increased life span,phenotype,False,,,False,True,Life Span,C0870809,,increased life span,not_accepted
+increased lysosomal genes,phenotype,False,,,True,False,,,,increased lysosomal genes,expert_accept_unresolved
+increased microgliosis,phenotype,False,,,False,True,Microgliosis,C3686874,,increased microgliosis,not_accepted
+increased motor deficiency,phenotype,False,,C0474395,False,True,Motor impairment,C5436522,,increased motor deficiency,not_accepted
+increased overall lysosomal proteolysis,biological_process,False,,C4231753,True,False,,,,increased overall lysosomal proteolysis,expert_cui
+increased oxysterol-binding protein,protein/gene,False,,,False,True,Oxysterol Binding Proteins,C0069838,,increased oxysterol-binding protein,not_accepted
+increased pro-inflammatory cytokines,phenotype,False,,C4227660,True,False,,,,increased pro-inflammatory cytokines,expert_cui
+increased saposin expression,phenotype,False,,,False,True,Saposins,C0076175,,increased saposin expression,not_accepted
+increased sphingomyelin synthesis,biological_process,False,,,False,True,sphingomyelin biosynthetic process,C1157396,,increased sphingomyelin synthesis,not_accepted
+increased volume of lateral ventricle,phenotype,False,,,False,True,Lateral ventricles increased in size,C5543297,,increased volume of lateral ventricle,not_accepted
+induced exon skipping,biological_process | phenotype,False,,C5708845,False,True,,,,induced exon skipping,not_accepted
+inherited lysosomal storage disorders,disease,False,,C0085078,True,False,,,,inherited lysosomal storage disorders,expert_cui
+inherited neurodegenerative diseases,disease,False,,C5680568,True,False,,,,inherited neurodegenerative diseases,expert_cui
+inherited neurodegenerative lysosomal storage diseases,disease,False,,C0751738,True,False,,,,inherited neurodegenerative lysosomal storage diseases,expert_cui
+inherited retinal diseases,disease,False,,C5680175,False,True,Hereditary retinal dystrophy,C0154860,,inherited retinal diseases,not_accepted
+inhibit lysosomal phospholispases,protein/gene,False,,C1518093,True,False,,,,inhibit lysosomal phospholispases,expert_cui
+inositol monophosphatase inhibition,molecular_function,False,,C3269497,True,False,,,,inositol monophosphatase inhibition,expert_cui
+intense glial activation,phenotype,False,,C1864676,True,False,,,,intense glial activation,expert_cui
+interictal focal epileptiform discharges,phenotype,False,,C4023491,True,False,,,,interictal focal epileptiform discharges,expert_cui
+intestinal stem cell activation,biological_process,True,intestinal stem cell homeostasis,C3549197,True,False,,,,intestinal stem cell activation,expert_cui
+intracellular accumulation of auto-fluorescent lipopigment,phenotype,False,,C4025642,True,False,,,,intracellular accumulation of auto-fluorescent lipopigment,expert_cui
+intracerebroventricular enzyme replacement therapy,Gene therapy | drug,False,,C0598391,True,False,,,,intracerebroventricular enzyme replacement therapy,expert_cui
+intronic splice variant,phenotype,False,,C1881249,True,False,,,,intronic splice variant,expert_cui
+isolated retinal degeneration,phenotype,False,,,False,True,Isolated inherited retinal disorder,C5681452,,isolated retinal degeneration,not_accepted
+isolated retinal dystrophy,disease,False,,,False,True,Isolated inherited retinal disorder,C5681452,,isolated retinal dystrophy,not_accepted
+language delay/regression,phenotype,False,,C0023012,True,False,,,,language delay/regression,expert_cui
+late-infantile form of neuronal ceroid lipofuscinosis,disease,True,infantile neuronal ceroid lipofuscinosis,C0268281,True,False,,,,late-infantile form of neuronal ceroid lipofuscinosis,expert_cui
+late-infantile neuronal ceroid lipofuscinoses,disease,True,infantile neuronal ceroid lipofuscinosis,C0268281,True,False,,,,late-infantile neuronal ceroid lipofuscinoses,expert_cui
+late-onset lysosomal storage disease,disease,False,,C0085078,True,False,,,,late-onset lysosomal storage disease,expert_cui
+late-onset progressive ataxia,phenotype,True,sporadic adult-onset ataxia of unknown etiology,C4518339,False,True,,,,late-onset progressive ataxia,not_accepted
+lateinfantile-onset psychomotor retardation,phenotype,False,,C1855009,False,True,Psychomotor impairment,C5441816,,lateinfantile-onset psychomotor retardation,not_accepted
+learning and memory impairment,phenotype,False,,C0423943,True,False,,,,learning and memory impairment,expert_cui
+lipid dysregulation reduction,phenotype,False,,C0154251,False,True,,,,lipid dysregulation reduction,not_accepted
+lipid perturbation,biological_process,False,,,False,True,Lipid Metabolism Disorders,C0154251,,lipid perturbation,not_accepted
+lipofuscin aggregate degradation,biological_process,False,,,True,False,,,,lipofuscin aggregate degradation,expert_accept_unresolved
+lipofuscin aggregate reduction,phenotype,False,,,True,False,,,,lipofuscin aggregate reduction,expert_accept_unresolved
+lipofuscin formation,biological_process,False,,,True,False,,,,lipofuscin formation,expert_accept_unresolved
+localised macular ellipsoid zone disruption,pathology,False,,,False,True,Abnormal retinal morphology on macular OCT,C4073082,,localised macular ellipsoid zone disruption,not_accepted
+longer survivor,phenotype,False,,C0206193,True,False,,,,longer survivor,expert_cui
+loss of bipolar cells,phenotype,False,,C1564995,False,True,,,,loss of bipolar cells,not_accepted
+loss of control over defecation,phenotype,False,,C0015732,True,False,,,,loss of control over defecation,expert_cui
+loss of control over urination,phenotype,False,,C0042024,True,False,,,,loss of control over urination,expert_cui
+loss of dopamine transporter,phenotype,False,,C0114838,False,True,,,,loss of dopamine transporter,not_accepted
+loss of enzymatic activity,phenotype,False,,C2267219,False,True,Enzyme Deficiency,C0149676,,loss of enzymatic activity,not_accepted
+loss of muscular tone,phenotype,False,,C0427202,True,False,,,,loss of muscular tone,expert_cui
+loss of progranulin,molecular_function,False,,C0168913,False,True,Reduced circulating progranulin concentration,C6016451,,loss of progranulin,not_accepted
+loss of retinal cell types,phenotype,False,,C0035304,True,False,,,,loss of retinal cell types,expert_cui
+loss of the inner nuclear layer,phenotype,False,,C1512784,False,True,,,,loss of the inner nuclear layer,not_accepted
+low plasma carnitine concentrations,phenotype,False,,C1855120,True,False,,,,low plasma carnitine concentrations,expert_cui
+lower electrophysical activity,phenotype,False,,,True,False,,,,lower electrophysical activity,expert_accept_unresolved
+lysophosphatidylglycerol accumulation,biological_process,False,,,True,False,,,,lysophosphatidylglycerol accumulation,expert_accept_unresolved
+lysosoma dysfuntion,phenotype,False,,,False,True,Decreased Lysosomal Function,C1371708,,lysosoma dysfuntion,not_accepted
+lysosomal accumulation of ceroid lipofuscin,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal accumulation of ceroid lipofuscin,not_accepted
+lysosomal accumulation of fluorescent storage material,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal accumulation of fluorescent storage material,not_accepted
+lysosomal chloride channel,biological_process,False,,C0055363,True,False,,,,lysosomal chloride channel,expert_cui
+lysosomal chloride conductance,biological_process,False,,,True,False,,,,lysosomal chloride conductance,expert_accept_unresolved
+lysosomal cholesterol homeostasis,biological_process,False,,C1326960,True,False,,,,lysosomal cholesterol homeostasis,expert_cui
+lysosomal cholesterol storage disorder,disease,False,,C2612180,False,True,Lysosomal Storage Diseases,C0085078,,lysosomal cholesterol storage disorder,not_accepted
+lysosomal depalmitoylation enzyme,protein/gene,False,,,True,False,,,,lysosomal depalmitoylation enzyme,expert_accept_unresolved
+lysosomal dysfunction,biological_process | phenotype,False,,C3887504,False,True,Decreased Lysosomal Function,C1371708,,lysosomal dysfunction,not_accepted
+lysosomal globotriaosylceramide accumulation,biological_process,False,,C0061338,False,True,Globotriaosylceramide increased,C3160758,,lysosomal globotriaosylceramide accumulation,not_accepted
+lysosomal glycerophosphodiester accumulation,biological_process,False,,,True,False,,,,lysosomal glycerophosphodiester accumulation,expert_accept_unresolved
+lysosomal ion homeostasis,biological_process,False,,,False,True,ion homeostasis,C1326962,,lysosomal ion homeostasis,not_accepted
+lysosomal lipofuscin accumulation,biological_process,False,,C1326962,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal lipofuscin accumulation,not_accepted
+lysosomal storage accumulation,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal storage accumulation,not_accepted
+lysosomal storage bodies,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal storage bodies,not_accepted
+lysosomal storage of undigested cargo,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,lysosomal storage of undigested cargo,not_accepted
+lysosomal-mitochondrial axis,biological_process,False,,,True,False,,,,lysosomal-mitochondrial axis,expert_accept_unresolved
+lysosome dysfunction reduction,phenotype,False,,,False,True,Increased Lysosomal Function,C1372391,,lysosome dysfunction reduction,not_accepted
+lysosome's degradative capacity,biological_process,False,,,False,True,lysosomal proteolysis,C4231795,,lysosome's degradative capacity,not_accepted
+macroautophagic defects,phenotype,False,,C1155604,False,True,Autophagy lesions,C5543046,,macroautophagic defects,not_accepted
+macular ellipsoid zone disruption,phenotype,False,,,False,True,Abnormal retinal morphology on macular OCT,C4073082,,macular ellipsoid zone disruption,not_accepted
+manifesting developmental regression,phenotype,False,,C1836830,True,False,,,,manifesting developmental regression,expert_cui
+melanin precursor uptake,biological_process,False,,C0065897,False,True,,,,melanin precursor uptake,not_accepted
+membrane-bound vacuoles containing diverse storage material,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,membrane-bound vacuoles containing diverse storage material,not_accepted
+menace response deficits,phenotype,False,,C3670558,True,False,,,,menace response deficits,expert_cui
+microglial cell bodies,cellular_component,False,,C0521398,True,False,,,,microglial cell bodies,expert_cui
+microgliosis reduction,phenotype,False,,C3686874,False,True,negative regulation of microglial cell activation,C3895752,,microgliosis reduction,not_accepted
+milasen,drug,False,,,False,True,Antisense Oligonucleotide [EPC],C4018803,,milasen,not_accepted
+minor immune or inflammatory stimulus,phenotype,False,,,False,True,,,,minor immune or inflammatory stimulus,not_accepted
+mitochondrial reactive oxygen species,molecular_function,True,reactive oxygen species metabolic process,C3156654,False,True,Reactive Oxygen Species,C0162772,,mitochondrial reactive oxygen species,not_accepted
+modifying cysteine residues,biological_process,False,,C4314398,False,True,,,,modifying cysteine residues,not_accepted
+mood-related concerns,phenotype,False,,,False,True,,,,mood-related concerns,not_accepted
+motor decline,phenotype,False,,,False,True,Motor deterioration,C1866284,,motor decline,not_accepted
+motor disease signs,phenotype,False,,,False,True,Motor dysfunction,C5979810,,motor disease signs,not_accepted
+multiple lysosomal tubules formation,biological_process | protein/gene,False,,,False,True,Tubule Formation,C1718420,,multiple lysosomal tubules formation,not_accepted
+mutant retinas,anatomy,True,retina,C0035298,False,True,,,,mutant retinas,not_accepted
+myenteric plexus neuron loss,phenotype,False,,C0027028,False,True,,,,myenteric plexus neuron loss,not_accepted
+neural circuit dysfunction,phenotype,False,,C0814033,False,True,Neurological Deficit or Dysfunction,C1709219,,neural circuit dysfunction,not_accepted
+neurocognitive deterioration,phenotype,False,,,False,True,Neurocognitive deficit,C4552512,,neurocognitive deterioration,not_accepted
+neurodegenerative condition,disease,False,,,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative condition,not_accepted
+neurodegenerative conditions,disease,False,,,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative conditions,not_accepted
+neurodegenerative lysosomal storage disorder,disease,True,lysosomal storage disease,C0085078,True,False,,,,neurodegenerative lysosomal storage disorder,expert_cui
+neurodegenerative lysosomal storage disorders,disease,True,lysosomal storage disease,C0085078,True,False,,,,neurodegenerative lysosomal storage disorders,expert_cui
+neurodegenerative metabolic disease,disease,False,,C0025517,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative metabolic disease,not_accepted
+neurodegenerative phenotype,phenotype,False,,C0025518,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative phenotype,not_accepted
+neurodegenerative phenotypes,phenotype,False,,,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative phenotypes,not_accepted
+neurodevelopmental alterations,phenotype,False,,,False,True,Neurodevelopmental Disorders,C1535926,,neurodevelopmental alterations,not_accepted
+neurodevelopmental and neurodegenerative disorder,disease,True,complex neurodevelopmental disorder,C5568766,True,False,,,,neurodevelopmental and neurodegenerative disorder,expert_cui
+neuroinflammatory trajectory,phenotype,False,,,False,True,Neuroinflammation,C5394393,,neuroinflammatory trajectory,not_accepted
+neuromuscular degeneration,phenotype,False,,C1979768,False,True,Neuromuscular Diseases,C0027868,,neuromuscular degeneration,not_accepted
+neuronal autofluorescent ceroid-lipofuscin accumulation,phenotype,False,,,False,True,Neuronal Ceroid-Lipofuscinoses,C0027877,,neuronal autofluorescent ceroid-lipofuscin accumulation,not_accepted
+neuronal ceroid lipofuscinoses condition,disease,False,,C0027877,True,False,,,,neuronal ceroid lipofuscinoses condition,expert_cui
+neuropathological phenotypes,phenotype,False,,,False,True,Neuropathology,C0876934,,neuropathological phenotypes,not_accepted
+neuroprotective properties,phenotype,False,,,False,True,Neuroprotection,C0598958,,neuroprotective properties,not_accepted
+non-syndromic macular dystrophy,phenotype,False,,C5681373,False,True,Macular dystrophy,C0730292,,non-syndromic macular dystrophy,not_accepted
+novel lysosomal storage disease,disease,False,,C0085078,True,False,,,,novel lysosomal storage disease,expert_cui
+ocular phenotype,phenotype,False,,,False,True,Eye Manifestations,C0015411,,ocular phenotype,not_accepted
+combination of at least one severe variant with a moderate one,phenotype,False,,,False,True,Compound Heterozygosity,C4264438,,combination of at least one severe variant with a moderate one,not_accepted
+open reading frame correction,phenotype,False,,C0079941,False,True,,,,open reading frame correction,not_accepted
+oxysterol-binding protein inhibitor,drug,False,,C0069838,False,True,,,,oxysterol-binding protein inhibitor,not_accepted
+palmitoyl-protein thioesterase 1 deficiency,phenotype,False,,C0917464,True,False,,,,palmitoyl-protein thioesterase 1 deficiency,expert_cui
+palmitoylation-depalmitoylation cycles,biological_process,False,,,False,True,protein palmitoylation,C1157492,,palmitoylation-depalmitoylation cycles,not_accepted
+partially rescued aberrant synaptic calcium dynamics,phenotype,False,,,True,False,,,,partially rescued aberrant synaptic calcium dynamics,expert_accept_unresolved
+pediatric dementia syndrome,disease,False,,,False,True,Dementia,C0497327,,pediatric dementia syndrome,not_accepted
+pediatric rare neurometabolic diseases,disease,False,,C5681332,True,False,,,,pediatric rare neurometabolic diseases,expert_cui
+peripapillary retinal nerve fiber layer degeneration,phenotype,False,,C5983236,True,False,,,,peripapillary retinal nerve fiber layer degeneration,expert_cui
+photoreceptor outer segment phagocytosis defect,biological_process,False,,C1325525,False,True,Abnormal phagocytosis,C5139054,,photoreceptor outer segment phagocytosis defect,not_accepted
+photoreceptor to bipolar synaptic defects,phenotype,False,,,True,False,,,,photoreceptor to bipolar synaptic defects,expert_accept_unresolved
+photosensitivity at low and higher frequencies,phenotype,False,,,True,False,,,,photosensitivity at low and higher frequencies,expert_accept_unresolved
+pigment-containing macrophages,pathology,False,,,True,False,,,,pigment-containing macrophages,expert_accept_unresolved
+plants demonstrating reduced astrocyte activation,drug,False,,C1326121,False,True,negative regulation of astrocyte activation,C4690073,,plants demonstrating reduced astrocyte activation,not_accepted
+plants with anti-neuro-inflammatory action,drug,False,,,False,True,negative regulation of neuroinflammatory response,,,plants with anti-neuro-inflammatory action,not_accepted
+postural vertical nystagmus,phenotype,False,,C0344246,True,False,,,,postural vertical nystagmus,expert_cui
+premature death in adolescence,phenotype,False,,C4023368,True,False,,,,premature death in adolescence,expert_cui
+prevent language decline,phenotype,True,Progressive language deterioration,C1843793,True,False,,,,prevent language decline,expert_cui
+prevent motor decline,phenotype,True,Delayed fine motor development,C4023681,True,False,,,,prevent motor decline,expert_cui
+prevented bowel distention,phenotype,False,,C2747824,False,True,Prevent or minimize abdominal distention,C0547842,,prevented bowel distention,not_accepted
+prevented bowel transit defect,phenotype,False,,,True,False,,,,prevented bowel transit defect,expert_accept_unresolved
+prevented tremors,phenotype,False,,C0040822,True,False,,,,prevented tremors,expert_cui
+prevented vesicle trafficking,phenotype,False,,C2266273,False,True,,,,prevented vesicle trafficking,not_accepted
+progranulin deficiency,molecular_function | phenotype | protein/gene,False,,C0168913,False,True,Reduced circulating progranulin concentration,C6016451,,progranulin deficiency,not_accepted
+progranulin insufficiency,phenotype,False,,C0168914,False,True,Reduced circulating progranulin concentration,C6016451,,progranulin insufficiency,not_accepted
+progressive atrophy of the outer retinal layers,phenotype,False,,C3669212,True,False,,,,progressive atrophy of the outer retinal layers,expert_cui
+progressive brain deterioration,phenotype,False,,C1854838,True,False,,,,progressive brain deterioration,expert_cui
+progressive deterioration of cognitive abilities,phenotype,False,,C0854193,True,False,,,,progressive deterioration of cognitive abilities,expert_cui
+progressive gait abnormality,phenotype,True,Progressive gait ataxia,C1843885,False,True,Gait abnormality,C0575081,,progressive gait abnormality,not_accepted
+progressive global brain atrophy,phenotype,False,,C0241816,True,False,,,,progressive global brain atrophy,expert_cui
+progressive neurological decline,phenotype,False,,C4314692,True,False,,,,progressive neurological decline,expert_cui
+progressive psychomotor developmental retardation,phenotype,False,,,False,True,Progressive psychomotor deterioration,C1856565,,progressive psychomotor developmental retardation,not_accepted
+progressive regionally defined glial activation,phenotype,False,,C1864676,True,False,,,,progressive regionally defined glial activation,expert_cui
+progressive retinal deterioration,phenotype,False,,,False,True,Progressive retinal degeneration,C1854888,,progressive retinal deterioration,not_accepted
+prominent retinal,phenotype,False,,C0035298,False,True,,,,prominent retinal,not_accepted
+prominent storage body accumulation,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,prominent storage body accumulation,not_accepted
+psychomotor behavioral outcomes,pathology,False,,C3549189,True,False,,,,psychomotor behavioral outcomes,expert_cui
+rapid degeneration of the caudate nucleus,phenotype,False,,,False,True,Atrophy/Degeneration involving the caudate nucleus,C4024895,,rapid degeneration of the caudate nucleus,not_accepted
+reduce neurological disease burden,phenotype,False,,,True,False,,,,reduce neurological disease burden,expert_accept_unresolved
+reduced astroglial activation,biological_process,False,,,False,True,negative regulation of astrocyte activation,C4690073,,reduced astroglial activation,not_accepted
+reduced attenuated reactive astrogliosis,phenotype,False,,,False,True,negative regulation of astrocyte activation,C4690073,,reduced attenuated reactive astrogliosis,not_accepted
+reduced cell viability,biological_process,False,,,False,True,Positive Regulation of Cell Death,C1516338,,reduced cell viability,not_accepted
+reduced disease-associated pathology,phenotype,False,,,False,True,Neuroprotection,C0598958,,reduced disease-associated pathology,not_accepted
+reduced enzymatic activity,biological_process,False,,C2267219,False,True,Enzyme Deficiency,C0149676,,reduced enzymatic activity,not_accepted
+reduced gliosis,phenotype,False,,C0017639,False,True,,,,reduced gliosis,not_accepted
+reduced lifespans,phenotype,False,,C0870809,False,True,Reduction in Life Expectancy,C5419418,,reduced lifespans,not_accepted
+reduced lysosomal autofluorescent storage material accumulation,phenotype,False,,,True,False,,,,reduced lysosomal autofluorescent storage material accumulation,expert_accept_unresolved
+reduced lysosomal globotriaosylceramide accumulation,biological_process,False,,C0061338,False,True,,,,reduced lysosomal globotriaosylceramide accumulation,not_accepted
+reduced lysosomal glycerophosphodiester accumulation,biological_process,False,,,True,False,,,,reduced lysosomal glycerophosphodiester accumulation,expert_accept_unresolved
+reduced lysosomal storage material,phenotype,False,,C5236186,False,True,,,,reduced lysosomal storage material,not_accepted
+reduced microglial activation,biological_process,False,,C1326169,False,True,negative regulation of microglial cell activation,C3895752,,reduced microglial activation,not_accepted
+reduced neurodegeneration,phenotype,False,,,False,True,Neuroprotection,C0598958,,reduced neurodegeneration,not_accepted
+reduced neuroinflammation,phenotype,False,,C5394393,False,True,negative regulation of neuroinflammatory response,C5137643,,reduced neuroinflammation,not_accepted
+reduced neurological decline,phenotype,True,Progressive neurologic deterioration,C1854838,False,True,,,,reduced neurological decline,not_accepted
+reduced oxidative stress,biological_process,False,,C0242606,False,True,,,,reduced oxidative stress,not_accepted
+reduced pain threshold,phenotype,False,,C0162703,False,True,,,,reduced pain threshold,not_accepted
+reduced pain-related neuropeptides,protein/gene,False,,,True,False,,,,reduced pain-related neuropeptides,expert_accept_unresolved
+reduced patellar reflex,phenotype,True,Decreased patellar reflex,C3277184,True,False,,,,reduced patellar reflex,expert_cui
+reduced photoreceptor outer segment binding,biological_process,False,,,True,False,,,,reduced photoreceptor outer segment binding,expert_accept_unresolved
+reduced retinal dysfunction,phenotype,False,,C3809218,False,True,,,,reduced retinal dysfunction,not_accepted
+reduced scotopic and photopic electroretinographic waveforms,phenotype,False,,,False,True,Electroretinogram abnormal,C0476397,,reduced scotopic and photopic electroretinographic waveforms,not_accepted
+reduced strength during walking,phenotype,True,Loss of ability to walk,C2674511,True,False,,,,reduced strength during walking,expert_cui
+reduced the mitochondrial reactive oxygen spices,phenotype,False,,C0162772,False,True,,,,reduced the mitochondrial reactive oxygen spices,not_accepted
+reduced α-synuclein aggregation,biological_process,False,,,True,False,,,,reduced α-synuclein aggregation,expert_accept_unresolved
+reduction in lipofuscin deposits,phenotype,False,,,True,False,,,,reduction in lipofuscin deposits,expert_accept_unresolved
+reduction in microglia infiltration,phenotype,False,,,False,True,negative regulation of microglial cell activation,C3895752,,reduction in microglia infiltration,not_accepted
+reduction in retina thinning,phenotype,False,,C5936309,False,True,,,,reduction in retina thinning,not_accepted
+rescued autophagy,biological_process,False,,C0004391,True,False,,,,rescued autophagy,expert_cui
+rescued locomotor impairment,phenotype,True,non-syndromic limb reduction defect,C5680277,False,True,Motor improvement,C5452884,,rescued locomotor impairment,not_accepted
+residual histopathology,phenotype,False,,C0677043,True,False,,,,residual histopathology,expert_cui
+restored autophagy,biological_process,False,,C0004391,True,False,,,,restored autophagy,expert_cui
+restored chemotaxis,phenotype,False,,C0008018,True,False,,,,restored chemotaxis,expert_cui
+restored muscle strength,phenotype,False,,C0517349,False,True,Increased muscle strength,C5563135,,restored muscle strength,not_accepted
+retinal volume stable,phenotype,False,,,True,False,,,,retinal volume stable,expert_accept_unresolved
+robust mismatch negativity response,phenotype,False,,,True,False,,,,robust mismatch negativity response,expert_accept_unresolved
+robust therapeutic benefit,phenotype,False,,,True,False,,,,robust therapeutic benefit,expert_accept_unresolved
+rod system dysfunction,phenotype,False,,,True,False,,,,rod system dysfunction,expert_accept_unresolved
+scattered drusen,phenotype,False,,C1260959,True,False,,,,scattered drusen,expert_cui
+sequestosome 1/p62,protein/gene,False,,,False,True,Sequestosome-1 Protein,C4255261,,sequestosome 1/p62,not_accepted
+severe cerebellum atrophy,phenotype,False,,C0740279,True,False,,,,severe cerebellum atrophy,expert_cui
+severe cortical atrophy,anatomy,False,,C4551583,True,False,,,,severe cortical atrophy,expert_cui
+severe reduction in heart rate,phenotype,False,,,False,True,Bradycardia,C0428977,,severe reduction in heart rate,not_accepted
+sex-dependent myelination defect,phenotype,False,,C4014372,True,False,,,,sex-dependent myelination defect,expert_cui
+sharp fall in the number of lipid droplets,phenotype,False,,C0230704,False,True,negative regulation of lipid storage,C2612195,,sharp fall in the number of lipid droplets,not_accepted
+significant atrophy of all retinal layers,phenotype,False,,,False,True,Progressive retinal atrophy,C3669212,,significant atrophy of all retinal layers,not_accepted
+significant cortical atrophy,phenotype,False,,C4551583,True,False,,,,significant cortical atrophy,expert_cui
+slow brain volume loss,phenotype,False,,C5194839,False,True,,,,slow brain volume loss,not_accepted
+slow deteriorated language function,phenotype,True,Progressive language deterioration,C1843793,False,True,,,,slow deteriorated language function,not_accepted
+slow deteriorated motor function,phenotype,True,Motor deterioration,C1866284,False,True,Motor improvement,C5452884,,slow deteriorated motor function,not_accepted
+slow movement disorder progression,phenotype,True,Progressive psychomotor deterioration,C1856565,True,False,,,,slow movement disorder progression,expert_cui
+slow supratentorial gray matter volume loss,phenotype,True,Deep white matter hypodensities,C1856979,True,False,,,,slow supratentorial gray matter volume loss,expert_cui
+slowed language decline,protein/gene,False,,,True,False,,,,slowed language decline,expert_accept_unresolved
+slowed language function decline,phenotype,True,Progressive language deterioration,C1843793,True,False,,,,slowed language function decline,expert_cui
+slowed motor decline,phenotype | protein/gene,True,Motor deterioration,C1866284,False,True,Motor improvement,C5452884,,slowed motor decline,not_accepted
+slowed stereotypical brain atrophy,phenotype,False,,C4551584,False,True,,,,slowed stereotypical brain atrophy,not_accepted
+small caudate volume,phenotype,False,,C2676248,True,False,,,,small caudate volume,expert_cui
+small gray matter volume,phenotype,False,,,True,False,,,,small gray matter volume,expert_accept_unresolved
+small intracranial volume,phenotype,False,,,True,False,,,,small intracranial volume,expert_accept_unresolved
+small putamen volume,phenotype,False,,,True,False,,,,small putamen volume,expert_accept_unresolved
+soluble lysosomal enzymes,protein/gene,False,,C0391845,True,False,,,,soluble lysosomal enzymes,expert_cui
+sortilin inhibitor,protein/gene,False,,C5980613,False,True,,,,sortilin inhibitor,not_accepted
+specific emotions and behaviou,phenotype,False,,,False,True,Neuro & emotional & behavioral status,C2735306,,specific emotions and behaviou,not_accepted
+specific emotions and behaviour,phenotype,False,,,False,True,Neuro & emotional & behavioral status,C2735306,,specific emotions and behaviour,not_accepted
+splice-switching antisense oligonucleotide,drug,False,,C4018803,True,False,,,,splice-switching antisense oligonucleotide,expert_cui
+spontaneous myoclonus,phenotype,False,,C0027066,True,False,,,,spontaneous myoclonus,expert_cui
+stimulating pro-apoptotic signaling,biological_process,False,,,False,True,Positive Regulation of Apoptosis,C1326205,,stimulating pro-apoptotic signaling,not_accepted
+storage body accumulation,phenotype,False,,,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,storage body accumulation,not_accepted
+storage lipid accumulation within neuronal lipofuscin,phenotype,True,Increased cerebral lipofuscin,C4023177,False,True,Intracellular accumulation of autofluorescent lipopigment storage material,C4025642,,storage lipid accumulation within neuronal lipofuscin,not_accepted
+stress granule dynamics,biological_process,False,,C5442023,True,False,,,,stress granule dynamics,expert_cui
+sudden loss of consciousness,phenotype,False,,,False,True,Unconscious State,C0041657,,sudden loss of consciousness,not_accepted
+surgical site swelling,pathology,False,,,False,True,Surgical wound edema,C3687388,,surgical site swelling,not_accepted
+symmetrical progressive atrophy of the cervical spinal cord,phenotype,False,,C0742191,True,False,,,,symmetrical progressive atrophy of the cervical spinal cord,expert_cui
+symmetrical progressive atrophy of the whole brain,phenotype,False,,,False,True,Global brain atrophy,C0241816,,symmetrical progressive atrophy of the whole brain,not_accepted
+sympathetic nervous system dysregulation,phenotype,False,,,False,True,"Nervous System Diseases, Sympathetic",C0750946,,sympathetic nervous system dysregulation,not_accepted
+synapse functions,biological_process,False,,C0039062,False,True,Synaptic Transmission,C0027793,,synapse functions,not_accepted
+synaptic depletion of tethers,protein/gene,False,,,True,False,,,,synaptic depletion of tethers,expert_accept_unresolved
+synaptic subcompartments,cellular_component,False,,,False,True,Synapses,C0039062,,synaptic subcompartments,not_accepted
+synaptic vesicle endocytic deficits,phenotype,False,,,False,True,inhibition of synaptic vesicle endocytosis,C3272183,,synaptic vesicle endocytic deficits,not_accepted
+thickening of inner nuclear layer,phenotype,False,,C1512784,False,True,,,,thickening of inner nuclear layer,not_accepted
+thickening of the inner plexiform layer,phenotype,False,,C1512785,False,True,,,,thickening of the inner plexiform layer,not_accepted
+thinning of outer photoreceptor segments,phenotype,False,,C1325525,False,True,,,,thinning of outer photoreceptor segments,not_accepted
+thinning of the whole retina,phenotype,False,,C5936309,True,False,,,,thinning of the whole retina,expert_cui
+thoght-related concerns,phenotype,False,,,False,True,Thought disorder,C2115875,,thoght-related concerns,not_accepted
+toxic lysophospholipid accumulation,cellular_component,False,,,True,False,,,,toxic lysophospholipid accumulation,expert_accept_unresolved
+transacylation reaction,biological_process,False,,C0597598,True,False,,,,transacylation reaction,expert_cui
+transcutaneous vagal stimulation,drug,False,,C1293903,True,False,,,,transcutaneous vagal stimulation,expert_cui
+transient withdrawal of parasympathetic activity,phenotype,False,,,False,True,Reduced parasympathetic activity,C5780518,,transient withdrawal of parasympathetic activity,not_accepted
+tumor microenvironment regulation,biological_process,False,,C2936626,True,False,,,,tumor microenvironment regulation,expert_cui
+ultrahigh frequency - transcutaneous electrical nerve stimulation,drug,False,,C0040654,True,False,,,,ultrahigh frequency - transcutaneous electrical nerve stimulation,expert_cui
+unconventional secretory pathway,biological_process,False,,C1159342,True,False,,,,unconventional secretory pathway,expert_cui
+unusual elevation of lyso-sphingomyelin-509,phenotype,False,,,True,False,,,,unusual elevation of lyso-sphingomyelin-509,expert_accept_unresolved
+unwillingness to cooperate,phenotype,False,,,False,True,Uncooperative behavior,C0424350,,unwillingness to cooperate,not_accepted
+various forms of abnormal movement.,phenotype,False,,C0558189,True,False,,,,various forms of abnormal movement.,expert_cui
+visual activity decline,phenotype,False,,,False,True,Progressive visual deterioration,C4231533,,visual activity decline,not_accepted
+visual decline,phenotype,False,,,False,True,Progressive visual deterioration,C4231533,,visual decline,not_accepted
+widespread gliosis,phenotype,False,,C0017639,True,False,,,,widespread gliosis,expert_cui
+wild-type hematopoietic stem and progenitor cells,Gene therapy,False,,C0018956,True,False,,,,wild-type hematopoietic stem and progenitor cells,expert_cui

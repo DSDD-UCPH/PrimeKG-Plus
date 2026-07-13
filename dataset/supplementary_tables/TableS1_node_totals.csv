@@ -1,0 +1,2 @@
+metric,original_n,primekg_plus_n,reason_for_change
+total_nodes,129375,129317,Net −2.0% nodes: disease/phenotype/drug up; gene/GO and anatomy-expression filtering down (see row notes).

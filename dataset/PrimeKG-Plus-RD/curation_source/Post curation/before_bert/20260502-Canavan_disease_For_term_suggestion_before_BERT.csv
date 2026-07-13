@@ -1,0 +1,26 @@
+,entity_name,original_entity_types,PMID,relation,entity_side
+0,"""spongiform” vacuoles",pathology,34498299,pathology_anatomy_present,1
+3,acetate donor,biological_process,34446995,drug_effect,2
+12,areas of ongoing myelination,anatomy,38880823,anatomy_disease,1
+21,astroglial vacuolation,phenotype,37610133,disease_phenotype_positive,2
+24,bifrontal regions,anatomy,40298596,pathology_anatomy_present,2
+25,bioelectrical activity,disease,39524158,drug_bioprocess,2
+36,carrier screening programs,exposure,36202930,exposure_disease,1
+38,cerebral delayed posture,phenotype,39119446,disease_phenotype_positive,2
+42,cortical gray,anatomy,35187608,pathology_anatomy_present,2
+44,cystic formation,phenotype,38880823,disease_phenotype_positive,2
+50,demyelinaing,disease,37149081|37271923,disease_disease,2
+52,demylination,phenotype,37271923,disease_phenotype_positive,2
+57,dual-function vector,exposure,36568275,drug_effect,1
+61,energy substrate,biological_process,34446995,drug_effect,2
+77,intramyelinic vacuolation,phenotype,38282243,disease_phenotype_positive,2
+78,intramyelinic vacuoles,phenotype,39119446,disease_phenotype_positive,2
+79,inverted echogenicity,pathology,35187608,pathology_anatomy_present,1
+83,leukodystropy,disease,34723085,disease_disease,1
+116,non-classical splicing defect,phenotype,36202930,phenotype_protein,1
+119,oligodendrocyte-axon interface,phenotype,39119446,disease_phenotype_positive,2
+130,progressive cognitive and motor,phenotype,37610133,disease_phenotype_positive,2
+131,prominent spongiform brain degeneration,phenotype,37610133,disease_phenotype_positive,2
+145,spongy leukodystrophy,disease,38544400,disease_disease,1
+149,swollen axons,phenotype,38538326,disease_phenotype_positive,2
+154,vacuolar leukodystrophy,disease,34498299,disease_disease,1

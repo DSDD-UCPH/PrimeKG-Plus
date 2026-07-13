@@ -1,4 +1,4 @@
-"""SapBERT CLS một chuỗi + cosine L2 — dùng chung cho `test_primekg_exact_string_sapbert_cosine.py` và notebook demo."""
+"""SapBERT CLS embeddings and L2-normalized cosine similarity for entity matching."""
 
 from __future__ import annotations
 
@@ -27,7 +27,7 @@ def embed_sapbert_one(
     device: str,
     max_len: int,
 ) -> np.ndarray:
-    """Y hệt precompute / test script: CLS, tokenizer ``padding=max_length``, ``max_length``."""
+    """Encode one string: CLS token, ``padding=max_length``, ``max_length=max_len``."""
     toks = tokenizer(
         [str(name).strip() or " "],
         padding="max_length",
@@ -43,7 +43,7 @@ def embed_sapbert_one(
 
 
 def cosine_after_l2(a: np.ndarray, b: np.ndarray) -> float:
-    """Cosine giữa hai vector (L2 từng vector), khớp script test."""
+    """Cosine similarity after per-vector L2 normalization."""
     return float(np.dot(_l2n_row(a), _l2n_row(b)))
 
 
@@ -54,7 +54,7 @@ def embed_sapbert_batch(
     device: str,
     max_len: int,
 ) -> np.ndarray:
-    """Batch CLS — khớp `embed_sapbert_batch` trong precompute PrimeKG."""
+    """Batch CLS embeddings (same tokenizer settings as PrimeKG precompute)."""
     batch = [str(x).strip() or " " for x in names]
     toks = tokenizer(
         batch,
@@ -79,10 +79,10 @@ def embed_sapbert_pool_matrix(
     batch_size: int = 256,
     show_progress: bool = True,
 ) -> np.ndarray:
-    """Encode toàn bộ ``pool_names`` một lần → ``(n_pool, dim)`` float32 (vector thô, giống memmap).
+    """Encode all ``pool_names`` once → ``(n_pool, dim)`` float32 raw vectors.
 
-    Dùng khi không đọc SapBERT memmap: tránh forward lặp pool cho mỗi query (chậm ~
-    ``n_queries * n_pool / batch`` → chỉ còn ~ ``n_pool / batch`` một lần).
+    Use when SapBERT memmap is unavailable: one forward pass over the pool instead of
+    re-encoding the pool for every query (~``n_pool / batch_size`` batches total).
     """
     n_pool = len(pool_names)
     if n_pool == 0:
@@ -131,7 +131,7 @@ def sapbert_cosine_sims_vs_pool_live(
     max_len: int,
     batch_size: int = 256,
 ) -> np.ndarray:
-    """Cos(query, encode_lại_từng_dòng_pool) — không dùng SapBERT memmap. Chi phí ~ n_pool/batch forwards."""
+    """Cosine(query, pool_row) by live-encoding each pool batch (no memmap). Cost ~ n_pool/batch forwards."""
     q = _l2n_row(np.asarray(q_sap_row, dtype=np.float32))
     sims = np.empty(len(pool_names), dtype=np.float32)
     n_pool = len(pool_names)

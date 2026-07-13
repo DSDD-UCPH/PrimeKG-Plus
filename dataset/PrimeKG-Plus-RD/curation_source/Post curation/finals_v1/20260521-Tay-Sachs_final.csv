@@ -1,0 +1,68 @@
+,entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,entity1_suggested_name,entity2_suggested_name,second_search_suggested_name
+18,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.ymgme.2021.05.001,in_kg,in_kg,,,
+22,Tay-Sachs disease,enzyme β-hexosaminidase deficiency,disease,phenotype,disease_phenotype_positive,10.3390/ijms22136751,in_kg,C2673361,,Increased serum beta-hexosaminidase,Increased serum beta-hexosaminidase
+23,Sandhoff disease,enzyme β-hexosaminidase deficiency,disease,phenotype,disease_phenotype_positive,10.3390/ijms22136751,in_kg,C2673361,,Increased serum beta-hexosaminidase,Increased serum beta-hexosaminidase
+28,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1002/prot.26180,in_kg,in_kg,,,
+32,glioblastoma multiforme,HEXA,disease,protein/gene,disease_protein,10.3389/fonc.2021.685893,C1621958,in_kg,,,
+33,glioblastoma multiforme,HEXB,disease,protein/gene,disease_protein,10.3389/fonc.2021.685893,C1621958,in_kg,,,
+36,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1007/s12031-021-01907-6,in_kg,in_kg,,,
+37,Sandhoff disease,HEXB,disease,protein/gene,disease_protein,10.1007/s12031-021-01907-6,in_kg,in_kg,,,
+39,Metachromatic leukodystrophy,ARSA,disease,protein/gene,disease_protein,10.1007/s12031-021-01907-6,in_kg,in_kg,,,
+44,lysosomal storage disease,sphingolipidosis,disease,disease,disease_disease,10.1007/s12031-021-01907-6,in_kg,in_kg,,,
+45,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.3390/life11101007,in_kg,in_kg,,,
+50,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1007/s10072-021-05757-3,in_kg,in_kg,,,
+51,Tay-Sachs disease,slowly progressive cerebellar ataxia,disease,phenotype,disease_phenotype_positive,10.1007/s10072-021-05757-3,in_kg,C1846368,,,
+52,Tay-Sachs disease,lower motor neuron disease,disease,disease,disease_disease,10.1007/s10072-021-05757-3,in_kg,C0085084|C0270764,,motor neuron disease,motor neuron disease
+64,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.5546/aap.2022.eng.e25,in_kg,in_kg,,,
+65,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.5546/aap.2022.eng.e25,in_kg,in_kg,,,
+67,Tay-Sachs disease,macrocephaly,disease,phenotype,disease_phenotype_positive,10.5546/aap.2022.eng.e25,in_kg,in_kg,,,
+68,Tay-Sachs disease,cherry-red spot,disease,phenotype,disease_phenotype_positive,10.5546/aap.2022.eng.e25,in_kg,C0278234|C2216370,,Cherry red spot of the macula,Cherry red spot of the macula
+69,Sandhoff disease,HEXB,disease,protein/gene,disease_protein,10.1016/j.ibneur.2022.01.004,in_kg,in_kg,,,
+70,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.ibneur.2022.01.004,in_kg,in_kg,,,
+84,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.3389/fmolb.2022.892248,in_kg,in_kg,,,
+86,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.3389/fmolb.2022.892248,in_kg,in_kg,,,
+88,Tay-Sachs disease,axonal degeneration,disease,phenotype,disease_phenotype_positive,10.3389/fmolb.2022.892248,in_kg,in_kg,,,
+95,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.3390/ijms231810672,in_kg,in_kg,,,
+96,Sandhoff disease,HEXB,disease,protein/gene,disease_protein,10.3390/ijms231810672,in_kg,in_kg,,,
+104,gangliosidoses,macrocephaly,disease,phenotype,disease_phenotype_positive,10.1016/j.gim.2022.09.001,C0017083,in_kg,gangliosidosis,,gangliosidosis
+106,gangliosidoses,hypotonia,disease,phenotype,disease_phenotype_positive,10.1016/j.gim.2022.09.001,C0017083,in_kg,gangliosidosis,,gangliosidosis
+107,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.5334/tohm.726,in_kg,in_kg,,,
+121,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1186/s13023-023-02637-1,in_kg,in_kg,,,
+128,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1371/journal.pone.0280650,in_kg,in_kg,,,
+130,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.1371/journal.pone.0280650,in_kg,in_kg,,,
+137,miglustat,glycosphingolipid synthesis,drug,biological process,drug_bioprocess,10.1111/ene.15871,in_kg,C2267133,,,
+143,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.3390/jpm13081222,in_kg,in_kg,,,
+144,Tay-Sachs disease,metabolic disease,disease,Disease,disease_disease,10.3390/jpm13081222,in_kg,C0025517|C0751744,,acquired metabolic disease,acquired metabolic disease
+145,Tay-Sachs disease,early death,disease,phenotype,disease_phenotype_positive,10.3390/jpm13081222,in_kg,C1271991,,,
+146,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1111/ene.16069,in_kg,in_kg,,,
+164,Gemfibrozil,improved behavior,drug,phenotype,drug_effect,10.3390/cells12242791,in_kg,C4063022,,,
+168,Sandhoff disease,HEXB,disease,protein/gene,disease_protein,10.1016/j.omtm.2023.101168,in_kg,in_kg,,,
+169,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.omtm.2023.101168,in_kg,in_kg,,,
+173,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.ymgme.2024.108140,in_kg,in_kg,,,
+179,lithium,autophagy inducer,drug,molecular_function,drug_bioprocess,10.1016/j.ymgme.2024.108140,in_kg,C1155612|C5907175,,Selective autophagy,Selective autophagy
+183,Tay-Sachs disease,seizures,disease,phenotype,disease_phenotype_positive,10.7759/cureus.51797,in_kg,C0036572,,,
+186,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.isci.2024.109413,in_kg,in_kg,,,
+190,Tay-Sachs disease,Sandhoff disease,disease,disease,disease_disease,10.1515/nipt-2023-0027,in_kg,in_kg,,,
+200,rare genetic disease,Tay-Sachs disease,disease,disease,disease_disease,10.1186/s13023-024-03300-z,C0037277|C5681510,in_kg,genetic skin disease,,genetic skin disease
+206,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1038/s41439-024-00300-0,in_kg,in_kg,,,
+227,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.1007/s11033-025-10380-y,in_kg,in_kg,,,
+234,Tay-Sachs disease,SNCA,disease,protein/gene,disease_protein,10.1371/journal.pone.0319401,in_kg,in_kg,,,
+235,Tay-Sachs disease,APOE,disease,protein/gene,disease_protein,10.1371/journal.pone.0319401,in_kg,in_kg,,,
+236,Tay-Sachs disease,CD44,disease,protein/gene,disease_protein,10.1371/journal.pone.0319401,in_kg,in_kg,,,
+237,Tay-Sachs disease,ITGB5,disease,protein/gene,disease_protein,10.1371/journal.pone.0319401,in_kg,in_kg,,,
+261,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1007/s12031-025-02395-8,in_kg,in_kg,,,
+262,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.1007/s12031-025-02395-8,in_kg,in_kg,,,
+263,Tay-Sachs disease,neuroinflammation,disease,phenotype,disease_phenotype_positive,10.1007/s12031-025-02395-8,in_kg,in_kg,,,
+264,Tay-Sachs disease,elevated levels of proinflammatory cytokines,disease,phenotype,disease_phenotype_positive,10.1007/s12031-025-02395-8,in_kg,C4023535|C5194194,,Abnormality of serum cytokine level,Abnormality of serum cytokine level
+279,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,64_40819571(article 64),in_kg,in_kg,,,
+291,Tay-Sachs disease,poor visual acuity,disease,phenotype,disease_phenotype_positive,10.1016/j.ajoc.2025.102381,in_kg,C0580104|C5139142,,Very low visual acuity,Very low visual acuity
+292,Tay-Sachs disease,hyperacusis,disease,phenotype,disease_phenotype_positive,10.1016/j.ajoc.2025.102381,in_kg,in_kg,,,
+294,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1242/bio.062045,in_kg,in_kg,,,
+296,Tay-Sachs disease,neurodegeneration,disease,phenotype,disease_phenotype_positive,10.1242/bio.062045,in_kg,in_kg,,,
+299,Tay-Sachs disease,seizures,disease,phenotype,disease_phenotype_positive,10.1016/j.nbd.2025.107099,in_kg,C0036572,,,
+310,Tay-Sachs disease,hearing loss disorder,disease,disease,disease_disease,10.1093/qjmed/hcaf246,in_kg,in_kg,,,
+320,Tay-Sachs disease,HEXA,disease,protein/gene,disease_protein,10.1016/j.gim.2025.101615,in_kg,in_kg,,,
+321,Sandhoff disease,HEXB,disease,protein,disease_protein,10.1016/j.gim.2025.101615,in_kg,in_kg,,,
+323,venglustat,fall,drug,phenotype,drug_effect,10.1016/j.gim.2025.101615,in_kg,C0085639|C0850703,,Frequent falls,Frequent falls
+324,venglustat,headache,drug,phenotype,drug_effect,10.1016/j.gim.2025.101615,in_kg,in_kg,,,
+325,venglustat,COVID-19,drug,disease,drug_effect,10.1016/j.gim.2025.101615,in_kg,in_kg,,,

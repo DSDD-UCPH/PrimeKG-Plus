@@ -1,0 +1,7 @@
+disease_subset,n,mean_degree,median,min,max
+Original — all diseases,17080,40.0,12.0,2,3048
+Original — MONDO,15813,33.9,10.0,2,3048
+Original — MONDO_grouped,1267,115.1,66.0,2,1952
+PrimeKG-Plus — all diseases,19884,53.7,8.0,2,10534
+PrimeKG-Plus — MONDO,18704,43.5,8.0,2,10534
+PrimeKG-Plus — MONDO_grouped,1180,214.4,116.0,2,4552

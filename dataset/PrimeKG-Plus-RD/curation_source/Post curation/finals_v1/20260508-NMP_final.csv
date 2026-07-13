@@ -1,0 +1,730 @@
+,entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,entity1_suggested_name,entity2_suggested_name,second_search_suggested_name
+2,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick Disease Type C,drug,disease,indication,34364974,C0046237,in_kg,,,
+3,Niemann-Pick Disease Type C,neurovisceral symptoms,disease,phenotype,disease_phenotype_positive,34364974,in_kg,C1867971,,Acute episodes of neuropathic symptoms,Acute episodes of neuropathic symptoms
+4,Niemann-Pick Disease Type C,accumulation of cholesterol and other lipids,disease,phenotype,disease_phenotype_positive,34364974,in_kg,C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+6,2-hydroxypropyl-beta-cyclodextrin,restore lipid homeostasis,drug,biological_process,drug_bioprocess,34364974,C0046237,C2262744,,lipid homeostasis,lipid homeostasis
+20,lysosome,NPC2,cellular_component,protein/gene,cellcomp_protein,37454976,in_kg,in_kg,,,
+22,astrocytic,GFAP,anatomy,protein/gene,anatomy_protein_present,37454976,C0521395,in_kg,,,
+26,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39173891,in_kg,in_kg,,,
+27,Niemann-Pick Disease Type C,neurodegenerative disease,disease,disease,disease_disease,39173891,in_kg,C0524851,,,
+28,Niemann-Pick Disease Type C,accumulated unesterified cholesterol,disease,phenotype,disease_phenotype_positive,39173891,in_kg,C3553603,,,
+30,Niemann-Pick Disease Type C,impairment of lysosomal function,disease,phenotype,disease_phenotype_positive,39173891,in_kg,C4025342,,Abnormality of lysosomal metabolism,Abnormality of lysosomal metabolism
+31,late endosome,NPC1,cellular_component,protein/gene,cellcomp_protein,39173891,in_kg,in_kg,,,
+37,changed morphology of microglia,Niemann-Pick Disease Type C,phenotype,protein/gene,disease_phenotype_positive,39173891,C4021990,in_kg,Abnormal microglia morphology,,Abnormal microglia morphology
+44,central nervous system,Niemann-Pick Disease Type C,anatomy,disease,anatomy_disease,35695805,in_kg,in_kg,,,
+45,embryonic lethality,NUS1,phenotype,protein/gene,disease_protein,35695805,C5139371,in_kg,preimplantation embryonic lethality,,preimplantation embryonic lethality
+63,neurodegenerative disorder,Niemann-Pick Disease Type C,disease,disease,disease_disease,38142760,C0524851,in_kg,,,
+71,cholesterol accumulation,Brain,phenotype,anatomy,phenotype_anatomy,38142760,C5436605,in_kg,,,
+73,neurogenetic disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,39706535,C5681332,in_kg,neurometabolic disease,,neurometabolic disease
+87,glycolysis,NPC1,biological_process,protein/gene,bioprocess_protein,39706535,in_kg,in_kg,,,
+88,pentose phosphate pathway,NPC1,biological_process,protein/gene,bioprocess_protein,39706535,in_kg,in_kg,,,
+100,benzimidazole,β-cyclodextrin,drug,drug,drug_drug,34748340,in_kg,C0046237,,,
+105,2-Hydroxypropyl-β-cyclodextrin,Niemann-Pick Disease Type C,drug,disease,indication,38763706,C0046237,in_kg,,,
+116,2-hydroxypropyl-β-cyclodextrin,Niemann-Pick Disease Type C,drug,disease,indication,36116252,C0046237,in_kg,,,
+117,Niemann-Pick Disease Type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,36116252,in_kg,in_kg,,,
+118,Niemann-Pick Disease Type C,hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,36116252,in_kg,in_kg,,,
+137,Bleomycin,pulmonary fibrosis,exposure,disease,exposure_disease,36804125,in_kg,in_kg,,,
+146,renal fibrosis,NPC1,phenotype,protein/gene,phenotype_protein,38087834,in_kg,in_kg,,,
+147,kidneys,NPC1,anatomy,protein/gene,anatomy_protein_present,38087834,C0022646|C0227665,in_kg,kidney,,kidney
+148,Apoptosis,NPC1,biological_process,protein/gene, bioprocess_protein,38087834,in_kg,in_kg,,,
+150,vacuoles,NPC1,cellular_component,protein/gene,cellcomp_protein,38087834,C0042219,in_kg,,,
+152,NPC1,NPC2,protein/gene,protein/gene,protein_protein,38087834,in_kg,in_kg,,,
+165,cholesterol accumulation,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C5436605,in_kg,,,
+167,Neuronal loss,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C1849485|C1850496,in_kg,Neuronal loss in the cerebral cortex,,Neuronal loss in the cerebral cortex
+168,weight loss,NPC1,phenotype,protein/gene,phenotype_protein,38087834,in_kg,in_kg,,,
+171,vacuoles,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C0042219,in_kg,,,
+172,NPC1,NPC2,protein/gene,protein/gene,protein_protein,38087834,in_kg,in_kg,,,
+178,brain lesions,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C0221505,in_kg,,,
+179,death,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C1306577,in_kg,,,
+183,Miglustat,unesterified cholesterol accumulation,drug,phenotype,drug_effect,40436106,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+185,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,40436106,in_kg,in_kg,,,
+186,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,40436106,in_kg,in_kg,,,
+187,NPC1,NPC2,protein/gene,protein/gene,protein_protein,40436106,in_kg,in_kg,,,
+189,Niemann-Pick Disease Type C,neuronal degeneration,disease,phenotype,disease_phenotype_positive,40436106,in_kg,C3670500,,,
+190,Niemann-Pick Disease Type C,dystonia,disease,phenotype,disease_phenotype_positive,40436106,in_kg,in_kg,,,
+191,Niemann-Pick Disease Type C,dysphagia,disease,phenotype,disease_phenotype_positive,40436106,in_kg,in_kg,,,
+192,Niemann-Pick Disease Type C,cerebellar ataxia,disease,phenotype,disease_phenotype_positive,40436106,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+193,neuronal loss,NPC1,phenotype,protein/gene,phenotype_protein,40436106,C1849485|C1850496,in_kg,Neuronal loss in the cerebral cortex,,Neuronal loss in the cerebral cortex
+194,motor deficits,NPC1,phenotype,protein/gene,phenotype_protein,40436106,C4025360|C5979810,in_kg,Functional motor deficit,,Functional motor deficit
+196,Miglustat,neurological dysfunction,drug,phenotype,drug_effect,40436106,in_kg,C1709219|C4024908,,Rapid neurologic deterioration,Rapid neurologic deterioration
+197,Miglustat,prolong survival,drug,phenotype,drug_effect,40436106,in_kg,C5139371,,Preimplantation lethality,Preimplantation lethality
+200,Miglustat,Niemann-Pick disease type C,drug,disease,indication,40436106,in_kg,in_kg,,,
+203,fatal neurodegenerative disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,40215728,C4751597,in_kg,fatal post-viral neurodegenerative disorder,,fatal post-viral neurodegenerative disorder
+207,Arimoclomol,Niemann-Pick disease type C,drug,disease,indication,40215728,in_kg,in_kg,,,
+208,Miglustat,Niemann-Pick disease type C,drug,disease,indication,40215728,in_kg,in_kg,,,
+209,Arimoclomol,miglustat,drug,drug,drug_drug,40215728,in_kg,in_kg,,,
+214,Arimoclomol,autophagy,drug,biological_process,drug_bioprocess,40215728,in_kg,in_kg,,,
+216,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,40215728,in_kg,in_kg,,,
+217,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,40215728,in_kg,in_kg,,,
+218,lysosomal,NPC1,cellular_component,protein/gene,cellcomp_protein,40215728,C0521450,in_kg,,,
+219,intracellular transport,NPC1,biological_process,protein/gene,bioprocess_protein,40215728,in_kg,in_kg,,,
+220,metabolism of lipids,NPC1,biological_process,protein/gene,bioprocess_protein,40215728,in_kg,in_kg,,,
+221,intracellular transport,NPC2,biological_process,protein/gene,bioprocess_protein,40215728,in_kg,in_kg,,,
+222,metabolism of lipids,NPC2,biological_process,protein/gene,bioprocess_protein,40215728,in_kg,in_kg,,,
+223,accumulation of unesterified cholesterol,NPC1,phenotype,protein/gene,phenotype_protein,40215728,C3553603|C5937001,in_kg,Unesterified cholesterol accumulation in cultured fibroblasts,,Unesterified cholesterol accumulation in cultured fibroblasts
+226,Arimoclomol,NPC1,drug,protein/gene,drug_protein,40215728,in_kg,in_kg,,,
+227,Niemann-Pick Disease Type C,accumulation of unesterified cholesterol,disease,phenotype,disease_phenotype_positive,40215728,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+229,NPC1,cholesterol accumulation,protein/gene,phenotype,phenotype_protein,40215728,in_kg,C5436605,,,
+243,neurodegenerative disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,37683773,C0524851,in_kg,,,
+249,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,40107109,in_kg,in_kg,,,
+252,Niemann-Pick disease type C,Neurodegenerative diseases,disease,disease,disease_disease,40107109,in_kg,in_kg,,,
+265,cholesterol,growth,exposure,phenotype,exposure_phenotype,35245460,in_kg,in_kg,,,
+269,cholesterol,early maturation,exposure,phenotype,exposure_phenotype,35245460,in_kg,C4022392,,,
+274,oxysterols,Niemann-Pick disease type C,biological_process,disease,bioprocess_disease,41274250,C4277571,in_kg,,,
+276,Niemann-Pick disease type C,Lysosomal storage disorder,disease,disease,disease_disease,41274250,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+278,Cholesterol trafficking,NPC1,biological_process,protein/gene,bioprocess_protein,41274250,C5960876,in_kg,,,
+279,Cholesterol trafficking,NPC2,biological_process,protein/gene,bioprocess_protein,41274250,C5960876,in_kg,,,
+283,neurodegenerative lysosomal storage disorder,Niemann-Pick disease type C,disease,disease,disease_disease,40306479,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+291,elevated myristic acid,NPC1,phenotype,protein/gene,phenotype_protein,40306479,C4703649,in_kg,Increased level of myristic acid in serum,,Increased level of myristic acid in serum
+292,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,40306479,in_kg,in_kg,,,
+293,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,40306479,in_kg,in_kg,,,
+294,intracellular transport,NPC1,biological_process,protein/gene, bioprocess_protein,40306479,in_kg,in_kg,,,
+296,autophagy,NPC1,biological_process,protein/gene, bioprocess_protein,40306479,in_kg,in_kg,,,
+297,Niemann-Pick disease type C,neurological impairments,disease,phenotype,disease_phenotype_positive,40306479,in_kg,C0521654,,,
+303,Niemann-Pick Disease Type C,motor decline,disease,phenotype,disease_phenotype_positive,40306479,in_kg,C1866284,,Motor deterioration,Motor deterioration
+306,Niemann-Pick Disease Type C,neuroinflammation,disease,phenotype,disease_phenotype_positive,40306479,in_kg,in_kg,,,
+310,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,35850050,in_kg,in_kg,,,
+311,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,35850050,in_kg,in_kg,,,
+312,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,35850050,in_kg,in_kg,,,
+313,NPC1,NPC2,protein/gene,protein/gene,protein_protein,35850050,in_kg,in_kg,,,
+320,Niemann-Pick disease,Niemann-Pick disease type C,disease,disease,disease_disease,35850050,in_kg,in_kg,,,
+321,Niemann-Pick disease type C,disability,disease,phenotype,disease_phenotype_positive,35850050,in_kg,C0231170|C5539762,,Occupational disability,Occupational disability
+322,Niemann-Pick disease type C,infant death,disease,phenotype,disease_phenotype_positive,35850050,in_kg,C0549159|C4027763,,Death in infancy,Death in infancy
+323,Niemann-Pick disease type C,epilepsy,disease,phenotype,disease_phenotype_positive,35850050,in_kg,in_kg,,,
+324,Niemann-Pick disease type C,ataxia,disease,phenotype,disease_phenotype_positive,35850050,in_kg,in_kg,,,
+325,cholesterol trafficking,NPC1,biological_process,protein/gene, bioprocess_protein,35850050,C5960876,in_kg,,,
+326,brain,Niemann-Pick disease type C,anatomy,disease,anatomy_disease,35850050,in_kg,in_kg,,,
+327,nervous tissues,Niemann-Pick disease type C,anatomy,disease,anatomy_disease,35850050,C0027757,in_kg,neural tissue,,neural tissue
+334,Cholesterol,cell death,drug,phenotype,drug_effect,38183651,in_kg,in_kg,,,
+343,lymphocyte activation,MALT1,biological_process,protein/gene, bioprocess_protein,38183651,in_kg,in_kg,,,
+345,MALT1,receptor tyrosine kinases,protein/gene,protein/gene,protein_protein,38183651,in_kg,C0206364,,,
+348,Niemann-Pick Disease Type C,neurodegenerative disorder,disease,disease,disease_disease,39789920,in_kg,C0524851,,,
+349,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39789920,in_kg,in_kg,,,
+350,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,39789920,in_kg,in_kg,,,
+353,central nervous system,Niemann-Pick Disease Type C,anatomy,disease, anatomy_disease,39789920,in_kg,in_kg,,,
+354,Niemann-Pick Disease Type C,hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,39789920,in_kg,in_kg,,,
+355,Niemann-Pick Disease Type C,prolonged jaundice,disease,phenotype,disease_phenotype_positive,39789920,in_kg,C1859236|C4025805,,Intermittent jaundice,Intermittent jaundice
+358,Pulmonary alveolar proteinosis,NPC2,phenotype,protein/gene,phenotype_protein,39789920,in_kg,in_kg,,,
+359,early infantile onset,NPC2,phenotype,protein/gene,disease_phenotype_positive,39789920,C1833430|C5676635,in_kg,Early young adult onset,,Early young adult onset
+361,Niemann-Pick Disease Type C,epilepsy,disease,phenotype,disease_phenotype_positive,39789920,in_kg,in_kg,,,
+363,Niemann-Pick Disease Type C,hepatic symtoms,disease,phenotype,disease_phenotype_positive,39789920,in_kg,C4021780,,Abnormality of the liver,Abnormality of the liver
+384,Arimoclomol,Niemann-Pick Disease Type C,drug,disease,indication,40663813,in_kg,in_kg,,,
+385,Arimoclomol,miglustat,drug,drug,drug_drug,40663813,in_kg,in_kg,,,
+386,Arimoclomol,slowing of disease progression,drug,phenotype,drug_effect,40663813,in_kg,C1854494|C4025580,,Pace of progression,Pace of progression
+387,Arimoclomol,sustained reduction in disease progression,drug,phenotype,drug_effect,40663813,in_kg,C0544452,,Disease remission,Disease remission
+392,Niemann-Pick Disease Type C,cerebellar ataxia,disease,phenotype,disease_phenotype_positive,40663813,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+393,Niemann-Pick Disease Type C,dysarthria,disease,phenotype,disease_phenotype_positive,40663813,in_kg,in_kg,,,
+394,Niemann-Pick Disease Type C,dysphagia,disease,phenotype,disease_phenotype_positive,40663813,in_kg,in_kg,,,
+395,Niemann-Pick Disease Type C,loss of motor function,disease,phenotype,disease_phenotype_positive,40663813,in_kg,C1864672|C4025360,,Functional motor deficit,Functional motor deficit
+396,Niemann-Pick Disease Type C,cognitive impairment,disease,phenotype,disease_phenotype_positive,40663813,in_kg,in_kg,,,
+397,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,40663813,in_kg,in_kg,,,
+398,Niemann-Pick Disease Type C,epilepsy,disease,phenotype,disease_phenotype_positive,40663813,in_kg,in_kg,,,
+399,Niemann-Pick Disease Type C,seizures,disease,phenotype,disease_phenotype_positive,40663813,in_kg,C0036572,,,
+400,accumulation of cholesterol,NPC1,phenotype,protein/gene,phenotype_protein,40663813,C5436605,in_kg,,,
+401,accumulation of cholesterol,NPC2,phenotype,protein/gene,phenotype_protein,40663813,C5436605,in_kg,,,
+402,accumulation of cholesterol,liver,pathology,anatomy,pathology_anatomy_present,40663813,C5436605,in_kg,,,
+403,accumulation of cholesterol,spleen,pathology,anatomy,pathology_anatomy_present,40663813,C5436605,in_kg,,,
+404,accumulation of cholesterol,central nervous system,pathology,anatomy,pathology_anatomy_present,40663813,C5436605,in_kg,,,
+406,arimoclomol,TFE3,drug,protein/gene,drug_protein,40663813,in_kg,in_kg,,,
+410,disease severity,NPC1,phenotype,protein/gene,phenotype_protein,38131230,C3494263,in_kg,,,
+411,disease severity,NPC1,phenotype,protein/gene,phenotype_protein,38131230,C3494263,in_kg,,,
+412,7-ketocholesterol,NPC1,phenotype,protein/gene,phenotype_protein,38131230,C0049920|C5826780,in_kg,Abnormal circulating 7-dehydrocholesterol concentration,,Abnormal circulating 7-dehydrocholesterol concentration
+418,Niemann-Pick Disease Type C,early infantile onset,disease,phenotype,disease_phenotype_positive,36243834,in_kg,C1833430|C5676635,,Early young adult onset,Early young adult onset
+420,Niemann-Pick Disease Type C,juvenile onset,disease,phenotype,disease_phenotype_positive,36243834,in_kg,in_kg,,,
+422,Niemann-Pick Disease Type C,neurological symptoms,disease,phenotype,disease_phenotype_positive,36243834,in_kg,C0235031,,,
+423,miglustat,Niemann-Pick Disease Type C,drug,disease,indication,36243834,in_kg,in_kg,,,
+424,miglustat,course of the disease,drug,phenotype,drug_effect,36243834,in_kg,C1820861,,,
+426,Niemann-Pick Disease Type C,neurological manifestations,disease,phenotype,disease_phenotype_positive,36243834,in_kg,C0027854,,,
+448,neurodegenerative disorder,Niemann-Pick disease type C,disease,disease,disease_disease,37429811,C0524851,in_kg,,,
+449,Niemann-Pick disease type C,acute liver failure,disease,phenotype,disease_phenotype_positive,37429811,in_kg,C0162557,,Acute hepatic failure,Acute hepatic failure
+451,Niemann-Pick disease type C,inflammatory bowel disease,disease,phenotype,disease_phenotype_positive,37429811,in_kg,in_kg,,,
+454,Niemann-Pick disease type C,neurological delay,disease,phenotype,disease_phenotype_positive,37429811,in_kg,C4062897,,,
+456,Niemann-Pick disease type C,vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,37429811,in_kg,in_kg,,,
+457,Niemann-Pick disease type C,foam cells,disease,phenotype,disease_phenotype_positive,37429811,in_kg,in_kg,,,
+460,Niemann-Pick disease type C,anal fissure,disease,phenotype,disease_phenotype_positive,37429811,in_kg,in_kg,,,
+461,Niemann-Pick disease type C,skin tag,disease,phenotype,disease_phenotype_positive,37429811,in_kg,in_kg,,,
+462,Niemann-Pick disease type C,diarrhea,disease,phenotype,disease_phenotype_positive,37429811,in_kg,C0011991,,,
+463,Niemann-Pick disease type C,broken hepatocytes,disease,phenotype,disease_phenotype_positive,37429811,in_kg,C5826610,,Vacuolated hepatocytes,Vacuolated hepatocytes
+471,Niemann-Pick disease type C,lipid storage disorder,disease,disease,disease_disease,40221338,in_kg,C1410111|C5848057,,neutral lipid storage disease,neutral lipid storage disease
+472,Niemann-Pick disease type C,cerebellar ataxia,disease,phenotype,disease_phenotype_positive,40221338,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+474,Niemann-Pick disease type C,chronic neurodegeneration,disease,phenotype,disease_phenotype_positive,40221338,in_kg,C1854838,,Progressive neurologic deterioration,Progressive neurologic deterioration
+477,Niemann-Pick disease type C,dysarthria,disease,phenotype,disease_phenotype_positive,40221338,in_kg,in_kg,,,
+478,Niemann-Pick disease type C,movement disorder,disease,phenotype,disease_phenotype_positive,40221338,in_kg,in_kg,,,
+479,Niemann-Pick disease type C,dystonia,disease,phenotype,disease_phenotype_positive,40221338,in_kg,in_kg,,,
+480,Niemann-Pick disease type C,parkinsonism,disease,phenotype,disease_phenotype_positive,40221338,in_kg,in_kg,,,
+482,Niemann-Pick disease type C,Huntington disease-like,disease,phenotype,disease_phenotype_positive,40221338,in_kg,in_kg,,,
+483,Miglustat,Niemann-Pick disease type C,drug,disease,indication,40221338,in_kg,in_kg,,,
+485,Miglustat,stabilized coginitive decline,drug,phenotype,drug_effect,40221338,in_kg,C1856565,,Progressive psychomotor deterioration,Progressive psychomotor deterioration
+487,Niemann-Pick disease type C,Lysosomal storage diseases,disease,disease,disease_disease,36356931,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+488,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,36356931,in_kg,in_kg,,,
+489,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,36356931,in_kg,in_kg,,,
+490,2-hydroxypropyl-b-cyclodextrin,Niemann-Pick disease type C,drug,disease,indication,36356931,C0046237,in_kg,,,
+492,Niemann-Pick disease type C,Seizures,disease,phenotype,disease_phenotype_positive,36356931,in_kg,C0036572,,,
+493,Cholesterol transport,NPC1,biological_process,protein/gene,bioprocess_protein,36356931,in_kg,in_kg,,,
+496,Lysosomal storage disorder,NPC1,disease,protein/gene,phenotype_protein,37054918,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+497,Thrombocytopenia,NPC1,phenotype,protein/gene,phenotype_protein,37054918,in_kg,in_kg,,,
+500,Arterial thrombosis,NPC1,disease,protein/gene,disease_protein,37054918,in_kg,in_kg,,,
+502,Myocardial ischemia,NPC1,disease,protein/gene,disease_protein,37054918,in_kg,in_kg,,,
+503,Cerebral ischemia,NPC1,disease,protein/gene,disease_protein,37054918,in_kg,in_kg,,,
+513,2-hydroxypropyl-b-cyclodextrin,Hearing loss,drug,phenotype,drug_effect,38448301,C0046237,C0018772,,,
+514,Miglustat,Neurological symptoms,drug,phenotype,drug_effect,38448301,in_kg,C0235031,,,
+519,Motor impairments,NPC1,phenotype,protein/gene,phenotype_protein,39630885,C4025360|C5436522,in_kg,Functional motor deficit,,Functional motor deficit
+525,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+526,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+527,Niemann-Pick disease type C,CCDC115,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+528,Niemann-Pick disease type C,SLC4A5,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+529,Niemann-Pick disease type C,DEPDC5,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+530,Niemann-Pick disease type C,ETFDH,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+531,Niemann-Pick disease type C,SNRNP200,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+532,Niemann-Pick disease type C,DOCK1,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+533,Niemann-Pick disease type C,neurological involvement,disease,protein/gene,disease_protein,40504793,in_kg,C4283760,,,
+534,Niemann-Pick disease type C,SLC4A5,disease,protein/gene,disease_protein,40504793,in_kg,in_kg,,,
+535,Niemann-Pick disease type C,Hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,40504793,in_kg,in_kg,,,
+536,Niemann-Pick disease type C,Jaundice,disease,phenotype,disease_phenotype_positive,40504793,in_kg,in_kg,,,
+537,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,40504793,in_kg,in_kg,,,
+538,Niemann-Pick disease type C,Ataxia,disease,phenotype,disease_phenotype_positive,40504793,in_kg,in_kg,,,
+555,Liver,CD68,anatomy,protein/gene,anatomy_protein_present,36265573,in_kg,in_kg,,,
+561,autosomal recessive neurodegenerative disease,Niemann-Pick disease type C,disease,disease,disease_disease,37989569,C1858114|C2751842,in_kg,autosomal recessive Parkinson disease,,autosomal recessive Parkinson disease
+562,parkinsonism,NPC1,phenotype,protein/gene,phenotype_protein,37989569,in_kg,in_kg,,,
+563,dementia,NPC1,phenotype,protein/gene,phenotype_protein,37989569,in_kg,in_kg,,,
+567,psychiatric symptoms,NPC1,phenotype,protein/gene,phenotype_protein,34420959,C0233401,in_kg,,,
+568,psychiatric symptoms,NPC2,phenotype,protein/gene,phenotype_protein,34420959,C0233401,in_kg,,,
+574,bone marrow,Foam cells,anatomy,pathology,anatomy_protein_present,35038048,in_kg,in_kg,,,
+575,liver,Foam cells,anatomy,pathology,anatomy_protein_present,35038048,in_kg,in_kg,,,
+576,spleen biospies,Foam cells,anatomy,pathology,anatomy_protein_present,35038048,C0037993,in_kg,spleen,,spleen
+618,β-cyclodextrin,Accumulation of unesterified cholesterol,drug,phenotype,drug_effect,36447062,C0046237,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+625,mitochondrial function,NPC1,biological_process,protein/gene,bioprocess_protein,36447062,C5574978,in_kg,,,
+629,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,36182715,in_kg,in_kg,,,
+630,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,36182715,in_kg,in_kg,,,
+632,Niemann-Pick Disease Type C,progressive neurodegeneration,disease,phenotype,disease_phenotype_positive,36182715,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+633,Niemann-Pick Disease Type C,hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,36182715,in_kg,in_kg,,,
+634,Niemann-Pick Disease Type C,accumulation of unesterified cholesterol,disease,phenotype,disease_phenotype_positive,36182715,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+639,Niemann-Pick Disease Type C,high level of unesrerified cholesterol,disease,phenotype,disease_phenotype_positive,36182715,in_kg,C1291155,,Elevated cholesterol ester level,Elevated cholesterol ester level
+640,Niemann-Pick Disease Type C,low levels of esterified cholesterols,disease,phenotype,disease_phenotype_positive,36182715,in_kg,C1857956,,"low density lipoprotein cholesterol, mild elevation of","low density lipoprotein cholesterol, mild elevation of"
+641,Niemann-Pick Disease Type C,low levels of long-chain fatty acids,disease,phenotype,disease_phenotype_positive,36182715,in_kg,C3279397,,Very long chain fatty acid accumulation,Very long chain fatty acid accumulation
+652,2-hydroxypropyl-β-cyclodextrin,cholesterol metabolism,drug,phenotype,drug_bioprocess,36279795,C0046237,C1156530,,,
+657,2-hydroxypropyl-β-cyclodextrin,hypersensitivity pneumonitis,drug,phenotype,drug_effect,36279795,C0046237,in_kg,,,
+658,2-hydroxypropyl-β-cyclodextrin,hearing loss,drug,phenotype,drug_effect,36279795,C0046237,C0018772,,,
+664,cholesterol homeostasis,NPC1,biological_process,protein/gene, bioprocess_protein,37602789,in_kg,in_kg,,,
+665,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,40026274,in_kg,in_kg,,,
+666,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,40026274,in_kg,in_kg,,,
+671,Niemann-Pick disease type C,Splenomegaly,disease,phenotype,disease_phenotype_positive,40026274,in_kg,in_kg,,,
+672,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,40026274,in_kg,in_kg,,,
+690,lysosomal storage disorder,Niemann-Pick Disease Type C,disease,disease,disease_disease,34993563,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+691,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34993563,in_kg,in_kg,,,
+692,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34993563,in_kg,in_kg,,,
+704,Niemann-Pick Disease Type C,eye movement abnormalities,disease,phenotype,disease_phenotype_positive,34993563,in_kg,C0497202,,Abnormality of eye movement,Abnormality of eye movement
+705,eye movement abnormalities,vertical supranuclear gaze palsy,phenotype,phenotype,phenotype_phenotype,34993563,C0497202,in_kg,Abnormality of eye movement,,Abnormality of eye movement
+706,eye movement abnormalities,vertical slow saccades,phenotype,phenotype,phenotype_phenotype,34993563,C0497202,C1856477|C4011795,Abnormality of eye movement,Slowed horizontal saccades,entity1:Abnormality of eye movement|entity2:Slowed horizontal saccades
+707,Niemann-Pick Disease Type C,ataxia,disease,phenotype,disease_phenotype_positive,34993563,in_kg,in_kg,,,
+708,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39102515,in_kg,in_kg,,,
+709,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,39102515,in_kg,in_kg,,,
+710,Infertility,NPC1,phenotype,protein/gene,phenotype_protein,39102515,in_kg,in_kg,,,
+718,inborn error of metabolism,Niemann-Pick Disease Type C,disease,disease,disease_disease,35487270,C0025521,in_kg,inborn errors of metabolism,,inborn errors of metabolism
+719,lysosomal storage disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,35487270,in_kg,in_kg,,,
+723,Niemann-Pick Disease Type C,visceral symptoms,disease,phenotype,disease_phenotype_positive,35487270,in_kg,C1405869,,,
+724,Niemann-Pick Disease Type C,neurological symptoms,disease,phenotype,disease_phenotype_positive,35487270,in_kg,C0235031,,,
+736,cholesterol transport,NPC1,biological_process,protein/gene, bioprocess_protein,37032242,in_kg,in_kg,,,
+737,Niemann-Pick disease type C,lysosomal storage disorder,disease,phenotype,disease_phenotype_positive,37032242,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+740,Niemann-Pick disease type C,synucleinopathies,disease,disease,disease_disease,37032242,in_kg,C5191670,,synucleinopathy,synucleinopathy
+741,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,37032242,in_kg,in_kg,,,
+742,Niemann-Pick disease type C,lysosomal storage disorder,disease,disease,disease_disease,40898442,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+744,Niemann-Pick disease type C,miglustat,disease,drug,indication,40898442,in_kg,in_kg,,,
+745,Niemann-Pick disease type C,lipid storage disorder,disease,disease,disease_disease,40898442,in_kg,C1410111|C5848057,,neutral lipid storage disease,neutral lipid storage disease
+746,Niemann-Pick disease type C,progressive neurodegeneration,disease,phenotype,disease_phenotype_positive,40898442,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+749,Niemann-Pick disease type C,seizures,disease,phenotype,disease_phenotype_positive,40898442,in_kg,C0036572,,,
+751,Niemann-Pick disease type C,dystonia,disease,phenotype,disease_phenotype_positive,40898442,in_kg,in_kg,,,
+752,Niemann-Pick disease type C,spasticity,disease,phenotype,disease_phenotype_positive,40898442,in_kg,in_kg,,,
+753,Niemann-Pick disease type C,psychotic symptoms,disease,phenotype,disease_phenotype_positive,38581830,in_kg,C0871189,,,
+754,autoimmune encephalitis,psychotic symptoms,disease,phenotype,disease_phenotype_positive,38581830,in_kg,C0871189,,,
+759,Niemann-Pick disease type C,neurodegenerative disorder,disease,disease,disease_disease,38581830,in_kg,C0524851,,,
+761,Niemann-Pick disease type C,mood symptoms,disease,phenotype,disease_phenotype_positive,38581830,in_kg,C2232697,,,
+768,miglustat,Gaucher disease,drug,disease,indication,34304992,in_kg,in_kg,,,
+770,miglustat,GM1 gangliosidosis,drug,disease,off_label_use,34304992,in_kg,in_kg,,,
+781,Antipsychotics,Catatonia,drug,phenotype,drug_effect,39607035,C0040615,C0007398,,,
+782,Lamotrigine,Catatonia,drug,phenotype,indication,39607035,in_kg,C0007398,,,
+784,Lorazepam,Catatonia,drug,phenotype,indication,39607035,in_kg,C0007398,,,
+792,lorazepam,lamotrigine,drug,drug,drug_drug,39607035,in_kg,in_kg,,,
+804,Miglustat,low platelet count,drug,phenotype,drug_effect,39697013,in_kg,C0580317|C5201036,,Abnormal platelet count,Abnormal platelet count
+805,Miglustat,diarrhea,drug,phenotype,drug_effect,39697013,in_kg,C0011991,,,
+831,sphingolipidoses,7-ketocholesterol,disease,protein/gene,disease_protein,34303826,C0037899,C0049920|C5826780,sphingolipidosis,Abnormal circulating 7-dehydrocholesterol concentration,entity1:sphingolipidosis|entity2:Abnormal circulating 7-dehydrocholesterol concentration
+832,sphingolipidoses,chitotriosidase activity,disease,protein/gene,disease_protein,34303826,C0037899,C5937366,sphingolipidosis,Elevated circulating chitotriosidase activity,entity1:sphingolipidosis|entity2:Elevated circulating chitotriosidase activity
+848,neurodegenerative disorder,Niemann-Pick Disease Type C,disease,disease,disease_disease,38302739,C0524851,in_kg,,,
+849,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,38302739,in_kg,in_kg,,,
+856,miglustat,Niemann-Pick Disease Type C,drug,disease,indication,38302739,in_kg,in_kg,,,
+858,lysosomal storage disorder,Niemann-Pick Disease Type C,disease,disease,disease_disease,34526163,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+860,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,34526163,in_kg,in_kg,,,
+861,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34526163,in_kg,in_kg,,,
+862,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34526163,in_kg,in_kg,,,
+863,Niemann-Pick Disease Type C,acute liver failure,disease,phenotype,disease_phenotype_positive,34526163,in_kg,C0162557,,Acute hepatic failure,Acute hepatic failure
+864,Niemann-Pick Disease Type C,respiratory failure,disease,phenotype,disease_phenotype_positive,34526163,in_kg,in_kg,,,
+866,lysosomal disorder,Niemann-Pick Disease Type C,phenotype,disease,disease_phenotype_positive,35853348,C5681043|C5848368,in_kg,disorder of lysosomal-related organelles,,disorder of lysosomal-related organelles
+867,Niemann-Pick Disease Type C,cognitive impairment,disease,phenotype,disease_phenotype_positive,35853348,in_kg,in_kg,,,
+870,Niemann-Pick Disease Type C,backward leaning during gait,disease,phenotype,disease_phenotype_positive,35853348,in_kg,C4703572,,Difficulty walking backward,Difficulty walking backward
+871,Niemann-Pick Disease Type C,genetic condition,disease,disease,disease_disease,35853348,in_kg,C0019247|C0037277,,genetic skin disease,genetic skin disease
+872,Niemann-Pick Disease Type C,ataxia,disease,phenotype,disease_phenotype_positive,35853348,in_kg,in_kg,,,
+873,Niemann-Pick Disease Type C,myoclonus,disease,phenotype,disease_phenotype_positive,35853348,in_kg,in_kg,,,
+874,Niemann-Pick Disease Type C,dystonia presentations,disease,phenotype,disease_phenotype_positive,35853348,in_kg,C1848954,,Generalized dystonia,Generalized dystonia
+884,Niemann-Pick Disease Type C,grey matter loss in the thalami,disease,phenotype,disease_phenotype_positive,37612148,in_kg,C5826815,,Focal necrotic thalamus lesion,Focal necrotic thalamus lesion
+889,miglustat,Niemann-Pick Disease Type C,drug,disease,indication,34879185,in_kg,in_kg,,,
+890,miglustat,weight loss,drug,phenotype,drug_effect,34879185,in_kg,in_kg,,,
+891,miglustat,gastrointestinal alterations,drug,phenotype,drug_effect,34879185,in_kg,C5933904,,,
+892,Niemann-Pick Disease Type C,weight loss,disease,phenotype,disease_phenotype_positive,34879185,in_kg,in_kg,,,
+893,Niemann-Pick Disease Type C,gastrointestinal alterations,disease,phenotype,disease_phenotype_positive,34879185,in_kg,C5933904,,,
+895,Niemann-Pick Disease Type C,genetic disorder,disease,disease,disease_disease,34879185,in_kg,C0019247|C0037277,,genetic skin disease,genetic skin disease
+899,cholesterol,lysosomes,exposure,cellular_component,exposure_cellcomp,34879185,in_kg,C0024369,,,
+900,cholesterol,lysosomes,chemical,cellular_component,bioprocess_cellcompt,34879185,in_kg,C0024369,,,
+912,NPC2,NPC1,protein/gene,protein/gene,protein_protein,34455703,in_kg,in_kg,,,
+914,late endosomes,cholesterol accumulation,cellular_component,biological_process,cellcomp_bioprocess,34455703,C1166848,C5436605,,,
+918,Niemann-Pick Disease Type C,acute liver failure,disease,phenotype,disease_phenotype_positive,34455703,in_kg,C0162557,,Acute hepatic failure,Acute hepatic failure
+919,Niemann-Pick Disease Type C,supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,34455703,in_kg,in_kg,,,
+920,Niemann-Pick Disease Type C,loss of developmental milestones,disease,phenotype,disease_phenotype_positive,34455703,in_kg,C1836550,,,
+921,Niemann-Pick Disease Type C,cholestasis,disease,phenotype,disease_phenotype_positive,34455703,in_kg,in_kg,,,
+922,Niemann-Pick Disease Type C,rapid progression of neurologic disease,disease,phenotype,disease_phenotype_positive,34455703,in_kg,C1854838,,Progressive neurologic deterioration,Progressive neurologic deterioration
+927,miglustat,neurologic deterioration,drug,phenotype,drug_effect,34455703,in_kg,C1854838|C4024908,,Rapid neurologic deterioration,Rapid neurologic deterioration
+929,neurodegenerative lysosomal disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,35696615,C5680898,in_kg,lysosomal disease with epilepsy,,lysosomal disease with epilepsy
+931,miglustat,Niemann-Pick Disease Type C,drug,disease,indication,35696615,in_kg,in_kg,,,
+933,Niemann-Pick Disease Type C,ocular apraxia,disease,phenotype,disease_phenotype_positive,35696615,in_kg,C1142448|C4693319,,Eyelid apraxia,Eyelid apraxia
+934,Niemann-Pick Disease Type C,ataxia,disease,phenotype,disease_phenotype_positive,35696615,in_kg,in_kg,,,
+935,Niemann-Pick Disease Type C,seizures,disease,phenotype,disease_phenotype_positive,35696615,in_kg,C0036572,,,
+936,Niemann-Pick Disease Type C,dementia,disease,phenotype,disease_phenotype_positive,35696615,in_kg,in_kg,,,
+937,Niemann-Pick Disease Type C,dementia developed,disease,phenotype,disease_phenotype_positive,35696615,in_kg,C3278182,,,
+938,Niemann-Pick Disease Type C,psychiatric symptoms,disease,phenotype,disease_phenotype_positive,35696615,in_kg,C0233401,,,
+940,miglustat,suspiciousness,drug,phenotype,drug_effect,35696615,in_kg,C0233519,,,
+941,miglustat,delusions,drug,phenotype,drug_effect,35696615,in_kg,in_kg,,,
+944,Niemann-Pick Disease Type C,splenomegaly,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+945,Niemann-Pick Disease Type C,hepatomegaly,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+946,Niemann-Pick Disease Type C,hypotonia,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+947,Niemann-Pick Disease Type C,dystonia,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+949,Niemann-Pick Disease Type C,neurological manifestations,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C0027854,,,
+950,Niemann-Pick Disease Type C,dysmetria,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+951,Niemann-Pick Disease Type C,dysarthria,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+952,Niemann-Pick Disease Type C,dysphagia,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+953,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+954,Niemann-Pick Disease Type C,hearing loss,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C0018772,,,
+955,Niemann-Pick Disease Type C,schizophrenia,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+956,Niemann-Pick Disease Type C,depression,disease,phenotype,disease_phenotype_positive,36325261,in_kg,in_kg,,,
+957,Niemann-Pick Disease Type C,autosomal recessive lysosomal storage disease,disease,disease,disease_disease,36325261,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+958,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,36325261,in_kg,in_kg,,,
+959,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,36325261,in_kg,in_kg,,,
+965,cholesterol trafficking,NPC1,biological_process,protein/gene, bioprocess_protein,36325261,C5960876,in_kg,,,
+966,cholesterol trafficking,NPC2,biological_process,protein/gene, bioprocess_protein,36325261,C5960876,in_kg,,,
+967,cholesterol,lysosomes,exposure,cellular_component,exposure_cellcomp,36325261,in_kg,C0024369,,,
+978,nail-patella syndrome,LMX1B,disease,protein/gene,disease_protein,36325261,in_kg,in_kg,,,
+985,kidney,Niemann-Pick Disease Type C,anatomy,disease, anatomy_disease,36325261,in_kg,in_kg,,,
+986,medications,seizures,drug,phenotype,drug_effect,36325261,C4284232,C0036572,,,
+988,Fabry disease,lysosomal storage disease,disease,disease,disease_disease,36325261,in_kg,in_kg,,,
+990,Niemann-Pick Disease Type C,neurovisceral symptoms,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C1867971,,Acute episodes of neuropathic symptoms,Acute episodes of neuropathic symptoms
+995,Niemann-Pick Disease Type C,buildup of endocytic in dystrophic axons,disease,phenotype,disease_phenotype_positive,34085599,in_kg,C5826770,,Peripheral axon spheroid formation,Peripheral axon spheroid formation
+1002,Niemann-Pick disease type C,neurodegenerative lysosomal storage disorder,disease,phenotype,disease_phenotype_positive,34085599,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+1003,Niemann-Pick Disease Type C,lysosomal storage disease,disease,disease,disease_disease,34086834,in_kg,in_kg,,,
+1004,Niemann-Pick Disease Type C,hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,34086834,in_kg,in_kg,,,
+1005,Niemann-Pick Disease Type C,ataxia,disease,phenotype,disease_phenotype_positive,34086834,in_kg,in_kg,,,
+1006,Niemann-Pick Disease Type C,dysarthria,disease,phenotype,disease_phenotype_positive,34086834,in_kg,in_kg,,,
+1007,Niemann-Pick Disease Type C,dementia,disease,phenotype,disease_phenotype_positive,34086834,in_kg,in_kg,,,
+1008,Niemann-Pick Disease Type C,cataplexy,disease,phenotype,disease_phenotype_positive,34086834,in_kg,in_kg,,,
+1011,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease,phenotype, bioprocess_protein,34086834,in_kg,in_kg,,,
+1014,Niemann-Pick Disease Type C,intensive blinking,disease,phenotype,disease_phenotype_positive,34086834,in_kg,C5826653,,Abnormal blink rate,Abnormal blink rate
+1019,Niemann-Pick Disease Type C,saccadic impairment,disease,phenotype,disease_phenotype_positive,34086834,in_kg,C1842584,,,
+1024,Niemann-Pick Disease Type C,decreased vertical saccades peak velocity,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1856477,,Slowed horizontal saccades,Slowed horizontal saccades
+1025,Niemann-Pick Disease Type C,lowered smooth pursuit gain,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1837458,,Impaired smooth pursuit,Impaired smooth pursuit
+1026,Niemann-Pick Disease Type C,impaired vertical upward and downward saccades,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C4732803,,Dysmetric vertical saccades,Dysmetric vertical saccades
+1027,Niemann-Pick Disease Type C,altered horizontal saccadic peak velocity and latency,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1856477,,Slowed horizontal saccades,Slowed horizontal saccades
+1028,Niemann-Pick Disease Type C,altered vertical saccadic duration and amplitude,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1321329,,Slow saccadic eye movements,Slow saccadic eye movements
+1029,Niemann-Pick Disease Type C,altered horizontal position smooth pursuit,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1866753,,Impaired horizontal smooth pursuit,Impaired horizontal smooth pursuit
+1030,Niemann-Pick Disease Type C,compensating strategies,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C4718647,,,
+1031,Niemann-Pick Disease Type C,blinks to elicit saccades,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C0423083,,Hypermetric saccades,Hypermetric saccades
+1032,Niemann-Pick Disease Type C,head and upper body movements,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C0476217,,Abnormal head movements,Abnormal head movements
+1033,Niemann-Pick Disease Type C,impaired vertical reflexive saccades,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C4732803,,Dysmetric vertical saccades,Dysmetric vertical saccades
+1034,Niemann-Pick disease type C,vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,34096670,in_kg,in_kg,,,
+1037,Niemann-Pick disease type C,lysosomal storage disorder,disease,phenotype,disease_phenotype_positive,34138521,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+1038,Niemann-Pick disease type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,34138521,in_kg,in_kg,,,
+1040,NPC1,accumulation of unesterified cholesterol,protein/gene,phenotype,phenotype_protein,34138521,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+1041,NPC2,accumulation of unesterified cholesterol,protein/gene,phenotype,phenotype_protein,34138521,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+1042,NPC1,accumulation of sphingolipids,protein/gene,phenotype,phenotype_protein,34138521,in_kg,C3279448,,,
+1043,NPC2,accumulation of sphingolipids,protein/gene,phenotype,phenotype_protein,34138521,in_kg,C3279448,,,
+1046,Niemann-Pick disease type C,hepatic inflammation,disease,phenotype,disease_phenotype_positive,34138521,in_kg,C3275700,,,
+1047,Niemann-Pick disease type C,hepatocellular carcinoma,disease,disease,disease_disease,34138521,in_kg,in_kg,,,
+1048,Niemann-Pick disease type C,abdominal pain,disease,phenotype,disease_phenotype_positive,34138521,in_kg,in_kg,,,
+1057,miglustat,2-hydroxypropyl-beta-cyclodextrin,drug,drug,drug_drug,34150357,in_kg,C0046237,,,
+1093,NPC1,lysosomal membrane,protein/gene,cellular_component,cellcomp_protein,34290407,in_kg,in_kg,,,
+1110,2-hydroxypropyl-β-cyclodextrin,cholesterol biosynthesis,drug,biological_process,drug_bioprocess,34296265,C0046237,in_kg,,,
+1111,2-hydroxypropyl-β-cyclodextrin,lipid biosynthesis,drug,biological_process,drug_bioprocess,34296265,C0046237,C1563744,,,
+1118,lipid biosynthesis,GPNMB,pathway,protein/gene,pathway_protein,34296265,C1563744,in_kg,,,
+1119,cholesterol biosynthesis,GPNMB,pathway,protein/gene,pathway_protein,34296265,in_kg,in_kg,,,
+1141,lysosomal,NPC1,cellular_component,protein/gene,cellcomp_protein,34407999,C0521450,in_kg,,,
+1201,arimoclomol,urticaria,drug,phenotype,drug_effect,34418116,in_kg,in_kg,,,
+1202,arimoclomol,angioedema,drug,phenotype,drug_effect,34418116,in_kg,in_kg,,,
+1212,arimoclomol,heat shock response,drug,biological_process,drug_effect,34418116,in_kg,C0282498,,response to heat,response to heat
+1272,Telmisartan,cholesterol accumulation,drug,phenotype,drug_effect,34502342,in_kg,C5436605,,,
+1273,Telmisartan,intracellular cholesterol transport,drug,biological_process,drug_bioprocess,34502342,in_kg,in_kg,,,
+1295,lysosomal cholesterol transporter,NPC1,molecular_function,protein/gene,molfunc_protein,34580197,C2755531,in_kg,lysosome to ER cholesterol transport,,lysosome to ER cholesterol transport
+1320,accumulation of unesterified cholesterol,NPC1,phenotype,protein/gene,phenotype_protein,34592985,C3553603|C5937001,in_kg,Unesterified cholesterol accumulation in cultured fibroblasts,,Unesterified cholesterol accumulation in cultured fibroblasts
+1326,2-hydroxypropyl-β-cyclodextrin,cholesterol storage,drug,phenotype,drug_effect,34592985,C0046237,in_kg,,,
+1328,2-hydroxypropyl-β-cyclodextrin,axonal trafficking defects,drug,phenotype,drug_effect,34592985,C0046237,C4025830,,Peripheral axonal degeneration,Peripheral axonal degeneration
+1332,Niemann-Pick Disease Type C,autosomal recessive lysosomal storage disorder,disease,disease,disease_disease,34682919,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+1333,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34682919,in_kg,in_kg,,,
+1334,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34682919,in_kg,in_kg,,,
+1335,Niemann-Pick Disease Type C,visceral involvement,disease,phenotype,disease_phenotype_positive,34682919,in_kg,C5960196,,,
+1336,Niemann-Pick Disease Type C,neurological involvement,disease,phenotype,disease_phenotype_positive,34682919,in_kg,C4283760,,,
+1337,neurological disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,34682919,C0027765|C0027881,in_kg,neuronitis,,neuronitis
+1340,rare neurovisceral lipid storage disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,34720883,C5848057,in_kg,neutral lipid storage disease,,neutral lipid storage disease
+1341,Niemann-Pick Disease Type C,progressive neurodegeneration,disease,disease,disease_disease,34720883,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+1342,Niemann-Pick Disease Type C,premature death,disease,phenotype,disease_phenotype_positive,34720883,in_kg,C1855073,,,
+1343,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34720883,in_kg,in_kg,,,
+1344,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34720883,in_kg,in_kg,,,
+1350,choriod plexus,NPC1,anatomy,protein/gene,anatomy_protein_present,34720883,C0008524,in_kg,choroid plexus,,choroid plexus
+1351,increase in inflammatory gene expression,NPC1,phenotype,protein/gene,phenotype_protein,34720883,C4022803,in_kg,Increased inflammatory response,,Increased inflammatory response
+1355,brain tissue,NPC1,anatomy,protein/gene,anatomy_protein_present,34720883,C0006104|C0440746,in_kg,brain,,brain
+1359,cerebellum,NPC1,anatomy,protein/gene,anatomy_protein_present,34720883,in_kg,in_kg,,,
+1360,thalamus,NPC1,anatomy,protein/gene,anatomy_protein_present,34720883,C0039729,in_kg,,,
+1363,Niemann-Pick Disease Type C,catatonia,disease,phenotype,disease_phenotype_positive,34744838,in_kg,C0007398,,,
+1370,Niemann-Pick Disease Type C,neurological symptoms,disease,phenotype,disease_phenotype_positive,34744838,in_kg,C0235031,,,
+1376,Niemann-Pick Disease Type C,cognition,disease,phenotype,disease_phenotype_positive,34794481,in_kg,in_kg,,,
+1377,Niemann-Pick Disease Type C,fine motor,disease,phenotype,disease_phenotype_positive,34794481,in_kg,C0556281|C1867864,,Poor fine motor coordination,Poor fine motor coordination
+1380,autosomal recessive disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,34799641,C4749826,in_kg,,,
+1381,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34799641,in_kg,in_kg,,,
+1382,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34799641,in_kg,in_kg,,,
+1386,Niemann-Pick Disease Type C,infantile onset,disease,phenotype,disease_phenotype_positive,34799641,in_kg,in_kg,,,
+1407,Niemann-Pick Disease Type C,cognition,disease,phenotype,disease_phenotype_positive,34819124,in_kg,in_kg,,,
+1408,Niemann-Pick Disease Type C,impaired activities of daily living,disease,phenotype,disease_phenotype_positive,34819124,in_kg,C0740765|C4476938,,Impairment of activities of daily living,Impairment of activities of daily living
+1409,Niemann-Pick Disease Type C,impaired health-related quality of life,disease,phenotype,disease_phenotype_positive,34819124,in_kg,C5539750,,Diminished health-related quality of life,Diminished health-related quality of life
+1411,Niemann-Pick Disease Type C,loss of enjoyment in activities,disease,phenotype,disease_phenotype_positive,34819124,in_kg,C1562291|C3665346,,Visual loss,Visual loss
+1412,Niemann-Pick Disease Type C,worry,disease,phenotype,disease_phenotype_positive,34819124,in_kg,C0233481,,,
+1413,Niemann-Pick Disease Type C,sadness,disease,phenotype,disease_phenotype_positive,34819124,in_kg,C3536794,,,
+1432,protein aggregates,CD22,molecular_function,protein/gene,molfunc_protein,34851695,C3850144,in_kg,,,
+1434,cognitive function,CD22,phenotype,protein/gene,phenotype_protein,34851695,C0009240|C0392335,in_kg,cognition,,cognition
+1444,intracellular cholesterol,fibroblasts,cellular_component,molecular_function,cellcomp_cellcomp,34830064,C1819279,C0016030|C1326347,,fibroblast proliferation,fibroblast proliferation
+1446,lysosomes,NPC1,cellular_component,protein/gene,cellcomp_protein,34830064,C0024369,in_kg,,,
+1455,neurovisceral lipid storage disease,Niemann-Pick Disease Type C,disease,disease,disease_disease,34944681,C5848057,in_kg,neutral lipid storage disease,,neutral lipid storage disease
+1456,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34944681,in_kg,in_kg,,,
+1457,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34944681,in_kg,in_kg,,,
+1458,Niemann-Pick Disease Type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,34944681,in_kg,in_kg,,,
+1459,Niemann-Pick Disease Type C,premature death,disease,phenotype,disease_phenotype_positive,34944681,in_kg,C1855073,,,
+1462,Niemann-Pick Disease Type C,neuroinflammation,disease,phenotype,disease_phenotype_positive,34944681,in_kg,in_kg,,,
+1471,Niemann-Pick Disease Type C,inherited neurodegenerative disorder,disease,phenotype,disease_phenotype_positive,34948052,in_kg,in_kg,,,
+1472,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,34948052,in_kg,in_kg,,,
+1473,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,34948052,in_kg,in_kg,,,
+1474,Niemann-Pick Disease Type C,accumulation of intracellular cholesterol,disease,phenotype,disease_phenotype_positive,34948052,in_kg,C3553603,,,
+1479,proteolysis,BACE1,biological_process,protein/gene,bioprocess_protein,34948052,in_kg,in_kg,,,
+1481,neuronal processes,Vps35,cellular_component,protein/gene,cellcomp_protein,34948052,C1849725,in_kg,,,
+1484,axonal swellings,Vps35,cellular_component,protein/gene,cellcomp_protein,34948052,C2750221,in_kg,,,
+1499,splenomegaly,hematopoietic cells,phenotype,cellular_component,phenotype_cellcomp,35007562,in_kg,C0018956,,,
+1502,mild neutrophilia.,NPC1,phenotype,protein/gene,phenotype_protein,35007562,C0856003,in_kg,Abnormal neutrophil morphology,,Abnormal neutrophil morphology
+1516,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,35016719,in_kg,in_kg,,,
+1517,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,35016719,in_kg,in_kg,,,
+1520,Niemann-Pick Disease Type C,Peripheral neuropathy,disease,phenotype,disease_phenotype_positive,35016719,in_kg,in_kg,,,
+1521,Niemann-Pick Disease Type C,neurologic deterioration,disease,phenotype,disease_phenotype_positive,35016719,in_kg,C1854838|C4024908,,Rapid neurologic deterioration,Rapid neurologic deterioration
+1522,Niemann-Pick Disease Type C,splenomegaly,disease,phenotype,disease_phenotype_positive,35016719,in_kg,in_kg,,,
+1523,Niemann-Pick Disease Type C,jaundice,disease,phenotype,disease_phenotype_positive,35016719,in_kg,in_kg,,,
+1524,Niemann-Pick Disease Type C,elevated liver enzymes,disease,phenotype,disease_phenotype_positive,35016719,in_kg,C5775630|C5826587,,Abnormal liver enzyme activity or concentration,Abnormal liver enzyme activity or concentration
+1526,Niemann-Pick Disease Type C,failure to thrive,disease,phenotype,disease_phenotype_positive,35016719,in_kg,in_kg,,,
+1527,Niemann-Pick Disease Type C,mildly delayed myelination,disease,phenotype,disease_phenotype_positive,35016719,in_kg,C1277241,,Delayed myelination,Delayed myelination
+1528,kidneys,Niemann-Pick Disease,anatomy,disease,anatomy_disease,35016719,C0022646|C0227665,in_kg,kidney,,kidney
+1529,spleen,Niemann-Pick Disease,anatomy,disease,anatomy_disease,35016719,in_kg,in_kg,,,
+1530,liver,Niemann-Pick Disease,anatomy,disease,anatomy_disease,35016719,in_kg,in_kg,,,
+1531,brain,Niemann-Pick Disease,anatomy,disease,anatomy_disease,35016719,in_kg,in_kg,,,
+1532,nerves,Niemann-Pick Disease,anatomy,disease,anatomy_disease,35016719,C0027740,in_kg,nerve,,nerve
+1533,Niemann-Pick Disease Type C,nonspecific periventricular hypersignal intensity,disease,phenotype,disease_phenotype_positive,35016719,in_kg,C4022658,,Punctate periventricular T2 hyperintense foci,Punctate periventricular T2 hyperintense foci
+1536,Niemann-Pick disease type C,neurologic symptoms,disease,phenotype,disease_phenotype_positive,36199263,in_kg,C0235031,,,
+1537,Niemann-Pick disease type C,cataplexy,disease,phenotype,disease_phenotype_positive,36199263,in_kg,in_kg,,,
+1544,Niemann-Pick disease type C,hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,36199263,in_kg,in_kg,,,
+1545,Niemann-Pick disease type C,progressive neurologic dysfunction,disease,phenotype,disease_phenotype_positive,36199263,in_kg,C1854838|C4013375,,Progressive neurologic deterioration,Progressive neurologic deterioration
+1546,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,36199263,in_kg,in_kg,,,
+1547,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,36199263,in_kg,in_kg,,,
+1548,liver,NPC1,anatomy,protein/gene,anatomy_protein_present,36199263,in_kg,in_kg,,,
+1549,liver,NPC2,anatomy,protein/gene,anatomy_protein_present,36199263,in_kg,in_kg,,,
+1550,spleen,NPC1,anatomy,protein/gene,anatomy_protein_present,36199263,in_kg,in_kg,,,
+1551,spleen,NPC2,anatomy,protein/gene,anatomy_protein_present,36199263,in_kg,in_kg,,,
+1554,membrane,NPC1,cellular_component,protein/gene,cellcomp_protein,36199263,in_kg,in_kg,,,
+1557,Niemann-Pick disease type C,cerebellar ataxia,disease,phenotype,disease_phenotype_positive,36199263,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+1559,Niemann-Pick disease type C,dystonia,disease,phenotype,disease_phenotype_positive,36199263,in_kg,in_kg,,,
+1560,Niemann-Pick disease type C,pyramidal features,disease,phenotype,disease_phenotype_positive,36199263,in_kg,C1843174,,,
+1561,Niemann-Pick disease type C,seizures,disease,phenotype,disease_phenotype_positive,36199263,in_kg,C0036572,,,
+1563,Niemann-Pick disease type C,epilepsy,disease,phenotype,disease_phenotype_positive,36199263,in_kg,in_kg,,,
+1565,Niemann-Pick disease type C,dysarthria,disease,phenotype,disease_phenotype_positive,36199263,in_kg,in_kg,,,
+1570,deep brain signs,ataxia,phenotype,phenotype,phenotype_phenotype,36199263,C5706186,in_kg,White cerebellum sign,,White cerebellum sign
+1572,deep brain signs,dysarthria,phenotype,phenotype,phenotype_phenotype,36199263,C5706186,in_kg,White cerebellum sign,,White cerebellum sign
+1573,deep brain signs,cataplexy,phenotype,phenotype,phenotype_phenotype,36199263,C5706186,in_kg,White cerebellum sign,,White cerebellum sign
+1574,Niemann-Pick disease type C,rare lysosomal neurovisceral storage disease,disease,disease,disease_disease,35086560,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+1590,Niemann-Pick disease type C,accumulation of intracellular free cholesterol,disease,phenotype,disease_phenotype_positive,35086560,in_kg,C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+1597,arimoclomol,neurological disorders,drug,disease,indication,35140266,in_kg,C0027765|C0497552,,congenital nervous system disorder,congenital nervous system disorder
+1619,cholesterol accumulation,NPC1,phenotype,protein/gene,phenotype_protein,35159316,C5436605,in_kg,,,
+1620,cholesterol accumulation,NPC2,phenotype,protein/gene,phenotype_protein,35159316,C5436605,in_kg,,,
+1635,cholesterol accumulation,NPC1,phenotype,protein/gene,phenotype_protein,35159129,C5436605,in_kg,,,
+1644,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,35164809,in_kg,in_kg,,,
+1646,Niemann-Pick disease type C,hepatomegaly,disease,phenotype,disease_phenotype_positive,35164809,in_kg,in_kg,,,
+1647,Niemann-Pick disease type C,neonatal jaundice,disease,phenotype,disease_phenotype_positive,35164809,in_kg,in_kg,,,
+1648,Niemann-Pick disease type C,splenomegaly,disease,phenotype,disease_phenotype_positive,35164809,in_kg,in_kg,,,
+1649,neurological manifestations,cognitive impairment,phenotype,phenotype,phenotype_phenotype,35164809,C0027854,in_kg,,,
+1650,neurological manifestations,dysarthria,phenotype,phenotype,phenotype_phenotype,35164809,C0027854,in_kg,,,
+1651,neurological manifestations,ataxia,phenotype,phenotype,phenotype_phenotype,35164809,C0027854,in_kg,,,
+1652,neurological manifestations,vertical supranuclear gaze palsy,phenotype,phenotype,phenotype_phenotype,35164809,C0027854,in_kg,,,
+1653,neurological manifestations,dysphagia,phenotype,phenotype,phenotype_phenotype,35164809,C0027854,in_kg,,,
+1664,mTOR,lipid biosynthesis,protein/gene,biological_process,bioprocess_protein,40972529,in_kg,C1563744,,,
+1667,low-density lipoprotein receptor,low-density lipoprotein receptor-related protein 6,protein/gene,protein/gene,protein_protein,40972529,C0034821,C1701019,,,
+1707,Niemann-Pick disease type C,neuro-visceral lipid storage disease,disease,disease,disease_disease,35455589,in_kg,C5848057,,neutral lipid storage disease,neutral lipid storage disease
+1710,Niemann-Pick disease type C,elevated alpha-fetoprotein level,disease,phenotype,disease_phenotype_positive,35455589,in_kg,C0235971|C1275870,,Elevated alpha-fetoprotein,Elevated alpha-fetoprotein
+1711,liver disease,elevated alpha-fetoprotein level,disease,phenotype,disease_protein,35455589,C0023895,C0235971|C1275870,,Elevated alpha-fetoprotein,Elevated alpha-fetoprotein
+1733,NPC2,lysosomes,protein/gene,cellular_component,cellcomp_protein,35554935,in_kg,C0024369,,,
+1759,Mgat5,beam walk latency,protein/gene,phenotype,phenotype_protein,35563467,in_kg,C1854301,,Motor delay,Motor delay
+1796,Niemann-Pick disease type C,lysosomal disorder,disease,disease,disease_disease,35892469,in_kg,C5681043|C5848368,,disorder of lysosomal-related organelles,disorder of lysosomal-related organelles
+1798,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,35892469,in_kg,in_kg,,,
+1799,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,35892469,in_kg,in_kg,,,
+1800,Niemann-Pick disease type C,chitotriosidase activity,disease,phenotype,disease_phenotype_positive,35892469,in_kg,C5937366,,Elevated circulating chitotriosidase activity,Elevated circulating chitotriosidase activity
+1801,Niemann-Pick disease Type C,NPC1,disease,protein/gene,disease_protein,35892469,in_kg,in_kg,,,
+1802,Niemann-Pick disease Type C,NPC2,disease,protein/gene,disease_protein,35892469,in_kg,in_kg,,,
+1807,NPC1,Ferroptosis,protein/gene,biological_process, bioprocess_protein,36936782,in_kg,in_kg,,,
+1821,Bradykinesia,Falls,phenotype,phenotype,phenotype_phenotype,35945383,in_kg,in_kg,,,
+1825,levodopa,dyskinesia,phenotype,phenotype,phenotype_phenotype,35945383,in_kg,in_kg,,,
+1837,Niemann-Pick disease,acid sphingomyelinase deficiency,disease,disease,disease_disease,36056366,in_kg,C5243927,,,
+1839,Niemann-Pick disease,systemic symptoms,disease,phenotype,disease_phenotype_positive,36056366,in_kg,C2039684,,,
+1840,Niemann-Pick disease,neurological symptoms,disease,phenotype,disease_phenotype_positive,36056366,in_kg,C0235031,,,
+1841,Niemann-Pick disease,physical symptoms,disease,phenotype,disease_phenotype_positive,36056366,in_kg,C0679309|C0740651,,Abdominal symptom,Abdominal symptom
+1847,Dysphagia,aspiration pneumonia,phenotype,disease,pathology_phenotype,36064725,in_kg,C0032290,,,
+1855,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,36085278,in_kg,in_kg,,,
+1856,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,36085278,in_kg,in_kg,,,
+1857,Niemann-Pick disease type C,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,36085278,in_kg,C5436605,,,
+1863,NPC1,phagosome-lysosome fusion,protein/gene,biological_process, bioprocess_protein,36085278,in_kg,in_kg,,,
+1864,Niemann-Pick disease Type C,NPC1,disease,protein/gene,disease_protein,36187872,in_kg,in_kg,,,
+1865,Niemann-Pick disease Type C,NPC2,disease,protein/gene,disease_protein,36187872,in_kg,in_kg,,,
+1871,Niemann-Pick disease Type C,Vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,36187872,in_kg,in_kg,,,
+1872,Niemann-Pick disease Type C,Splenomegaly,disease,phenotype,disease_phenotype_positive,36187872,in_kg,in_kg,,,
+1873,Niemann-Pick disease Type C,Dystonia,disease,phenotype,disease_phenotype_positive,36187872,in_kg,in_kg,,,
+1874,Niemann-Pick disease Type C,Cerebellar ataxia,disease,phenotype,disease_phenotype_positive,36187872,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+1878,β-Cyclodextrin,Niemann-Pick disease type C,drug,disease,indication,36265126,C0046237,in_kg,,,
+1884,β-Cyclodextrin,lysosomal transport,drug,biological_process,drug_bioprocess,36265126,C0046237,in_kg,,,
+1885,β-Cyclodextrin,lysosomal transport,drug,biological_process,drug_bioprocess,36265126,C0046237,in_kg,,,
+1889,cholesterol trafficking,NPC1,biological_process,protein/gene, bioprocess_protein,36301667,C5960876,in_kg,,,
+1894,endoplasmic reticulum,NPC1,cellular_component,protein/gene,cellcomp_protein,36301667,in_kg,in_kg,,,
+1899,lysosome,NPC1,cellular_component,protein/gene,cellcomp_protein,36301667,in_kg,in_kg,,,
+1906,NPC1,impairs developmental trajectories,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C2237142,,Moderate global developmental delay,Moderate global developmental delay
+1907,NPC2,impairs developmental trajectories,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C2237142,,Moderate global developmental delay,Moderate global developmental delay
+1922,NPC1,enlarged soma size,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C0239282,,Epiglottic enlargement,Epiglottic enlargement
+1923,NPC1,increased cell proliferation,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C4230434,,,
+1928,Cd68,chemotaxis,protein/gene,biological_process,bioprocess_protein,36322609,in_kg,in_kg,,,
+1929,Cd68,cell recognition,protein/gene,biological_process,bioprocess_protein,36322609,in_kg,in_kg,,,
+1931,Trem2,chemotaxis,protein/gene,biological_process,bioprocess_protein,36322609,in_kg,in_kg,,,
+1932,Trem2,cell recognition,protein/gene,biological_process,bioprocess_protein,36322609,in_kg,in_kg,,,
+1942,Vertical supranuclear gaze palsy,vertical saccades,phenotype,phenotype,phenotype_phenotype,36338825,in_kg,C4732803,,Dysmetric vertical saccades,Dysmetric vertical saccades
+1944,vertical saccades,horizontal saccades,phenotype,phenotype,phenotype_phenotype,36338825,C4732803,C2749519|C4732804,Dysmetric vertical saccades,Dysmetric horizontal saccades,entity1:Dysmetric vertical saccades|entity2:Dysmetric horizontal saccades
+1964,forskolin,glucosylsphingosine,drug,drug,drug_drug,36409725,C0917964,C0074996|C6016450,,Elevated circulating glucosylsphingosine concentration,Elevated circulating glucosylsphingosine concentration
+1976,2-hydroxypropyl-beta-cyclodextrin,lipid storage disorder,drug,phenotype,drug_effect,36431844,C0046237,C1410111|C5848057,,neutral lipid storage disease,neutral lipid storage disease
+1977,2-hydroxypropyl-beta-cyclodextrin,cytoplasmic vesicles,drug,cellular_component,drug_effect,36431844,C0046237,C0887884,,,
+1978,2-hydroxypropyl-beta-cyclodextrin,lysosomes,drug,cellular_component,drug_effect,36431844,C0046237,C0024369,,,
+1984,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick disease type C,drug,disease,indication,36431844,C0046237,in_kg,,,
+1989,decaarginine endcapped polyrotaxanes,endosomes,drug,cellular_component,exposure_cellcomp,36584173,C0068395,C0034850,Nandrolone decanoate,,Nandrolone decanoate
+1996,NDUFA4L2,Lysosome,protein/gene,molecular_function,cellcomp_protein,36722045,in_kg,in_kg,,,
+1999,Niemann-Pick disease,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,36722045,in_kg,C5436605,,,
+2006,Niemann-Pick disease type C,lysosomal storage disorder,disease,disease,disease_disease,36823305,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+2014,accumulation of cholesterol,NPC1,phenotype,protein/gene,phenotype_protein,36861884,C5436605,in_kg,,,
+2028,lysosome,NPC1,cellular_component,protein/gene,cellcomp_protein,36861884,in_kg,in_kg,,,
+2029,NPC1,StARD9,protein/gene,protein/gene,protein_protein,36861884,in_kg,in_kg,,,
+2030,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,36861884,in_kg,in_kg,,,
+2037,neurodegeneration,StARD9,phenotype,protein/gene,phenotype_protein,36861884,in_kg,in_kg,,,
+2039,Niemann-Pick Disease Type C,lysosomal storage disorder,disease,disease,disease_disease,36920149,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+2040,Niemann-Pick Disease Type C,progressive neurodegeneration,disease,phenotype,disease_phenotype_positive,36920149,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+2041,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick Disease Type C,drug,disease,indication,36920149,C0046237,in_kg,,,
+2046,Niemann-Pick Disease Type C,SCARB2,disease,protein/gene,disease_protein,36920149,in_kg,in_kg,,,
+2048,Niemann-Pick Disease Type C,LAMP2,disease,protein/gene,disease_protein,36920149,in_kg,in_kg,,,
+2049,2-hydroxypropyl-beta-cyclodextrin,cholesterol storage,drug,phenotype,drug_effect,36920149,C0046237,in_kg,,,
+2050,2-hydroxypropyl-beta-cyclodextrin,exocytosis,drug,biological_process,drug_bioprocess,36920149,C0046237,in_kg,,,
+2052,Lithium,Niemann-Pick disease type C,drug,disease,indication,37128603,in_kg,in_kg,,,
+2053,Lithium,improved ataxia,drug,phenotype,drug_effect,37128603,in_kg,C4302112,,acquired ataxia,acquired ataxia
+2062,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,37128603,in_kg,in_kg,,,
+2066,Lithium,improved behaviors,drug,phenotype,drug_bioprocess,37128603,in_kg,C4063022,,,
+2085,CLN3,NPC2,protein/gene,protein/gene,protein_protein,37245481,in_kg,in_kg,,,
+2088,Niemann-Pick disease type C,Progressive cerebellar ataxia,disease,phenotype,disease_phenotype_positive,37248494,in_kg,in_kg,,,
+2094,Niemann-Pick Disease Type C,systemic iron abnormalities,disease,phenotype,disease_phenotype_positive,37348967,in_kg,C0235760,,Abnormal serum iron concentration,Abnormal serum iron concentration
+2095,Niemann-Pick Disease Type C,neurodegenerative disorders,disease,phenotype,disease_phenotype_positive,37348967,in_kg,C0524851,,,
+2098,iron deposition,pulvinar nucleus,pathology,anatomy,pathology_anatomy_present,37348967,C0333596,in_kg,,,
+2099,Niemann-Pick Disease Type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,37348967,in_kg,in_kg,,,
+2100,Niemann-Pick Disease Type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,37348967,in_kg,in_kg,,,
+2101,thalamus,Niemann-Pick Disease Type C,anatomy,disease, anatomy_disease,37348967,C0039729,in_kg,,,
+2102,striatum,Niemann-Pick Disease Type C,anatomy,disease, anatomy_disease,37348967,in_kg,in_kg,,,
+2103,hippocampus,Niemann-Pick Disease Type C,anatomy,disease, anatomy_disease,37348967,C0019564|C1134421,in_kg,hippocampal field,,hippocampal field
+2114,Ncr1,Cbr1,protein/gene,protein/gene,protein_protein,37440478,in_kg,in_kg,,,
+2119,NPC1,cholesterol transport,protein/gene,biological_process, bioprocess_protein,37440478,in_kg,in_kg,,,
+2120,Ncr1,cholesterol transport,protein/gene,biological_process, bioprocess_protein,37440478,in_kg,in_kg,,,
+2121,Niemann-Pick Disease Type C,NPC1,disease,protein/gene, bioprocess_protein,37440478,in_kg,in_kg,,,
+2122,Niemann-Pick Disease Type C,Ncr1,disease,protein/gene,disease_protein,37440478,in_kg,in_kg,,,
+2161,2-hydroxypropyl-β-cyclodextrin,NPC1,drug,protein/gene,drug_protein,37407594,C0046237,in_kg,,,
+2170,NPC1,intracellular cholesterol transport,protein/gene,biological_process, bioprocess_protein,37423302,in_kg,in_kg,,,
+2173,NPC1,decreased pigmentation,protein/gene,phenotype,phenotype_protein,37423302,in_kg,C5205893,,,
+2174,low expression tyrosinase,NPC1,phenotype,protein/gene,phenotype_protein,37423302,C3806150,in_kg,tyrosinase activity,,tyrosinase activity
+2175,NPC1,decreased tyrosinase-related protein 1,protein/gene,phenotype,phenotype_protein,37423302,in_kg,C3806150,,tyrosinase activity,tyrosinase activity
+2176,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,37458497,in_kg,in_kg,,,
+2177,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,37458497,in_kg,in_kg,,,
+2178,Niemann-Pick disease type C,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,37458497,in_kg,C5436605,,,
+2183,Niemann-Pick disease type C,accumulation of unesterified cholesterol and glycolipids,disease,phenotype,phenotype_phenotype,37458497,in_kg,C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+2184,NPC1,cholesterol accumulation,protein/gene,phenotype,phenotype_protein,37458497,in_kg,C5436605,,,
+2185,NPC2,cholesterol accumulation,protein/gene,phenotype,phenotype_protein,37458497,in_kg,C5436605,,,
+2186,Niemann-Pick disease type C,progressive neurodegeneration,disease,phenotype,disease_phenotype_positive,37480097,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+2187,Niemann-Pick disease type C,premature death,disease,phenotype,disease_phenotype_positive,37480097,in_kg,C1855073,,,
+2188,miglustat,Niemann-Pick disease type C,drug,disease,indication,37480097,in_kg,in_kg,,,
+2191,Niemann-Pick disease type C,loss of psychomotor acquisitions,disease,phenotype,disease_phenotype_positive,37480097,in_kg,C1856565,,Progressive psychomotor deterioration,Progressive psychomotor deterioration
+2192,Niemann-Pick disease type C,neurological symptoms,disease,phenotype,disease_phenotype_positive,37480097,in_kg,C0235031,,,
+2220,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,37539272,in_kg,in_kg,,,
+2221,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,37539272,in_kg,in_kg,,,
+2224,Niemann-Pick disease type C,Cerebellar ataxia,disease,phenotype,disease_phenotype_positive,37539272,in_kg,C0007758|C0393525,,Progressive cerebellar ataxia,Progressive cerebellar ataxia
+2225,deep cerebellar nuclei,Niemann-Pick disease type C,anatomy,disease, anatomy_disease,37539272,C0007763,in_kg,cerebellar nuclear complex,,cerebellar nuclear complex
+2227,Niemann-Pick disease type C,Camk1d,disease,protein/gene,disease_protein,37539272,in_kg,in_kg,,,
+2229,miglustat,Niemann-Pick disease type C,drug,disease,indication,37539272,in_kg,in_kg,,,
+2242,deep cerebellar nuclei,cerebellum,anatomy,anatomy,anatomy_anatomy,37539272,C0007763,in_kg,cerebellar nuclear complex,,cerebellar nuclear complex
+2249,Niemann-Pick disease type C,neurodegeneration,disease,phenotype,disease_phenotype_positive,37670901,in_kg,in_kg,,,
+2250,hydroxypropyl-β-cyclodextrin,Niemann-Pick disease type C,drug,disease,indication,37670901,C0046237,in_kg,,,
+2251,hydroxypropyl-β-cyclodextrin,cholesterol metabolism,drug,biological_process,drug_bioprocess,37670901,C0046237,C1156530,,,
+2258,hydroxypropyl-β-cyclodextrin,improved speech,drug,phenotype,drug_effect,37670901,C0046237,C1848207|C2137065,,Poor speech,Poor speech
+2276,cerebellum,Niemann-Pick Disease Type C,anatomy,disease,anatomy_disease,38254990,in_kg,in_kg,,,
+2284,Fut2,Npc1,protein/gene,protein/gene,protein_protein,38550777,in_kg,in_kg,,,
+2286,Fut2,decreased levels of adenosine 5′-triphosphate,protein/gene,phenotype,phenotype_protein,38550777,in_kg,C5826912,,Elevated erythrocyte adenosine triphosphate concentration,Elevated erythrocyte adenosine triphosphate concentration
+2290,lysosomal storage disorder,Niemann-Pick Disease Type C,disease,disease,disease_disease,38599016,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+2292,Niemann-Pick Disease Type C,impaired motor coordination,disease,phenotype,disease_phenotype_positive,38599016,in_kg,C0814161|C1867864,,Poor motor coordination,Poor motor coordination
+2294,Niemann-Pick Disease Type C,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,38599016,in_kg,C5436605,,,
+2296,NPC1,decreased mitochondrial glutathione levels,protein/gene,phenotype,phenotype_protein,38599016,in_kg,C5826406,,Elevated circulating glutathione concentration,Elevated circulating glutathione concentration
+2315,NPC1,transmembrane glycoprotein,protein/gene,cellular_component,protein_protein,38686625,in_kg,C3813203,,,
+2316,cholesterol efflux,NPC1,biological_process,protein/gene, bioprocess_protein,38686625,in_kg,in_kg,,,
+2324,synaptic vesicle recycling,NPC1,biological_process,protein/gene, bioprocess_protein,38686625,in_kg,in_kg,,,
+2327,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,38712089,in_kg,in_kg,,,
+2340,lysosomal cholesterol transport,calcium signaling pathways,cellular_component,biological_process,cellcomp_bioprocess,38737295,C2755531,C2984272,,,
+2341,NPC1,calcium signaling pathways,protein/gene,pathway,disease_pathway,38737295,in_kg,C2984272,,,
+2342,neurodegeneration,calcium signaling pathways,disease,pathway,disease_pathway,38737295,in_kg,C2984272,,,
+2349,hereditary ataxia,NPC1,disease,protein/gene,disease_protein,38790666,in_kg,in_kg,,,
+2350,hereditary ataxia,NPC2,disease,protein/gene,disease_protein,38790666,in_kg,in_kg,,,
+2383,memantine,NPC1,drug,protein/gene,drug_protein,38821960,in_kg,in_kg,,,
+2384,celecoxib,NPC1,drug,protein/gene,drug_protein,38821960,in_kg,in_kg,,,
+2398,Niemann-Pick disease,autosomal recessive disorder,disease,phenotype,disease_phenotype_positive,38826605,in_kg,C3899988,,,
+2400,Niemann-Pick disease,brain,disease,anatomy, anatomy_disease,38826605,in_kg,in_kg,,,
+2401,Niemann-Pick disease,liver,disease,anatomy, anatomy_disease,38826605,in_kg,in_kg,,,
+2402,Niemann-Pick disease,spleen,disease,anatomy, anatomy_disease,38826605,in_kg,in_kg,,,
+2403,Niemann-Pick disease,bone marrow,disease,anatomy, anatomy_disease,38826605,in_kg,in_kg,,,
+2404,Niemann-Pick disease,lungs,disease,anatomy, anatomy_disease,38826605,in_kg,C0024109,,lung,lung
+2405,Niemann-Pick disease,Hepatosplenomegaly,disease,phenotype,disease_phenotype_positive,38826605,in_kg,in_kg,,,
+2406,Niemann-Pick disease,neurological deficits,disease,phenotype,disease_phenotype_positive,38826605,in_kg,C0521654|C4025360,,Functional motor deficit,Functional motor deficit
+2409,Niemann-Pick disease,Niemann-Pick disease type C,disease,disease,disease_disease,38826605,in_kg,in_kg,,,
+2414,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,38826605,in_kg,in_kg,,,
+2415,Niemann-Pick disease type C,NPC2,disease,protein/gene,disease_protein,38826605,in_kg,in_kg,,,
+2426,glial cell activation,NPC1,phenotype,protein/gene,phenotype_protein,40877976,in_kg,in_kg,,,
+2427,progressive neurodegeneration,NPC1,phenotype,protein/gene,phenotype_protein,40877976,C0154671|C1854838,in_kg,Cerebral degeneration,,Cerebral degeneration
+2429,NPC1,neuroinflammation,protein/gene,biological_process, bioprocess_protein,40877976,in_kg,in_kg,,,
+2430,NPC1,apoptosis,protein/gene,biological_process, bioprocess_protein,40877976,in_kg,in_kg,,,
+2446,degenerative ataxia,impaired saccadic velocity,disease,phenotype,disease_phenotype_positive,38868844,C5680697,C1321329,non-hereditary degenerative ataxia,Slow saccadic eye movements,entity1:non-hereditary degenerative ataxia|entity2:Slow saccadic eye movements
+2447,degenerative ataxia,impaired smooth pursuit gain,disease,phenotype,disease_phenotype_positive,38868844,C5680697,C1837458,non-hereditary degenerative ataxia,Impaired smooth pursuit,entity1:non-hereditary degenerative ataxia|entity2:Impaired smooth pursuit
+2492,Niemann-Pick disease type C,Npc1,disease,protein/gene,disease_protein,39202426,in_kg,in_kg,,,
+2493,Niemann-Pick disease type C,Npc2,disease,protein/gene,disease_protein,39202426,in_kg,in_kg,,,
+2505,cerebral cortex,Niemann-Pick disease type C,anatomy,disease,anatomy_disease,39202426,in_kg,in_kg,,,
+2528,cyclophellitols,GBA1,GRAS/Excipient/prodrug,protein/gene,exposure_protein,39246358,C0082160,in_kg,,,
+2539,NPC1,lysosomal cholesterol transporter,protein/gene,molecular_function,molfunc_protein,39339852,in_kg,C2755531,,lysosome to ER cholesterol transport,lysosome to ER cholesterol transport
+2550,Niemann-Pick Disease Type C,morphological defects,disease,phenotype,disease_phenotype_positive,39340823,in_kg,C0000768|C0018816,,congenital abnormality,congenital abnormality
+2551,NPC1,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,39366931,in_kg,in_kg,,,
+2553,Niemann-Pick Disease Type C,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,39366931,in_kg,C5436605,,,
+2555,Niemann-Pick Disease Type C,microglia ameboid form,disease,phenotype,disease_phenotype_positive,39366931,in_kg,C4021990,,Abnormal microglia morphology,Abnormal microglia morphology
+2556,NPC1,microglia ameboid form,protein/gene,phenotype,phenotype_protein,39366931,in_kg,C4021990,,Abnormal microglia morphology,Abnormal microglia morphology
+2558,NPC1,cholesterol accumulation,protein/gene,phenotype,phenotype_protein,39366931,in_kg,C5436605,,,
+2559,NPC1,cholesterol trafficking,protein/gene,biological_process, bioprocess_protein,39366931,in_kg,C5960876,,,
+2560,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39443481,in_kg,in_kg,,,
+2575,NPC1,pyroptosis,protein/gene,biological_process, bioprocess_protein,41013744,in_kg,in_kg,,,
+2578,NPC1,patient survival,protein/gene,phenotype,phenotype_protein,41013744,in_kg,C1546180|C2728384,,Age of death,Age of death
+2580,NPC1,cholesterol homeostasis,protein/gene,biological_process, bioprocess_protein,41013744,in_kg,in_kg,,,
+2589,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39452896,in_kg,in_kg,,,
+2590,Niemann-Pick Disease Type C,metabolite characteristics,disease,phenotype,disease_phenotype_positive,39452896,in_kg,C5139219,,Abnormal tissue metabolite concentration,Abnormal tissue metabolite concentration
+2598,NPC2,NCR1,protein/gene,protein/gene,protein_protein,39455279,in_kg,in_kg,,,
+2599,NCR1,vacuolar membrane,protein/gene,cellular_component,cellcomp_protein,39455279,in_kg,in_kg,,,
+2600,NCR1,lysosomal membrane,protein/gene,cellular_component,cellcomp_protein,39455279,in_kg,in_kg,,,
+2601,Cholesterol,NCR1,lipid,protein/gene,lipid_protein,39455279,in_kg,in_kg,,,
+2604,Sphingosine,NPC2,lipid,protein/gene,lipid_protein,39455279,in_kg,in_kg,,,
+2606,phosphatidylcholine,NCR1,lipid,protein/gene,lipid_protein,39455279,C1959616,in_kg,,,
+2607,phosphatidylserine,NCR1,lipid,protein/gene,lipid_protein,39455279,C0301704,in_kg,,,
+2608,Sphingosine,NCR1,lipid,protein/gene,lipid_protein,39455279,in_kg,in_kg,,,
+2626,Rutin,cholesterol levels,drug,phenotype,drug_effect,39518914,in_kg,C0428466|C4025656,,Abnormal circulating cholesterol concentration,Abnormal circulating cholesterol concentration
+2631,Niemann-Pick Disease Type C,lysosomal enlargement,disease,phenotype,disease_phenotype_positive,39502943,in_kg,C1836855,,,
+2640,NPC1,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,39547438,in_kg,in_kg,,,
+2655,lysosomal storage disorder,Niemann-Pick Disease Type C,phenotype,disease,disease_phenotype_positive,39557950,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+2656,Niemann-Pick Disease Type C,Cholesterol accumulation,disease,phenotype,disease_phenotype_positive,39557950,in_kg,C5436605,,,
+2658,NPC1,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,39557950,in_kg,in_kg,,,
+2659,NPC2,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,39557950,in_kg,in_kg,,,
+2660,Niemann-Pick Disease Type C,Splenomegaly,disease,phenotype,disease_phenotype_positive,39557950,in_kg,in_kg,,,
+2661,Niemann-Pick Disease Type C,Ataxia,disease,phenotype,disease_phenotype_positive,39557950,in_kg,in_kg,,,
+2662,NPC1,Lysosomes,protein/gene,cellular_component,cellcomp_protein,39557950,in_kg,C0024369,,,
+2663,neurodegenerative disease,Niemann-Pick disease type C,disease,disease,disease_disease,39628618,C0524851,in_kg,,,
+2664,Miglustat,Niemann-Pick disease type C,drug,disease,indication,39628618,in_kg,in_kg,,,
+2666,Miglustat,Diarrhea,drug,phenotype,drug_effect,39628618,in_kg,C0011991,,,
+2670,Niemann-Pick disease type C,Ataxia,disease,phenotype,disease_phenotype_positive,39628618,in_kg,in_kg,,,
+2671,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease,phenotype,disease_phenotype_positive,39628618,in_kg,in_kg,,,
+2672,Niemann-Pick disease type C,Dysphagia,disease,phenotype,disease_phenotype_positive,39628618,in_kg,in_kg,,,
+2673,Niemann-Pick disease type C,Cataplexy,disease,phenotype,disease_phenotype_positive,39628618,in_kg,in_kg,,,
+2682,cerebrospinal fluid,disease severity,anatomy,protein/gene,anatomy_protein_present,39688135,in_kg,C3494263,,,
+2686,Niemann-Pick Disease Type C,reduced thalamic volumes,disease,phenotype,disease_phenotype_positive,39689839,in_kg,C4022771,,Decreased thalamic volume,Decreased thalamic volume
+2688,Niemann-Pick Disease Type C,TGFA,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2689,Niemann-Pick Disease Type C,HLA-DRA,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2690,Niemann-Pick Disease Type C,TNFSF12,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2691,Niemann-Pick Disease Type C,EGF,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2695,Niemann-Pick Disease Type C,progressive neurodegeneration,disease,phenotype,disease_phenotype_positive,39689839,in_kg,C0154671|C1854838,,Cerebral degeneration,Cerebral degeneration
+2696,Niemann-Pick Disease Type C,NPC1,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2697,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,39689839,in_kg,in_kg,,,
+2698,Niemann-Pick Disease Type C,intracellular accumulation of unesterified cholesterol,disease,phenotype,disease_phenotype_positive,39689839,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+2701,neuroinflammation,cognitive impairment,phenotype,phenotype,pathology_phenotype,39689839,in_kg,in_kg,,,
+2711,Niemann-Pick Disease Type C,NPC2,disease,protein/gene,disease_protein,39747180,in_kg,in_kg,,,
+2712,glucosylsphingosine,NPC2,phenotype,protein/gene,phenotype_protein,39747180,C0074996|C6016450,in_kg,Elevated circulating glucosylsphingosine concentration,,Elevated circulating glucosylsphingosine concentration
+2714,sphingosine,NPC2,phenotype,protein/gene,phenotype_protein,39747180,in_kg,in_kg,,,
+2718,mitochondrial function,NPC2,biological_process,protein/gene, bioprocess_protein,39747180,C5574978,in_kg,,,
+2720,cholesterol transport,NPC1,biological_process,protein/gene, bioprocess_protein,39762312,in_kg,in_kg,,,
+2722,hepatocellular carcinoma,NPC1,disease,protein/gene,disease_protein,39762312,in_kg,in_kg,,,
+2723,NPC1,TGFBR1,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2725,NPC1,SMAD7,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2726,NPC1,SMURF1,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2727,SMAD7,SMURF1,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2728,TGFBR1,SMAD7,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2729,TGFBR1,SMURF1,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2730,TGFBR1,SMURF1,protein/gene,protein/gene,protein_protein,39762312,in_kg,in_kg,,,
+2736,blood-brain barrier,NPC2,anatomy,protein/gene,anatomy_protein_absent,39891227,C0005854,in_kg,blood brain barrier,,blood brain barrier
+2740,brain,NPC2,anatomy,protein/gene,anatomy_protein_present,39891227,in_kg,in_kg,,,
+2746,DHDDS,NPC2,protein/gene,protein/gene,protein_protein,40003936,in_kg,in_kg,,,
+2750,DHDDS,neurodevelopmental disorders,protein/gene,disease,disease_protein,40003936,in_kg,C1535926|C5568766,,complex neurodevelopmental disorder,complex neurodevelopmental disorder
+2752,neurodevelopmental disorders,epilepsy,disease,phenotype,disease_phenotype_positive,40003936,C1535926|C5568766,in_kg,complex neurodevelopmental disorder,,complex neurodevelopmental disorder
+2753,neurodevelopmental disorders,motor impairments,disease,phenotype,disease_phenotype_positive,40003936,C1535926|C5568766,C4025360|C5436522,complex neurodevelopmental disorder,Functional motor deficit,entity1:complex neurodevelopmental disorder|entity2:Functional motor deficit
+2755,NPC2,Cholesterol trafficking,protein/gene,phenotype,phenotype_protein,40003936,in_kg,C5960876,,,
+2756,NPC2,lysosome,protein/gene,cellular_component,cellcomp_protein,40003936,in_kg,in_kg,,,
+2761,DHDDS,lipid storage,protein/gene,phenotype,phenotype_protein,40003936,in_kg,in_kg,,,
+2764,DHDDS,cholesterol storage,protein/gene,phenotype,phenotype_protein,40003936,in_kg,in_kg,,,
+2779,miglustat,decelerated disease progression,drug,phenotype,drug_effect,40009086,in_kg,C1854838,,Progressive neurologic deterioration,Progressive neurologic deterioration
+2780,atrophy,cerebellum,pathology,anatomy,pathology_anatomy_present,40009086,C0333641,in_kg,,,
+2781,atrophy,thalamus,pathology,anatomy,pathology_anatomy_present,40009086,C0333641,C0039729,,,
+2782,atrophy,frontal lobe,pathology,anatomy,pathology_anatomy_present,40009086,C0333641,in_kg,,,
+2783,atrophy,hippocampus,pathology,anatomy,pathology_anatomy_present,40009086,C0333641,C0019564|C1134421,,hippocampal field,hippocampal field
+2788,cerebellar atrophy,ataxia,pathology,phenotype,pathology_phenotype,40009086,in_kg,in_kg,,,
+2789,hypometabolism,ataxia,pathology,phenotype,pathology_phenotype,40009086,C0347938|C4022794,in_kg,Parietal hypometabolism in FDG PET,,Parietal hypometabolism in FDG PET
+2792,miglustat,cerebellar hypometabolism progression,drug,phenotype,drug_effect,40009086,in_kg,C5539789,,Global cerebellar dysplasia,Global cerebellar dysplasia
+2830,lysosome,NPC1,cellular_component,protein/gene,cellcomp_protein,40333988,in_kg,in_kg,,,
+2832,lysosomal cholesterol homeostasis,NPC1,biological_process,protein/gene, bioprocess_protein,40333988,C1326960,in_kg,cholesterol homeostasis,,cholesterol homeostasis
+2835,autophagy,neurodegeneration,biological_process,phenotype,bioprocess_phenotype,40333988,in_kg,in_kg,,,
+2836,Ppt1,NPC1,protein/gene,protein/gene,protein_protein,40333988,in_kg,in_kg,,,
+2837,lysosomal cholesterol homeostasis,NPC1,biological_process,protein/gene, bioprocess_protein,40333988,C1326960,in_kg,cholesterol homeostasis,,cholesterol homeostasis
+2840,autophagy,neurodegeneration,biological_process,phenotype,bioprocess_phenotype,40333988,in_kg,in_kg,,,
+2851,NPC1,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,do,in_kg,in_kg,,,
+2852,NPC2,Niemann-Pick Disease Type C,protein/gene,disease,disease_protein,40565243,in_kg,in_kg,,,
+2854,JQ1,Niemann-Pick Disease Type C,drug,disease,indication,40565243,in_kg,in_kg,,,
+2856,Niemann-Pick Disease Type C,lysosomal diseases,disease,disease,disease_disease,40565243,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+2857,Niemann-Pick Disease Type C,cholesterol accumulation,disease,phenotype,disease_phenotype_positive,40565243,in_kg,C5436605,,,
+2859,JQ1,NPC1,drug,protein/gene,drug_protein,40565243,in_kg,in_kg,,,
+2867,JQ1,patien-dependent manner,drug,phenotype,drug_effect,40565243,in_kg,C1835978,,Age-dependent penetrance,Age-dependent penetrance
+2870,Niemann-Pick Disease Type C,neurovisceral symptoms,disease,phenotype,disease_phenotype_positive,40565243,in_kg,C1867971,,Acute episodes of neuropathic symptoms,Acute episodes of neuropathic symptoms
+2871,NPC1,cholesterol accumulation,protein/gene,phenotype,phenotype_protein,40565243,in_kg,C5436605,,,
+2874,disease-modifying drugs,Niemann-Pick Disease Type C,drug,disease,indication,40565243,C0242708,in_kg,,,
+2877,efavirenz,Niemann-Pick disease type C,drug,disease,indication,40701909,in_kg,in_kg,,,
+2878,miglustat,Niemann-Pick disease type C,drug,disease,indication,40701909,in_kg,in_kg,,,
+2880,lysosomal storage disorder,Niemann-Pick disease type C,disease,disease,disease_disease,40701909,C0085078,in_kg,lysosomal storage disease,,lysosomal storage disease
+2881,efavirenz,miglustat,drug,drug,drug_drug,40701909,in_kg,in_kg,,,
+2883,efavirenz,preservation of learning,drug,phenotype,drug_effect,40701909,in_kg,C0023185,,learning,learning
+2885,efavirenz,preservation of memory,drug,phenotype,drug_effect,40701909,in_kg,C0025260|C4035451,,memory,memory
+2908,NPC1,lysosomes,protein/gene,cellular_component,cellcomp_protein,40737317,in_kg,C0024369,,,
+2911,GBA1,striatum,protein/gene,anatomy,anatomy_anatomy,40737317,in_kg,in_kg,,,
+2912,LRRK2,striatum,protein/gene,anatomy,anatomy_anatomy,40737317,in_kg,in_kg,,,
+2921,Niemann-Pick disease type C,autosomal recessive disorder,disease,disease,disease_disease,40869913,in_kg,C3899988,,,
+2922,Niemann-Pick disease type C,lysosomal storage diseases,disease,disease,disease_disease,40869913,in_kg,C0085078,,lysosomal storage disease,lysosomal storage disease
+2923,Niemann-Pick disease type C,accumulation of unesterified cholesterol,disease,phenotype,disease_phenotype_positive,40869913,in_kg,C3553603|C5937001,,Unesterified cholesterol accumulation in cultured fibroblasts,Unesterified cholesterol accumulation in cultured fibroblasts
+2924,Niemann-Pick disease type C,NPC1,disease,protein/gene,disease_protein,40869913,in_kg,in_kg,,,
+2925,cerebral cortex,Niemann-Pick disease type C,anatomy,disease, anatomy_disease,40869913,in_kg,in_kg,,,
+2926,Niemann-Pick disease type C,lipid inclusions,disease,phenotype,disease_phenotype_positive,40869913,in_kg,C4231253,,,
+2927,Niemann-Pick disease type C,increased cholesterol,disease,phenotype,disease_phenotype_positive,40869913,in_kg,C3276464|C4551591,,Increased HDL cholesterol concentration,Increased HDL cholesterol concentration
+2930,Niemann-Pick disease type C,protein aggregates,disease,phenotype,disease_phenotype_positive,40869913,in_kg,C3850144,,,

@@ -1,0 +1,7 @@
+column,meaning
+relation,The relationship type.
+display_relation,Usually identical to relation; in some cases must be specified in more detail (see Notes).
+x_name,Name of the first entity.
+x_type,Entity type of the first entity.
+y_name,Name of the second entity.
+y_type,Entity type of the second entity.

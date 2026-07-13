@@ -1,0 +1,99 @@
+,entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,entity1_suggested_name,entity2_suggested_name,second_search_suggested_name
+0,Canavan disease,leukodystrophy,disease,disease,disease_disease,35187608,in_kg,in_kg,,,
+1,Canavan disease,macrocephaly,disease,phenotype,disease_phenotype_positive,35187608,in_kg,in_kg,,,
+2,Canavan disease,neurologic impairment,disease,phenotype,disease_phenotype_positive,35187608,in_kg,C1854838|C5233653,,Progressive neurologic deterioration,Progressive neurologic deterioration
+10,Canavan disease,ASPA,disease,protein/gene,disease_protein,35637731,in_kg,in_kg,,,
+18,Canavan disease,ASPA,disease,protein/gene,disease_phenotype_positive,35929936,in_kg,in_kg,,,
+22,Canavan disease,hypotonia,disease,phenotype,disease_phenotype_positive,35929936,in_kg,in_kg,,,
+23,Canavan disease,drowsiness,disease,phenotype,disease_phenotype_positive,35929936,in_kg,in_kg,,,
+24,Canavan disease,apathy,disease,phenotype,disease_phenotype_positive,35929936,in_kg,in_kg,,,
+25,Canavan disease,abnormal myelination,disease,phenotype,disease_phenotype_positive,35929936,in_kg,in_kg,,,
+35,leukodystrophy,Canavan disease,disease,disease,disease_disease,37601414,in_kg,in_kg,,,
+36,Canavan disease,ASPA,disease,protein/gene,disease_protein,37601414,in_kg,in_kg,,,
+41,leukodystrophy,Canavan disease,disease,disease,disease_disease,37610133,in_kg,in_kg,,,
+42,Canavan disease,ASPA,disease,protein/gene,disease_protein,37610133,in_kg,in_kg,,,
+46,Canavan disease,prominent spongiform brain degeneration,disease,phenotype,disease_phenotype_positive,37610133,in_kg,C1857934,,Cerebral cortex with spongiform changes,Cerebral cortex with spongiform changes
+55,Canavan disease,Aspa,disease,protein/gene,disease_protein,38011891,in_kg,in_kg,,,
+56,Leukodystrophy,Canavan disease,disease,phenotype,disease_phenotype_positive,38011891,in_kg,in_kg,,,
+73,Leukodystrophy,Canavan disease,disease,disease,disease_phenotype_positive,38282243,in_kg,in_kg,,,
+74,neurodegenerative disorder,Canavan disease,disease,disease,disease_disease,38309148,C0524851,in_kg,,,
+84,Canavan disease,vacuolation,disease,phenotype,disease_phenotype_positive,38538326,in_kg,C0010840,,,
+85,Canavan disease,vacuolation,disease,phenotype,disease_phenotype_positive,38538326,in_kg,C0010840,,,
+86,Canavan disease,hypomyelination,disease,phenotype,disease_phenotype_positive,38538326,in_kg,C0544820,,,
+87,Canavan disease,swollen axons,disease,phenotype,disease_phenotype_positive,38538326,in_kg,C1865417,,Diffuse axonal swelling,Diffuse axonal swelling
+93,Canavan disease,progressive macrocephaly,disease,phenotype,disease_phenotype_positive,40298596,in_kg,in_kg,,,
+94,Canavan disease,axial hypotonia,disease,phenotype,disease_phenotype_positive,40298596,in_kg,in_kg,,,
+96,Canavan disease,limb stiffness,disease,phenotype,disease_phenotype_positive,40298596,in_kg,C0558193|C1861460,,Proximal limb muscle stiffness,Proximal limb muscle stiffness
+101,Canavan disease,intention tremor,disease,phenotype,disease_phenotype_positive,40656657,in_kg,in_kg,,,
+102,Canavan disease,fine motor,disease,phenotype,disease_phenotype_positive,40656657,in_kg,C0556281|C1867864,,Poor fine motor coordination,Poor fine motor coordination
+104,leukodystrophy,Canavan disease,disease,disease,disease_disease,34446995,in_kg,in_kg,,,
+105,Canavan disease,Visual Impairment,disease,phenotype,disease_phenotype_positive,34446995,in_kg,in_kg,,,
+106,Canavan disease,pyramidal signs,disease,phenotype,disease_phenotype_positive,34446995,in_kg,C0234132,,Abnormal pyramidal sign,Abnormal pyramidal sign
+107,Canavan disease,seizures,disease,phenotype,disease_phenotype_positive,34446995,in_kg,C0036572,,,
+108,Canavan disease,microcephaly,disease,phenotype,disease_phenotype_positive,34446995,in_kg,C0025958|C1836806,,Mild microcephaly,Mild microcephaly
+113,Canavan disease,Lethargy,disease,phenotype,disease_phenotype_positive,34477360,in_kg,in_kg,,,
+114,Canavan disease,hypotonia,disease,phenotype,disease_phenotype_positive,34477360,in_kg,in_kg,,,
+115,Canavan disease,macrocephaly,disease,phenotype,disease_phenotype_positive,34477360,in_kg,in_kg,,,
+122,vacuolar leukodystrophy,CANAVAN disease,disease,disease,disease_disease,34498299,C0023520,in_kg,leukodystrophy,,leukodystrophy
+124,Canavan disease,ataxia,disease,phenotype,disease_phenotype_positive,34498299,in_kg,in_kg,,,
+125,Canavan disease,hypotonia,disease,phenotype,,34498299,in_kg,in_kg,,,
+127,leukodystropy,Canavan disease,disease,disease,disease_disease,34723085,C0023520,in_kg,leukodystrophy,,leukodystrophy
+128,Canavan disease,macrocephaly,disease,phenotype,disease_phenotype_positive,34723085,in_kg,in_kg,,,
+129,Canavan disease,neurologic impairment,disease,phenotype,disease_phenotype_positive,34723085,in_kg,C1854838|C5233653,,Progressive neurologic deterioration,Progressive neurologic deterioration
+132,Canavan disease,leukodystrophy,disease,disease,disease_disease,36568275,in_kg,in_kg,,,
+133,Canavan disease,ASPA,disease,protein/gene,disease_protein,36568275,in_kg,in_kg,,,
+140,leukodystrophy,Canavan disease,disease,disease,disease_disease,36968992,in_kg,in_kg,,,
+141,canavan disease,seizures,disease,phenotype,disease_phenotype_positive,36968992,in_kg,C0036572,,,
+143,clobazam,Canavan disease,drug,disease,indication,36968992,in_kg,in_kg,,,
+144,primidone,Canavan disease,drug,disease,indication,36968992,in_kg,in_kg,,,
+145,leukodystrophy,Canavan disease,disease,disease,disease_disease,37149081,in_kg,in_kg,,,
+147,canavan disease,ASPA,disease,protein/gene,disease_protein,37149081,in_kg,in_kg,,,
+148,Canavan disease,myelin,disease,phenotype,disease_phenotype_positive,37149081,in_kg,in_kg,,,
+150,Canavan disease,large vacuole,disease,phenotype,disease_phenotype_positive,37149081,in_kg,C1853189,,,
+151,Canavan disease,death,disease,phenotype,disease_phenotype_positive,37149081,in_kg,C1306577,,,
+153,Canavan disease,ASPA,disease,protein/gene,disease_protein,37271923,in_kg,in_kg,,,
+155,Canavan disease,vacuolation,disease,phenotype,disease_phenotype_positive,37271923,in_kg,C0010840,,,
+160,spongiform leukodystrophy,Canavan disease,disease,disease,disease_disease,38544400,C0206307,in_kg,,,
+161,spongy leukodystrophy,Canavan disease,disease,disease,disease_disease,38544400,C0023520,in_kg,leukodystrophy,,leukodystrophy
+164,Canavan disease,ASPA,disease,protein/gene,disease_protein,38544400,in_kg,in_kg,,,
+166,Canavan disease,ASPA,disease,protein/gene,disease_protein,38718669,in_kg,in_kg,,,
+173,white matter,Canavan disease,anatomy,disease, anatomy_disease,38880823,in_kg,in_kg,,,
+174,globus pallidus,Canavan disease,anatomy,disease, anatomy_disease,38880823,in_kg,in_kg,,,
+175,putamen,Canavan disease,anatomy,disease, anatomy_disease,38880823,in_kg,in_kg,,,
+176,caudate,Canavan disease,anatomy,disease, anatomy_disease,38880823,C0007461|C0162512,in_kg,caudate-putamen,,caudate-putamen
+177,claustrum,Canavan disease,anatomy,disease, anatomy_disease,38880823,C0008910,in_kg,,,
+178,lateral thalamus,Canavan disease,anatomy,disease, anatomy_disease,38880823,C0228341,in_kg,lateral posterior nucleus of thalamus,,lateral posterior nucleus of thalamus
+179,pulvinar,Canavan disease,anatomy,disease, anatomy_disease,38880823,C0152347|C0262299,in_kg,pulvinar nucleus,,pulvinar nucleus
+180,internal capsules,Canavan disease,anatomy,disease, anatomy_disease,38880823,C0152341,in_kg,,,
+181,corpus callosum,Canavan disease,anatomy,disease, anatomy_disease,38880823,in_kg,in_kg,,,
+185,Canavan disease,ASPA,disease,protein/gene,disease_protein,39119446,in_kg,in_kg,,,
+186,Canavan disease,hypotonia,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+187,Canavan disease,macrocephaly,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+188,Canavan disease,deafness,disease,phenotype,disease_phenotype_positive,39119446,in_kg,C0011053,,,
+190,Canavan disease,blindness,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+191,Canavan disease,brain atrophy,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+192,leukodystrophy,Canavan disease,disease,disease,disease_disease,39119446,in_kg,in_kg,,,
+196,Canavan disease,intramyelinic vacuoles,disease,phenotype,disease_phenotype_positive,39119446,in_kg,C6016430,,Nonrimmed muscle vacuoles,Nonrimmed muscle vacuoles
+197,Canavan disease,edema,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+200,Canavan disease,delayed closure of the anterior fontanel,disease,phenotype,disease_phenotype_positive,39119446,in_kg,C3840083,,Delayed closure of the anterior fontanelle,Delayed closure of the anterior fontanelle
+201,Canavan disease,optic atrophy,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+202,Canavan disease,spasticity,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+203,Canavan disease,seizures,disease,phenotype,disease_phenotype_positive,39119446,in_kg,C0036572,,,
+204,Canavan disease,opisthotonus,disease,phenotype,disease_phenotype_positive,39119446,in_kg,in_kg,,,
+205,Canavan disease,cerebral delayed posture,disease,phenotype,disease_phenotype_positive,39119446,in_kg,C4703721,,Compensatory head posture,Compensatory head posture
+208,posterior fossa,Canavan disease,anatomy,disease, anatomy_disease,39119446,C1116439,in_kg,,,
+209,corpus callosum genus,Canavan disease,anatomy,disease, anatomy_disease,39119446,C0010090|C0152321,in_kg,corpus callosum,,corpus callosum
+210,capsule,Canavan disease,anatomy,disease, anatomy_disease,39119446,in_kg,in_kg,,,
+211,Canavan disease,ASPA,disease,protein/gene,disease_protein,39128657,in_kg,in_kg,,,
+216,white matter,Canavan disease,anatomy,disease, anatomy_disease,39524158,in_kg,in_kg,,,
+224,leukodystrophy,Canavan disease,disease,disease,disease_disease,39628365,in_kg,in_kg,,,
+225,Canavan disease,ASPA,disease,protein/gene,disease_protein,39628365,in_kg,in_kg,,,
+227,Canavan disease,psychomotor deficits,disease,phenotype,disease_phenotype_positive,39628365,in_kg,C2921139|C4025360,,Functional motor deficit,Functional motor deficit
+228,Canavan disease,motor milestones,disease,phenotype,disease_phenotype_negative,39628365,in_kg,C3807655,,,
+233,Canavan disease,ASPA,disease,protein/gene,disease_protein,38740822,in_kg,in_kg,,,
+234,lethal neurological disorder,Canavan disease,disease,disease,disease_disease,38740822,C4225256|C4304741,in_kg,lethal Larsen-like syndrome,,lethal Larsen-like syndrome
+237,Canavan disease,ASPA,disease,protein/gene,disease_protein,38740822,in_kg,in_kg,,,
+241,Canavan disease,ASPA,disease,protein/gene,disease_phenotype_positive,38740822,in_kg,in_kg,,,
+242,Canavan disease,CRNDE,disease,protein/gene,disease_protein,38822362,in_kg,in_kg,,,
+248,neural stem cell,Canavan disease,Cell therapy,disease,drug_effect,34446995,C1113654,in_kg,,,
+250,Topiramate,Canavan disease,drug,disease,drug_effect,38582917,in_kg,in_kg,,,

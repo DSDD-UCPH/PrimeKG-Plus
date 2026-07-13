@@ -12,7 +12,7 @@ RELATION_ALIASES: dict[str, str] = {
     "bioprocess_cellcompt": "bioprocess_cellcomp",
 }
 
-# relation → display_relation (from 20260529-primekg_plus.csv); default = relation itself.
+# relation → display_relation (from primekg_plus.csv); default = relation itself.
 DISPLAY_RELATION: dict[str, str] = {
     "anatomy_anatomy": "parent-child",
     "anatomy_protein_absent": "expression absent",

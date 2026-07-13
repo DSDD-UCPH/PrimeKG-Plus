@@ -1,0 +1,10 @@
+metric,original_primekg,primekg_plus,absolute_change,percent_change
+disease_protein directed edges,160813,516740,355927,+221.3%
+disease_protein unique disease–gene pairs,80411,258262,177851,+221.2%
+anatomy_protein_present unique pairs,1518203,930465,-587738,-38.7%
+anatomy_protein_absent unique pairs,19887,738,-19149,-96.3%
+indication directed edges,18776,10006,-8770,-46.7%
+contraindication directed edges,61350,26826,-34524,-56.3%
+off-label use directed edges,5136,2398,-2738,-53.3%
+protein_protein unique undirected pairs,321075,382860,61785,+19.2%
+duplicate directed edges (QC),0,682,682,—

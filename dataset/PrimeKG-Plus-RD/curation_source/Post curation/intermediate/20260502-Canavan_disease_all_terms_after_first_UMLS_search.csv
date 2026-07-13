@@ -1,0 +1,83 @@
+,entity_name,original_entity_types,search_term_used,umls_matched_name,matched_cui,matched_semantic_types,matched_semantic_type_names,PMID,relation,entity_side
+0,"""spongiform” vacuoles",pathology,"""spongiform” vacuoles",,,[],[],34498299,pathology_anatomy_present,1
+3,acetate donor,biological_process,acetate donor,,,[],[],34446995,drug_effect,2
+5,activation-induced cell death,biological_process,activation-induced cell death,activation-induced cell death,C3546309,['T043'],['Cell Function'],38260594,bioprocess_protein,2
+7,amino and organic acid,phenotype,amino and organic acid,Disorder of amino acid and organic acid metabolism,C0342666,['T047'],['Disease or Syndrome'],37597066,disease_phenotype_positive,2
+9,anterior right frontal white matter,anatomy,anterior right frontal white matter,White matter of anterior part of right middle frontal gyrus,C2952382,['T024'],['Tissue'],40298596,phenotype_anatomy_present,2
+10,antioxidant,biological_process,antioxidant,Antioxidants,C0003402,['T121'],['Pharmacologic Substance'],34446995,drug_effect,2
+12,areas of ongoing myelination,anatomy,areas of ongoing myelination,,,[],[],38880823,anatomy_disease,1
+21,astroglial vacuolation,phenotype,astroglial vacuolation,,,[],[],37610133,disease_phenotype_positive,2
+22,astrogliosis,phenotype,astrogliosis,Astrocytosis,C3887640,['T046'],['Pathologic Function'],36568275,drug_effect,2
+24,bifrontal regions,anatomy,bifrontal regions,,,[],[],40298596,pathology_anatomy_present,2
+25,bioelectrical activity,disease,bioelectrical activity,,,[],[],39524158,drug_bioprocess,2
+26,body weight,phenotype,body weight,Body Weight,C0005910,['T032'],['Organism Attribute'],36568275,drug_effect,2
+36,carrier screening programs,exposure,carrier screening programs,,,[],[],36202930,exposure_disease,1
+37,caudate,anatomy,caudate,Caudate nucleus structure,C0007461,['T023'],"['Body Part, Organ, or Organ Component']",38880823,anatomy_disease,1
+38,cerebral delayed posture,phenotype,cerebral delayed posture,,,[],[],39119446,disease_phenotype_positive,2
+40,claustrum,anatomy,claustrum,Claustral structure,C0008910,['T023'],"['Body Part, Organ, or Organ Component']",38880823,anatomy_disease,1
+41,corpus callosum genus,anatomy,corpus callosum genus,Structure of genu of corpus callosum,C0152321,['T023'],"['Body Part, Organ, or Organ Component']",39119446,anatomy_disease,1
+42,cortical gray,anatomy,cortical gray,,,[],[],35187608,pathology_anatomy_present,2
+44,cystic formation,phenotype,cystic formation,,,[],[],38880823,disease_phenotype_positive,2
+45,cytotoxic edema,phenotype,cytotoxic edema,Cytotoxic Cerebral Edema,C0472388,['T046'],['Pathologic Function'],37610133,disease_phenotype_positive,2
+46,deafness,phenotype,deafness,Deafness,C0011053,['T033'],['Finding'],39119446,disease_phenotype_positive,2
+47,death,phenotype,death,Death (finding),C1306577,['T033'],['Finding'],37149081,disease_phenotype_positive,2
+48,decortication,phenotype,decortication,Cerebral Decortication,C0007778,['T061'],['Therapeutic or Preventive Procedure'],39119446,disease_phenotype_positive,2
+49,delayed closure of the anterior fontanel,phenotype,delayed closure of the anterior fontanel,Late closure of anterior fontanel,C3840083,['T033'],['Finding'],39119446,disease_phenotype_positive,2
+50,demyelinaing,disease,demyelinaing,,,[],[],37149081|37271923,disease_disease,2
+51,demyelination,phenotype,demyelination,Demyelination,C0011304,['T046'],['Pathologic Function'],36568275|39119446,disease_phenotype_positive|drug_effect,2
+52,demylination,phenotype,demylination,,,[],[],37271923,disease_phenotype_positive,2
+53,developmental delay,phenotype,developmental delay,Developmental delay,C0424605,['T048'],['Mental or Behavioral Dysfunction'],40298596,disease_phenotype_positive,2
+54,developmental delays,disease,developmental delays,Developmental delay,C0424605,['T048'],['Mental or Behavioral Dysfunction'],39524158,disease_phenotype_positive,2
+56,dilated perivascular spaces,pathology,dilated perivascular spaces,Dilated cerebral perivascular spaces,C4020719,['T190'],['Anatomical Abnormality'],40298596,pathology_anatomy_present,1
+57,dual-function vector,exposure,dual-function vector,,,[],[],36568275,drug_effect,1
+61,energy substrate,biological_process,energy substrate,,,[],[],34446995,drug_effect,2
+62,enzyme enhancement,drug,enzyme enhancement,"Reagents, Immunohematology, Antibody Detection/Identification, Enhancement Media, Enzyme",C1738513,['T130'],"['Indicator, Reagent, or Diagnostic Aid']",39128657,indication,1
+63,fine motor,phenotype,fine motor,Fine motor impairment,C0556281,['T033'],['Finding'],40656657,disease_phenotype_positive,2
+73,hypomyelination,phenotype,hypomyelination,Hypomyelination,C0544820,['T033'],['Finding'],38538326,disease_phenotype_positive,2
+76,internal capsules,anatomy,internal capsules,Internal capsule of brain,C0152341,['T023'],"['Body Part, Organ, or Organ Component']",38880823,anatomy_disease,1
+77,intramyelinic vacuolation,phenotype,intramyelinic vacuolation,,,[],[],38282243,disease_phenotype_positive,2
+78,intramyelinic vacuoles,phenotype,intramyelinic vacuoles,,,[],[],39119446,disease_phenotype_positive,2
+79,inverted echogenicity,pathology,inverted echogenicity,,,[],[],35187608,pathology_anatomy_present,1
+80,large vacuole,phenotype,large vacuole,Abnormally large monocytes with vacuoles,C1853189,['T033'],['Finding'],37149081,disease_phenotype_positive,2
+81,lateral thalamus,anatomy,lateral thalamus,Lateral posterior nucleus of thalamus,C0228341,['T023'],"['Body Part, Organ, or Organ Component']",38880823,anatomy_disease,1
+82,lethal neurological disorder,disease,lethal neurological disorder,ITPA-related lethal infantile neurological disorder with cataract and cardiac involvement,C4225256,['T047'],['Disease or Syndrome'],38740822,disease_disease,1
+83,leukodystropy,disease,leukodystropy,,,[],[],34723085,disease_disease,1
+84,limb stiffness,phenotype,limb stiffness,Stiff limbs,C0558193,['T184'],['Sign or Symptom'],40298596,disease_phenotype_positive,2
+86,microcephaly,phenotype,microcephaly,Microcephaly,C0025958,['T019'],['Congenital Abnormality'],34446995,disease_phenotype_positive,2
+89,motor function,phenotype,motor function,Motor function (observable entity),C0234130,['T038'],['Biologic Function'],37271923|37601414,drug_effect,2
+90,motor function impairment,phenotype,motor function impairment,Gross motor function impairment,C5883392,['T033'],['Finding'],35637731,exposure_phenotype,2
+91,motor impairment,phenotype,motor impairment,Motor impairment,C5436522,['T033'],['Finding'],39524158,disease_phenotype_positive,2
+92,motor milestones,phenotype,motor milestones,Loss of motor milestones,C3807655,['T033'],['Finding'],39628365,disease_phenotype_negative,2
+95,muscle tone abnormalities,phenotype,muscle tone abnormalities,Muscle tone disorder,C0851647,['T047'],['Disease or Syndrome'],39524158,disease_phenotype_positive,2
+97,myelin sheaths,anatomy,myelin sheaths,Myelin Sheath,C0026973,['T026'],['Cell Component'],37867939,anatomy_protein_present,1
+98,myelination defects,phenotype,myelination defects,Myelination defect,C4014372,['T033'],['Finding'],35637731,exposure_phenotype,2
+111,neural stem cell,Cell therapy,neural stem cell,Neural Stem Cells,C1113654,['T025'],['Cell'],34446995,drug_effect,1
+112,neurodegenerative disorder,disease | phenotype,neurodegenerative disorder,Neurodegenerative Disorders,C0524851,['T047'],['Disease or Syndrome'],36202930|38309148,disease_disease|disease_phenotype_positive,1|2
+113,neurologic impairment,phenotype,neurologic impairment,No neurologic impairment,C5233653,['T033'],['Finding'],34723085|35187608,disease_phenotype_positive,2
+114,neuronal,phenotype,neuronal,neuronal,C0521390,['T129'],['Immunologic Factor'],37149081,disease_phenotype_positive,2
+116,non-classical splicing defect,phenotype,non-classical splicing defect,,,[],[],36202930,phenotype_protein,1
+117,nystagmus,phenotype,nystagmus,Nystagmus,C0028738,['T047'],['Disease or Syndrome'],39119446,disease_phenotype_positive,2
+119,oligodendrocyte-axon interface,phenotype,oligodendrocyte-axon interface,,,[],[],39119446,disease_phenotype_positive,2
+122,parietal white matter,anatomy,parietal white matter,parietal white matter,C3496378,['T023'],"['Body Part, Organ, or Organ Component']",40298596,pathology_anatomy_present,2
+125,pharmacological chaperones,drug,pharmacological chaperones,Pharmacological Chaperone,C2828102,['T120'],['Chemical Viewed Functionally'],39128657,indication,1
+126,posterior fossa,anatomy,posterior fossa,posterior fossa,C1116439,['T023'],"['Body Part, Organ, or Organ Component']",39119446,anatomy_disease,1
+130,progressive cognitive and motor,phenotype,progressive cognitive and motor,,,[],[],37610133,disease_phenotype_positive,2
+131,prominent spongiform brain degeneration,phenotype,prominent spongiform brain degeneration,,,[],[],37610133,disease_phenotype_positive,2
+132,psychomotor deficits,phenotype,psychomotor deficits,psychomotor deficit,C2921139,['T033'],['Finding'],39628365,disease_phenotype_positive,2
+133,pulvinar,anatomy,pulvinar,Pulvinar structure,C0152347,['T023'],"['Body Part, Organ, or Organ Component']",38880823,anatomy_disease,1
+134,pyramidal signs,phenotype,pyramidal signs,Pyramidal sign,C0234132,['T184'],['Sign or Symptom'],34446995,disease_phenotype_positive,2
+140,reduced fitness,phenotype,reduced fitness,"Oral device/appliance used to reduce upper airway collapsibility, adjustable or non-adjustable, prefabricated, includes fitting and adjustment",C1616299,['T074'],['Medical Device'],36202930,disease_phenotype_positive,2
+141,seizures,phenotype,seizures,Seizures,C0036572,['T184'],['Sign or Symptom'],34446995|36968992|39119446,disease_phenotype_positive,2
+142,spongiform leukodystrophy,disease,spongiform leukodystrophy,Canavan Disease,C0206307,['T047'],['Disease or Syndrome'],38544400,disease_disease,1
+144,spongy degeneration,phenotype,spongy degeneration,Spongy degeneration,C0333462,['T046'],['Pathologic Function'],35637731,exposure_phenotype,2
+145,spongy leukodystrophy,disease,spongy leukodystrophy,,,[],[],38544400,disease_disease,1
+147,subcortical white matter,anatomy,subcortical white matter,Subcortical white matter calcifications,C1851430,['T033'],['Finding'],35187608|39119446,anatomy_disease|pathology_anatomy_present,1|2
+148,supratentorial white matter,phenotype,supratentorial white matter,Loss of supratentorial white matter,C4748814,['T046'],['Pathologic Function'],34723085,disease_phenotype_positive,2
+149,swollen axons,phenotype,swollen axons,,,[],[],38538326,disease_phenotype_positive,2
+150,toxic,phenotype,toxic,Toxic effect,C0600688,['T037'],['Injury or Poisoning'],38740822,phenotype_protein,1
+152,ubiquitin-proteasome pathway,biological_process,ubiquitin-proteasome pathway,Ubiquitin-Proteasomal Pathway,C1519748,['T044'],['Molecular Function'],38740822,bioprocess_protein,1
+153,ultrasound,exposure,ultrasound,ultrasound device,C1875843,['T074'],['Medical Device'],35187608,exposure_disease|exposure_exposure,1|2
+154,vacuolar leukodystrophy,disease,vacuolar leukodystrophy,,,[],[],34498299,disease_disease,1
+155,vacuolation,phenotype,vacuolation,Vacuolation,C0010840,['T033'],['Finding'],37271923|38538326,disease_phenotype_positive,2
+158,visual,phenotype,visual,Visual,C0234621,['T169'],['Functional Concept'],36968992,disease_phenotype_positive,2
+159,white matter myelination,phenotype,white matter myelination,Defective myelination of the deep white matter,C4014357,['T033'],['Finding'],37601414,drug_effect,2

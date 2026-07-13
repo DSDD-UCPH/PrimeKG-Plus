@@ -1,0 +1,51 @@
+,original_name,suggested_name,expected_entity_type,expected_tuis,PMID,relation,entity_side,umls_search_ok,suggested_cui,suggested_umls_name,suggested_semantic_types,suggested_semantic_type_names,type_match_expected_category
+0,muscle tone abnormalities,Abnormal muscle tone,phenotype,"T019,T020,T033,T034,T041,T184",39524158,disease_phenotype_positive,2,True,C0852413,Abnormal muscle tone,['T033'],['Finding'],True
+1,bioelectrical activity,energy transducer activity,disease,"T047,T048,T191",39524158,drug_bioprocess,2,True,C1751583,energy transducer activity,['T044'],['Molecular Function'],False
+2,antioxidant,antioxidant activity,biological_process,"T038,T039",34446995,drug_effect,2,True,C1148564,antioxidant activity,['T044'],['Molecular Function'],False
+3,carrier screening programs,Abnormal maternal serum screening,exposure,"T060,T061,T063",36202930,exposure_disease,1,True,C4023359,Abnormal maternal serum screening,['T033'],['Finding'],False
+4,demylination,demethylation,phenotype,"T019,T020,T033,T034,T041,T184",37271923,disease_phenotype_positive,2,True,C0598864,Demethylation,['T044'],['Molecular Function'],False
+5,enzyme enhancement,enzyme regulator activity,drug,"T121,T195,T200",39128657,indication,1,True,C1152521,enzyme regulator activity,['T044'],['Molecular Function'],False
+6,prominent spongiform brain degeneration,Cerebral cortex with spongiform changes,phenotype,"T019,T020,T033,T034,T041,T184",37610133,disease_phenotype_positive,2,True,C1857934,Cerebral cortex with spongiform changes,['T033'],['Finding'],True
+7,astroglial vacuolation,astrocyte activation,phenotype,"T019,T020,T033,T034,T041,T184",37610133,disease_phenotype_positive,2,True,C1326121,astrocyte activation,['T043'],['Cell Function'],False
+8,cerebral delayed posture,Compensatory head posture,phenotype,"T019,T020,T033,T034,T041,T184",39119446,disease_phenotype_positive,2,True,C4703721,Compensatory head posture,['T033'],['Finding'],True
+9,non-classical splicing defect,RNA splicing,phenotype,"T019,T020,T033,T034,T041,T184",36202930,phenotype_protein,1,True,C0035687,RNA Splicing,['T045'],['Genetic Function'],False
+10,acetate donor,Aluminum acetate,biological_process,"T038,T039",34446995,drug_effect,2,True,C0051510,aluminum acetate,"['T109', 'T121']","['Organic Chemical', 'Pharmacologic Substance']",False
+11,swollen axons,Diffuse axonal swelling,phenotype,"T019,T020,T033,T034,T041,T184",38538326,disease_phenotype_positive,2,True,C1865417,Diffuse axonal swelling,['T033'],['Finding'],True
+12,ultrasound,response to ultrasound,exposure,"T060,T061,T063",35187608,exposure_disease|exposure_exposure,1|2,True,C3896257,response to ultrasound,['T040'],['Organism Function'],False
+13,amino and organic acid,amino acid metabolic process,phenotype,"T019,T020,T033,T034,T041,T184",37597066,disease_phenotype_positive,2,True,C0596076,Amino Acid Metabolic Process,['T044'],['Molecular Function'],False
+14,reduced fitness,Psychomotor retardation,phenotype,"T019,T020,T033,T034,T041,T184",36202930,disease_phenotype_positive,2,True,C1854919,Severe psychomotor retardation,['T048'],['Mental or Behavioral Dysfunction'],False
+15,demyelination,Peripheral demyelination,phenotype,"T019,T020,T033,T034,T041,T184",36568275|39119446,disease_phenotype_positive|drug_effect,2,True,C0878575,Peripheral demyelination,['T046'],['Pathologic Function'],False
+16,ubiquitin-proteasome pathway,proteasome-mediated ubiquitin-dependent protein catabolic process,biological_process,"T038,T039",38740822,bioprocess_protein,1,True,C1523807,proteasome-mediated ubiquitin-dependent protein catabolic process,['T044'],['Molecular Function'],False
+17,pharmacological chaperones,protein carrier chaperone,drug,"T121,T195,T200",39128657,indication,1,True,C5137233,protein carrier chaperone,['T044'],['Molecular Function'],False
+18,developmental delay,Global developmental delay,phenotype,"T019,T020,T033,T034,T041,T184",40298596,disease_phenotype_positive,2,True,C0557874,Global developmental delay,['T048'],['Mental or Behavioral Dysfunction'],False
+19,demyelinaing,CNS demyelination,disease,"T047,T048,T191",37149081|37271923,disease_disease,2,True,C1852065,Scattered CNS demyelination,['T033'],['Finding'],False
+20,intramyelinic vacuoles,Nonrimmed muscle vacuoles,phenotype,"T019,T020,T033,T034,T041,T184",39119446,disease_phenotype_positive,2,True,C6016430,Nonrimmed muscle vacuoles,['T033'],['Finding'],True
+21,areas of ongoing myelination,central nervous system myelination,anatomy,"T017,T018,T021,T022,T023,T024,T029,T030",38880823,anatomy_disease,1,True,C1818586,central nervous system myelination,['T043'],['Cell Function'],False
+22,progressive cognitive and motor,"Intellectual disability, progressive",phenotype,"T019,T020,T033,T034,T041,T184",37610133,disease_phenotype_positive,2,True,C5190576,"Severe intellectual disability, progressive spastic diplegia syndrome",['T047'],['Disease or Syndrome'],False
+23,subcortical white matter,brain white matter,anatomy,"T017,T018,T021,T022,T023,T024,T029,T030",35187608|39119446,anatomy_disease|pathology_anatomy_present,1|2,True,C1706995,Brain White Matter,['T024'],['Tissue'],True
+24,dual-function vector,non-connected functional system,exposure,"T060,T061,T063",36568275,drug_effect,1,False,,,[],[],
+25,visual,visual perception,phenotype,"T019,T020,T033,T034,T041,T184",36968992,disease_phenotype_positive,2,True,C0042830,Visual Perception,['T041'],['Mental Process'],True
+26,activation-induced cell death,activation-induced cell death of T cells,biological_process,"T038,T039",38260594,bioprocess_protein,2,True,C3537205,Activation-induced cell death of T cells,['T043'],['Cell Function'],False
+27,astrogliosis,Substantia nigra gliosis,phenotype,"T019,T020,T033,T034,T041,T184",36568275,drug_effect,2,True,C1846865,Substantia nigra gliosis,['T033'],['Finding'],True
+28,spongy degeneration,Pallidal degeneration,phenotype,"T019,T020,T033,T034,T041,T184",35637731,exposure_phenotype,2,True,C0393577,Pallidal degeneration,['T047'],['Disease or Syndrome'],False
+29,intramyelinic vacuolation,Peripheral hypermyelination,phenotype,"T019,T020,T033,T034,T041,T184",38282243,disease_phenotype_positive,2,True,C4021049,Hypermyelination of peripheral nerve,['T047'],['Disease or Syndrome'],False
+30,cystic formation,cystic neoplasm,phenotype,"T019,T020,T033,T034,T041,T184",38880823,disease_phenotype_positive,2,True,C1333190,"Neoplasms, Cystic",['T191'],['Neoplastic Process'],False
+31,cytotoxic edema,Intestinal edema,phenotype,"T019,T020,T033,T034,T041,T184",37610133,disease_phenotype_positive,2,True,C1142262,Edema of intestinal tract,['T047'],['Disease or Syndrome'],False
+32,cortical gray,brain gray matter,anatomy,"T017,T018,T021,T022,T023,T024,T029,T030",35187608,pathology_anatomy_present,2,True,C1707348,Brain Gray Matter,['T024'],['Tissue'],True
+33,energy substrate,Miscellaneous substrates,biological_process,"T038,T039",34446995,drug_effect,2,False,,,[],[],
+34,supratentorial white matter,white matter,phenotype,"T019,T020,T033,T034,T041,T184",34723085,disease_phenotype_positive,2,True,C0682708,White matter,['T024'],['Tissue'],False
+35,motor function,motor behavior,phenotype,"T019,T020,T033,T034,T041,T184",37271923|37601414,drug_effect,2,True,C4085668,motor behavior,['T040'],['Organism Function'],False
+36,leukodystropy,leukodystrophy,disease,"T047,T048,T191",34723085,disease_disease,1,True,C0023520,Leukodystrophy,['T047'],['Disease or Syndrome'],True
+37,dilated perivascular spaces,perivascular space,pathology,T046,40298596,pathology_anatomy_present,1,True,C0225983,Structure of perivascular space,['T030'],['Body Space or Junction'],False
+38,toxic,poisoning,phenotype,"T019,T020,T033,T034,T041,T184",38740822,phenotype_protein,1,True,C0032343,Poisoning,['T037'],['Injury or Poisoning'],False
+39,nystagmus,"nystagmus, myoclonic",phenotype,"T019,T020,T033,T034,T041,T184",39119446,disease_phenotype_positive,2,True,C1839579,"Nystagmus, Myoclonic",['T047'],['Disease or Syndrome'],False
+40,body weight,Increased body weight,phenotype,"T019,T020,T033,T034,T041,T184",36568275,drug_effect,2,True,C0043094,Weight Gain,['T033'],['Finding'],True
+41,inverted echogenicity,Abnormal hepatic echogenicity,pathology,T046,35187608,pathology_anatomy_present,1,True,C4477001,Abnormal hepatic echogenicity,['T033'],['Finding'],False
+42,oligodendrocyte-axon interface,non-myelinated axon ensheathment,phenotype,"T019,T020,T033,T034,T041,T184",39119446,disease_phenotype_positive,2,True,C1819191,non-myelinated axon ensheathment,['T043'],['Cell Function'],False
+43,neuronal,neuronal cell body,phenotype,"T019,T020,T033,T034,T041,T184",37149081,disease_phenotype_positive,2,True,C0599444,Cell body of neuron,['T026'],['Cell Component'],False
+44,bifrontal regions,Abnormal shape of the frontal region,anatomy,"T017,T018,T021,T022,T023,T024,T029,T030",40298596,pathology_anatomy_present,2,True,C4023458,Abnormal shape of the frontal region,['T190'],['Anatomical Abnormality'],False
+45,"""spongiform” vacuoles",fungal-type vacuole,pathology,T046,34498299,pathology_anatomy_present,1,True,C1167030,fungal-type vacuole,['T026'],['Cell Component'],False
+46,myelin sheaths,myelin sheath,anatomy,"T017,T018,T021,T022,T023,T024,T029,T030",37867939,anatomy_protein_present,1,True,C0026973,Myelin Sheath,['T026'],['Cell Component'],False
+47,decortication,delamination,phenotype,"T019,T020,T033,T034,T041,T184",39119446,disease_phenotype_positive,2,True,C0441514,Delamination (procedure),['T061'],['Therapeutic or Preventive Procedure'],False
+48,spongy leukodystrophy,leukodystrophy,disease,"T047,T048,T191",38544400,disease_disease,1,True,C0023520,Leukodystrophy,['T047'],['Disease or Syndrome'],True
+49,vacuolar leukodystrophy,leukodystrophy,disease,"T047,T048,T191",34498299,disease_disease,1,True,C0023520,Leukodystrophy,['T047'],['Disease or Syndrome'],True

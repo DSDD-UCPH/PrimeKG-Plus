@@ -5,47 +5,59 @@ version: "1.0.0"
 date-released: "2026-06-20"
 license: MIT
 repository-code: "https://github.com/DSDD-UCPH/PrimeKG-Plus"
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.20796545
 preferred-citation:
   type: article
   title: "PrimeKG-Plus: a literature-derived expansion of a multimodal precision medicine knowledge graph"
   authors:
     - family-names: Nguyen
       given-names: Trinh Trung Duong
-    - family-names: Tanoli
-      given-names: Ziaurrehman
     - family-names: Nguyen-Phuong
       given-names: Thuy
+    - family-names: Nguyen
+      given-names: Quy-Hoai
+    - family-names: Abbasi
+      given-names: Amna Mumtaz
     - family-names: "Le Phan"
       given-names: Hanh-Dung
-    - family-names: "Nguyen Luong"
-      given-names: Bao-Anh
+    - family-names: Nguyen
+      given-names: Luong Bao-Anh
     - family-names: Phan
       given-names: Nhat-Thien
+    - family-names: Curabaz
+      given-names: Nurettin Nusret
     - family-names: Hauser
       given-names: Alexander S.
+    - family-names: Tanoli
+      given-names: Ziaurrehman
     - family-names: Nguyen
       given-names: Dinh Truong
     - family-names: Kooistra
       given-names: Albert J.
   journal: "Scientific Data"
   year: 2026
-  notes: "Replace Zenodo DOI placeholder (10.5281/zenodo.XXXXXXX) after deposit."
+  notes: "Scientific Data manuscript under review."
 authors:
   - family-names: Nguyen
     given-names: Trinh Trung Duong
-  - family-names: Tanoli
-    given-names: Ziaurrehman
   - family-names: Nguyen-Phuong
     given-names: Thuy
+  - family-names: Nguyen
+    given-names: Quy-Hoai
+  - family-names: Abbasi
+    given-names: Amna Mumtaz
   - family-names: "Le Phan"
     given-names: Hanh-Dung
-  - family-names: "Nguyen Luong"
-    given-names: Bao-Anh
+  - family-names: Nguyen
+    given-names: Luong Bao-Anh
   - family-names: Phan
     given-names: Nhat-Thien
+  - family-names: Curabaz
+    given-names: Nurettin Nusret
   - family-names: Hauser
     given-names: Alexander S.
+  - family-names: Tanoli
+    given-names: Ziaurrehman
   - family-names: Nguyen
     given-names: Dinh Truong
   - family-names: Kooistra

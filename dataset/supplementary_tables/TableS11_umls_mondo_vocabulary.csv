@@ -1,0 +1,7 @@
+metric,original_vocabulary_20251124umls_mondocsv,curated_bijective_vocabulary_no_multi_mapping
+CUI–MONDO pair rows,"31,683","21,347 (v1) / 21,357 (v2)"
+Unique UMLS CUIs,"28,349","21,347 / 21,357"
+Unique MONDO IDs,"22,418","21,347 / 21,357"
+CUIs mapping to >1 MONDO,"2,935 (10.35% of CUIs)",0 (0%)
+MONDO IDs mapping to >1 CUI,"4,521 (20.17% of MONDO)",0 (0%)
+Pair rows in any one-to-many association,"15,613 (49.28%)",0 (0%)

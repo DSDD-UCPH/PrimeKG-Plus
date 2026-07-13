@@ -1,0 +1,31 @@
+relation_type,description
+anatomy_anatomy,is_a between anatomical structures
+anatomy_protein_absent,protein absent in an anatomical structure
+anatomy_protein_present,protein present or expressed in an anatomical structure
+bioprocess_bioprocess,is_a between biological processes
+bioprocess_protein,protein participates in a biological process
+cellcomp_cellcomp,is_a between cellular components
+cellcomp_protein,protein located in or associated with a cellular component
+contraindication,disease where a drug is advised against
+disease_disease,is_a relationship between diseases
+disease_phenotype_negative,disease linked to absence of a phenotype
+disease_phenotype_positive,disease linked to presence of a phenotype
+disease_protein,"disease linked to a protein (mutation, biomarker, dysregulation)"
+drug_drug,"pharmacokinetic/pharmacodynamic interaction, synergy, antagonism"
+drug_effect,drug causes an observable effect or phenotype
+drug_protein,drug interacts with a protein (target/enzyme/transporter/carrier)
+exposure_bioprocess,exposure affects biological process
+exposure_cellcomp,exposure affects cellular component
+exposure_disease,exposure linked to disease
+exposure_exposure,is_a between exposures
+exposure_molfunc,exposure affects molecular function
+exposure_protein,exposure affects protein activity or levels
+indication,disease that a drug treats or prevents
+molfunc_molfunc,is_a between molecular functions
+molfunc_protein,protein has molecular function
+off_label_use,non-approved indication
+pathway_pathway,is_a between pathways
+pathway_protein,protein acts in a pathway
+phenotype_phenotype,is_a or association between phenotypes
+phenotype_protein,phenotype associated with or influenced by a protein
+protein_protein,protein–protein interaction/regulation

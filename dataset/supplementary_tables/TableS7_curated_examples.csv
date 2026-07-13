@@ -1,0 +1,6 @@
+relation,display_relation,x_name,x_type,y_name,y_type,note
+protein_protein,ppi,PHYHIP,gene/protein,KIF15,gene/protein,x_name: synonym
+protein_protein,ppi,GPANK1,gene/protein,PNMA1,gene/protein,your note
+drug_protein,carrier,Flurandrenolide,drug,SERPINA6,gene/protein,your notes
+drug_protein,carrier,Prednisolone,drug,SERPINA6,gene/protein,…
+phenotype_protein,assoc_with,PRSS35,gene/protein,Hepatomegaly,phenotype,…

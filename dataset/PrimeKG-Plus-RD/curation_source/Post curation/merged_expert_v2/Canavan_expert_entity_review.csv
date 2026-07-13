@@ -1,0 +1,26 @@
+entity_name,entity_type,algo_accepted,algo_suggested_name,algo_cui,expert_accepted,expert_rejected,expert_suggested_name,expert_cui,note,entity_name_norm,expert_resolution
+"""spongiform” vacuoles",pathology,False,,C4281802,False,True,Spongy degeneration,C0333462,,"""spongiform” vacuoles",not_accepted
+acetate donor,biological_process,False,,,False,True,,,nếu mqh cần thiết: thêm relationship: actetate - electron acceptor activity (C1153522),acetate donor,not_accepted
+areas of ongoing myelination,anatomy,False,,,False,True,activation of myelination,C2245286,"nằm trong conclusion, gợi ý điều trị",areas of ongoing myelination,not_accepted
+astroglial vacuolation,phenotype,False,,C5206989,True,False,,,,astroglial vacuolation,expert_cui
+bifrontal regions,anatomy,False,,C0445448,True,False,,,,bifrontal regions,expert_cui
+bioelectrical activity,disease,False,,,False,True,bioelectricity,C0598362,cell function,bioelectrical activity,not_accepted
+carrier screening programs,exposure,False,,,False,True,Genetic Carrier Screening,C0019426,bỏ,carrier screening programs,not_accepted
+cerebral delayed posture,phenotype,True,Compensatory head posture,C4703721,False,True,Abnormal posture,C0231471,,cerebral delayed posture,not_accepted
+cortical gray,anatomy,False,,C0007776,True,False,,,,cortical gray,expert_cui
+cystic formation,phenotype,False,,,False,True,Cyst Formation,C1707597,,cystic formation,not_accepted
+demyelinaing,disease,False,,C0011303,False,True,Demyelinating Diseases,C0011303,,demyelinaing,not_accepted
+demylination,phenotype,False,,C0011304,True,False,,,,demylination,expert_cui
+dual-function vector,exposure,False,,,False,True,,,"là phương pháp điều trị AAV.cy5, k được cập nhật",dual-function vector,not_accepted
+energy substrate,biological_process,False,,C0038591,False,True,,,,energy substrate,not_accepted
+intra myelinic vacuolation,phenotype,False,,,False,True,Intramyelinic oedema,C5208224,,intra myelinic vacuolation,not_accepted
+intramyelinic vacuoles,phenotype,True,Nonrimmed muscle vacuoles,C6016430,False,True,Intramyelinic oedema,C5208224,,intramyelinic vacuoles,not_accepted
+inverted echogenicity,pathology??,False,,C4693119,True,False,,,,inverted echogenicity,expert_cui
+leukodystropy,disease,True,leukodystrophy,C0023520,True,False,,,,leukodystropy,expert_cui
+non-classical splicing defect,phenotype,False,,,False,True,,,,non-classical splicing defect,not_accepted
+oligodendrocyte-axon interface,phenotype??-> anotomy,False,,,False,True,,,k tìm được thuật ngữ phù hợp,oligodendrocyte-axon interface,not_accepted
+progressive cognitive and motor,phenotype,False,,C5233137|C5233139,True,False,Tách ở file QC thành 2 từ,,,progressive cognitive and motor,expert_cui
+prominent spongiform brain degeneration,phenotype,True,Cerebral cortex with spongiform changes,C1857934,True,False,,,,prominent spongiform brain degeneration,expert_cui
+spongy leukodystrophy,disease,True,leukodystrophy,C0023520,False,True,Spongy degeneration,C0333462,,spongy leukodystrophy,not_accepted
+swollen axons,phenotype,True,Diffuse axonal swelling,C0544925|C1865417,True,False,,,,swollen axons,expert_cui
+vacuolar leukodystrophy,disease,True,leukodystrophy,C0023520,True,False,,,,vacuolar leukodystrophy,expert_cui

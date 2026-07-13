@@ -1,0 +1,26 @@
+entity_name,entity_type,accepted_in_second_search,suggested_name,observed_statuses
+"""spongiform” vacuoles",pathology,no,,
+acetate donor,biological_process,no,,
+areas of ongoing myelination,anatomy,no,,
+astroglial vacuolation,phenotype,no,,
+bifrontal regions,anatomy,no,,
+bioelectrical activity,disease,no,,
+carrier screening programs,exposure,no,,
+cerebral delayed posture,phenotype,yes,Compensatory head posture,C4703721
+cortical gray,anatomy,no,,
+cystic formation,phenotype,no,,
+demyelinaing,disease,no,,
+demylination,phenotype,no,,
+dual-function vector,exposure,no,,
+energy substrate,biological_process,no,,
+intramyelinic vacuolation,phenotype,no,,
+intramyelinic vacuoles,phenotype,yes,Nonrimmed muscle vacuoles,C6016430
+inverted echogenicity,pathology,no,,
+leukodystropy,disease,yes,leukodystrophy,C0023520
+non-classical splicing defect,phenotype,no,,
+oligodendrocyte-axon interface,phenotype,no,,
+progressive cognitive and motor,phenotype,no,,
+prominent spongiform brain degeneration,phenotype,yes,Cerebral cortex with spongiform changes,C1857934
+spongy leukodystrophy,disease,yes,leukodystrophy,C0023520
+swollen axons,phenotype,yes,Diffuse axonal swelling,C1865417
+vacuolar leukodystrophy,disease,yes,leukodystrophy,C0023520

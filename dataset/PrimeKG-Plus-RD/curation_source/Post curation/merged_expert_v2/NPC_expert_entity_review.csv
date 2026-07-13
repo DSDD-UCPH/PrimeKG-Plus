@@ -1,0 +1,597 @@
+entity_name,entity_type,algo_accepted,algo_suggested_name,algo_cui,expert_accepted,expert_rejected,expert_suggested_name,expert_cui,note,entity_name_norm,expert_resolution
+11β-hydroxysteroid-dehydrogenase of type 2,protein/gene,False,,C0608861,True,False,,,,11β-hydroxysteroid-dehydrogenase of type 2,expert_cui
+11β-hydroxysteroid-dehydrogenase of type 2 inhibitor,biological_process?? (UMLS: molecular function),False,,C5878973,True,False,,,,11β-hydroxysteroid-dehydrogenase of type 2 inhibitor,expert_cui
+2-hydroxypropyl-ß-cyclodextrin,drug,False,,C0046237,True,False,,,,2-hydroxypropyl-ß-cyclodextrin,expert_cui
+2-hydroxypropyl-γ-cyclodextrin,drug,False,,C4522177,True,False,,,,2-hydroxypropyl-γ-cyclodextrin,expert_cui
+"3β,5α,6β-trihydroxycholanoyl-glycine",phenotype???,False,,,True,False,,,,"3β,5α,6β-trihydroxycholanoyl-glycine",expert_accept_unresolved
+4-sulfobutylether-β-cyclodextrin,drug,False,,C0296727,True,False,,,,4-sulfobutylether-β-cyclodextrin,expert_cui
+aberrant pattern of interferon activation,phenotype,False,,,True,False,,,,aberrant pattern of interferon activation,expert_accept_unresolved
+abnormal cholesterol accumulation,phenotype,False,,C3553603,True,False,,,,abnormal cholesterol accumulation,expert_cui
+absence of serious adverse events,phenotype,False,,,True,False,,,,absence of serious adverse events,expert_accept_unresolved
+accumulate multiple bis(monoacylglycero)phosphate species,phenotype,False,,,True,False,,,,accumulate multiple bis(monoacylglycero)phosphate species,expert_accept_unresolved
+accumulating of cholesterol crystals in the lysosome,phenotype,False,,C5436605,True,False,,,,accumulating of cholesterol crystals in the lysosome,expert_cui
+accumulation of cholesterol and other lipids,phenotype,True,Unesterified cholesterol accumulation in cultured fibroblasts,C3553603|C5937001,True,False,,,,accumulation of cholesterol and other lipids,expert_cui
+accumulation of cholesterol in late endosome,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of cholesterol in late endosome,not_accepted
+accumulation of cholesterol in lysosome,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of cholesterol in lysosome,not_accepted
+accumulation of cholesterol in lysosomes,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of cholesterol in lysosomes,not_accepted
+accumulation of free cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of free cholesterol,not_accepted
+accumulation of glycosphingolipids,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,accumulation of glycosphingolipids,not_accepted
+accumulation of intracellular free cholesterol,phenotype,True,Unesterified cholesterol accumulation in cultured fibroblasts,C5937001,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of intracellular free cholesterol,not_accepted
+accumulation of intracellular unesteri ed cholesterol,phenotype,False,,C3553603,True,False,,,,accumulation of intracellular unesteri ed cholesterol,expert_cui
+accumulation of multiple lipid species,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of multiple lipid species,not_accepted
+accumulation of myofibroblasts,phenotype,False,,,True,False,,,,accumulation of myofibroblasts,expert_accept_unresolved
+accumulation of tissue-specific lipids,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,accumulation of tissue-specific lipids,not_accepted
+accumulation of unesterified cholesterol and glycolipids,phenotype,True,Unesterified cholesterol accumulation in cultured fibroblasts,C5937001,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,accumulation of unesterified cholesterol and glycolipids,not_accepted
+accumulation of unesterified cholesterol in lysosomes,phenotype,False,,C5937001,True,False,,,,accumulation of unesterified cholesterol in lysosomes,expert_cui
+activation of pro‐inflammatory microglia,phenotype,False,,C2265710,False,True,microglial cell activation,C1326169,,activation of pro‐inflammatory microglia,not_accepted
+alleviate neuroinflammation,phenotype,False,,,False,True,negative regulation of neuroinflammatory response,C5137643,,alleviate neuroinflammation,not_accepted
+alteration of serum oxysterols,phenotype,False,,,True,False,,,,alteration of serum oxysterols,expert_accept_unresolved
+alteration of sphingolipids,phenotype,False,,,True,False,,,,alteration of sphingolipids,expert_accept_unresolved
+altered horizontal position smooth pursuit,phenotype,True,,C1866753,True,False,,,,altered horizontal position smooth pursuit,expert_cui
+altered horizontal saccadic peak velocity and latency,phenotype,True,Slowed horizontal saccades,C1856477,False,True,Abnormal saccadic eye movement,C0234649,,altered horizontal saccadic peak velocity and latency,not_accepted
+altered metabolites,phenotype,False,,C5139220,True,False,,,,altered metabolites,expert_cui
+altered vertical saccadic duration and amplitude,phenotype,True,Slow saccadic eye movements,C0234649|C1321329,True,False,,,,altered vertical saccadic duration and amplitude,expert_cui
+ameliorated lysosome dysfunction,phenotype,False,,C0544948,False,True,Increased Lysosomal Function,C1372391,,ameliorated lysosome dysfunction,not_accepted
+ameliorated the cerebellar ataxic phenotype,phenotype,False,,C0007758,False,True,,,,ameliorated the cerebellar ataxic phenotype,not_accepted
+amyloidogenic processing,biological_process,False,,C1327340,False,True,amyloid-beta formation,C2247791,,amyloidogenic processing,not_accepted
+an autosomal recessive hereditary disease,disease,False,,C0265388,True,False,,,,an autosomal recessive hereditary disease,expert_cui
+atrophy over time in these structures,phenotype,False,,,False,True,Progressive atrophy,C1265895,,atrophy over time in these structures,not_accepted
+attenuated cerebellar degeneration,pathology,False,,C0262404,False,True,,,,attenuated cerebellar degeneration,not_accepted
+attenuated cerebellar inflammation,pathology,False,,,True,False,,,,attenuated cerebellar inflammation,expert_accept_unresolved
+attenuated lysosomal dysfunction,phenotype,False,,,False,True,Increased Lysosomal Function,C1372391,,attenuated lysosomal dysfunction,not_accepted
+attenuated microgliosis,phenotype,False,,C3686874,False,True,,,,attenuated microgliosis,not_accepted
+attenuated neuropathology,phenotype,False,,C0876934,False,True,,,,attenuated neuropathology,not_accepted
+autophagic flux,biological_process(??),False,,,True,False,,,,autophagic flux,expert_accept_unresolved
+autophagy defects,phenotype,False,,,False,True,Autophagy lesions,C5543046,,autophagy defects,not_accepted
+autophagy reactivation,biological_process,False,,,False,True,positive regulation of autophagy,C2265642,,autophagy reactivation,not_accepted
+autosomal recessive lysosomal disorder,phenotype?,False,,C0085078,True,False,,,,autosomal recessive lysosomal disorder,expert_cui
+autosomal recessive lysosomal storage disease,disease,True,lysosomal storage disease,C0085078,True,False,,,,autosomal recessive lysosomal storage disease,expert_cui
+autosomal recessive lysosomal storage disorder,disease,True,lysosomal storage disease,C0085078,True,False,,,,autosomal recessive lysosomal storage disorder,expert_cui
+autosomal recessive neurovisceral disease,disease,False,,,True,False,,,bỏ cũng được,autosomal recessive neurovisceral disease,expert_accept_unresolved
+autosomal recessive rare disease,disease,False,,,False,True,Autosomal recessive inheritance,C0441748,bỏ cũng được,autosomal recessive rare disease,not_accepted
+axonal autophagic stress,phenotype,False,,,True,False,,,,axonal autophagic stress,expert_accept_unresolved
+axonal autophagic vacuoles accumulation,phenotype,False,,,False,True,Autophagic vaculoes (finding),C0544966,,axonal autophagic vacuoles accumulation,not_accepted
+axonal trafficking defects,phenotype,True,Peripheral axonal degeneration,C4025830,False,True,,,,axonal trafficking defects,not_accepted
+backward leaning during gait,phenotype,True,Difficulty walking backward,C4703572,False,True,Postural instability,C1843921,,backward leaning during gait,not_accepted
+beam walk latency,phenotype,True,Motor delay,C1854301,True,False,,,,beam walk latency,expert_cui
+bis(monoacylglycero)phosphate biosynthesis pathway,pathway,False,,C5907653,False,True,phospholipid biosynthetic process,C1157377,,bis(monoacylglycero)phosphate biosynthesis pathway,not_accepted
+blinks to elicit saccades,phenotype,True,Hypermetric saccades?,C0423083,False,True,Oculomotor apraxia,C3489733,,blinks to elicit saccades,not_accepted
+blood-cerebrospinal fluid enlarged extracellular vesicles,anatomy(??),False,,,False,True,Extracellular Vesicles,C3894683,,blood-cerebrospinal fluid enlarged extracellular vesicles,not_accepted
+bor1 knockout,Gene therapy,False,,,False,True,Gene Knockout Techniques,C0599772,,bor1 knockout,not_accepted
+brain capillary endothelial cells,anatomy,False,,C1180238,True,False,,,,brain capillary endothelial cells,expert_cui
+brain iron dysregulation,phenotype,False,,,True,False,,,,brain iron dysregulation,expert_accept_unresolved
+brain microvascular endothelial cells,anatomy,False,,,True,False,,,,brain microvascular endothelial cells,expert_accept_unresolved
+brain region inflammation,phenotype,False,,C0014038,False,True,Neuroinflammation,C5394393,,brain region inflammation,not_accepted
+broken hepatocytes,phenotype,True,Vacuolated hepatocytes,C5558397|C5826610,False,True,,,,broken hepatocytes,not_accepted
+buildup of autophagic organelles in dystrophic axons,phenotype,False,,,False,True,Autophagic vaculoes (finding),C0544966,,buildup of autophagic organelles in dystrophic axons,not_accepted
+buildup of endocytic in dystrophic axons,phenotype,True,Peripheral axon spheroid formation?,C5826770,False,True,Endosomes,C0034850,,buildup of endocytic in dystrophic axons,not_accepted
+cancer cell pyroptosis,biological_process,False,,C2610960,True,False,,,,cancer cell pyroptosis,expert_cui
+cationic amphiphilic agents,drug,False,,C0016365,True,False,,,cationic amphiphilic agents: đọc báo-> hợp chất cation chứa 2 thuốc này,cationic amphiphilic agents,expert_cui
+caused central nervous system inflammation,phenotype,False,,C0178264,True,False,,,,caused central nervous system inflammation,expert_cui
+caused demyelination,phenotype,False,,C0011304,True,False,,,,caused demyelination,expert_cui
+caused neurological side effects,phenotype,False,,C0421229,True,False,,,,caused neurological side effects,expert_cui
+cell phenotypic changes,phenotype,False,,,False,True,Abnormal cellular phenotype,C4476724,,cell phenotypic changes,not_accepted
+cellular and systemic growth control,biological_process,False,,C0596286,True,False,,,,cellular and systemic growth control,expert_cui
+cellular cholesterol trafficking,biological_process,False,,,False,True,intracellular cholesterol transport,C1819279,,cellular cholesterol trafficking,not_accepted
+cellular organelles,cellular_component,False,,C0029219,True,False,,,,cellular organelles,expert_cui
+central nervous system cholesterol metabolism,biological_process,False,,,False,True,cholesterol metabolism,C1156530,,central nervous system cholesterol metabolism,not_accepted
+ceramide homeostasis,biological_process,False,,,True,False,,,,ceramide homeostasis,expert_accept_unresolved
+cerebellar hypometabolism progression,phenotype,True,Global cerebellar dysplasia,C3279889|C5539789,False,True,Hypometabolism,C0347938,,cerebellar hypometabolism progression,not_accepted
+cerebellar pathology,pathology,False,,,False,True,Cerebellar Diseases,C0007760,bỏ được,cerebellar pathology,not_accepted
+cerebral glucose metabolism,biological_process,False,,C0596620,True,False,,,,cerebral glucose metabolism,expert_cui
+cerebrospinal fluid neurodegeneration,protein/gene???,False,,C0007806,True,False,,,,cerebrospinal fluid neurodegeneration,expert_cui
+changed morphology of microglia,phenotype,True,Abnormal microglia morphology,C4021990,True,False,,,,changed morphology of microglia,expert_cui
+chloride channel target therapy,drug,False,,,True,False,,,https://drive.google.com/drive/folders/1Oagmdr2io9T9_GcXctca7U7fts7tEVno,chloride channel target therapy,expert_accept_unresolved
+"cholestane-5α,6β-diol-3β-sulfonate",chemical,False,,,True,False,,,,"cholestane-5α,6β-diol-3β-sulfonate",expert_accept_unresolved
+cholesterol accumlation,phenotype,False,,C5436605,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol accumlation,not_accepted
+cholesterol accumulation in host cytoplasmic dense vesicles???,phenotype,False,,C5436606,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol accumulation in host cytoplasmic dense vesicles???,not_accepted
+cholesterol accumulation phenotype,phenotype,False,,C5436607,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol accumulation phenotype,not_accepted
+cholesterol acquisition,biological_process,False,,C2611279,True,False,,,,cholesterol acquisition,expert_cui
+cholesterol buildup,phenotype,False,,C5436607,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol buildup,not_accepted
+cholesterol dyshomeostasis,phenotype,False,,C1843372,True,False,,,,cholesterol dyshomeostasis,expert_cui
+cholesterol dysregulation??,phenotype,False,,,False,True,Abnormal cholesterol homeostasis,C1843372,,cholesterol dysregulation??,not_accepted
+cholesterol egress,biological_process,False,,C2246761,True,False,,,,cholesterol egress,expert_cui
+cholesterol localization,phenotype,False,,,False,True,intracellular cholesterol transport,C1819279,,cholesterol localization,not_accepted
+cholesterol overloaded,biological_process?? ?,False,,C5436606,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol overloaded,not_accepted
+cholesterol release from lysosomes,biological_process,False,,C2246761,True,False,,,,cholesterol release from lysosomes,expert_cui
+cholesterol solubilization,biological_process,False,,,True,False,,,,cholesterol solubilization,expert_accept_unresolved
+cholesterol storage in endosomes,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol storage in endosomes,not_accepted
+cholesterol storage in lysosomes,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,cholesterol storage in lysosomes,not_accepted
+cholesterol transport to the plasma membrane,biological_process,False,,,False,True,intracellular cholesterol transport,C1819279,,cholesterol transport to the plasma membrane,not_accepted
+cholesterol uptake gene????,protein/gene,False,,C1417776,False,True,,,,cholesterol uptake gene????,not_accepted
+choriod plexus,anatomy,True,choroid plexus,C0008524,False,True,Structure of choroid plexus,C0008524,,choriod plexus,not_accepted
+choroid plexus enlargement,phenotype,False,,C5788142,True,False,,,,choroid plexus enlargement,expert_cui
+choroid plexus volumes??- extract sai,phenotype,False,,C4022771,False,True,,,,choroid plexus volumes??- extract sai,not_accepted
+chronic neurodegeneration,phenotype,True,Progressive neurologic deterioration,C1854838,False,True,Neurodegenerative Disorders,C0524851,,chronic neurodegeneration,not_accepted
+ciliary accessible cholesterol,phenotype,False,,,False,True,intracellular cholesterol transport,C1819279,https://docs.google.com/presentation/d/1Hqx6ZYfHu61mBHDHEZjCwN29QlxFCU2-9wuzUNhjtSE/edit?slide=id.g3dcee041ebc_3_1980#slide=id.g3dcee041ebc_3_1980,ciliary accessible cholesterol,not_accepted
+circulating inflammatory monocytes??,anatomy,False,,,False,True,Monocytes,C0026473,progression of Purkinje cell degeneration,circulating inflammatory monocytes??,not_accepted
+clear cholesterol from liver????,phenotype,False,,C2248593,True,False,,,,clear cholesterol from liver????,expert_cui
+coginitive decline,phenotype,False,,C0338656,True,False,,,,coginitive decline,expert_cui
+cognitive performance deterioration,phenotype,False,,C0338656,True,False,,,,cognitive performance deterioration,expert_cui
+complex asparagine-linked glycosylation,biological_process,False,,C1623028,True,False,,,,complex asparagine-linked glycosylation,expert_cui
+creatinine synthesis pathway,pathway,False,,C1156940,False,True,creatinine metabolic process,C1156941,,creatinine synthesis pathway,not_accepted
+cryptic splice donor site,pathology,False,,C0887917,False,True,Cryptic Splice Sites,C1720838,cryptic? chưa biết- cân nhắc bỏ,cryptic splice donor site,not_accepted
+cytosolic b-glucosidase,cellular_component????,False,,,True,False,,,bỏ,cytosolic b-glucosidase,expert_accept_unresolved
+damaged peripheral organs,phenotype,False,,,False,True,Visceral Involvement,C5960196,,damaged peripheral organs,not_accepted
+dearth in the lysosome loading of cholesterol transporter,phenotype,False,,C3553603,False,True,inhibition of intracellular cholesterol transport,C2245629,,dearth in the lysosome loading of cholesterol transporter,not_accepted
+decaarginine endcapped polyrotaxanes,drug,True,Nandrolone decanoate,C0068395,False,True,Nanoparticle Drug Delivery System,C5544449,,decaarginine endcapped polyrotaxanes,not_accepted
+decelerated disease progression,phenotype,True,Progressive neurologic deterioration,,False,True,Slowly progressive,,,decelerated disease progression,not_accepted
+declined gait abnormalities,phenotype,False,,C0575081,False,True,,,,declined gait abnormalities,not_accepted
+declined motor dysfunction,phenotype,False,,C5979810,False,True,Motor improvement,C5452884,,declined motor dysfunction,not_accepted
+decrease cholesterol accumulation,phenotype,False,,C5436607,False,True,,,,decrease cholesterol accumulation,not_accepted
+decrease in cerebrospinal fluid disease severity levels,phenotype,False,,,True,False,,,,decrease in cerebrospinal fluid disease severity levels,expert_accept_unresolved
+decrease long term hematopoietic stem cells in bone marrow????,phenotype,False,,C0018956,False,True,,,,decrease long term hematopoietic stem cells in bone marrow????,not_accepted
+decrease long term hematopoietic stem in bone marrow,phenotype,False,,,True,False,,,,decrease long term hematopoietic stem in bone marrow,expert_accept_unresolved
+decrease short term hematopoietic stem cells in bone marrow,phenotype,False,,C0018956,False,True,,,,decrease short term hematopoietic stem cells in bone marrow,not_accepted
+decrease short term hematopoietic stem in bone marrow,phenotype,False,,,True,False,,,,decrease short term hematopoietic stem in bone marrow,expert_accept_unresolved
+decreased astrogliosis,phenotype,False,,C3887640,False,True,,,,decreased astrogliosis,not_accepted
+decreased cholesterol accumulation,phenotype,False,,C5436607,False,True,,,,decreased cholesterol accumulation,not_accepted
+decreased cholesterol content associated with late endosome,phenotype,False,,,True,False,,,,decreased cholesterol content associated with late endosome,expert_accept_unresolved
+decreased levels of adenosine 5′-triphosphate,phenotype,True,Elevated erythrocyte adenosine triphosphate concentration,C5826912,True,False,,,,decreased levels of adenosine 5′-triphosphate,expert_cui
+decreased microgliosis,phenotype,False,,C3686874,False,True,negative regulation of microglial cell activation,C3895752,,decreased microgliosis,not_accepted
+decreased mitochondrial glutathione levels,phenotype,True,Elevated circulating glutathione concentration,C5826406,False,True,Glutathione decreased,C1112167,,decreased mitochondrial glutathione levels,not_accepted
+decreased oxidative stress,phenotype,False,,C0242606,False,True,,,,decreased oxidative stress,not_accepted
+decreased tumor metastasis,phenotype,False,,C2939419,False,True,Metastasis Suppression,C1513178,,decreased tumor metastasis,not_accepted
+decreased tyrosinase-related protein 1,phenotype,True,tyrosinase activity,C3806150,False,True,,,bỏ được,decreased tyrosinase-related protein 1,not_accepted
+decreased vacuolar fragmentation,phenotype,False,,C5451577,False,True,,,,decreased vacuolar fragmentation,not_accepted
+decreased vertical saccades peak velocity,phenotype,True,Slowed horizontal saccades,C1856477,False,True,Slowing of vertical saccades,C4011795,,decreased vertical saccades peak velocity,not_accepted
+deep brain signs,phenotype,True,White cerebellum sign,C5706186,True,False,,,,deep brain signs,expert_cui
+deep cerebellar nuclei neurons,anatomy,False,,,False,True,Cerebellar Nuclei,C0007763,,deep cerebellar nuclei neurons,not_accepted
+defective fusion of autophagosomes,phenotype,False,,C4551946,False,True,,,,defective fusion of autophagosomes,not_accepted
+defective fusion of lysosomes,phenotype,False,,,True,False,,,,defective fusion of lysosomes,expert_accept_unresolved
+defective lysosomal cholesterol efflux,phenotype,False,,,True,False,,,,defective lysosomal cholesterol efflux,expert_accept_unresolved
+defective mitophagy induction,phenotype,False,,C3894805,False,True,Inhibition of mitophagy,C5888059,,defective mitophagy induction,not_accepted
+delayed onset of interferon signaling,phenotype,False,,,True,False,,,,delayed onset of interferon signaling,expert_accept_unresolved
+delayed the onset of motor impairment,phenotype,False,,C5436522,False,True,delay the onset of disorder,C0814338,,delayed the onset of motor impairment,not_accepted
+delayed the onset of weight loss,phenotype,False,,C1262477,False,True,delay the onset of disorder,C0814338,,delayed the onset of weight loss,not_accepted
+deregulation in the cortical circadian rhythm pathway,phenotype,False,,,False,True,Abnormal circadian rhythm,C0231316,,deregulation in the cortical circadian rhythm pathway,not_accepted
+de‐ramified processes,phenotype,False,,,True,False,,,,de‐ramified processes,expert_accept_unresolved
+dissolve cholesterol crystals into free cholesterol,phenotype,False,,,False,True,intracellular cholesterol transport,C1819279,,dissolve cholesterol crystals into free cholesterol,not_accepted
+dysfunctional autophagy,pathology,False,,,False,True,Autophagy lesions,C5543046,,dysfunctional autophagy,not_accepted
+dystonia presentations,phenotype,True,Generalized dystonia,C0013421|C1848954,True,False,,,,dystonia presentations,expert_cui
+early cholestatic disease,disease,False,,C1859162,True,False,,,,early cholestatic disease,expert_cui
+early neurodevelopmental disturbance,phenotype,False,,C1970828,True,False,,,,early neurodevelopmental disturbance,expert_cui
+elevated 7-ketocholesterol,anatomy??????,False,,C0049920,True,False,,,,elevated 7-ketocholesterol,expert_cui
+elevated cholesterol on lysosome membranes,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,elevated cholesterol on lysosome membranes,not_accepted
+elevated levels of free pro-resolving fatty acid epoxides,phenotype,False,,,True,False,,,,elevated levels of free pro-resolving fatty acid epoxides,expert_accept_unresolved
+elevated levels of iron,phenotype,False,,C3809762,False,True,Iron increased,C0860976,,elevated levels of iron,not_accepted
+elevated levels of lipid peroxidation,phenotype,False,,,False,True,Lipid Peroxidation,C0023775,,elevated levels of lipid peroxidation,not_accepted
+elevated levels of reactive oxygen species,phenotype,False,,C4476796,True,False,,,,elevated levels of reactive oxygen species,expert_cui
+elevated lysosphingomyelin 509,phenotype,False,,,False,True,Elevated circulating lysosphingomyelin concentration,C6055488,,elevated lysosphingomyelin 509,not_accepted
+elevated myristic,phenotype,False,,C0129533,True,False,,,,elevated myristic,expert_cui
+elevated myristic acid,phenotype,True,Increased level of myristic acid in serum,C4703649,True,False,,,,elevated myristic acid,expert_cui
+elevated oxysterols,anatomy | phenotype,False,,C4277571,True,False,,,,elevated oxysterols,expert_cui
+elevated palmitoleic acid,phenotype,False,,C0069966,True,False,,,,elevated palmitoleic acid,expert_cui
+elevation of alkyl-lysophosphatidylcholine species,phenotype,False,,,False,True,Elevated circulating lysophosphatidylcholine concentration,C5937189,,elevation of alkyl-lysophosphatidylcholine species,not_accepted
+elevations in glucosylceramide isoforms,phenotype,False,,C3495729,True,False,,,,elevations in glucosylceramide isoforms,expert_cui
+elevations in mitochondrial caltrium,phenotype,False,,C5887225,True,False,,,,elevations in mitochondrial caltrium,expert_cui
+endo-lysosomal network,cellular_component,False,,C1156044,True,False,,,,endo-lysosomal network,expert_cui
+endo-lysosomal trafficking pathway??,pathway,False,,,False,True,endosome to lysosome transport,C1156044,,endo-lysosomal trafficking pathway??,not_accepted
+endo-lysosomes,cellular_component,False,,C5907374,False,True,Endolysosome,C3271504,,endo-lysosomes,not_accepted
+endolysosomal accumulation of the lipid??,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,endolysosomal accumulation of the lipid??,not_accepted
+endolysosomal accumulation of unesterified cholesterol,pathology,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,endolysosomal accumulation of unesterified cholesterol,not_accepted
+endolysosomal comparment,cellular_component,False,,C5907374,False,True,Endolysosome,C3271504,,endolysosomal comparment,not_accepted
+endolysosomal compartment,cellular_component,False,,C5907374,False,True,Endolysosome,C3271504,,endolysosomal compartment,not_accepted
+endolysosomal storage of unesterified cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,endolysosomal storage of unesterified cholesterol,not_accepted
+endosomal transportautophagy abnormalities,phenotype,False,,C3548880,False,True,Autophagy lesions,C5543046,,endosomal transportautophagy abnormalities,not_accepted
+engulf mitochondria in autophagosomes,biological_process,False,,,False,True,Mitophagy,C1820119,,engulf mitochondria in autophagosomes,not_accepted
+enhance calcium entry,phenotype,False,,C1153433,False,True,Calcium ion transmembrane transport,C2753344,,enhance calcium entry,not_accepted
+enhanced the onset of the neurological phenotype??,phenotype,False,,,True,False,,,,enhanced the onset of the neurological phenotype??,expert_accept_unresolved
+enlarged extracellular vesicles,anatomy,False,,,True,False,,,,enlarged extracellular vesicles,expert_accept_unresolved
+enlarged soma size,phenotype,True,Epiglottic enlargement,C0239282,True,False,,,,enlarged soma size,expert_cui
+enzymatic function,phenotype,False,,C0014429,False,True,enzyme activity,C0243102,,enzymatic function,not_accepted
+enzyme acid sphingomyelinase deficiency,phenotype,False,,C5243927,True,False,,,,enzyme acid sphingomyelinase deficiency,expert_cui
+evelated long-chain isoforms of glucosylceramide,phenotype,False,,,False,True,Glucosylceramide increased,C3495729,,evelated long-chain isoforms of glucosylceramide,not_accepted
+exacerbated interferon signaling,phenotype,False,,C5883586,True,False,,,,exacerbated interferon signaling,expert_cui
+excessive accumulation of cholesterol,phenotype,False,,C5436605,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,excessive accumulation of cholesterol,not_accepted
+excessive cholesterol accumulation in the lysosome,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,excessive cholesterol accumulation in the lysosome,not_accepted
+extends lifespan,phenotype,False,,C0870809,True,False,,,,extends lifespan,expert_cui
+extensive hypometabolism,pathology,False,,C0347938,True,False,,,,extensive hypometabolism,expert_cui
+fatal neurodegenerative condition,phenotype,False,,C0524851,True,False,,,,fatal neurodegenerative condition,expert_cui
+fatal neurodegenerative disease,disease,True,fatal post-viral neurodegenerative disorder,C0524851|C4751597,True,False,,,,fatal neurodegenerative disease,expert_cui
+fatal neurovisceral disorder,phenotype,False,,C2675646,False,True,Niemann-Pick Diseases,C0028064,disease,fatal neurovisceral disorder,not_accepted
+faulty cholesterol trafficking,phenotype,False,,C2749801,True,False,,,,faulty cholesterol trafficking,expert_cui
+fibroblast-to-myofibroblast differentiation,biological_process,False,,C1709101,True,False,,,,fibroblast-to-myofibroblast differentiation,expert_cui
+foam cell accumulation,phenotype,False,,,True,False,,,,foam cell accumulation,expert_accept_unresolved
+formation of multi-laminar storage bodies,phenotype,False,,,True,False,,,,formation of multi-laminar storage bodies,expert_accept_unresolved
+free pro-resolving fatty acid epoxides,molecular_function,False,,,True,False,,,,free pro-resolving fatty acid epoxides,expert_accept_unresolved
+free sterols accumulation,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,free sterols accumulation,not_accepted
+frontotemporal areas,anatomy,False,,C4330011,True,False,,,,frontotemporal areas,expert_cui
+gelastic cataplexy,phenotype,False,,C0007384,True,False,,,,gelastic cataplexy,expert_cui
+giant lysosomes,phenotype,False,,,False,True,Abnormal lysosomal morphology,C4531183,,giant lysosomes,not_accepted
+giant multilamellar bodies,phenotype,False,,,True,False,,,,giant multilamellar bodies,expert_accept_unresolved
+glucocerbrosi-dase 2,protein/gene,False,,C3539583,True,False,,,,glucocerbrosi-dase 2,expert_cui
+glucosyl ceramide synthase,protein/gene,False,,C4283742,True,False,,,,glucosyl ceramide synthase,expert_cui
+glucosylceramide synthase competitive inhibitor,phenotype?????,False,,C4075566,True,False,,,drug/ chemical,glucosylceramide synthase competitive inhibitor,expert_cui
+glycolipid and cholesterol trafficking,biological_process???,False,,C2749801,False,True,glycolipid transport,C1326458,,glycolipid and cholesterol trafficking,not_accepted
+glycosphingolipid accumulation,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,glycosphingolipid accumulation,not_accepted
+grey matter loss in the thalami,phenotype,True,Focal necrotic thalamus lesion,C5393278|C5826815,True,False,,,,grey matter loss in the thalami,expert_cui
+head and upper body movements,phenotype,True,Abnormal head movements,C0476217,True,False,,,,head and upper body movements,expert_cui
+heat shock response 70,protein/gene,False,,C0243043,True,False,,,,heat shock response 70,expert_cui
+hepatic and neuronal disorders,phenotype,False,,,True,False,,,,hepatic and neuronal disorders,expert_accept_unresolved
+hepatic symtoms,phenotype,True,Abnormality of the liver,C4021780,True,False,,,,hepatic symtoms,expert_cui
+hepatocyte-like cells,anatomy,False,,,True,False,,,,hepatocyte-like cells,expert_accept_unresolved
+hereditary ataxic disorders,phenotype,False,,C0004138,True,False,,,,hereditary ataxic disorders,expert_cui
+high level of unesrerified cholesterol,phenotype,True,Elevated cholesterol ester level,C1291155,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,high level of unesrerified cholesterol,not_accepted
+highly heterogeneous phenotypes,phenotype,False,,C1839039,True,False,,,,highly heterogeneous phenotypes,expert_cui
+hippocampal subregional atrophy,phenotype,False,,C4315130,True,False,,,,hippocampal subregional atrophy,expert_cui
+host cellular cholesterol distribution,biological_process,False,,,False,True,intracellular cholesterol transport,C1819279,,host cellular cholesterol distribution,not_accepted
+human hematologic and solid cancers,disease,False,,C0376545,True,False,,,,human hematologic and solid cancers,expert_cui
+human-derived low-density lipoprotein,exposure,False,,,False,True,Low-Density Lipoproteins,C0023823,,human-derived low-density lipoprotein,not_accepted
+hypopharyngeal retention,phenotype,False,,,False,True,Pharyngeal residue,C3828570,,hypopharyngeal retention,not_accepted
+idiopathic neonatal cholestasis,phenotype,False,,C1112213,True,False,,,,idiopathic neonatal cholestasis,expert_cui
+impaired anterograde lysosome transport,phenotype,False,,,True,False,,,,impaired anterograde lysosome transport,expert_accept_unresolved
+impaired axonal lysosomal transport,phenotype,False,,C1156063,False,True,,,,impaired axonal lysosomal transport,not_accepted
+impaired cargo degradation,phenotype,False,,,True,False,,,,impaired cargo degradation,expert_accept_unresolved
+impaired glutamate uptake,phenotype,False,,,True,False,,,,impaired glutamate uptake,expert_accept_unresolved
+impaired health-related quality of life,phenotype,True,Diminished health-related quality of life,C5539750,False,False,,,,impaired health-related quality of life,not_accepted
+impaired immune surveillance,phenotype,False,,C5691359,False,True,Impaired immune responses,C2677484,,impaired immune surveillance,not_accepted
+impaired intestinal stem cell stemness,phenotype,False,,C3549197,False,True,,,,impaired intestinal stem cell stemness,not_accepted
+impaired intracellular cholesterol trafficking,phenotype,False,,C2749801,True,False,,,,impaired intracellular cholesterol trafficking,expert_cui
+impaired lipid storage,phenotype,False,,C1159705,False,True,"metabolic disorder; lipid, lipoid, storage",C1410111,,impaired lipid storage,not_accepted
+impaired lysosomal function,phenotype,False,,C1371708,True,False,,,,impaired lysosomal function,expert_cui
+impaired neurite outgrowth,phenotype,False,,C3158384,False,True,,,,impaired neurite outgrowth,not_accepted
+impaired oligodendrocyte lineage maturation,phenotype,False,,,False,True,inhibition of oligodendrocyte differentiation,C2253984,,impaired oligodendrocyte lineage maturation,not_accepted
+impaired saccadic velocity,phenotype,True,Slow saccadic eye movements,C1321329,False,True,Deficient saccadic eye movements,C5385189,,impaired saccadic velocity,not_accepted
+impaired smooth pursuit gain,phenotype,True,Impaired smooth pursuit,C1837458,False,False,,,,impaired smooth pursuit gain,not_accepted
+impaired vertical reflexive saccades,phenotype,True,Dysmetric vertical saccades,C4732803,False,True,Deficient saccadic eye movements,C5385189,,impaired vertical reflexive saccades,not_accepted
+impaired vertical saccades,phenotype,False,Dysmetric vertical saccades,C4732803,False,True,Deficient saccadic eye movements,C5385189,,impaired vertical saccades,not_accepted
+impaired vertical upward and downward saccades,phenotype,True,Dysmetric vertical saccades,C4732803,False,True,Deficient saccadic eye movements,C5385189,,impaired vertical upward and downward saccades,not_accepted
+impairment of cognitive inhibition,phenotype,False,,C0338656,False,True,,,,impairment of cognitive inhibition,not_accepted
+impairment of lysosomal function,phenotype,True,Abnormality of lysosomal metabolism,C1371708|C4025342,True,False,,,,impairment of lysosomal function,expert_cui
+impairment of mitophagy,phenotype,False,,C1820119,False,True,Inhibition of mitophagy,C5888059,,impairment of mitophagy,not_accepted
+impairment of verbal fluency,phenotype,False,,C0751514,True,False,,,,impairment of verbal fluency,expert_cui
+impairs developmental trajectories,phenotype,True,Moderate global developmental delay,C2237142|C3842150,True,False,,,,impairs developmental trajectories,expert_cui
+improve lysosomal function,phenotype,False,,C1372391,True,False,,,,improve lysosomal function,expert_cui
+improve motor coordination,phenotype,False,,C5452884,True,False,,,,improve motor coordination,expert_cui
+improved ataxia,phenotype,True,acquired ataxia,C0004134|C4302112,False,True,,,,improved ataxia,not_accepted
+improved behavioural phenotypes,phenotype,False,,C1321146,True,False,,,,improved behavioural phenotypes,expert_cui
+"improved cellular fifitness,",phenotype,False,,,False,True,,,,"improved cellular fifitness,",not_accepted
+improved cholesterol efflux,biological_process,False,,C2246761,True,False,,,,improved cholesterol efflux,expert_cui
+improved cholesterol mobilization,phenotype,False,,C2246761,False,True,intracellular cholesterol transport,C1819279,,improved cholesterol mobilization,not_accepted
+improved feeding phenotypes,phenotype,False,,C0015745,True,False,,,,improved feeding phenotypes,expert_cui
+improved mitochondrial function,phenotype,False,,,True,False,,,,improved mitochondrial function,expert_accept_unresolved
+improved mitochondrial functional performance,phenotype,False,,,True,False,,,,improved mitochondrial functional performance,expert_accept_unresolved
+improved motor function,phenotype,False,,C5452884,True,False,,,,improved motor function,expert_cui
+improved motor functions,phenotype,False,,C5452884,True,False,,,,improved motor functions,expert_cui
+improves the decline of locomotor activity,phenotype,False,,C5452884,True,False,,,,improves the decline of locomotor activity,expert_cui
+increase adenosine levels,phenotype,False,,C1863254,True,False,,,,increase adenosine levels,expert_cui
+increase in inflammatory gene expression,phenotype,True,Increased inflammatory response,C4022803,False,True,,,,increase in inflammatory gene expression,not_accepted
+increase long term hematopoietic stem cells in spleen,phenotype,False,,,True,False,,,,increase long term hematopoietic stem cells in spleen,expert_accept_unresolved
+increase long term hematopoietic stem in cells spleen,phenotype,False,,,True,False,,,,increase long term hematopoietic stem in cells spleen,expert_accept_unresolved
+increase of mitochondrial cholesterol content,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,increase of mitochondrial cholesterol content,not_accepted
+increase of this bile acid,phenotype,False,,C1610048,False,True,Bile acid levels raised,C3672033,,increase of this bile acid,not_accepted
+increase short term hematopoietic stem cells in spleen,phenotype,False,,,True,False,,,,increase short term hematopoietic stem cells in spleen,expert_accept_unresolved
+increase short term hematopoietic stem in cells spleen,phenotype,False,,,True,False,,,,increase short term hematopoietic stem in cells spleen,expert_accept_unresolved
+increase the number of mature neurons,phenotype,False,,,False,True,Positive regulation of neuron maturation,C1817643,,increase the number of mature neurons,not_accepted
+"increased 3β,5α,6β-trihydroxycholanyl glycine",phenotype,False,,,True,False,,,,"increased 3β,5α,6β-trihydroxycholanyl glycine",expert_accept_unresolved
+increased astrogliosis,phenotype,False,,C3887640,True,False,,,,increased astrogliosis,expert_cui
+increased cholesterol content associated with mitochondria,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,increased cholesterol content associated with mitochondria,not_accepted
+increased immune response,phenotype,False,,C0020964,False,True,Increased inflammatory response,C4022803,,increased immune response,not_accepted
+increased levels of extracellular adenosine,phenotype,False,,C1863254,True,False,,,,increased levels of extracellular adenosine,expert_cui
+increased levels of tau protein,phenotype,False,,,False,True,tau Proteins,C0085401,,increased levels of tau protein,not_accepted
+increased lysosomal volume,phenotype,False,,,False,True,Abnormal lysosomal morphology,C4531183,,increased lysosomal volume,not_accepted
+increased median survival,phenotype,False,,C2986586,True,False,,,,increased median survival,expert_cui
+increased membrane contact sites,phenotype,False,,C2828354,True,False,,,,increased membrane contact sites,expert_cui
+increased mitochondrial membrane fluidity,phenotype,False,,,True,False,,,,increased mitochondrial membrane fluidity,expert_accept_unresolved
+increased phosphatidylcholine ratio,phenotype,False,,,True,False,,,,increased phosphatidylcholine ratio,expert_accept_unresolved
+increased phosphatidylethanolamine ratio,phenotype,False,,,True,False,,,,increased phosphatidylethanolamine ratio,expert_accept_unresolved
+increased plasma granulocyte-colony stimulating factor by 2-fold,phenotype,False,,C4552323,True,False,,,,increased plasma granulocyte-colony stimulating factor by 2-fold,expert_cui
+increasing adenosine levels,phenotype,False,,C1863254,True,False,,,,increasing adenosine levels,expert_cui
+induced extracellular release of lysosomal components,phenotype,False,,,False,True,Exocytosis Induction,C1516996,,induced extracellular release of lysosomal components,not_accepted
+inefficient efferocytosis,phenotype,False,,C1523908,False,True,,,,inefficient efferocytosis,not_accepted
+inherited neurovisceral genetic disorder,phenotype,False,,,False,True,Lysosomal Storage Diseases,C0085078,,inherited neurovisceral genetic disorder,not_accepted
+initial psychopharmacology,phenotype,False,,C0033929,True,False,,,,initial psychopharmacology,expert_cui
+injured livers,anatomy??????,False,,,False,True,Injury of liver,C0160390,,injured livers,not_accepted
+intensive blinking,phenotype,True,Abnormal blink rate,C1707960|C5826653,True,False,,,,intensive blinking,expert_cui
+intolerance of psychopharmacological drugs,phenotype,False,,,False,True,Intolerance to drug,C0277585,,intolerance of psychopharmacological drugs,not_accepted
+intracellular accumulation of non-esterified cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,intracellular accumulation of non-esterified cholesterol,not_accepted
+intracellular accumulation of other lipids,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,intracellular accumulation of other lipids,not_accepted
+intracellular cholesterol defect,phenotype,False,,C2749801,True,False,,,,intracellular cholesterol defect,expert_cui
+intracellular cholesterol trafficking,biological_process | pathway,False,,C2749801,False,True,intracellular cholesterol transport,C1819279,,intracellular cholesterol trafficking,not_accepted
+intracellular cholesterol transport inhibitor,drug,False,,,False,True,inhibition of intracellular cholesterol transport,C2245629,,intracellular cholesterol transport inhibitor,not_accepted
+intracellular mobilization of water-insoluble molecules,biological_process,False,,,True,False,,,,intracellular mobilization of water-insoluble molecules,expert_accept_unresolved
+intracellular sphingolipid transport,biological_process,False,,C1148655,True,False,,,,intracellular sphingolipid transport,expert_cui
+intracellular trafficking of cholesterol,biological_process,False,,C2749801,True,False,,,,intracellular trafficking of cholesterol,expert_cui
+intramitochondrial cholesterol trafficking,biological_process,False,,,False,True,intracellular cholesterol transport,C1819279,,intramitochondrial cholesterol trafficking,not_accepted
+intrathecal 2-hydroxypropyl-β-cyclodextrin,drug,False,,C0526359,False,True,hydroxypropylbetadex (0.58-0.68 MS),C0046237,,intrathecal 2-hydroxypropyl-β-cyclodextrin,not_accepted
+isogenic induced pluripotent stem cells,anatomy,False,,C2717959,True,False,,,,isogenic induced pluripotent stem cells,expert_cui
+kinesin domain,molecular_function,False,,C0600499,False,True,kinesin motor activity,C1149276,,kinesin domain,not_accepted
+late endosomal accumulation of unesterified cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,late endosomal accumulation of unesterified cholesterol,not_accepted
+late endosome cholesterol accumulation,not foune,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,late endosome cholesterol accumulation,not_accepted
+late endosome cholesterol transport,phenotype,False,,,False,True,inhibition of intracellular cholesterol transport,C2245629,,late endosome cholesterol transport,not_accepted
+late endosome morphology,phenotype,False,,,True,False,,,,late endosome morphology,expert_accept_unresolved
+late endosome tubulation,biological_process | phenotype,False,,C4328966,True,False,,,,late endosome tubulation,expert_cui
+late lysosomal and endosomal compartments,cellular_component,False,,C5907375,False,True,Endolysosome,C3271504,,late lysosomal and endosomal compartments,not_accepted
+lateral trajectory of the eyes,phenotype,False,,C5569664,False,True,,,,lateral trajectory of the eyes,not_accepted
+lipid accumulation in late endosomes,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,lipid accumulation in late endosomes,not_accepted
+lipid accumulation in lysosomes,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,lipid accumulation in lysosomes,not_accepted
+lipid burden,phenotype,False,,C0242339,False,True,Intracellular Accumulation of Lipids,C1512921,,lipid burden,not_accepted
+lipid clearance,phenotype,False,,,True,False,,,,lipid clearance,expert_accept_unresolved
+lipid dysregulation,phenotype,False,,,False,True,Lipid Metabolism Alteration,C0548934,,lipid dysregulation,not_accepted
+lipid transport pathway,biological_process,False,,C0596846,True,False,,,,lipid transport pathway,expert_cui
+lipid-laden foamy macrophages,phenotype,False,,C0333738,True,False,,,,lipid-laden foamy macrophages,expert_cui
+liver failure developed,phenotype,False,,C0085605,True,False,,,,liver failure developed,expert_cui
+liver−spleen region,anatomy,False,,C0545797,True,False,,,,liver−spleen region,expert_cui
+long-term congenital immunodeficiencies,disease,False,,C0272229,True,False,,,,long-term congenital immunodeficiencies,expert_cui
+loose cell bodies,phenotype,False,,,True,False,,,,loose cell bodies,expert_accept_unresolved
+loss in neuronal signaling capacity,phenotype,False,,,False,True,inhibition of neuronal signal transduction,C3823472,,loss in neuronal signaling capacity,not_accepted
+loss of lipid rafts,phenotype,False,,,True,False,,,,loss of lipid rafts,expert_accept_unresolved
+loss of mental and physical abilities,phenotype,False,,,False,True,Progressive psychomotor deterioration,C1856565,,loss of mental and physical abilities,not_accepted
+loss of psychomotor acquisitions,phenotype,True,Progressive psychomotor deterioration,C1856565,True,False,,,,loss of psychomotor acquisitions,expert_cui
+low expression tyrosinase,phenotype,True,tyrosinase activity,C3806150,True,False,,,,low expression tyrosinase,expert_cui
+low levels of esterified cholesterols,phenotype,True,"low density lipoprotein cholesterol, mild elevation of",C1857956,True,False,,,,low levels of esterified cholesterols,expert_cui
+low levels of long-chain fatty acids,phenotype,True,Very long chain fatty acid accumulation,C3279397,True,False,,,,low levels of long-chain fatty acids,expert_cui
+lower cerebral expression of genes within interferon signaling pathways,phenotype,False,,,True,False,,,,lower cerebral expression of genes within interferon signaling pathways,expert_accept_unresolved
+lower oxidative stress,phenotype,False,,C0242606,False,True,,,,lower oxidative stress,not_accepted
+lower phosphatidylcholine ratio in mitochondria,phenotype,False,,,True,False,,,,lower phosphatidylcholine ratio in mitochondria,expert_accept_unresolved
+lower phosphatidylethanolamine ratio in mitochondria,phenotype,False,,,True,False,,,,lower phosphatidylethanolamine ratio in mitochondria,expert_accept_unresolved
+lowered smooth pursuit gain,phenotype,True,Impaired smooth pursuit,C1837458,True,False,,,,lowered smooth pursuit gain,expert_cui
+lyso-sphingolipids,biological_process | phenotype,False,,C0037900,True,False,,,,lyso-sphingolipids,expert_cui
+lysomsomal storage disorder,disease,False,,C0085078,True,False,,,,lysomsomal storage disorder,expert_cui
+lysosomal accessible cholesterol,phenotype,False,,,True,False,,,,lysosomal accessible cholesterol,expert_accept_unresolved
+lysosomal accumulation of cholesterol,phenotype,False,,,True,False,,,,lysosomal accumulation of cholesterol,expert_accept_unresolved
+lysosomal accumulation of unesterified cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,lysosomal accumulation of unesterified cholesterol,not_accepted
+lysosomal bis(monoacylglycero)phosphate hydrolase,molecular_function,False,,C0610007,False,True,,,,lysosomal bis(monoacylglycero)phosphate hydrolase,not_accepted
+lysosomal cholesterol accumulation,phenotype,False,,,True,False,,,,lysosomal cholesterol accumulation,expert_accept_unresolved
+lysosomal cholesterol crystals solubilizer,phenotype,False,,,True,False,,,,lysosomal cholesterol crystals solubilizer,expert_accept_unresolved
+lysosomal cholesterol handling,biological_process,False,,,True,False,,,,lysosomal cholesterol handling,expert_accept_unresolved
+lysosomal cholesterol homeostasis,biological_process | phenotype,True,cholesterol homeostasis,C1326960,True,False,,,,lysosomal cholesterol homeostasis,expert_cui
+lysosomal cholesterol trafficking pathway,biological_process | pathway,False,,C1159709,False,True,intracellular cholesterol transport,C1819279,,lysosomal cholesterol trafficking pathway,not_accepted
+lysosomal differentially expressed proteins,cellular_component,False,,,True,False,,,,lysosomal differentially expressed proteins,expert_accept_unresolved
+lysosomal dysfunction,phenotype,False,,C0544948,False,True,Lysosomal Function Alteration,C1372737,,lysosomal dysfunction,not_accepted
+lysosomal leakage,phenotype,False,,,True,False,,,,lysosomal leakage,expert_accept_unresolved
+lysosomal lipid accumulation,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,lysosomal lipid accumulation,not_accepted
+lysosomal lipid storage,disease,False,,C0085078,True,False,,,,lysosomal lipid storage,expert_cui
+lysosomal lipid storage disease,disease,False,,C0085078,True,False,,,,lysosomal lipid storage disease,expert_cui
+lysosomal membrane permeabilization,biological_process | phenotype,False,,,True,False,,,,lysosomal membrane permeabilization,expert_accept_unresolved
+lysosomal storage defects,disease,False,,C0085078,True,False,,,,lysosomal storage defects,expert_cui
+lysosome abundance,phenotype,False,,,True,False,,,,lysosome abundance,expert_accept_unresolved
+lysosome cholesterol accumulation,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,lysosome cholesterol accumulation,not_accepted
+lysosome dysfunction,phenotype,False,,C0544948,False,True,Lysosomal Function Alteration,C1372737,,lysosome dysfunction,not_accepted
+lysosome limiting membrane,cellular_component,False,,C0230812,True,False,,,,lysosome limiting membrane,expert_cui
+lysosome tubulation,phenotype,False,,,True,False,,,,lysosome tubulation,expert_accept_unresolved
+lysosome-dependent cell death,phenotype,False,,,True,False,,,,lysosome-dependent cell death,expert_accept_unresolved
+lysosphingomyelin-509,phenotype,False,,,True,False,,,,lysosphingomyelin-509,expert_accept_unresolved
+macrophage efferocytosis,biological_process,False,,C1523908,True,False,,,,macrophage efferocytosis,expert_cui
+maintain normal lipid metabolism,biological_process,False,,C0598783,False,True,regulation of lipid metabolic process,C1158445,,maintain normal lipid metabolism,not_accepted
+massive accumulation of cholesterol within cells,phenotype,False,,C5436605,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,massive accumulation of cholesterol within cells,not_accepted
+massive increase in autophagosomes,phenotype,False,,,True,False,,,,massive increase in autophagosomes,expert_accept_unresolved
+mature lymphocyte depletion,phenotype,False,,C0024257,True,False,,,,mature lymphocyte depletion,expert_cui
+mature neuronal cells,anatomy,False,,,False,True,Neurons,C0027882,,mature neuronal cells,not_accepted
+metabolic collapse,phenotype,False,,C0027882,False,True,metabolic decompensation,C5194814,,metabolic collapse,not_accepted
+metabolic irregularities,phenotype,False,,C2976863,False,True,Abnormal metabolism,C5139220,,metabolic irregularities,not_accepted
+metabolite characteristics?,phenotype,True,Abnormal tissue metabolite concentration,C5139219,True,False,,,,metabolite characteristics?,expert_cui
+metabolize cholesterol overload,biological_process,False,,,False,True,Cholesterol catabolic process,C1156534,,metabolize cholesterol overload,not_accepted
+microglia ameboid form,phenotype,True,Abnormal microglia morphology,C4021990,True,False,,,,microglia ameboid form,expert_cui
+microglia gastrosome expansion,phenotype | protein/gene,False,,,True,False,,,,microglia gastrosome expansion,expert_accept_unresolved
+microglial function,biological_process,False,,C1326169,False,True,microglial,C0521398,,microglial function,not_accepted
+microglial homeostasis,phenotype,False,,,True,False,,,,microglial homeostasis,expert_accept_unresolved
+mild neutrophilia.,phenotype,True,Abnormal neutrophil morphology,C0151683|C0856003,True,False,,,,mild neutrophilia.,expert_cui
+"mild, intermediate, and severe clinical forms",phenotype,False,,,False,True,Disease severity level,C4738984,,"mild, intermediate, and severe clinical forms",not_accepted
+mildly delayed myelination,phenotype,True,Delayed myelination,C1277241,False,True,"Delayed myelination, mild",C3808994,,mildly delayed myelination,not_accepted
+missense change,phenotype,False,,C0599155,True,False,,,,missense change,expert_cui
+missing adhesio interthalamica,phenotype,False,,C0228325,False,True,Structural abnormality of thalamus,C4021243,,missing adhesio interthalamica,not_accepted
+mitigate the activation of glial cells,phenotype,False,,C4690080,False,True,,,,mitigate the activation of glial cells,not_accepted
+mitochondrial cholesterol accumulation,pathology | phenotype,False,,,True,False,,,,mitochondrial cholesterol accumulation,expert_accept_unresolved
+mitochondrial cytotoxicity,phenotype,False,,C4021734,True,False,,,,mitochondrial cytotoxicity,expert_cui
+mitochondrial dyshomeostasis,phenotype,False,,,True,False,,,,mitochondrial dyshomeostasis,expert_accept_unresolved
+mitochondrial insufficiency,phenotype,False,,,False,True,Mitochondrial Dysfunction,C4021734,,mitochondrial insufficiency,not_accepted
+mitochondrial-lysosomal contacts,cellular_component,False,,,True,False,,,,mitochondrial-lysosomal contacts,expert_accept_unresolved
+mitocondrial differentially expressed proteins,protein/gene,False,,C0026237,False,True,,,,mitocondrial differentially expressed proteins,not_accepted
+mo56-hydroxycholesterol,GRAS/Excipient/prodrug,False,,C0055527,False,True,,,,mo56-hydroxycholesterol,not_accepted
+motor decline,phenotype,True,Motor deterioration,C1866284,True,False,,,,motor decline,expert_cui
+movement dyscoordination,phenotype,False,,C0269839,False,True,Motor incoordination,C4012581,,movement dyscoordination,not_accepted
+multiple lipid species accumulate,phenotype,False,,,False,True,Intracellular Accumulation of Lipids,C1512921,,multiple lipid species accumulate,not_accepted
+multiple sphingolipids,phenotype,False,,C0037900,True,False,,,,multiple sphingolipids,expert_cui
+mycobacterial cell wall lipids,exposure,False,,C0026931,True,False,,,,mycobacterial cell wall lipids,expert_cui
+myelin debris,molecular_function,False,,,True,False,,,,myelin debris,expert_accept_unresolved
+nanostructural disease,disease,False,,,True,False,,,,nanostructural disease,expert_accept_unresolved
+nanostructural ion channel clustering disease,disease,False,,C1720983,True,False,,,,nanostructural ion channel clustering disease,expert_cui
+neurite extension failure,phenotype,False,,C3824274,False,True,,,,neurite extension failure,not_accepted
+neuro lament light,protein/gene,False,,C5774172,True,False,,,,neuro lament light,expert_cui
+neuro-psychiatric symptoms,phenotype,False,,C0150881,True,False,,,,neuro-psychiatric symptoms,expert_cui
+neuro-visceral disease,disease,False,,C0162565,False,True,Lysosomal Storage Diseases,C0085078,,neuro-visceral disease,not_accepted
+neuro-visceral lipid storage disease,disease,True,neutral lipid storage disease,C5848057,False,True,Lysosomal Storage Diseases,C0085078,,neuro-visceral lipid storage disease,not_accepted
+neurodegenerative cholesterol,disease,False,,C0524851,False,True,,,,neurodegenerative cholesterol,not_accepted
+neurodegenerative form,phenotype,False,,C0027746,False,True,Neurodegenerative Disorders,C0524851,,neurodegenerative form,not_accepted
+neurodegenerative lysosomal disease,disease,True,lysosomal disease with epilepsy,C0524851|C5680898,False,True,Lysosomal Storage Diseases,C0085078,,neurodegenerative lysosomal disease,not_accepted
+neurodegenerative lysosomal lipid storage disorder,phenotype,False,,,False,True,Lysosomal Storage Diseases,C0085078,,neurodegenerative lysosomal lipid storage disorder,not_accepted
+neurodegenerative lysosomal storage disease,disease,False,,,False,True,Lysosomal Storage Diseases,C0085078,,neurodegenerative lysosomal storage disease,not_accepted
+neurodegenerative lysosomal storage disorder,disease | phenotype,True,lysosomal storage disease,C0085078,True,False,,,,neurodegenerative lysosomal storage disorder,expert_cui
+neurodevelopmental dynamics,phenotype,False,,,True,False,,,bỏ đi,neurodevelopmental dynamics,expert_accept_unresolved
+neurofibrillary tangle pathology,pathology,False,,C3543859,True,False,,,,neurofibrillary tangle pathology,expert_cui
+neurogenetic disease,disease,True,neurometabolic disease,C5681332,False,True,Hereditary Neurodegenerative Disorder,C3273225,,neurogenetic disease,not_accepted
+neurological characteristics,phenotype,False,,,False,True,Neurologic Manifestations,C0027854,,neurological characteristics,not_accepted
+neurological manifestation prevention,phenotype,False,,C0027854,False,True,Preventive procedure for the neurological system,C0849260,,neurological manifestation prevention,not_accepted
+neurological non-enzymatic disorders,disease,False,,,True,False,,,,neurological non-enzymatic disorders,expert_accept_unresolved
+neuronal cholesterol turnover,biological_process,False,,,False,True,cholesterol metabolism,C1156530,,neuronal cholesterol turnover,not_accepted
+neuronal injury,phenotype,False,,C0161479,True,False,,,,neuronal injury,expert_cui
+neuronal network formation,biological_process,False,,C0597545,False,True,Nervous System Development,C0598282,,neuronal network formation,not_accepted
+neuroprotective factor production,biological_process,False,,,False,True,Neuroprotection,C0598958,,neuroprotective factor production,not_accepted
+neuropsychiatric issues,phenotype,False,,C6013326,True,False,,,,neuropsychiatric issues,expert_cui
+neuropsychiatric manifestations,phenotype,False,,C3203509,True,False,,,,neuropsychiatric manifestations,expert_cui
+neuropsychiatric signs,phenotype,False,,C3203509,True,False,,,,neuropsychiatric signs,expert_cui
+neurotoxic elevations,phenotype,False,,C0235032,True,False,,,,neurotoxic elevations,expert_cui
+neurovisceral lipid storage disease,disease,True,neutral lipid storage disease,C5848057,False,True,Lysosomal Storage Diseases,C0085078,,neurovisceral lipid storage disease,not_accepted
+neurovisceral lipid storage disorder,phenotype,False,,,False,True,Lysosomal Storage Diseases,C0085078,,neurovisceral lipid storage disorder,not_accepted
+neurovisceral lysosomal lipid storage disorder,disease,False,,,False,True,Lysosomal Storage Diseases,C0085078,,neurovisceral lysosomal lipid storage disorder,not_accepted
+neurovisceral manifestations,phenotype,False,,,False,True,Neurologic Manifestations,C0027854,,neurovisceral manifestations,not_accepted
+neurovisceral symptoms,phenotype,True,Acute episodes of neuropathic symptoms,C0027854|C1867971,True,False,,,,neurovisceral symptoms,expert_cui
+nigrostriatal circuit,anatomy,False,,C0815010,True,False,,,,nigrostriatal circuit,expert_cui
+nitrobenzoxadiazole-phospholipids,lipid,False,,C0067563,False,True,,,,nitrobenzoxadiazole-phospholipids,not_accepted
+no significant improvement in lifespan,phenotype,False,,,False,False,,,,no significant improvement in lifespan,not_accepted
+non-lysosomal b-glucosylceramidase,protein/gene,False,,C3539583,True,False,,,,non-lysosomal b-glucosylceramidase,expert_cui
+non-selective chloride channel blockers,drug,False,,,True,False,,,,non-selective chloride channel blockers,expert_accept_unresolved
+nonspecific periventricular hypersignal intensity,phenotype,True,Punctate periventricular T2 hyperintense foci,C4022658|C4540195,True,False,,,,nonspecific periventricular hypersignal intensity,expert_cui
+normalized ganglioside,phenotype,False,,C0017082,True,False,,,,normalized ganglioside,expert_cui
+normalized intracellular cholesterol trafficking,cellular_component,False,,C1819279,True,False,,,,normalized intracellular cholesterol trafficking,expert_cui
+normalized the level of pro-inflammatory cytokines,phenotype,False,,,True,False,,,,normalized the level of pro-inflammatory cytokines,expert_accept_unresolved
+ocular-motor dysfunction,phenotype,False,,C0497202,True,False,,,,ocular-motor dysfunction,expert_cui
+oculomotor dysfunction,phenotype,False,,C0497202,True,False,,,,oculomotor dysfunction,expert_cui
+older age at the neurological symptom onset,phenotype,False,,,False,True,Age of onset of symptoms,C3175531,,older age at the neurological symptom onset,not_accepted
+oligodendrocyte lineage maturation,biological_process,False,,C1656972,True,False,,,,oligodendrocyte lineage maturation,expert_cui
+oligodendrocyte progenitor differentiation,biological_process,False,,C2611204,False,True,oligodendrocyte differentiation,C1656972,,oligodendrocyte progenitor differentiation,not_accepted
+oncosterone,phenotype??,False,,C0768807,False,True,,,,oncosterone,not_accepted
+oncosterone production,phenotype,False,,,True,False,,,,oncosterone production,expert_accept_unresolved
+organ biodistribution,biological_process,False,,,True,False,,,,organ biodistribution,expert_accept_unresolved
+oxidative stress-mediated cell death,phenotype,False,,C3546229,True,False,,,,oxidative stress-mediated cell death,expert_cui
+pac-modified cholesterol,lipid,False,,,True,False,,,,pac-modified cholesterol,expert_accept_unresolved
+pac-sphingosine,lipid,False,,,True,False,,,,pac-sphingosine,expert_accept_unresolved
+pathological accumulation of cholesterol,phenotype,False,,C5436605,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,pathological accumulation of cholesterol,not_accepted
+pathological changes in kidneys,phenotype,False,,C6022317,True,False,,,,pathological changes in kidneys,expert_cui
+pathways of liver damage,pathway,False,,C0151763,True,False,,,,pathways of liver damage,expert_cui
+patien-dependent manner,phenotype,True,Age-dependent penetrance,C1835978,True,False,,,,patien-dependent manner,expert_cui
+peripheral organ dysfunction,phenotype,False,,C0342953,True,False,,,,peripheral organ dysfunction,expert_cui
+peroxisome proliferator-activated receptor-γ,protein/gene,False,,C0166417,True,False,,,,peroxisome proliferator-activated receptor-γ,expert_cui
+phagocytic stress,phenotype,False,,,False,True,Cellular Stress Response,C1516374,,phagocytic stress,not_accepted
+phenotypic scoring metrics,phenotype,False,,,False,True,Disease severity level,C4738984,,phenotypic scoring metrics,not_accepted
+photo-activatable and clickable-phospholipids,lipid,False,,,True,False,,,,photo-activatable and clickable-phospholipids,expert_accept_unresolved
+physiological bis(monoacylglycero)phosphate hydrolase,molecular_function,False,,C5907653,False,True,,,,physiological bis(monoacylglycero)phosphate hydrolase,not_accepted
+plasma phosphorylated-tau217,protein/gene,False,,C5976210,True,False,,,,plasma phosphorylated-tau217,expert_cui
+poly-β-cyclodextrin,drug,False,,C1699799,True,False,,,,poly-β-cyclodextrin,expert_cui
+poly-β-cyclodextrin-benzimidazole supramolecular nanoassembly,drug,False,,,True,False,,,,poly-β-cyclodextrin-benzimidazole supramolecular nanoassembly,expert_accept_unresolved
+post-lysosomal/late endosomal transport,biological_process,False,,C3823268,False,True,intracellular cholesterol transport,C1819279,,post-lysosomal/late endosomal transport,not_accepted
+posterior cerebellar regions,anatomy,False,,C0228466,True,False,,,,posterior cerebellar regions,expert_cui
+postsynaptic glutamate receptor signaling,biological_process,False,,C1155441,True,False,,,,postsynaptic glutamate receptor signaling,expert_cui
+premature degradation,phenotype,False,,C5542995,True,False,,,,premature degradation,expert_cui
+preservation of executive control,phenotype,False,,C0935584,True,False,,,,preservation of executive control,expert_cui
+preservation of learning,phenotype,True,learning,C0023185,True,False,,,,preservation of learning,expert_cui
+preserves cellular function,phenotype,False,,,False,True,"Cell production, function",C1562254,,preserves cellular function,not_accepted
+prevents cell death,phenotype,False,,C5975712,False,True,Decreased Cellular Death,C1371349,,prevents cell death,not_accepted
+primary endothelial cells,anatomy,False,,C0225336,True,False,,,,primary endothelial cells,expert_cui
+primary rat brain endothelial cells,anatomy,False,,C0225336,True,False,,,,primary rat brain endothelial cells,expert_cui
+pro-inflammatory environment,phenotype,False,,,True,False,,,,pro-inflammatory environment,expert_accept_unresolved
+prodrug form of 2-hydroxypropyl-beta-cyclodextrin,drug,False,,C0046237,True,False,,,,prodrug form of 2-hydroxypropyl-beta-cyclodextrin,expert_cui
+production of heat shock response,phenotype,False,,,False,True,Heat-Shock Response,C0282498,,production of heat shock response,not_accepted
+progressive lysosomal storage disorder,disease,False,,C0085078,True,False,,,,progressive lysosomal storage disorder,expert_cui
+progressive major organ failure,phenotype,False,,C0026766,True,False,,,,progressive major organ failure,expert_cui
+progressive neurological degeneration,disease,False,,C3275607,False,True,Progressive neurologic deterioration,C1854838,,progressive neurological degeneration,not_accepted
+progressive neurological impairment,phenotype,False,,C3275607,False,True,Progressive neurologic deterioration,C1854838,,progressive neurological impairment,not_accepted
+progressive neurovisceral manifestations,phenotype,False,,C0027854,True,False,,,,progressive neurovisceral manifestations,expert_cui
+projection of cholesterol-containing membrane tubules,biological_process,False,,,False,True,membrane tubulation,C4318743,,projection of cholesterol-containing membrane tubules,not_accepted
+prolong survival,phenotype,True,Preimplantation lethality,C2919552|C5139371,True,False,,,,prolong survival,expert_cui
+pronouced neurological manifestations,phenotype,False,,C0027854,True,False,,,,pronouced neurological manifestations,expert_cui
+protein trafficking defects,phenotype,False,,C0865206,False,True,intracellular protein transport,C1159772,,protein trafficking defects,not_accepted
+proteostasis modulators,drug,False,,,True,False,,,,proteostasis modulators,expert_accept_unresolved
+proteostatic regulators,drug,False,,,True,False,,,,proteostatic regulators,expert_accept_unresolved
+prothoracic gland,anatomy,False,,,True,False,,,,prothoracic gland,expert_accept_unresolved
+psychiatric alterations,phenotype,False,,C1306597,True,False,,,,psychiatric alterations,expert_cui
+psychiatric anomalies,phenotype,False,,C1306597,True,False,,,,psychiatric anomalies,expert_cui
+rapid progression of neurologic disease,phenotype??,True,Progressive neurologic deterioration,C1854838,True,False,,,,rapid progression of neurologic disease,expert_cui
+rare lysosomal neurovisceral storage disease,disease,True,lysosomal storage disease,C0085078,True,False,,,,rare lysosomal neurovisceral storage disease,expert_cui
+rare lysosomal storage disorder,disease,False,,C0085078,True,False,,,,rare lysosomal storage disorder,expert_cui
+rare neurovisceral lipid storage disease,disease,True,neutral lipid storage disease,C0085078|C5848057,True,False,,,,rare neurovisceral lipid storage disease,expert_cui
+re-accumulation of cholesterol,phenotype,False,,,False,True,Intracellular accumulation of unesterified cholesterol,C3553603,,re-accumulation of cholesterol,not_accepted
+reactive microglia,phenotype,False,,,True,False,,,,reactive microglia,expert_accept_unresolved
+recessive disorder of cholesterol trafficking,phenotype,False,,,False,True,"Niemann-Pick Disease, Type C",C0220756,,recessive disorder of cholesterol trafficking,not_accepted
+recessive lysosomal storage disease,phenotype,False,,,False,True,Lysosomal Storage Diseases,C0085078,,recessive lysosomal storage disease,not_accepted
+recused mitochondrial deficits,phenotype,False,,,False,False,,,,recused mitochondrial deficits,not_accepted
+reduce cell apoptosis,phenotype,False,,C0162638,False,True,Negative Regulation of Apoptosis,C5887034,,reduce cell apoptosis,not_accepted
+reduce gastrointestinal symptoms,phenotype,False,,C0426576,False,True,,,,reduce gastrointestinal symptoms,not_accepted
+reduce intestinal inflammation,phenotype,False,,C3889047,False,True,,,,reduce intestinal inflammation,not_accepted
+reduced asparagine-linked glycosylation,phenotype,False,,C6016529,False,True,,,,reduced asparagine-linked glycosylation,not_accepted
+reduced ataxia,phenotype,False,,C0004134,False,True,,,,reduced ataxia,not_accepted
+reduced cancer growth,phenotype,False,,C1516170,False,True,Inhibition of Cancer Cell Growth,C1512773,,reduced cancer growth,not_accepted
+reduced cholesterol accumulation,phenotype,False,,C5436605,False,True,negative regulation of cholesterol storage,C2612193,,reduced cholesterol accumulation,not_accepted
+reduced cytokine production,phenotype,False,,C1371550,True,False,,,,reduced cytokine production,expert_cui
+reduced de novo sphingolipid biosynthesis,phenotype,False,,,False,True,negative regulation of sphingolipid biosynthetic process,C2755565,,reduced de novo sphingolipid biosynthesis,not_accepted
+reduced fifilipin flfluorescence,phenotype,False,,C4227374,False,True,negative regulation of cholesterol storage,C2612193,,reduced fifilipin flfluorescence,not_accepted
+reduced foamy cells,phenotype,False,,C4281786,False,True,,,,reduced foamy cells,not_accepted
+reduced glycosphingolipid levels,phenotype,False,,,True,False,,,,reduced glycosphingolipid levels,expert_accept_unresolved
+reduced lifespan,phenotype,False,,C0870809,False,True,Reduction in Life Expectancy,C5419418,,reduced lifespan,not_accepted
+reduced lysosomal cholesterol accumulation,phenotype,False,,C5436605,False,True,negative regulation of cholesterol storage,C2612193,,reduced lysosomal cholesterol accumulation,not_accepted
+reduced lysosomal transport,phenotype,False,,C1156063,False,True,,,,reduced lysosomal transport,not_accepted
+reduced mitochondrial transport,phenotype,False,,C0678851,False,True,,,,reduced mitochondrial transport,not_accepted
+reduced neocortical inflammation,phenotype,False,,,True,False,,,,reduced neocortical inflammation,expert_accept_unresolved
+reduced peripheral inflammation,phenotype,False,,,True,False,,,,reduced peripheral inflammation,expert_accept_unresolved
+reduced sphingolipid accumulation,phenotype,False,,,True,False,,,,reduced sphingolipid accumulation,expert_accept_unresolved
+reduced thalamic volumes,phenotype,True,Decreased thalamic volume,C4022771,True,False,,,,reduced thalamic volumes,expert_cui
+reduces intracellular cholesterol accumulation,phenotype,False,,,False,True,negative regulation of cholesterol storage,C2612193,,reduces intracellular cholesterol accumulation,not_accepted
+reduction in complex asparagine-linked glycosylation,phenotype,False,,C1623028,False,True,Abnormal protein N-linked glycosylation,C4022944,,reduction in complex asparagine-linked glycosylation,not_accepted
+reduction in lysosomal calcium,phenotype,False,,,True,False,,,,reduction in lysosomal calcium,expert_accept_unresolved
+regulated lysosomal function,biological_process,False,,,True,False,,,,regulated lysosomal function,expert_accept_unresolved
+relatively intact smooth pursuit eye movements,phenotype,False,,C0034158,False,True,Pursuit eye movement,C0423084,,relatively intact smooth pursuit eye movements,not_accepted
+release of lipid-laden lamellar inclusions,biological_process,False,,,True,False,,,,release of lipid-laden lamellar inclusions,expert_accept_unresolved
+remove cholesterol,phenotype,False,,,False,True,cholesterol efflux,C2246761,,remove cholesterol,not_accepted
+remove lysosomal cholesterol crystals,phenotype,False,,,False,True,cholesterol efflux,C2246761,,remove lysosomal cholesterol crystals,not_accepted
+remove lysosomes cholesterol crystal,phenotype,False,,,False,True,cholesterol efflux,C2246761,,remove lysosomes cholesterol crystal,not_accepted
+renal lamellar bodies,phenotype,False,,,False,True,amellar body,C0230698,,renal lamellar bodies,not_accepted
+renal volume and weight,phenotype,False,,,True,False,,,,renal volume and weight,expert_accept_unresolved
+replenishment of mitochondrial glutathione levels,phenotype,False,,,False,True,positive regulation of glutathione biosynthetic process,C3895204,,replenishment of mitochondrial glutathione levels,not_accepted
+rescued all phenotypic changes,biological_process,False,,,False,True,Reversal of Disease Phenotype,C4086829,,rescued all phenotypic changes,not_accepted
+rescues cholesterol accumulation,phenotype,False,,,False,True,negative regulation of cholesterol storage,C2612193,,rescues cholesterol accumulation,not_accepted
+rescues epigenetic marks,phenotype,False,,C1156210,False,True,,,,rescues epigenetic marks,not_accepted
+rescues mitochondrial membrane potential depolarization;,phenotype,False,,C5887485,True,False,,,,rescues mitochondrial membrane potential depolarization;,expert_cui
+rescues myelination,phenotype,False,,,True,False,,,,rescues myelination,expert_accept_unresolved
+rescues oligodendrocyte gene expression.,phenotype,False,,C0334220,False,True,,,,rescues oligodendrocyte gene expression.,not_accepted
+rescues sphingolipid accumulation.,phenotype,False,,,True,False,,,,rescues sphingolipid accumulation.,expert_accept_unresolved
+resolve the catatonia,phenotype,False,,C0007398,False,True,,,,resolve the catatonia,not_accepted
+restore lipid homeostasis,biological_process,True,lipid homeostasis,C2262744,True,False,,,,restore lipid homeostasis,expert_cui
+restored autophagic flux,phenotype,False,,,True,False,,,,restored autophagic flux,expert_accept_unresolved
+restored cell viability,phenotype,False,,C1516362,True,False,,,,restored cell viability,expert_cui
+restored lipid profile,lipid,False,,,False,True,lipid homeostasis,C2262744,,restored lipid profile,not_accepted
+restored localization of golgin 97,phenotype,False,,,True,False,,,,restored localization of golgin 97,expert_accept_unresolved
+restored localization of syntaxin 6,phenotype,False,,,True,False,,,,restored localization of syntaxin 6,expert_accept_unresolved
+restored mitochondria length,phenotype,False,,,False,True,Normal mitochondrial morphology,C3281112,,restored mitochondria length,not_accepted
+retromer dysfunction,phenotype,False,,,True,False,,,,retromer dysfunction,expert_accept_unresolved
+retromer impairment,phenotype,False,,,True,False,,,,retromer impairment,expert_accept_unresolved
+robust phagocytic activity,phenotype,False,,C1372517,True,False,,,,robust phagocytic activity,expert_cui
+severe acute liver failure,pathology,False,,C0162557,True,False,,,,severe acute liver failure,expert_cui
+severe biochemical phenotype,phenotype,False,,,False,True,Abnormality of metabolism/homeostasis,C4021768,,severe biochemical phenotype,not_accepted
+shorter adhesio interthalamica length,phenotype,False,,,True,False,,,,shorter adhesio interthalamica length,expert_accept_unresolved
+shorter lifespan,phenotype,False,,C0870809,False,True,Reduction in Life Expectancy,C5419418,,shorter lifespan,not_accepted
+shortfalls in fine odor discrimination,phenotype,False,,C4013074,True,False,,,,shortfalls in fine odor discrimination,expert_cui
+significantly reduced mortality risk,phenotype,False,,,True,False,,,,significantly reduced mortality risk,expert_accept_unresolved
+slow down the rate of weight loss,phenotype,False,,,True,False,,,,slow down the rate of weight loss,expert_accept_unresolved
+slow neurological damage,biological_process,False,,,True,False,,,,slow neurological damage,expert_accept_unresolved
+slowed peak velocity,phenotype,False,,,True,False,,,,slowed peak velocity,expert_accept_unresolved
+slower onset of cerebral cortical pathology,phenotype,False,,,True,False,,,,slower onset of cerebral cortical pathology,expert_accept_unresolved
+smaller gray matter volumes,phenotype,False,,,True,False,,,,smaller gray matter volumes,expert_accept_unresolved
+smaller whole hippocampi volumes,disease,False,,C4315130,True,False,,,,smaller whole hippocampi volumes,expert_cui
+soluble epoxide hydrolase pathways,pathway,False,,C1150005,True,False,,,,soluble epoxide hydrolase pathways,expert_cui
+sphingolipid dyshomeostasis,phenotype,False,,,False,True,Sphingolipid metabolism disorder,C3649367,,sphingolipid dyshomeostasis,not_accepted
+sphingomyelin accumulation,phenotype,False,,,True,False,,,,sphingomyelin accumulation,expert_accept_unresolved
+spleen biospies,anatomy,True,spleen,C0037993,True,False,,,,spleen biospies,expert_cui
+splenic monocytes,anatomy,False,,,True,False,,,,splenic monocytes,expert_accept_unresolved
+splenic neutrophils,anatomy,False,,,True,False,,,,splenic neutrophils,expert_accept_unresolved
+stabilized chorea,phenotype,False,,C0008489,False,True,,,,stabilized chorea,not_accepted
+stabilized coginitive decline,phenotype,True,Progressive psychomotor deterioration,C0338656|C1856565,False,True,,,,stabilized coginitive decline,not_accepted
+stabilized neurological phenotypes,phenotype,False,,C1533281,False,True,,,,stabilized neurological phenotypes,not_accepted
+stabilized psychiatric features,phenotype,False,,C0205487,False,True,,,,stabilized psychiatric features,not_accepted
+sterol absorption,biological_process,False,,,False,True,cholesterol absorption,C2945742,,sterol absorption,not_accepted
+stimulator of interferon genesassociated diseases,disease,False,,C3837108,False,True,,,,stimulator of interferon genesassociated diseases,not_accepted
+stimulus-sensitive myoclonus,phenotype,False,,C3554567,True,False,,,,stimulus-sensitive myoclonus,expert_cui
+striatal astrocytes,anatomy,False,,C0004112,True,False,,,,striatal astrocytes,expert_cui
+suboptimal cholesterol transport,phenotype,False,,,False,True,inhibition of intracellular cholesterol transport,C2245629,,suboptimal cholesterol transport,not_accepted
+substantial fibrosis,phenotype,False,,C0016059,True,False,,,,substantial fibrosis,expert_cui
+sustained reduction in disease progression,phenotype,True,Disease remission,C0544452,False,True,,,,sustained reduction in disease progression,not_accepted
+symtomatic therapy,exposure,False,,C5243901,True,False,,,,symtomatic therapy,expert_cui
+synaptic boutons size increase,phenotype,False,,C3544827,True,False,,,,synaptic boutons size increase,expert_cui
+synaptic disturbance,phenotype,False,,,False,False,,,,synaptic disturbance,not_accepted
+synchronicity disruptions,phenotype,False,,,False,True,Abnormal synaptic transmission,C4021083,,synchronicity disruptions,not_accepted
+synthesis of esterified cholesterol,biological_process,False,,,True,False,,,,synthesis of esterified cholesterol,expert_accept_unresolved
+systemic insulin signaling,biological_process,False,,C1512804,True,False,,,,systemic insulin signaling,expert_cui
+systemic iron abnormalities,phenotype,True,Abnormal serum iron concentration,C0235760,False,True,Abnormality of iron homeostasis,C4023583,,systemic iron abnormalities,not_accepted
+systemic organ lesions,phenotype,False,,C0026766,True,False,,,,systemic organ lesions,expert_cui
+tau dysregulation,phenotype,False,,C0949664,False,True,Tau (MAPT) aggregations,C5563129,,tau dysregulation,not_accepted
+third transmembrane domain,anatomy,False,,,False,True,Transmembrane Domain,C1519623,,third transmembrane domain,not_accepted
+total diacylglycerols,phenotype,False,,C0012262,True,False,,,,total diacylglycerols,expert_cui
+total retinal thinning in the fovea,phenotype,False,,,False,True,Retinal thinning on OCT,C3549703,,total retinal thinning in the fovea,not_accepted
+transbilayer transport of some hydrophobic molecules,biological_process,False,,C4014315,False,True,lipid translocation,C2247790,,transbilayer transport of some hydrophobic molecules,not_accepted
+transport of unesterified cholesterol,biological_process,False,,,False,True,intracellular cholesterol transport,C1819279,,transport of unesterified cholesterol,not_accepted
+transporting molecules in the cell,biological_process,False,,C3537074,False,True,intracellular transport,C0599814,,transporting molecules in the cell,not_accepted
+trihydroxycholanic acid glycinate,protein/gene,False,,C0086356,False,True,glycocholic acid,C0017905,,trihydroxycholanic acid glycinate,not_accepted
+underlying molecular pathophysiology,pathology,False,,,True,False,,,,underlying molecular pathophysiology,expert_accept_unresolved
+unesterified sphingolipids.,phenotype,False,,,False,True,Sphingolipid,C0037900,,unesterified sphingolipids.,not_accepted
+unusual urinary metabolite profiles,phenotype,False,,,False,True,,,,unusual urinary metabolite profiles,not_accepted
+unwarranted anger,phenotype,False,,,False,True,Inappropriate anger expression,C4061935,,unwarranted anger,not_accepted
+urinary branched-chain amino acids,phenotype,False,,,False,True,"Amino Acids, Branched-Chain",C0002521,,urinary branched-chain amino acids,not_accepted
+urinary valine,phenotype,False,,,False,True,Valine,C0042285,,urinary valine,not_accepted
+vertical supranuclear saccade palsy,phenotype,False,,C1843369,True,False,,,,vertical supranuclear saccade palsy,expert_cui
+visceral enlargement,phenotype,False,,C4054315,True,False,,,,visceral enlargement,expert_cui
+visceral manifestations,phenotype,False,,C5960196,True,False,,,,visceral manifestations,expert_cui
+visceral organ damage,phenotype,False,,,True,False,,,,visceral organ damage,expert_accept_unresolved
+weakened muscular contraction,phenotype,False,,C0947912,False,True,,,,weakened muscular contraction,not_accepted
+widespread neurodegeneration,phenotype,False,,,False,True,Nerve Degeneration,C0027746,,widespread neurodegeneration,not_accepted
+β-amyloid peptide,phenotype,False,,C5979866,True,False,,,,β-amyloid peptide,expert_cui

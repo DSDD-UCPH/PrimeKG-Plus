@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SapBERT CLS + L2 — cùng cách gọi tokenizer như PrimeKG precompute (`padding=max_length`, `max_len=25`)."""
+"""SapBERT CLS + L2 normalization (PrimeKG precompute tokenizer settings: padding=max_length, max_len=25)."""
 
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ MAX_LEN = 25
 
 
 class SapBERTEncoder:
-    """SapBERT CLS; tokenizer giống precompute PrimeKG (`padding=max_length`, truncation, `max_length`)."""
+    """SapBERT CLS encoder with PrimeKG-compatible tokenizer settings."""
 
     def __init__(
         self,
@@ -76,14 +76,14 @@ def main() -> None:
     uniq = list(dict.fromkeys(args.texts))
     E = enc.encode(uniq, batch_size=args.batch_size)
     idx = {t: i for i, t in enumerate(uniq)}
-    # Pairs theo thứ tự người dùng nhập (kể cả trùng lặp); dedupe chỉ để encode.
+    # Pairwise cosines in user input order (dedupe only for encoding).
     for i, a in enumerate(args.texts):
         for b in args.texts[i + 1 :]:
             c = float(np.dot(E[idx[a]], E[idx[b]]))
             print(f"{a!r} ↔ {b!r}: {c:.4f}")
     if len(args.texts) < 2:
         print(
-            "# Cần ít nhất 2 chuỗi để có một cặp cosine (vd: ... \"a\" \"b\").",
+            "# Provide at least two strings for a cosine pair (e.g. ... \"a\" \"b\").",
             file=sys.stderr,
         )
     print("# sapbert_encode_primekg_style: finished OK (exit 0).", file=sys.stderr)

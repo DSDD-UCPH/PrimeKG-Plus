@@ -1,0 +1,13 @@
+,column_name,description
+1,doi/PMID,—
+2,Abstract/Introduction,—
+3,journal type,See options below
+4,experiment,See options below
+5,model,See options below
+6,relation,Per Curation_Requirements.md
+7,display_relation,Per Curation_Requirements.md
+8,x_name,Per Curation_Requirements.md
+9,x_type,Per Curation_Requirements.md
+10,y_name,Per Curation_Requirements.md
+11,y_type,Per Curation_Requirements.md
+12,note,—

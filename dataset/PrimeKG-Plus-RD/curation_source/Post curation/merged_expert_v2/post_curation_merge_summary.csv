@@ -1,0 +1,5 @@
+disease,review_format,curated_relations,final_v1_relations,integratable_v1_from_curated,integratable_v2_from_curated,additional_relations_v2,expert_entities_reviewed,expert_accepted_entities,expert_resolved_cui,expert_resolved_kg_name,expert_name_only_pending,notes
+Canavan,second_search_review,251,98,113,120,7,25,10,10,0,0,
+Batten,second_search_review,2235,193,199,226,27,441,251,155,0,0,No first/second UMLS CSV exported; v1 mapping rebuilt from final + file c.
+NPC,second_search_review,3615,729,1790,1956,166,596,317,198,0,0,Uses latest team file c (2026-06-13).
+Tay-Sachs,suggested_terms,337,67,67,82,15,81,56,52,0,0,File c is full UMLS second-search table (not second_search_review).

@@ -313,12 +313,12 @@ class EntityResolver:
     @staticmethod
     def _load_cui_to_mondo(data_dir: Path) -> dict[str, str]:
         out: dict[str, str] = {}
-        vocab = data_dir / "vocab/20260510-umls_mondo_no_multi_mapping_v2.csv"
+        vocab = data_dir / "vocab/umls_mondo_bijective.csv"
         if vocab.exists():
             df = pd.read_csv(vocab, dtype=str)
             for _, r in df.iterrows():
                 out[str(r["umls_id"])] = normalize_mondo_id(str(r["mondo_id"]))
-        mondo_ref = data_dir / "mondo/20251124-mondo_references.csv"
+        mondo_ref = data_dir / "mondo/mondo_references.csv"
         if mondo_ref.exists():
             df = pd.read_csv(mondo_ref, dtype=str)
             umls = df[df["ontology"] == "UMLS"]
@@ -329,7 +329,7 @@ class EntityResolver:
     @staticmethod
     def _load_cui_to_hp(data_dir: Path) -> dict[str, str]:
         out: dict[str, str] = {}
-        hp_ref = data_dir / "hpo/20251124-hp_references.csv"
+        hp_ref = data_dir / "hpo/hp_references.csv"
         if hp_ref.exists():
             df = pd.read_csv(hp_ref, dtype=str)
             umls = df[df["ontology"] == "UMLS"]

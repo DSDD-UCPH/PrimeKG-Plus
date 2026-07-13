@@ -1,0 +1,802 @@
+row_index,disease_cohort,source_file,entity1,entity2,Relation,PMID,reason,entity1_status,entity2_status
+10,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,37601414,duplicate_literature_row,,
+11,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,37610133,duplicate_literature_row,,
+12,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,37610133,duplicate_literature_row,,
+14,Canavan,Canavan_final.csv,Canavan disease,Aspa,disease_protein,38011891,duplicate_literature_row,,
+16,Canavan,Canavan_final.csv,Leukodystrophy,Canavan disease,disease_phenotype_positive,38282243,duplicate_literature_row,,
+17,Canavan,Canavan_final.csv,neurodegenerative disorder,Canavan disease,disease_disease,38309148,unresolved_entity1,C0524851,
+18,Canavan,Canavan_final.csv,Canavan disease,vacuolation,disease_phenotype_positive,38538326,unresolved_entity2,,C0010840
+20,Canavan,Canavan_final.csv,Canavan disease,hypomyelination,disease_phenotype_positive,38538326,unresolved_entity2,,C0544820
+27,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,34446995,duplicate_literature_row,,
+30,Canavan,Canavan_final.csv,Canavan disease,seizures,disease_phenotype_positive,34446995,unresolved_entity2,,C0036572
+33,Canavan,Canavan_final.csv,Canavan disease,hypotonia,disease_phenotype_positive,34477360,duplicate_literature_row,,
+34,Canavan,Canavan_final.csv,Canavan disease,macrocephaly,disease_phenotype_positive,34477360,duplicate_literature_row,,
+35,Canavan,Canavan_final.csv,vacuolar leukodystrophy,CANAVAN disease,disease_disease,34498299,duplicate_literature_row,,
+37,Canavan,Canavan_final.csv,Canavan disease,hypotonia,,34498299,empty_relation,,
+38,Canavan,Canavan_final.csv,leukodystropy,Canavan disease,disease_disease,34723085,duplicate_literature_row,,
+39,Canavan,Canavan_final.csv,Canavan disease,macrocephaly,disease_phenotype_positive,34723085,duplicate_literature_row,,
+40,Canavan,Canavan_final.csv,Canavan disease,neurologic impairment,disease_phenotype_positive,34723085,duplicate_literature_row,,
+41,Canavan,Canavan_final.csv,Canavan disease,leukodystrophy,disease_disease,36568275,duplicate_literature_row,,
+42,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,36568275,duplicate_literature_row,,
+43,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,36968992,duplicate_literature_row,,
+44,Canavan,Canavan_final.csv,canavan disease,seizures,disease_phenotype_positive,36968992,unresolved_entity2,,C0036572
+47,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,37149081,duplicate_literature_row,,
+48,Canavan,Canavan_final.csv,canavan disease,ASPA,disease_protein,37149081,duplicate_literature_row,,
+50,Canavan,Canavan_final.csv,Canavan disease,large vacuole,disease_phenotype_positive,37149081,unresolved_entity2,,C1853189
+51,Canavan,Canavan_final.csv,Canavan disease,death,disease_phenotype_positive,37149081,unresolved_entity2,,C1306577
+52,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,37271923,duplicate_literature_row,,
+53,Canavan,Canavan_final.csv,Canavan disease,vacuolation,disease_phenotype_positive,37271923,unresolved_entity2,,C0010840
+54,Canavan,Canavan_final.csv,spongiform leukodystrophy,Canavan disease,disease_disease,38544400,unresolved_entity1,C0206307,
+55,Canavan,Canavan_final.csv,spongy leukodystrophy,Canavan disease,disease_disease,38544400,duplicate_literature_row,,
+56,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,38544400,duplicate_literature_row,,
+57,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,38718669,duplicate_literature_row,,
+58,Canavan,Canavan_final.csv,white matter,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+59,Canavan,Canavan_final.csv,globus pallidus,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+60,Canavan,Canavan_final.csv,putamen,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+61,Canavan,Canavan_final.csv,caudate,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+62,Canavan,Canavan_final.csv,claustrum,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+63,Canavan,Canavan_final.csv,lateral thalamus,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+64,Canavan,Canavan_final.csv,pulvinar,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+65,Canavan,Canavan_final.csv,internal capsules,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+66,Canavan,Canavan_final.csv,corpus callosum,Canavan disease, anatomy_disease,38880823,unsupported_relation:anatomy_disease,,
+67,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,39119446,duplicate_literature_row,,
+68,Canavan,Canavan_final.csv,Canavan disease,hypotonia,disease_phenotype_positive,39119446,duplicate_literature_row,,
+69,Canavan,Canavan_final.csv,Canavan disease,macrocephaly,disease_phenotype_positive,39119446,duplicate_literature_row,,
+70,Canavan,Canavan_final.csv,Canavan disease,deafness,disease_phenotype_positive,39119446,unresolved_entity2,,C0011053
+73,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,39119446,duplicate_literature_row,,
+79,Canavan,Canavan_final.csv,Canavan disease,seizures,disease_phenotype_positive,39119446,unresolved_entity2,,C0036572
+82,Canavan,Canavan_final.csv,posterior fossa,Canavan disease, anatomy_disease,39119446,unsupported_relation:anatomy_disease,,
+83,Canavan,Canavan_final.csv,corpus callosum genus,Canavan disease, anatomy_disease,39119446,unsupported_relation:anatomy_disease,,
+84,Canavan,Canavan_final.csv,capsule,Canavan disease, anatomy_disease,39119446,unsupported_relation:anatomy_disease,,
+85,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,39128657,duplicate_literature_row,,
+86,Canavan,Canavan_final.csv,white matter,Canavan disease, anatomy_disease,39524158,unsupported_relation:anatomy_disease,,
+87,Canavan,Canavan_final.csv,leukodystrophy,Canavan disease,disease_disease,39628365,duplicate_literature_row,,
+88,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,39628365,duplicate_literature_row,,
+90,Canavan,Canavan_final.csv,Canavan disease,motor milestones,disease_phenotype_negative,39628365,unresolved_entity2,,C3807655
+91,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_protein,38740822,duplicate_literature_row,,
+94,Canavan,Canavan_final.csv,Canavan disease,ASPA,disease_phenotype_positive,38740822,duplicate_literature_row,,
+96,Canavan,Canavan_final.csv,neural stem cell,Canavan disease,drug_effect,34446995,unresolved_entity1,C1113654,
+98,Canavan,Canavan_additional.csv,inverted echogenicity,cortical gray,pathology_anatomy_present,35187608,unsupported_relation:pathology_anatomy_present,,
+99,Canavan,Canavan_additional.csv,inverted echogenicity,subcortical white matter,pathology_anatomy_present,35187608,unsupported_relation:pathology_anatomy_present,,
+100,Canavan,Canavan_additional.csv,Canavan disease,progressive cognitive and motor,disease_phenotype_positive,37610133,unresolved_entity2,,C5233137|C5233139
+101,Canavan,Canavan_additional.csv,Canavan disease,astroglial vacuolation,disease_phenotype_positive,37610133,unresolved_entity2,,C5206989
+102,Canavan,Canavan_additional.csv,Canavan disease,astroglial  vacuolation,disease_phenotype_positive,38282243,unresolved_entity2,,C5206989
+103,Canavan,Canavan_additional.csv,dilated perivascular spaces,bifrontal regions,pathology_anatomy_present,40298596,unsupported_relation:pathology_anatomy_present,,
+104,Canavan,Canavan_additional.csv,Canavan disease,demylination,disease_phenotype_positive,37271923,unresolved_entity2,,C0011304
+106,Batten,Batten_final.csv,secretory vesicles,DNAJC5,cellcomp_protein,34188051,unresolved_entity1,C0886515,
+120,Batten,Batten_final.csv,neurodevelopmental and neurodegenerative disorder,genetic progressive encephalopathies with myoclonus,disease_disease,34382076,unresolved_entity2,,C4755298
+121,Batten,Batten_final.csv,respiratory failure,death,phenotype_phenotype,34491000,unresolved_entity2,,C1306577
+132,Batten,Batten_final.csv,astrocytic,Gfap,anatomy_protein_present,34749772,unresolved_entity1,C0521395,
+133,Batten,Batten_final.csv,astrocytic,C4b,anatomy_protein_present,34749772,unresolved_entity1,C0521395,
+134,Batten,Batten_final.csv,astrocytic,Osmr,anatomy_protein_present,34749772,unresolved_entity1,C0521395,
+135,Batten,Batten_final.csv,microglial,Ctss,anatomy_protein_present,34749772,unresolved_entity1,C0521398,
+136,Batten,Batten_final.csv,microglial,Itgb2,anatomy_protein_present,34749772,unresolved_entity1,C0521398,
+137,Batten,Batten_final.csv,microglial,Itgax,anatomy_protein_present,34749772,unresolved_entity1,C0521398,
+140,Batten,Batten_final.csv,SPG11,abnormalities in gait coordination,disease_phenotype_positive,35605667,unresolved_entity2,,C1867864|C5667576
+142,Batten,Batten_final.csv,SPG11,reduced strength during walking,disease_phenotype_positive,35605667,unresolved_entity2,,C2674511
+144,Batten,Batten_final.csv,adaptive immune system,SPG11,bioprocess_disease,35605667,unsupported_relation:bioprocess_disease,,
+146,Batten,Batten_final.csv,Infantile neuronal ceroid lipofuscinosis,seizures,disease_phenotype_positive,35628400,unresolved_entity2,,C0036572
+147,Batten,Batten_final.csv,Infantile neuronal ceroid lipofuscinosis,premature death,disease_phenotype_positive,35628400,unresolved_entity2,,C1855073
+148,Batten,Batten_final.csv,microglial activation,seizures,pathology_phenotype,35628400,unsupported_relation:pathology_phenotype,,
+153,Batten,Batten_final.csv,neuronal ceroid lipofuscinoses,ataxia,disease_phenotype_positive,34868216,duplicate_literature_row,,
+155,Batten,Batten_final.csv,neuronal ceroid lipofuscinoses,premature death,disease_phenotype_positive,34868216,duplicate_literature_row,,
+157,Batten,Batten_final.csv,lysosomal storage diseases,Neuronal ceroid lipofuscinoses,disease_disease,34910516,unresolved_entity1,C0085078,
+161,Batten,Batten_final.csv,neuronal ceroid lipofuscinoses,progressive retinal degeneration,disease_phenotype_positive,35033660,duplicate_literature_row,,
+162,Batten,Batten_final.csv,lysosomal storage diseases,neuronal ceroid lipofuscinoses,disease_disease,35033660,unresolved_entity1,C0085078,
+167,Batten,Batten_final.csv,Adult Neuronal Ceroid Lipofuscinosis,DNAJC5,disease_protein,36282524,duplicate_literature_row,,
+168,Batten,Batten_final.csv,neurodegenerative disorder,Adult Neuronal Ceroid Lipofuscinosis,disease_disease,36282524,duplicate_literature_row,,
+169,Batten,Batten_final.csv,Adult Neuronal Ceroid Lipofuscinosis,premature death,disease_phenotype_positive,36282524,duplicate_literature_row,,
+177,Batten,Batten_final.csv,neurodegenerative lysosomal storage disorders,Neuronal ceroid lipofuscinoses,disease_disease,35921411,unresolved_entity1,C0085078,
+179,Batten,Batten_final.csv,neurodegenerative lysosomal storage disorder,neuronal ceroid lipofuscinosis,disease_disease,36040802,unresolved_entity1,C0085078,
+182,Batten,Batten_final.csv,Neuronal Ceroid Lipofuscinoses,CLN6,disease_protein,36088080,duplicate_literature_row,,
+189,Batten,Batten_final.csv,Lysosomal storage disease,CLCN6,disease_protein,35262198,unresolved_entity1,in_kg,
+190,Batten,Batten_final.csv,Neurodegenerative disorders,CLCN6,disease_protein,35262198,unresolved_entity1,C0524851,
+191,Batten,Batten_final.csv,PPT1,synaptic cytosol,cellcomp_protein,35358180,unresolved_entity2,,C4236514
+203,Batten,Batten_final.csv,progressive neurological disorder,loss of coordination,disease_phenotype_positive,35447247,unresolved_entity2,,C2751891|C3552909
+207,Batten,Batten_final.csv,Adult-onset Neuronal ceroid lipofuscinosis,DNAJC5,disease_protein,35462699,duplicate_literature_row,,
+211,Batten,Batten_final.csv,gemfibrozil,neuroinflammation,drug_bioprocess,36697260,unsupported_relation:drug_bioprocess,,
+212,Batten,Batten_final.csv,CLN3,battenin,molfunc_protein,36777709,unresolved_entity2,,C1413495
+213,Batten,Batten_final.csv,battenin,cellular homeostasis, bioprocess_protein,36777709,unresolved_entity1,C1413495,
+220,Batten,Batten_final.csv,neurodegenerative disorder,neuronal ceroid lipofuscinoses,disease_disease,36876653,duplicate_literature_row,,
+221,Batten,Batten_final.csv,berberine,autophagy,drug_bioprocess,36880056,unsupported_relation:drug_bioprocess,,
+223,Batten,Batten_final.csv,resveratrol,mitochondrial biogenesis,drug_bioprocess,36880056,unsupported_relation:drug_bioprocess,,
+228,Batten,Batten_final.csv,neuronal ceroid lipofuscinosis,seizures,disease_phenotype_positive,36918063,unresolved_entity2,,C0036572
+234,Batten,Batten_final.csv,neuronal ceroid lipofuscinosis,CLN6,disease_protein,37074398,duplicate_literature_row,,
+235,Batten,Batten_final.csv,neuronal ceroid lipofuscinosis,CLN3,disease_protein,37074398,duplicate_literature_row,,
+240,Batten,Batten_final.csv,lysosomal storage disorder,neuronal ceroid lipofuscinoses,disease_disease,37209872,unresolved_entity1,C0085078,
+244,Batten,Batten_final.csv,adult-onset neuronal ceroid lipofuscinoses,DNAJC5,disease_protein,37566176,duplicate_literature_row,,
+245,Batten,Batten_final.csv,DNAJC5,cysteine string protein,protein_protein,37566176,unresolved_entity2,,C0288968
+246,Batten,Batten_final.csv,cysteine string protein,oxidative stress inhibition,bioprocess_protein,37566176,unresolved_entity1,C0288968,
+251,Batten,Batten_final.csv,cerliponase alfa,slowed language function decline,drug_effect,38101904,duplicate_literature_row,,
+254,Batten,Batten_final.csv,adult-onset neuronal ceroid lipofuscinosis,DNAJC5,disease_protein,38193346,duplicate_literature_row,,
+255,Batten,Batten_final.csv,juvenile neuronal ceroid lipofuscinosis,CLN3,disease_protein,38195117,duplicate_literature_row,,
+257,Batten,Batten_final.csv,neuronal ceroid lipofuscinosis,seizures,disease_phenotype_positive,38249738,unresolved_entity2,,C0036572
+258,Batten,Batten_final.csv,neuronal ceroid lipofuscinosis,visual impairments,disease_phenotype_positive,38249738,unresolved_entity2,,C3665347
+271,Batten,Batten_final.csv,neurological disorders,STXBP1,disease_protein,38498291,unresolved_entity1,C0027765,
+272,Batten,Batten_final.csv,neurological disorders,TOR1A,disease_protein,38498291,unresolved_entity1,C0027765,
+273,Batten,Batten_final.csv,cerliponase alfa,TPP1,drug_protein,38693756,duplicate_literature_row,,
+276,Batten,Batten_final.csv,lysosomal storage disease,white matter involvement,disease_phenotype_positive,39139602,unresolved_entity1,in_kg,
+277,Batten,Batten_final.csv,cerliponase alfa,slow deteriorated motor function,drug_effect,39201975,duplicate_literature_row,,
+278,Batten,Batten_final.csv,cerliponase alfa,slow deteriorated language function,drug_effect,39201975,duplicate_literature_row,,
+288,Batten,Batten_final.csv,methylprednisolone,no effect,drug_effect,39470529,unresolved_entity2,,C1301751
+293,Batten,Batten_final.csv,cerliponase alfa,slowed motor decline,drug_effect,40162009,duplicate_literature_row,,
+294,Batten,Batten_final.csv,Neuronal ceroid lipofuscinosis,lipofuscin accumulation,disease_phenotype_positive,40166029,duplicate_literature_row,,
+295,Batten,Batten_final.csv,metformin,behavior improvement,off_label_use,40346285,unresolved_entity2,,C5546893
+298,Batten,Batten_additional.csv,unconventional secretory pathway,DNAJC5,bioprocess_protein,34188051,unresolved_entity1,C1159342,
+299,Batten,Batten_additional.csv,DHDDS,cis-prenyltransferase activity,molfunc_protein,34382076,unresolved_entity2,,C1152043
+300,Batten,Batten_additional.csv,Retinal degeneration,scattered drusen,phenotype_phenotype,34532411,unresolved_entity2,,C1260959
+301,Batten,Batten_additional.csv,Adult-Onset Neuronal Ceroid Lipofuscinosis,postural vertical nystagmus,disease_phenotype_positive,34679057,unresolved_entity1,C0022798|C0751383,
+302,Batten,Batten_additional.csv,Adult-Onset Neuronal Ceroid Lipofuscinosis,symmetrical progressive atrophy of the cervical spinal cord,disease_phenotype_positive,34679057,unresolved_entity1,C0022798|C0751383,
+303,Batten,Batten_additional.csv,neuronal ceroid lipofuscinoses,soluble lysosomal enzymes,disease_protein,35033660,unresolved_entity1,C0027877|C0751383,
+304,Batten,Batten_additional.csv,ethosuximide,restored chemotaxis,drug_effect,36282524,unresolved_entity2,,C0008018
+305,Batten,Batten_additional.csv,degrading cysteine residues,PPT1,bioprocess_protein,36088080,unresolved_entity1,C4314398,
+306,Batten,Batten_additional.csv,destabilize the protein structure,PPT1,phenotype_protein,36088080,unresolved_entity1,C1622120,
+307,Batten,Batten_additional.csv,progressive neurological disorder,loss of control over urination,disease_phenotype_positive,35447247,unresolved_entity1,C0393665|C2677535,
+308,Batten,Batten_additional.csv,progressive neurological disorder,loss of control over defecation,disease_phenotype_positive,35447247,unresolved_entity1,C0393665|C2677535,
+309,Batten,Batten_additional.csv,inherited neurodegenerative diseases,Neuronal ceroid lipofuscinosis,disease_disease,35462699,unresolved_entity1,C5680568,
+310,Batten,Batten_additional.csv,neuronal ceroid lipofuscinoses,dementia in children,disease_phenotype_positive,36833170,unresolved_entity1,C0027877|C0751383,
+311,Batten,Batten_additional.csv,accumulation of ceroid lipopigment,MFSD8,phenotype_protein,36833170,unresolved_entity1,C0268279,
+312,Batten,Batten_additional.csv,CLN3,1.02 kb deletion on exons 7,protein_protein,36576693,unresolved_entity2,,C3482296
+313,Batten,Batten_additional.csv,CLN3,1.02 kb deletion on exons 8,protein_protein,36576693,unresolved_entity2,,C3482296
+314,Batten,Batten_additional.csv,stress granule dynamics,CLN3,bioprocess_protein,36965618,unresolved_entity1,C5442023,
+315,Batten,Batten_additional.csv,MFSD8,lysosomal chloride channel,bioprocess_protein,37742391,unresolved_entity2,,C0055363
+316,Batten,Batten_additional.csv,Lithium,inositol monophosphatase inhibition,drug_effect,37746514,unresolved_entity2,,C3269497
+317,Batten,Batten_additional.csv,TPP1,intronic splice variant,phenotype_protein,37922835,unresolved_entity2,,C1881249
+318,Batten,Batten_additional.csv,neuronal ceroid lipofuscinosis,childhood dementia,disease_phenotype_positive,38117343,unresolved_entity2,,C0497327
+319,Batten,Batten_additional.csv,DNAJC5,cysteine string protein α,protein_protein,38193346,unresolved_entity2,,C3489497
+320,Batten,Batten_additional.csv,ultrahigh frequency - transcutaneous electrical nerve stimulation,neuropathic pain,drug_effect,38368171,unresolved_entity1,C0040654,
+321,Batten,Batten_additional.csv,high-dose intravenous immunoglobulin,no effect,drug_effect,39470529,unresolved_entity1,C0085297,
+322,Batten,Batten_additional.csv,transacylation reaction,acylating the precursor lipid phosphatidylglycerol,bioprocess_bioprocess,39548099,unresolved_entity1,C0597598,
+323,Batten,Batten_additional.csv,learning and memory impairment,PPT1,phenotype_protein,39695089,unresolved_entity1,C0423943,
+324,Batten,Batten_additional.csv,brain,severe cortical atrophy,anatomy_anatomy,39718800,unresolved_entity2,,C4551583
+325,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick Disease Type C,indication,34364974,unresolved_entity1,C0046237,
+328,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,restore lipid homeostasis,drug_bioprocess,34364974,unsupported_relation:drug_bioprocess,,
+330,NPC,NPC_final.csv,astrocytic,GFAP,anatomy_protein_present,37454976,unresolved_entity1,C0521395,
+333,NPC,NPC_final.csv,Niemann-Pick Disease Type C,accumulated unesterified cholesterol,disease_phenotype_positive,39173891,unresolved_entity2,,C3553603
+337,NPC,NPC_final.csv,central nervous system,Niemann-Pick Disease Type C,anatomy_disease,35695805,unsupported_relation:anatomy_disease,,
+338,NPC,NPC_final.csv,embryonic lethality,NUS1,disease_protein,35695805,unresolved_entity1,C5139371,
+339,NPC,NPC_final.csv,neurodegenerative disorder,Niemann-Pick Disease Type C,disease_disease,38142760,unresolved_entity1,C0524851,
+340,NPC,NPC_final.csv,cholesterol accumulation,Brain,phenotype_anatomy,38142760,unsupported_relation:phenotype_anatomy,,
+341,NPC,NPC_final.csv,neurogenetic disease,Niemann-Pick Disease Type C,disease_disease,39706535,unresolved_entity1,C5681332,
+344,NPC,NPC_final.csv,benzimidazole,β-cyclodextrin,drug_drug,34748340,unresolved_entity2,,C0046237
+345,NPC,NPC_final.csv,2-Hydroxypropyl-β-cyclodextrin,Niemann-Pick Disease Type C,indication,38763706,unresolved_entity1,C0046237,
+346,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,Niemann-Pick Disease Type C,indication,36116252,unresolved_entity1,C0046237,
+353,NPC,NPC_final.csv,vacuoles,NPC1,cellcomp_protein,38087834,unresolved_entity1,C0042219,
+355,NPC,NPC_final.csv,cholesterol accumulation,NPC1,phenotype_protein,38087834,unresolved_entity1,C5436605,
+358,NPC,NPC_final.csv,vacuoles,NPC1,phenotype_protein,38087834,unresolved_entity1,C0042219,
+360,NPC,NPC_final.csv,brain lesions,NPC1,phenotype_protein,38087834,unresolved_entity1,C0221505,
+361,NPC,NPC_final.csv,death,NPC1,phenotype_protein,38087834,unresolved_entity1,C1306577,
+363,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,40436106,duplicate_literature_row,,
+365,NPC,NPC_final.csv,NPC1,NPC2,protein_protein,40436106,duplicate_literature_row,,
+366,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neuronal degeneration,disease_phenotype_positive,40436106,unresolved_entity2,,C3670500
+370,NPC,NPC_final.csv,neuronal loss,NPC1,phenotype_protein,40436106,duplicate_literature_row,,
+377,NPC,NPC_final.csv,Miglustat,Niemann-Pick disease type C,indication,40215728,duplicate_literature_row,,
+379,NPC,NPC_final.csv,Arimoclomol,autophagy,drug_bioprocess,40215728,unsupported_relation:drug_bioprocess,,
+380,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,40215728,duplicate_literature_row,,
+381,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,40215728,duplicate_literature_row,,
+382,NPC,NPC_final.csv,lysosomal,NPC1,cellcomp_protein,40215728,unresolved_entity1,C0521450,
+389,NPC,NPC_final.csv,Niemann-Pick Disease Type C,accumulation of unesterified cholesterol,disease_phenotype_positive,40215728,duplicate_literature_row,,
+390,NPC,NPC_final.csv,NPC1,cholesterol accumulation,phenotype_protein,40215728,unresolved_entity2,,C5436605
+392,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,40107109,duplicate_literature_row,,
+394,NPC,NPC_final.csv,cholesterol,growth,exposure_phenotype,35245460,unsupported_relation:exposure_phenotype,,
+395,NPC,NPC_final.csv,cholesterol,early maturation,exposure_phenotype,35245460,unsupported_relation:exposure_phenotype,,
+396,NPC,NPC_final.csv,oxysterols,Niemann-Pick disease type C,bioprocess_disease,41274250,unsupported_relation:bioprocess_disease,,
+397,NPC,NPC_final.csv,Niemann-Pick disease type C,Lysosomal storage disorder,disease_disease,41274250,unresolved_entity2,,C0085078
+398,NPC,NPC_final.csv,Cholesterol trafficking,NPC1,bioprocess_protein,41274250,unresolved_entity1,C5960876,
+399,NPC,NPC_final.csv,Cholesterol trafficking,NPC2,bioprocess_protein,41274250,unresolved_entity1,C5960876,
+400,NPC,NPC_final.csv,neurodegenerative lysosomal storage disorder,Niemann-Pick disease type C,disease_disease,40306479,unresolved_entity1,C0085078,
+402,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,40306479,duplicate_literature_row,,
+403,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,40306479,duplicate_literature_row,,
+404,NPC,NPC_final.csv,intracellular transport,NPC1, bioprocess_protein,40306479,duplicate_literature_row,,
+406,NPC,NPC_final.csv,Niemann-Pick disease type C,neurological impairments,disease_phenotype_positive,40306479,unresolved_entity2,,C0521654
+409,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,35850050,duplicate_literature_row,,
+410,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,35850050,duplicate_literature_row,,
+412,NPC,NPC_final.csv,NPC1,NPC2,protein_protein,35850050,duplicate_literature_row,,
+413,NPC,NPC_final.csv,Niemann-Pick disease,Niemann-Pick disease type C,disease_disease,35850050,unresolved_entity1,in_kg,
+418,NPC,NPC_final.csv,cholesterol trafficking,NPC1, bioprocess_protein,35850050,unresolved_entity1,C5960876,
+419,NPC,NPC_final.csv,brain,Niemann-Pick disease type C,anatomy_disease,35850050,unsupported_relation:anatomy_disease,,
+420,NPC,NPC_final.csv,nervous tissues,Niemann-Pick disease type C,anatomy_disease,35850050,unsupported_relation:anatomy_disease,,
+423,NPC,NPC_final.csv,MALT1,receptor tyrosine kinases,protein_protein,38183651,unresolved_entity2,,C0206364
+424,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurodegenerative disorder,disease_disease,39789920,unresolved_entity2,,C0524851
+425,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,39789920,duplicate_literature_row,,
+426,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,39789920,duplicate_literature_row,,
+427,NPC,NPC_final.csv,central nervous system,Niemann-Pick Disease Type C, anatomy_disease,39789920,unsupported_relation:anatomy_disease,,
+428,NPC,NPC_final.csv,Niemann-Pick Disease Type C,hepatosplenomegaly,disease_phenotype_positive,39789920,duplicate_literature_row,,
+432,NPC,NPC_final.csv,Niemann-Pick Disease Type C,epilepsy,disease_phenotype_positive,39789920,duplicate_literature_row,,
+434,NPC,NPC_final.csv,Arimoclomol,Niemann-Pick Disease Type C,indication,40663813,duplicate_literature_row,,
+435,NPC,NPC_final.csv,Arimoclomol,miglustat,drug_drug,40663813,duplicate_literature_row,,
+438,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cerebellar ataxia,disease_phenotype_positive,40663813,duplicate_literature_row,,
+440,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dysphagia,disease_phenotype_positive,40663813,duplicate_literature_row,,
+444,NPC,NPC_final.csv,Niemann-Pick Disease Type C,epilepsy,disease_phenotype_positive,40663813,duplicate_literature_row,,
+445,NPC,NPC_final.csv,Niemann-Pick Disease Type C,seizures,disease_phenotype_positive,40663813,unresolved_entity2,,C0036572
+446,NPC,NPC_final.csv,accumulation of cholesterol,NPC1,phenotype_protein,40663813,unresolved_entity1,C5436605,
+447,NPC,NPC_final.csv,accumulation of cholesterol,NPC2,phenotype_protein,40663813,unresolved_entity1,C5436605,
+448,NPC,NPC_final.csv,accumulation of cholesterol,liver,pathology_anatomy_present,40663813,unsupported_relation:pathology_anatomy_present,,
+449,NPC,NPC_final.csv,accumulation of cholesterol,spleen,pathology_anatomy_present,40663813,unsupported_relation:pathology_anatomy_present,,
+450,NPC,NPC_final.csv,accumulation of cholesterol,central nervous system,pathology_anatomy_present,40663813,unsupported_relation:pathology_anatomy_present,,
+452,NPC,NPC_final.csv,disease severity,NPC1,phenotype_protein,38131230,unresolved_entity1,C3494263,
+457,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological symptoms,disease_phenotype_positive,36243834,unresolved_entity2,,C0235031
+458,NPC,NPC_final.csv,miglustat,Niemann-Pick Disease Type C,indication,36243834,duplicate_literature_row,,
+459,NPC,NPC_final.csv,miglustat,course of the disease,drug_effect,36243834,unresolved_entity2,,C1820861
+460,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological manifestations,disease_phenotype_positive,36243834,unresolved_entity2,,C0027854
+461,NPC,NPC_final.csv,neurodegenerative disorder,Niemann-Pick disease type C,disease_disease,37429811,unresolved_entity1,C0524851,
+464,NPC,NPC_final.csv,Niemann-Pick disease type C,neurological delay,disease_phenotype_positive,37429811,unresolved_entity2,,C4062897
+465,NPC,NPC_final.csv,Niemann-Pick disease type C,vertical supranuclear gaze palsy,disease_phenotype_positive,37429811,duplicate_literature_row,,
+472,NPC,NPC_final.csv,Niemann-Pick disease type C,cerebellar ataxia,disease_phenotype_positive,40221338,duplicate_literature_row,,
+474,NPC,NPC_final.csv,Niemann-Pick disease type C,dysarthria,disease_phenotype_positive,40221338,duplicate_literature_row,,
+476,NPC,NPC_final.csv,Niemann-Pick disease type C,dystonia,disease_phenotype_positive,40221338,duplicate_literature_row,,
+479,NPC,NPC_final.csv,Miglustat,Niemann-Pick disease type C,indication,40221338,duplicate_literature_row,,
+481,NPC,NPC_final.csv,Niemann-Pick disease type C,Lysosomal storage diseases,disease_disease,36356931,unresolved_entity2,,C0085078
+482,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,36356931,duplicate_literature_row,,
+483,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,36356931,duplicate_literature_row,,
+484,NPC,NPC_final.csv,2-hydroxypropyl-b-cyclodextrin,Niemann-Pick disease type C,indication,36356931,unresolved_entity1,C0046237,
+485,NPC,NPC_final.csv,Niemann-Pick disease type C,Seizures,disease_phenotype_positive,36356931,unresolved_entity2,,C0036572
+487,NPC,NPC_final.csv,Lysosomal storage disorder,NPC1,phenotype_protein,37054918,unresolved_entity1,C0085078,
+492,NPC,NPC_final.csv,2-hydroxypropyl-b-cyclodextrin,Hearing loss,drug_effect,38448301,unresolved_entity1,C0046237,
+493,NPC,NPC_final.csv,Miglustat,Neurological symptoms,drug_effect,38448301,unresolved_entity2,,C0235031
+494,NPC,NPC_final.csv,Motor impairments,NPC1,phenotype_protein,39630885,duplicate_literature_row,,
+495,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,40504793,duplicate_literature_row,,
+496,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,40504793,duplicate_literature_row,,
+503,NPC,NPC_final.csv,Niemann-Pick disease type C,neurological involvement,disease_protein,40504793,unresolved_entity2,,C4283760
+505,NPC,NPC_final.csv,Niemann-Pick disease type C,Hepatosplenomegaly,disease_phenotype_positive,40504793,duplicate_literature_row,,
+507,NPC,NPC_final.csv,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease_phenotype_positive,40504793,duplicate_literature_row,,
+508,NPC,NPC_final.csv,Niemann-Pick disease type C,Ataxia,disease_phenotype_positive,40504793,duplicate_literature_row,,
+510,NPC,NPC_final.csv,autosomal recessive neurodegenerative disease,Niemann-Pick disease type C,disease_disease,37989569,unresolved_entity1,C1858114|C2751842,
+512,NPC,NPC_final.csv,dementia,NPC1,phenotype_protein,37989569,unresolved_entity1,in_kg,
+513,NPC,NPC_final.csv,psychiatric symptoms,NPC1,phenotype_protein,34420959,unresolved_entity1,C0233401,
+514,NPC,NPC_final.csv,psychiatric symptoms,NPC2,phenotype_protein,34420959,unresolved_entity1,C0233401,
+519,NPC,NPC_final.csv,mitochondrial function,NPC1,bioprocess_protein,36447062,unresolved_entity1,C5574978,
+520,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,36182715,duplicate_literature_row,,
+521,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,36182715,duplicate_literature_row,,
+523,NPC,NPC_final.csv,Niemann-Pick Disease Type C,hepatosplenomegaly,disease_phenotype_positive,36182715,duplicate_literature_row,,
+524,NPC,NPC_final.csv,Niemann-Pick Disease Type C,accumulation of unesterified cholesterol,disease_phenotype_positive,36182715,duplicate_literature_row,,
+528,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,cholesterol metabolism,drug_bioprocess,36279795,unsupported_relation:drug_bioprocess,,
+529,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,hypersensitivity pneumonitis,drug_effect,36279795,unresolved_entity1,C0046237,
+530,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,hearing loss,drug_effect,36279795,unresolved_entity1,C0046237,
+532,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,40026274,duplicate_literature_row,,
+533,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,40026274,duplicate_literature_row,,
+535,NPC,NPC_final.csv,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease_phenotype_positive,40026274,duplicate_literature_row,,
+536,NPC,NPC_final.csv,lysosomal storage disorder,Niemann-Pick Disease Type C,disease_disease,34993563,unresolved_entity1,C0085078,
+537,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34993563,duplicate_literature_row,,
+538,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34993563,duplicate_literature_row,,
+542,NPC,NPC_final.csv,Niemann-Pick Disease Type C,ataxia,disease_phenotype_positive,34993563,duplicate_literature_row,,
+543,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,39102515,duplicate_literature_row,,
+544,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,39102515,duplicate_literature_row,,
+547,NPC,NPC_final.csv,lysosomal storage disease,Niemann-Pick Disease Type C,disease_disease,35487270,unresolved_entity1,in_kg,
+548,NPC,NPC_final.csv,Niemann-Pick Disease Type C,visceral symptoms,disease_phenotype_positive,35487270,unresolved_entity2,,C1405869
+549,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological symptoms,disease_phenotype_positive,35487270,unresolved_entity2,,C0235031
+550,NPC,NPC_final.csv,cholesterol transport,NPC1, bioprocess_protein,37032242,duplicate_literature_row,,
+551,NPC,NPC_final.csv,Niemann-Pick disease type C,lysosomal storage disorder,disease_phenotype_positive,37032242,unresolved_entity2,,C0085078
+553,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,37032242,duplicate_literature_row,,
+554,NPC,NPC_final.csv,Niemann-Pick disease type C,lysosomal storage disorder,disease_disease,40898442,unresolved_entity2,,C0085078
+556,NPC,NPC_final.csv,Niemann-Pick disease type C,lipid storage disorder,disease_disease,40898442,duplicate_literature_row,,
+557,NPC,NPC_final.csv,Niemann-Pick disease type C,progressive neurodegeneration,disease_phenotype_positive,40898442,duplicate_literature_row,,
+558,NPC,NPC_final.csv,Niemann-Pick disease type C,seizures,disease_phenotype_positive,40898442,unresolved_entity2,,C0036572
+559,NPC,NPC_final.csv,Niemann-Pick disease type C,dystonia,disease_phenotype_positive,40898442,duplicate_literature_row,,
+561,NPC,NPC_final.csv,Niemann-Pick disease type C,psychotic symptoms,disease_phenotype_positive,38581830,unresolved_entity2,,C0871189
+562,NPC,NPC_final.csv,autoimmune encephalitis,psychotic symptoms,disease_phenotype_positive,38581830,unresolved_entity2,,C0871189
+563,NPC,NPC_final.csv,Niemann-Pick disease type C,neurodegenerative disorder,disease_disease,38581830,unresolved_entity2,,C0524851
+564,NPC,NPC_final.csv,Niemann-Pick disease type C,mood symptoms,disease_phenotype_positive,38581830,unresolved_entity2,,C2232697
+567,NPC,NPC_final.csv,Antipsychotics,Catatonia,drug_effect,39607035,unresolved_entity1,C0040615,
+575,NPC,NPC_final.csv,neurodegenerative disorder,Niemann-Pick Disease Type C,disease_disease,38302739,unresolved_entity1,C0524851,
+576,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,38302739,duplicate_literature_row,,
+577,NPC,NPC_final.csv,miglustat,Niemann-Pick Disease Type C,indication,38302739,duplicate_literature_row,,
+578,NPC,NPC_final.csv,lysosomal storage disorder,Niemann-Pick Disease Type C,disease_disease,34526163,unresolved_entity1,C0085078,
+579,NPC,NPC_final.csv,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease_phenotype_positive,34526163,duplicate_literature_row,,
+580,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34526163,duplicate_literature_row,,
+581,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34526163,duplicate_literature_row,,
+582,NPC,NPC_final.csv,Niemann-Pick Disease Type C,acute liver failure,disease_phenotype_positive,34526163,duplicate_literature_row,,
+585,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cognitive impairment,disease_phenotype_positive,35853348,duplicate_literature_row,,
+587,NPC,NPC_final.csv,Niemann-Pick Disease Type C,genetic condition,disease_disease,35853348,unresolved_entity2,,C0019247|C0037277
+588,NPC,NPC_final.csv,Niemann-Pick Disease Type C,ataxia,disease_phenotype_positive,35853348,duplicate_literature_row,,
+592,NPC,NPC_final.csv,miglustat,Niemann-Pick Disease Type C,indication,34879185,duplicate_literature_row,,
+594,NPC,NPC_final.csv,miglustat,gastrointestinal alterations,drug_effect,34879185,unresolved_entity2,,C5933904
+596,NPC,NPC_final.csv,Niemann-Pick Disease Type C,gastrointestinal alterations,disease_phenotype_positive,34879185,unresolved_entity2,,C5933904
+597,NPC,NPC_final.csv,Niemann-Pick Disease Type C,genetic disorder,disease_disease,34879185,unresolved_entity2,,C0019247|C0037277
+598,NPC,NPC_final.csv,cholesterol,lysosomes,exposure_cellcomp,34879185,unresolved_entity2,,C0024369
+599,NPC,NPC_final.csv,cholesterol,lysosomes,bioprocess_cellcompt,34879185,unsupported_relation:bioprocess_cellcomp,,
+601,NPC,NPC_final.csv,late endosomes,cholesterol accumulation,cellcomp_bioprocess,34455703,unknown_relation:cellcomp_bioprocess,,
+602,NPC,NPC_final.csv,Niemann-Pick Disease Type C,acute liver failure,disease_phenotype_positive,34455703,duplicate_literature_row,,
+604,NPC,NPC_final.csv,Niemann-Pick Disease Type C,loss of developmental milestones,disease_phenotype_positive,34455703,unresolved_entity2,,C1836550
+606,NPC,NPC_final.csv,Niemann-Pick Disease Type C,rapid progression of neurologic disease,disease_phenotype_positive,34455703,duplicate_literature_row,,
+607,NPC,NPC_final.csv,miglustat,neurologic deterioration,drug_effect,34455703,duplicate_literature_row,,
+608,NPC,NPC_final.csv,neurodegenerative lysosomal disease,Niemann-Pick Disease Type C,disease_disease,35696615,unresolved_entity1,C5680898,
+609,NPC,NPC_final.csv,miglustat,Niemann-Pick Disease Type C,indication,35696615,duplicate_literature_row,,
+611,NPC,NPC_final.csv,Niemann-Pick Disease Type C,ataxia,disease_phenotype_positive,35696615,duplicate_literature_row,,
+612,NPC,NPC_final.csv,Niemann-Pick Disease Type C,seizures,disease_phenotype_positive,35696615,unresolved_entity2,,C0036572
+613,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dementia,disease_phenotype_positive,35696615,unresolved_entity2,,in_kg
+614,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dementia developed,disease_phenotype_positive,35696615,unresolved_entity2,,C3278182
+615,NPC,NPC_final.csv,Niemann-Pick Disease Type C,psychiatric symptoms,disease_phenotype_positive,35696615,unresolved_entity2,,C0233401
+616,NPC,NPC_final.csv,miglustat,suspiciousness,drug_effect,35696615,unresolved_entity2,,C0233519
+617,NPC,NPC_final.csv,miglustat,delusions,drug_effect,35696615,unresolved_entity2,,in_kg
+618,NPC,NPC_final.csv,Niemann-Pick Disease Type C,splenomegaly,disease_phenotype_positive,36325261,duplicate_literature_row,,
+621,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dystonia,disease_phenotype_positive,36325261,duplicate_literature_row,,
+622,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological manifestations,disease_phenotype_positive,36325261,unresolved_entity2,,C0027854
+624,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dysarthria,disease_phenotype_positive,36325261,duplicate_literature_row,,
+625,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dysphagia,disease_phenotype_positive,36325261,duplicate_literature_row,,
+626,NPC,NPC_final.csv,Niemann-Pick Disease Type C,vertical supranuclear gaze palsy,disease_phenotype_positive,36325261,duplicate_literature_row,,
+627,NPC,NPC_final.csv,Niemann-Pick Disease Type C,hearing loss,disease_phenotype_positive,36325261,unresolved_entity2,,C0018772
+630,NPC,NPC_final.csv,Niemann-Pick Disease Type C,autosomal recessive lysosomal storage disease,disease_disease,36325261,unresolved_entity2,,C0085078
+631,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,36325261,duplicate_literature_row,,
+632,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,36325261,duplicate_literature_row,,
+633,NPC,NPC_final.csv,cholesterol trafficking,NPC1, bioprocess_protein,36325261,unresolved_entity1,C5960876,
+634,NPC,NPC_final.csv,cholesterol trafficking,NPC2, bioprocess_protein,36325261,unresolved_entity1,C5960876,
+635,NPC,NPC_final.csv,cholesterol,lysosomes,exposure_cellcomp,36325261,unresolved_entity2,,C0024369
+636,NPC,NPC_final.csv,nail-patella syndrome,LMX1B,disease_protein,36325261,unresolved_entity1,in_kg,
+637,NPC,NPC_final.csv,kidney,Niemann-Pick Disease Type C, anatomy_disease,36325261,unsupported_relation:anatomy_disease,,
+638,NPC,NPC_final.csv,medications,seizures,drug_effect,36325261,unresolved_entity1,C4284232,
+639,NPC,NPC_final.csv,Fabry disease,lysosomal storage disease,disease_disease,36325261,unresolved_entity2,,in_kg
+640,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurovisceral symptoms,disease_phenotype_positive,36325261,duplicate_literature_row,,
+642,NPC,NPC_final.csv,Niemann-Pick disease type C,neurodegenerative lysosomal storage disorder,disease_phenotype_positive,34085599,unresolved_entity2,,C0085078
+643,NPC,NPC_final.csv,Niemann-Pick Disease Type C,lysosomal storage disease,disease_disease,34086834,unresolved_entity2,,in_kg
+644,NPC,NPC_final.csv,Niemann-Pick Disease Type C,hepatosplenomegaly,disease_phenotype_positive,34086834,duplicate_literature_row,,
+645,NPC,NPC_final.csv,Niemann-Pick Disease Type C,ataxia,disease_phenotype_positive,34086834,duplicate_literature_row,,
+646,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dysarthria,disease_phenotype_positive,34086834,duplicate_literature_row,,
+647,NPC,NPC_final.csv,Niemann-Pick Disease Type C,dementia,disease_phenotype_positive,34086834,unresolved_entity2,,in_kg
+651,NPC,NPC_final.csv,Niemann-Pick Disease Type C,saccadic impairment,disease_phenotype_positive,34086834,unresolved_entity2,,C1842584
+655,NPC,NPC_final.csv,Niemann-Pick Disease Type C,altered horizontal saccadic peak velocity and latency,disease_phenotype_positive,34096670,duplicate_literature_row,,
+658,NPC,NPC_final.csv,Niemann-Pick Disease Type C,compensating strategies,disease_phenotype_positive,34096670,unresolved_entity2,,C4718647
+661,NPC,NPC_final.csv,Niemann-Pick Disease Type C,impaired vertical reflexive saccades,disease_phenotype_positive,34096670,duplicate_literature_row,,
+662,NPC,NPC_final.csv,Niemann-Pick disease type C,vertical supranuclear gaze palsy,disease_phenotype_positive,34096670,duplicate_literature_row,,
+663,NPC,NPC_final.csv,Niemann-Pick disease type C,lysosomal storage disorder,disease_phenotype_positive,34138521,unresolved_entity2,,C0085078
+664,NPC,NPC_final.csv,Niemann-Pick disease type C,neurodegeneration,disease_phenotype_positive,34138521,duplicate_literature_row,,
+667,NPC,NPC_final.csv,NPC1,accumulation of sphingolipids,phenotype_protein,34138521,unresolved_entity2,,C3279448
+668,NPC,NPC_final.csv,NPC2,accumulation of sphingolipids,phenotype_protein,34138521,unresolved_entity2,,C3279448
+669,NPC,NPC_final.csv,Niemann-Pick disease type C,hepatic inflammation,disease_phenotype_positive,34138521,unresolved_entity2,,C3275700
+672,NPC,NPC_final.csv,miglustat,2-hydroxypropyl-beta-cyclodextrin,drug_drug,34150357,unresolved_entity2,,C0046237
+674,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,cholesterol biosynthesis,drug_bioprocess,34296265,unsupported_relation:drug_bioprocess,,
+675,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,lipid biosynthesis,drug_bioprocess,34296265,unsupported_relation:drug_bioprocess,,
+676,NPC,NPC_final.csv,lipid biosynthesis,GPNMB,pathway_protein,34296265,unresolved_entity1,C1563744,
+678,NPC,NPC_final.csv,lysosomal,NPC1,cellcomp_protein,34407999,unresolved_entity1,C0521450,
+682,NPC,NPC_final.csv,Telmisartan,cholesterol accumulation,drug_effect,34502342,unresolved_entity2,,C5436605
+683,NPC,NPC_final.csv,Telmisartan,intracellular cholesterol transport,drug_bioprocess,34502342,unsupported_relation:drug_bioprocess,,
+685,NPC,NPC_final.csv,accumulation of unesterified cholesterol,NPC1,phenotype_protein,34592985,duplicate_literature_row,,
+686,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,cholesterol storage,drug_effect,34592985,unresolved_entity1,C0046237,
+688,NPC,NPC_final.csv,Niemann-Pick Disease Type C,autosomal recessive lysosomal storage disorder,disease_disease,34682919,unresolved_entity2,,C0085078
+689,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34682919,duplicate_literature_row,,
+690,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34682919,duplicate_literature_row,,
+691,NPC,NPC_final.csv,Niemann-Pick Disease Type C,visceral involvement,disease_phenotype_positive,34682919,unresolved_entity2,,C5960196
+692,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological involvement,disease_phenotype_positive,34682919,unresolved_entity2,,C4283760
+696,NPC,NPC_final.csv,Niemann-Pick Disease Type C,premature death,disease_phenotype_positive,34720883,unresolved_entity2,,C1855073
+697,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34720883,duplicate_literature_row,,
+698,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34720883,duplicate_literature_row,,
+703,NPC,NPC_final.csv,thalamus,NPC1,anatomy_protein_present,34720883,unresolved_entity1,C0039729,
+705,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurological symptoms,disease_phenotype_positive,34744838,unresolved_entity2,,C0235031
+709,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34799641,duplicate_literature_row,,
+710,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34799641,duplicate_literature_row,,
+712,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cognition,disease_phenotype_positive,34819124,duplicate_literature_row,,
+716,NPC,NPC_final.csv,Niemann-Pick Disease Type C,worry,disease_phenotype_positive,34819124,unresolved_entity2,,C0233481
+717,NPC,NPC_final.csv,Niemann-Pick Disease Type C,sadness,disease_phenotype_positive,34819124,unresolved_entity2,,C3536794
+718,NPC,NPC_final.csv,protein aggregates,CD22,molfunc_protein,34851695,unresolved_entity1,C3850144,
+721,NPC,NPC_final.csv,lysosomes,NPC1,cellcomp_protein,34830064,unresolved_entity1,C0024369,
+722,NPC,NPC_final.csv,neurovisceral lipid storage disease,Niemann-Pick Disease Type C,disease_disease,34944681,duplicate_literature_row,,
+723,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34944681,duplicate_literature_row,,
+724,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34944681,duplicate_literature_row,,
+725,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurodegeneration,disease_phenotype_positive,34944681,duplicate_literature_row,,
+726,NPC,NPC_final.csv,Niemann-Pick Disease Type C,premature death,disease_phenotype_positive,34944681,unresolved_entity2,,C1855073
+727,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neuroinflammation,disease_phenotype_positive,34944681,duplicate_literature_row,,
+729,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,34948052,duplicate_literature_row,,
+730,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,34948052,duplicate_literature_row,,
+731,NPC,NPC_final.csv,Niemann-Pick Disease Type C,accumulation of intracellular cholesterol,disease_phenotype_positive,34948052,unresolved_entity2,,C3553603
+733,NPC,NPC_final.csv,neuronal processes,Vps35,cellcomp_protein,34948052,unresolved_entity1,C1849725,
+734,NPC,NPC_final.csv,axonal swellings,Vps35,cellcomp_protein,34948052,unresolved_entity1,C2750221,
+735,NPC,NPC_final.csv,splenomegaly,hematopoietic cells,phenotype_cellcomp,35007562,unsupported_relation:phenotype_cellcomp,,
+737,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,35016719,duplicate_literature_row,,
+738,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,35016719,duplicate_literature_row,,
+741,NPC,NPC_final.csv,Niemann-Pick Disease Type C,splenomegaly,disease_phenotype_positive,35016719,duplicate_literature_row,,
+742,NPC,NPC_final.csv,Niemann-Pick Disease Type C,jaundice,disease_phenotype_positive,35016719,duplicate_literature_row,,
+746,NPC,NPC_final.csv,kidneys,Niemann-Pick Disease,anatomy_disease,35016719,unsupported_relation:anatomy_disease,,
+747,NPC,NPC_final.csv,spleen,Niemann-Pick Disease,anatomy_disease,35016719,unsupported_relation:anatomy_disease,,
+748,NPC,NPC_final.csv,liver,Niemann-Pick Disease,anatomy_disease,35016719,unsupported_relation:anatomy_disease,,
+749,NPC,NPC_final.csv,brain,Niemann-Pick Disease,anatomy_disease,35016719,unsupported_relation:anatomy_disease,,
+750,NPC,NPC_final.csv,nerves,Niemann-Pick Disease,anatomy_disease,35016719,unsupported_relation:anatomy_disease,,
+752,NPC,NPC_final.csv,Niemann-Pick disease type C,neurologic symptoms,disease_phenotype_positive,36199263,unresolved_entity2,,C0235031
+753,NPC,NPC_final.csv,Niemann-Pick disease type C,cataplexy,disease_phenotype_positive,36199263,duplicate_literature_row,,
+754,NPC,NPC_final.csv,Niemann-Pick disease type C,hepatosplenomegaly,disease_phenotype_positive,36199263,duplicate_literature_row,,
+755,NPC,NPC_final.csv,Niemann-Pick disease type C,progressive neurologic dysfunction,disease_phenotype_positive,36199263,duplicate_literature_row,,
+756,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,36199263,duplicate_literature_row,,
+757,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,36199263,duplicate_literature_row,,
+763,NPC,NPC_final.csv,Niemann-Pick disease type C,cerebellar ataxia,disease_phenotype_positive,36199263,duplicate_literature_row,,
+764,NPC,NPC_final.csv,Niemann-Pick disease type C,dystonia,disease_phenotype_positive,36199263,duplicate_literature_row,,
+765,NPC,NPC_final.csv,Niemann-Pick disease type C,pyramidal features,disease_phenotype_positive,36199263,unresolved_entity2,,C1843174
+766,NPC,NPC_final.csv,Niemann-Pick disease type C,seizures,disease_phenotype_positive,36199263,unresolved_entity2,,C0036572
+767,NPC,NPC_final.csv,Niemann-Pick disease type C,epilepsy,disease_phenotype_positive,36199263,duplicate_literature_row,,
+768,NPC,NPC_final.csv,Niemann-Pick disease type C,dysarthria,disease_phenotype_positive,36199263,duplicate_literature_row,,
+772,NPC,NPC_final.csv,Niemann-Pick disease type C,rare lysosomal neurovisceral storage disease,disease_disease,35086560,unresolved_entity2,,C0085078
+773,NPC,NPC_final.csv,Niemann-Pick disease type C,accumulation of intracellular free cholesterol,disease_phenotype_positive,35086560,duplicate_literature_row,,
+775,NPC,NPC_final.csv,cholesterol accumulation,NPC1,phenotype_protein,35159316,unresolved_entity1,C5436605,
+776,NPC,NPC_final.csv,cholesterol accumulation,NPC2,phenotype_protein,35159316,unresolved_entity1,C5436605,
+777,NPC,NPC_final.csv,cholesterol accumulation,NPC1,phenotype_protein,35159129,unresolved_entity1,C5436605,
+778,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,35164809,duplicate_literature_row,,
+779,NPC,NPC_final.csv,Niemann-Pick disease type C,hepatomegaly,disease_phenotype_positive,35164809,duplicate_literature_row,,
+780,NPC,NPC_final.csv,Niemann-Pick disease type C,neonatal jaundice,disease_phenotype_positive,35164809,unresolved_entity2,,in_kg
+781,NPC,NPC_final.csv,Niemann-Pick disease type C,splenomegaly,disease_phenotype_positive,35164809,duplicate_literature_row,,
+782,NPC,NPC_final.csv,neurological manifestations,cognitive impairment,phenotype_phenotype,35164809,unresolved_entity1,C0027854,
+783,NPC,NPC_final.csv,neurological manifestations,dysarthria,phenotype_phenotype,35164809,unresolved_entity1,C0027854,
+784,NPC,NPC_final.csv,neurological manifestations,ataxia,phenotype_phenotype,35164809,unresolved_entity1,C0027854,
+785,NPC,NPC_final.csv,neurological manifestations,vertical supranuclear gaze palsy,phenotype_phenotype,35164809,unresolved_entity1,C0027854,
+786,NPC,NPC_final.csv,neurological manifestations,dysphagia,phenotype_phenotype,35164809,unresolved_entity1,C0027854,
+787,NPC,NPC_final.csv,mTOR,lipid biosynthesis,bioprocess_protein,40972529,unresolved_entity2,,C1563744
+788,NPC,NPC_final.csv,low-density lipoprotein receptor,low-density lipoprotein receptor-related protein 6,protein_protein,40972529,unresolved_entity1,C0034821,
+789,NPC,NPC_final.csv,Niemann-Pick disease type C,neuro-visceral lipid storage disease,disease_disease,35455589,duplicate_literature_row,,
+790,NPC,NPC_final.csv,Niemann-Pick disease type C,elevated alpha-fetoprotein level,disease_phenotype_positive,35455589,unresolved_entity2,,C0235971|C1275870
+791,NPC,NPC_final.csv,liver disease,elevated alpha-fetoprotein level,disease_protein,35455589,unresolved_entity1,C0023895,
+792,NPC,NPC_final.csv,NPC2,lysosomes,cellcomp_protein,35554935,unresolved_entity2,,C0024369
+795,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,35892469,duplicate_literature_row,,
+796,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,35892469,duplicate_literature_row,,
+798,NPC,NPC_final.csv,Niemann-Pick disease Type C,NPC1,disease_protein,35892469,duplicate_literature_row,,
+799,NPC,NPC_final.csv,Niemann-Pick disease Type C,NPC2,disease_protein,35892469,duplicate_literature_row,,
+803,NPC,NPC_final.csv,Niemann-Pick disease,acid sphingomyelinase deficiency,disease_disease,36056366,unresolved_entity1,in_kg,
+804,NPC,NPC_final.csv,Niemann-Pick disease,systemic symptoms,disease_phenotype_positive,36056366,unresolved_entity1,in_kg,
+805,NPC,NPC_final.csv,Niemann-Pick disease,neurological symptoms,disease_phenotype_positive,36056366,unresolved_entity1,in_kg,
+807,NPC,NPC_final.csv,Dysphagia,aspiration pneumonia,pathology_phenotype,36064725,unsupported_relation:pathology_phenotype,,
+808,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,36085278,duplicate_literature_row,,
+809,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,36085278,duplicate_literature_row,,
+810,NPC,NPC_final.csv,Niemann-Pick disease type C,cholesterol accumulation,disease_phenotype_positive,36085278,unresolved_entity2,,C5436605
+812,NPC,NPC_final.csv,Niemann-Pick disease Type C,NPC1,disease_protein,36187872,duplicate_literature_row,,
+813,NPC,NPC_final.csv,Niemann-Pick disease Type C,NPC2,disease_protein,36187872,duplicate_literature_row,,
+814,NPC,NPC_final.csv,Niemann-Pick disease Type C,Vertical supranuclear gaze palsy,disease_phenotype_positive,36187872,duplicate_literature_row,,
+815,NPC,NPC_final.csv,Niemann-Pick disease Type C,Splenomegaly,disease_phenotype_positive,36187872,duplicate_literature_row,,
+816,NPC,NPC_final.csv,Niemann-Pick disease Type C,Dystonia,disease_phenotype_positive,36187872,duplicate_literature_row,,
+817,NPC,NPC_final.csv,Niemann-Pick disease Type C,Cerebellar ataxia,disease_phenotype_positive,36187872,duplicate_literature_row,,
+818,NPC,NPC_final.csv,β-Cyclodextrin,Niemann-Pick disease type C,indication,36265126,unresolved_entity1,C0046237,
+819,NPC,NPC_final.csv,β-Cyclodextrin,lysosomal transport,drug_bioprocess,36265126,unsupported_relation:drug_bioprocess,,
+821,NPC,NPC_final.csv,cholesterol trafficking,NPC1, bioprocess_protein,36301667,unresolved_entity1,C5960876,
+827,NPC,NPC_final.csv,NPC1,increased cell proliferation,phenotype_protein,36322609,unresolved_entity2,,C4230434
+836,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,cytoplasmic vesicles,drug_effect,36431844,unresolved_entity1,C0046237,
+837,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,lysosomes,drug_effect,36431844,unresolved_entity1,C0046237,
+838,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick disease type C,indication,36431844,unresolved_entity1,C0046237,
+841,NPC,NPC_final.csv,Niemann-Pick disease,cholesterol accumulation,disease_phenotype_positive,36722045,unresolved_entity1,in_kg,
+842,NPC,NPC_final.csv,Niemann-Pick disease type C,lysosomal storage disorder,disease_disease,36823305,unresolved_entity2,,C0085078
+843,NPC,NPC_final.csv,accumulation of cholesterol,NPC1,phenotype_protein,36861884,unresolved_entity1,C5436605,
+844,NPC,NPC_final.csv,lysosome,NPC1,cellcomp_protein,36861884,duplicate_literature_row,,
+846,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,36861884,duplicate_literature_row,,
+848,NPC,NPC_final.csv,Niemann-Pick Disease Type C,lysosomal storage disorder,disease_disease,36920149,unresolved_entity2,,C0085078
+849,NPC,NPC_final.csv,Niemann-Pick Disease Type C,progressive neurodegeneration,disease_phenotype_positive,36920149,duplicate_literature_row,,
+850,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,Niemann-Pick Disease Type C,indication,36920149,unresolved_entity1,C0046237,
+853,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,cholesterol storage,drug_effect,36920149,unresolved_entity1,C0046237,
+854,NPC,NPC_final.csv,2-hydroxypropyl-beta-cyclodextrin,exocytosis,drug_bioprocess,36920149,unsupported_relation:drug_bioprocess,,
+857,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,37128603,duplicate_literature_row,,
+858,NPC,NPC_final.csv,Lithium,improved behaviors,drug_bioprocess,37128603,unsupported_relation:drug_bioprocess,,
+861,NPC,NPC_final.csv,Niemann-Pick Disease Type C,systemic iron abnormalities,disease_phenotype_positive,37348967,unresolved_entity2,,C0235760
+862,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurodegenerative disorders,disease_phenotype_positive,37348967,unresolved_entity2,,C0524851
+863,NPC,NPC_final.csv,iron deposition,pulvinar nucleus,pathology_anatomy_present,37348967,unsupported_relation:pathology_anatomy_present,,
+864,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurodegeneration,disease_phenotype_positive,37348967,duplicate_literature_row,,
+866,NPC,NPC_final.csv,thalamus,Niemann-Pick Disease Type C, anatomy_disease,37348967,unsupported_relation:anatomy_disease,,
+867,NPC,NPC_final.csv,striatum,Niemann-Pick Disease Type C, anatomy_disease,37348967,unsupported_relation:anatomy_disease,,
+868,NPC,NPC_final.csv,hippocampus,Niemann-Pick Disease Type C, anatomy_disease,37348967,unsupported_relation:anatomy_disease,,
+874,NPC,NPC_final.csv,2-hydroxypropyl-β-cyclodextrin,NPC1,drug_protein,37407594,unresolved_entity1,C0046237,
+876,NPC,NPC_final.csv,NPC1,decreased pigmentation,phenotype_protein,37423302,unresolved_entity2,,C5205893
+879,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,37458497,duplicate_literature_row,,
+880,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,37458497,duplicate_literature_row,,
+881,NPC,NPC_final.csv,Niemann-Pick disease type C,cholesterol accumulation,disease_phenotype_positive,37458497,unresolved_entity2,,C5436605
+883,NPC,NPC_final.csv,NPC1,cholesterol accumulation,phenotype_protein,37458497,unresolved_entity2,,C5436605
+884,NPC,NPC_final.csv,NPC2,cholesterol accumulation,phenotype_protein,37458497,unresolved_entity2,,C5436605
+885,NPC,NPC_final.csv,Niemann-Pick disease type C,progressive neurodegeneration,disease_phenotype_positive,37480097,duplicate_literature_row,,
+886,NPC,NPC_final.csv,Niemann-Pick disease type C,premature death,disease_phenotype_positive,37480097,unresolved_entity2,,C1855073
+887,NPC,NPC_final.csv,miglustat,Niemann-Pick disease type C,indication,37480097,duplicate_literature_row,,
+889,NPC,NPC_final.csv,Niemann-Pick disease type C,neurological symptoms,disease_phenotype_positive,37480097,unresolved_entity2,,C0235031
+890,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,37539272,duplicate_literature_row,,
+891,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,37539272,duplicate_literature_row,,
+892,NPC,NPC_final.csv,Niemann-Pick disease type C,Cerebellar ataxia,disease_phenotype_positive,37539272,duplicate_literature_row,,
+893,NPC,NPC_final.csv,deep cerebellar nuclei,Niemann-Pick disease type C, anatomy_disease,37539272,unsupported_relation:anatomy_disease,,
+895,NPC,NPC_final.csv,miglustat,Niemann-Pick disease type C,indication,37539272,duplicate_literature_row,,
+897,NPC,NPC_final.csv,Niemann-Pick disease type C,neurodegeneration,disease_phenotype_positive,37670901,duplicate_literature_row,,
+898,NPC,NPC_final.csv,hydroxypropyl-β-cyclodextrin,Niemann-Pick disease type C,indication,37670901,unresolved_entity1,C0046237,
+899,NPC,NPC_final.csv,hydroxypropyl-β-cyclodextrin,cholesterol metabolism,drug_bioprocess,37670901,unsupported_relation:drug_bioprocess,,
+901,NPC,NPC_final.csv,cerebellum,Niemann-Pick Disease Type C,anatomy_disease,38254990,unsupported_relation:anatomy_disease,,
+904,NPC,NPC_final.csv,lysosomal storage disorder,Niemann-Pick Disease Type C,disease_disease,38599016,unresolved_entity1,C0085078,
+905,NPC,NPC_final.csv,Niemann-Pick Disease Type C,impaired motor coordination,disease_phenotype_positive,38599016,unresolved_entity2,,C0814161|C1867864
+906,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cholesterol accumulation,disease_phenotype_positive,38599016,unresolved_entity2,,C5436605
+908,NPC,NPC_final.csv,NPC1,transmembrane glycoprotein,protein_protein,38686625,unresolved_entity2,,C3813203
+911,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,38712089,duplicate_literature_row,,
+912,NPC,NPC_final.csv,lysosomal cholesterol transport,calcium signaling pathways,cellcomp_bioprocess,38737295,unknown_relation:cellcomp_bioprocess,,
+913,NPC,NPC_final.csv,NPC1,calcium signaling pathways,disease_pathway,38737295,unsupported_relation:disease_pathway,,
+914,NPC,NPC_final.csv,neurodegeneration,calcium signaling pathways,disease_pathway,38737295,unsupported_relation:disease_pathway,,
+915,NPC,NPC_final.csv,hereditary ataxia,NPC1,disease_protein,38790666,unresolved_entity1,in_kg,
+916,NPC,NPC_final.csv,hereditary ataxia,NPC2,disease_protein,38790666,unresolved_entity1,in_kg,
+919,NPC,NPC_final.csv,Niemann-Pick disease,autosomal recessive disorder,disease_phenotype_positive,38826605,unresolved_entity1,in_kg,
+920,NPC,NPC_final.csv,Niemann-Pick disease,brain, anatomy_disease,38826605,unsupported_relation:anatomy_disease,,
+921,NPC,NPC_final.csv,Niemann-Pick disease,liver, anatomy_disease,38826605,unsupported_relation:anatomy_disease,,
+922,NPC,NPC_final.csv,Niemann-Pick disease,spleen, anatomy_disease,38826605,unsupported_relation:anatomy_disease,,
+923,NPC,NPC_final.csv,Niemann-Pick disease,bone marrow, anatomy_disease,38826605,unsupported_relation:anatomy_disease,,
+924,NPC,NPC_final.csv,Niemann-Pick disease,lungs, anatomy_disease,38826605,unsupported_relation:anatomy_disease,,
+925,NPC,NPC_final.csv,Niemann-Pick disease,Hepatosplenomegaly,disease_phenotype_positive,38826605,unresolved_entity1,in_kg,
+927,NPC,NPC_final.csv,Niemann-Pick disease,Niemann-Pick disease type C,disease_disease,38826605,unresolved_entity1,in_kg,
+928,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,38826605,duplicate_literature_row,,
+929,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC2,disease_protein,38826605,duplicate_literature_row,,
+934,NPC,NPC_final.csv,degenerative ataxia,impaired saccadic velocity,disease_phenotype_positive,38868844,unresolved_entity1,C5680697,
+935,NPC,NPC_final.csv,degenerative ataxia,impaired smooth pursuit gain,disease_phenotype_positive,38868844,unresolved_entity1,C5680697,
+936,NPC,NPC_final.csv,Niemann-Pick disease type C,Npc1,disease_protein,39202426,duplicate_literature_row,,
+937,NPC,NPC_final.csv,Niemann-Pick disease type C,Npc2,disease_protein,39202426,duplicate_literature_row,,
+938,NPC,NPC_final.csv,cerebral cortex,Niemann-Pick disease type C,anatomy_disease,39202426,unsupported_relation:anatomy_disease,,
+939,NPC,NPC_final.csv,cyclophellitols,GBA1,exposure_protein,39246358,unresolved_entity1,C0082160,
+941,NPC,NPC_final.csv,Niemann-Pick Disease Type C,morphological defects,disease_phenotype_positive,39340823,unresolved_entity2,,C0000768|C0018816
+943,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cholesterol accumulation,disease_phenotype_positive,39366931,unresolved_entity2,,C5436605
+946,NPC,NPC_final.csv,NPC1,cholesterol accumulation,phenotype_protein,39366931,unresolved_entity2,,C5436605
+947,NPC,NPC_final.csv,NPC1,cholesterol trafficking, bioprocess_protein,39366931,unresolved_entity2,,C5960876
+948,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,39443481,duplicate_literature_row,,
+952,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,39452896,duplicate_literature_row,,
+957,NPC,NPC_final.csv,Cholesterol,NCR1,lipid_protein,39455279,unsupported_relation:lipid_protein,,
+958,NPC,NPC_final.csv,Sphingosine,NPC2,lipid_protein,39455279,unsupported_relation:lipid_protein,,
+959,NPC,NPC_final.csv,phosphatidylcholine,NCR1,lipid_protein,39455279,unsupported_relation:lipid_protein,,
+960,NPC,NPC_final.csv,phosphatidylserine,NCR1,lipid_protein,39455279,unsupported_relation:lipid_protein,,
+961,NPC,NPC_final.csv,Sphingosine,NCR1,lipid_protein,39455279,unsupported_relation:lipid_protein,,
+963,NPC,NPC_final.csv,Niemann-Pick Disease Type C,lysosomal enlargement,disease_phenotype_positive,39502943,unresolved_entity2,,C1836855
+964,NPC,NPC_final.csv,NPC1,Niemann-Pick Disease Type C,disease_protein,39547438,duplicate_literature_row,,
+965,NPC,NPC_final.csv,lysosomal storage disorder,Niemann-Pick Disease Type C,disease_phenotype_positive,39557950,unresolved_entity1,C0085078,
+966,NPC,NPC_final.csv,Niemann-Pick Disease Type C,Cholesterol accumulation,disease_phenotype_positive,39557950,unresolved_entity2,,C5436605
+967,NPC,NPC_final.csv,NPC1,Niemann-Pick Disease Type C,disease_protein,39557950,duplicate_literature_row,,
+969,NPC,NPC_final.csv,Niemann-Pick Disease Type C,Splenomegaly,disease_phenotype_positive,39557950,duplicate_literature_row,,
+970,NPC,NPC_final.csv,Niemann-Pick Disease Type C,Ataxia,disease_phenotype_positive,39557950,duplicate_literature_row,,
+971,NPC,NPC_final.csv,NPC1,Lysosomes,cellcomp_protein,39557950,unresolved_entity2,,C0024369
+972,NPC,NPC_final.csv,neurodegenerative disease,Niemann-Pick disease type C,disease_disease,39628618,duplicate_literature_row,,
+973,NPC,NPC_final.csv,Miglustat,Niemann-Pick disease type C,indication,39628618,duplicate_literature_row,,
+974,NPC,NPC_final.csv,Miglustat,Diarrhea,drug_effect,39628618,duplicate_literature_row,,
+975,NPC,NPC_final.csv,Niemann-Pick disease type C,Ataxia,disease_phenotype_positive,39628618,duplicate_literature_row,,
+976,NPC,NPC_final.csv,Niemann-Pick disease type C,Vertical supranuclear gaze palsy,disease_phenotype_positive,39628618,duplicate_literature_row,,
+977,NPC,NPC_final.csv,Niemann-Pick disease type C,Dysphagia,disease_phenotype_positive,39628618,duplicate_literature_row,,
+978,NPC,NPC_final.csv,Niemann-Pick disease type C,Cataplexy,disease_phenotype_positive,39628618,duplicate_literature_row,,
+979,NPC,NPC_final.csv,cerebrospinal fluid,disease severity,anatomy_protein_present,39688135,unresolved_entity2,,C3494263
+985,NPC,NPC_final.csv,Niemann-Pick Disease Type C,progressive neurodegeneration,disease_phenotype_positive,39689839,duplicate_literature_row,,
+986,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC1,disease_protein,39689839,duplicate_literature_row,,
+987,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,39689839,duplicate_literature_row,,
+988,NPC,NPC_final.csv,Niemann-Pick Disease Type C,intracellular accumulation of unesterified cholesterol,disease_phenotype_positive,39689839,duplicate_literature_row,,
+989,NPC,NPC_final.csv,neuroinflammation,cognitive impairment,pathology_phenotype,39689839,unsupported_relation:pathology_phenotype,,
+990,NPC,NPC_final.csv,Niemann-Pick Disease Type C,NPC2,disease_protein,39747180,duplicate_literature_row,,
+993,NPC,NPC_final.csv,mitochondrial function,NPC2, bioprocess_protein,39747180,unresolved_entity1,C5574978,
+994,NPC,NPC_final.csv,cholesterol transport,NPC1, bioprocess_protein,39762312,duplicate_literature_row,,
+1006,NPC,NPC_final.csv,DHDDS,neurodevelopmental disorders,disease_protein,40003936,duplicate_literature_row,,
+1009,NPC,NPC_final.csv,NPC2,Cholesterol trafficking,phenotype_protein,40003936,unresolved_entity2,,C5960876
+1014,NPC,NPC_final.csv,atrophy,cerebellum,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1015,NPC,NPC_final.csv,atrophy,thalamus,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1016,NPC,NPC_final.csv,atrophy,frontal lobe,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1017,NPC,NPC_final.csv,atrophy,hippocampus,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1018,NPC,NPC_final.csv,cerebellar atrophy,ataxia,pathology_phenotype,40009086,unsupported_relation:pathology_phenotype,,
+1019,NPC,NPC_final.csv,hypometabolism,ataxia,pathology_phenotype,40009086,unsupported_relation:pathology_phenotype,,
+1021,NPC,NPC_final.csv,lysosome,NPC1,cellcomp_protein,40333988,duplicate_literature_row,,
+1022,NPC,NPC_final.csv,lysosomal cholesterol homeostasis,NPC1, bioprocess_protein,40333988,duplicate_literature_row,,
+1023,NPC,NPC_final.csv,autophagy,neurodegeneration,bioprocess_phenotype,40333988,unsupported_relation:bioprocess_phenotype,,
+1027,NPC,NPC_final.csv,NPC1,Niemann-Pick Disease Type C,disease_protein,do,duplicate_literature_row,,
+1028,NPC,NPC_final.csv,NPC2,Niemann-Pick Disease Type C,disease_protein,40565243,duplicate_literature_row,,
+1030,NPC,NPC_final.csv,Niemann-Pick Disease Type C,lysosomal diseases,disease_disease,40565243,unresolved_entity2,,C0085078
+1031,NPC,NPC_final.csv,Niemann-Pick Disease Type C,cholesterol accumulation,disease_phenotype_positive,40565243,unresolved_entity2,,C5436605
+1033,NPC,NPC_final.csv,JQ1,patien-dependent manner,drug_effect,40565243,unresolved_entity2,,C1835978
+1034,NPC,NPC_final.csv,Niemann-Pick Disease Type C,neurovisceral symptoms,disease_phenotype_positive,40565243,duplicate_literature_row,,
+1035,NPC,NPC_final.csv,NPC1,cholesterol accumulation,phenotype_protein,40565243,unresolved_entity2,,C5436605
+1036,NPC,NPC_final.csv,disease-modifying drugs,Niemann-Pick Disease Type C,indication,40565243,unresolved_entity1,C0242708,
+1038,NPC,NPC_final.csv,miglustat,Niemann-Pick disease type C,indication,40701909,duplicate_literature_row,,
+1039,NPC,NPC_final.csv,lysosomal storage disorder,Niemann-Pick disease type C,disease_disease,40701909,unresolved_entity1,C0085078,
+1043,NPC,NPC_final.csv,NPC1,lysosomes,cellcomp_protein,40737317,unresolved_entity2,,C0024369
+1046,NPC,NPC_final.csv,Niemann-Pick disease type C,autosomal recessive disorder,disease_disease,40869913,unresolved_entity2,,C3899988
+1047,NPC,NPC_final.csv,Niemann-Pick disease type C,lysosomal storage diseases,disease_disease,40869913,unresolved_entity2,,C0085078
+1048,NPC,NPC_final.csv,Niemann-Pick disease type C,accumulation of unesterified cholesterol,disease_phenotype_positive,40869913,duplicate_literature_row,,
+1049,NPC,NPC_final.csv,Niemann-Pick disease type C,NPC1,disease_protein,40869913,duplicate_literature_row,,
+1050,NPC,NPC_final.csv,cerebral cortex,Niemann-Pick disease type C, anatomy_disease,40869913,unsupported_relation:anatomy_disease,,
+1051,NPC,NPC_final.csv,Niemann-Pick disease type C,lipid inclusions,disease_phenotype_positive,40869913,unresolved_entity2,,C4231253
+1053,NPC,NPC_final.csv,Niemann-Pick disease type C,protein aggregates,disease_phenotype_positive,40869913,unresolved_entity2,,C3850144
+1054,NPC,NPC_additional.csv,24S-hydroxycholesterol,improved motor function,phenotype_protein,38142760,unresolved_entity1,C0208133,
+1055,NPC,NPC_additional.csv,poly-β-cyclodextrin,Niemann-Pick type C diseases,indication,34748340,unresolved_entity1,C1699799,
+1056,NPC,NPC_additional.csv,liver−spleen region,Niemann-Pick Disease Type C1,anatomy_disease,34061502,unsupported_relation:anatomy_disease,,
+1057,NPC,NPC_additional.csv,adamantane-pentyl-deoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug_bioprocess,36804125,unsupported_relation:drug_bioprocess,,
+1058,NPC,NPC_additional.csv,N-nonyldeoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug_bioprocess,36804125,unsupported_relation:drug_bioprocess,,
+1059,NPC,NPC_additional.csv,N-butyldeoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug_bioprocess,36804125,unsupported_relation:drug_bioprocess,,
+1060,NPC,NPC_additional.csv,lysosomal lipid storage,Niemann-Pick Disease Type C,disease_disease,38087834,unresolved_entity1,C0085078,
+1061,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,neuropsychiatric signs,disease_phenotype_positive,38087834,unresolved_entity1,C3179455,
+1062,NPC,NPC_additional.csv,systemic organ lesions,NPC1,phenotype_protein,38087834,unresolved_entity1,C0026766,
+1063,NPC,NPC_additional.csv,pathological changes in kidneys,NPC1,phenotype_protein,38087834,unresolved_entity1,C6022317,
+1064,NPC,NPC_additional.csv,Niemann-Pick disease type C,peripheral organ dysfunction,disease_phenotype_positive,40215728,unresolved_entity2,,C0342953
+1065,NPC,NPC_additional.csv,NPC1,premature degradation,phenotype_protein,40215728,unresolved_entity2,,C5542995
+1066,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,faulty cholesterol trafficking,disease_phenotype_positive,40215728,unresolved_entity2,,C2749801
+1067,NPC,NPC_additional.csv,target of rapamycin,systemic insulin signaling,bioprocess_protein,35245460,unresolved_entity1,C1257553,
+1068,NPC,NPC_additional.csv,cholesterol,cellular and systemic growth control,exposure_bioprocess,35245460,unresolved_entity2,,C0596286
+1069,NPC,NPC_additional.csv,lyso-sphingolipids,Niemann-Pick disease type C,bioprocess_disease,41274250,unsupported_relation:bioprocess_disease,,
+1070,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,neuropsychiatric issues,disease_phenotype_positive,39789920,unresolved_entity2,,C6013326
+1071,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,lysomsomal storage disorder,disease_disease,35081253,unresolved_entity1,C3179455,
+1072,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,pronouced neurological manifestations,disease_phenotype_positive,35081253,unresolved_entity1,C3179455,
+1073,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,long-term congenital immunodeficiencies,disease_disease,35081253,unresolved_entity1,C3179455,
+1074,NPC,NPC_additional.csv,highly heterogeneous phenotypes,NPC1,phenotype_protein,38131230,unresolved_entity1,C1839039,
+1075,NPC,NPC_additional.csv,symtomatic therapy,Niemann-Pick Disease Type C,exposure_disease,36243834,unresolved_entity1,C5243901,
+1076,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,cholesterol homeostasis,drug_effect,38852794,unresolved_entity1,C4522177,
+1077,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,tissue distribution,drug_bioprocess,38852794,unsupported_relation:drug_bioprocess,,
+1078,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,disease amelioration,drug_effect,38852794,unresolved_entity1,C4522177,
+1079,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,blood-brain barrier,drug_effect,38852794,unresolved_entity1,C4522177,
+1080,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,hepatic dysfunction,drug_effect,38852794,unresolved_entity1,C4522177,
+1081,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,peripheral manifestations,drug_effect,38852794,unresolved_entity1,C4522177,
+1083,NPC,NPC_additional.csv,severe acute liver failure,living donor liver transplantation,pathology_phenotype,37429811,unsupported_relation:pathology_phenotype,,
+1084,NPC,NPC_additional.csv,Niemann-Pick disease type C,substantial fibrosis,disease_phenotype_positive,37429811,unresolved_entity2,,C0016059
+1085,NPC,NPC_additional.csv,Niemann-Pick disease type C,coginitive decline,disease_phenotype_positive,40221338,unresolved_entity2,,C0338656
+1086,NPC,NPC_additional.csv,Niemann Pick type C disease,liver failure developed,disease_phenotype_positive,36265573,unresolved_entity1,C0220756,
+1087,NPC,NPC_additional.csv,Niemann-Pick C disease,lyso-sphingolipids,disease_phenotype_positive,34810067,unresolved_entity1,C0220756,
+1088,NPC,NPC_additional.csv,Niemann-Pick C disease,total diacylglycerols,disease_phenotype_positive,34810067,unresolved_entity1,C0220756,
+1089,NPC,NPC_additional.csv,Niemann Pick type C disease,hippocampal subregional atrophy,disease_phenotype_positive,34146215,unresolved_entity1,C0220756,
+1090,NPC,NPC_additional.csv,Niemann Pick type C disease,smaller whole hippocampi volumes,disease_phenotype_positive,34146215,unresolved_entity1,C0220756,
+1091,NPC,NPC_additional.csv,endo-lysosomal network,endo-lysosomal network,cellcomp_protein,40026274,unresolved_entity1,C1156044,
+1092,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,Visceral manifestations,disease_phenotype_positive,34993563,unresolved_entity2,,C5960196
+1093,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,neuro-psychiatric symptoms,disease_phenotype_positive,34993563,unresolved_entity2,,C0150881
+1094,NPC,NPC_additional.csv,Niemann-Pick disease type C,gelastic cataplexy,disease_phenotype_positive,40898442,unresolved_entity2,,C0007384
+1095,NPC,NPC_additional.csv,Neurofilament light chain,neuronal injury,phenotype_protein,38581830,unresolved_entity1,C5774172,
+1096,NPC,NPC_additional.csv,Niemann-Pick Type-C,neuropsychiatric manifestations,disease_phenotype_positive,39607035,unresolved_entity1,C0220756,
+1097,NPC,NPC_additional.csv,Intracellular trafficking of cholesterol,NPC1,bioprocess_protein,39697013,unresolved_entity1,C2749801,
+1098,NPC,NPC_additional.csv,Intracellular trafficking of cholesterol,NPC2,bioprocess_protein,39697013,unresolved_entity1,C2749801,
+1099,NPC,NPC_additional.csv,Niemann-Pick type C,visceral enlargement,disease_phenotype_positive,34303826,unresolved_entity1,C0220756,
+1100,NPC,NPC_additional.csv,miglustat,glucocerbrosi-dase 2,drug_protein,38302739,unresolved_entity2,,C3539583
+1101,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,increased membrane contact sites,disease_phenotype_positive,38302739,unresolved_entity2,,C2828354
+1102,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,early neurodevelopmental disturbance,disease_phenotype_positive,37612148,unresolved_entity2,,C1970828
+1103,NPC,NPC_additional.csv,Niemann-Pick type C disease,autosomal recessive lysosomal disorder,disease_phenotype_positive,34455703,unresolved_entity1,C0220756,
+1104,NPC,NPC_additional.csv,accumulation of lipids,cellular organelles,exposure_cellcomp,34455703,unresolved_entity1,C1512921,
+1105,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,idiopathic neonatal cholestasis,disease_phenotype_positive,34455703,unresolved_entity2,,C1112213
+1106,NPC,NPC_additional.csv,NPC1,cellular organelles,cellcomp_protein,34455703,unresolved_entity2,,C0029219
+1107,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,visceral manifestations,disease_phenotype_positive,36325261,unresolved_entity2,,C5960196
+1108,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,abnormal cholesterol accumulation,disease_phenotype_positive,36325261,unresolved_entity2,,C3553603
+1110,NPC,NPC_additional.csv,Niemann-Pick type C,elevated 7-ketocholesterol,disease_phenotype_positive,36325261,unresolved_entity1,C0220756,
+1111,NPC,NPC_additional.csv,Niemann-Pick type C,elevated oxysterols,disease_phenotype_positive,36325261,unresolved_entity1,C0220756,
+1112,NPC,NPC_additional.csv,cationic amphiphilic agents,phospholipidosis,drug_effect,36325261,unresolved_entity1,C0016365,
+1113,NPC,NPC_additional.csv,elevated oxysterols,NPC1,phenotype_protein,36325261,unresolved_entity1,C4277571,
+1114,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,oculomotor dysfunction,bioprocess_protein,34086834,unresolved_entity2,,C0497202
+1115,NPC,NPC_additional.csv,Niemann-Pick type C,oculomotor dysfunction,disease_phenotype_positive,34086834,unresolved_entity1,C0220756,
+1116,NPC,NPC_additional.csv,Niemann-Pick disease type C,vertical supranuclear saccade palsy,disease_phenotype_positive,34096670,unresolved_entity2,,C1843369
+1117,NPC,NPC_additional.csv,Niemann-Pick disease type C,ocular-motor dysfunction,disease_phenotype_positive,34096670,unresolved_entity2,,C0497202
+1118,NPC,NPC_additional.csv,Niemann-Pick disease type C,early cholestatic disease,disease_disease,34138521,unresolved_entity2,,C1859162
+1119,NPC,NPC_additional.csv,Niemann-Pick Type C disease,progressive neurovisceral manifestations,disease_phenotype_positive,34150357,unresolved_entity1,C0220756,
+1120,NPC,NPC_additional.csv,Niemann-Pick Type C disease,accumulation of intracellular unesteri ed cholesterol,disease_phenotype_positive,34150357,unresolved_entity1,C0220756,
+1121,NPC,NPC_additional.csv,Niemann-Pick Type C disease,neuro lament light,disease_protein,34150357,unresolved_entity1,C0220756,
+1122,NPC,NPC_additional.csv,acid ceramidase,oxidative stress-mediated cell death,phenotype_protein,34175669,unresolved_entity1,C2350443,
+1123,NPC,NPC_additional.csv,N-acetyl-l-leucine,cerebral glucose metabolism,drug_bioprocess,34387740,unsupported_relation:drug_bioprocess,,
+1124,NPC,NPC_additional.csv,arimoclomol,improve lysosomal function,drug_effect,34418116,unresolved_entity2,,C1372391
+1125,NPC,NPC_additional.csv,heat shock response 70,NPC1,protein_protein,34418116,unresolved_entity1,C0243043,
+1126,NPC,NPC_additional.csv,pathways of liver damage,NPC1,pathway_protein,34440927,unresolved_entity1,C0151763,
+1127,NPC,NPC_additional.csv,against oxidative,peroxisome proliferator-activated receptor-γ,phenotype_protein,34502342,unresolved_entity1,C3894362,
+1128,NPC,NPC_additional.csv,inflammatory damage,peroxisome proliferator-activated receptor-γ,phenotype_protein,34502342,unresolved_entity1,C1817415,
+1129,NPC,NPC_additional.csv,Telmisartan,peroxisome proliferator-activated receptor-γ,drug_protein,34502342,unresolved_entity2,,C0166417
+1130,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,initial psychopharmacology,disease_phenotype_positive,34744838,unresolved_entity2,,C0033929
+1131,NPC,NPC_additional.csv,rare lysosomal storage disorder,Niemann-Pick Disease Type C1,disease_disease,34830064,unresolved_entity1,C0085078,
+1132,NPC,NPC_additional.csv,progressive lysosomal storage disorder,Niemann-Pick Disease Type C1,disease_disease,35007562,unresolved_entity1,C0085078,
+1133,NPC,NPC_additional.csv,increased plasma granulocyte-colony stimulating factor by 2-fold,NPC1,phenotype_protein,35007562,unresolved_entity1,C4552323,
+1134,NPC,NPC_additional.csv,lysosomal storage defects,NPC,disease_phenotype_positive,35016719,unresolved_entity1,C0085078,
+1135,NPC,NPC_additional.csv,Niemann-Pick disease type C,an autosomal recessive hereditary disease,disease_disease,36199263,unresolved_entity2,,C0265388
+1136,NPC,NPC_additional.csv,N-butyldeoxynojirimycin,glucosyl ceramide synthase,drug_protein,35140266,unresolved_entity1,C1321596,
+1137,NPC,NPC_additional.csv,miglustat,glucosyl ceramide synthase,drug_protein,35140266,unresolved_entity2,,C4283742
+1138,NPC,NPC_additional.csv,Zavesca,glucosyl ceramide synthase,drug_protein,35140266,unresolved_entity1,C1174772,
+1139,NPC,NPC_additional.csv,Niemann-Pick type C disease,increasing adenosine levels,disease_phenotype_positive,35408815,unresolved_entity1,C0220756,
+1140,NPC,NPC_additional.csv,T1-11,increase adenosine levels,off_label_use,35408815,unresolved_entity1,C4308067,
+1141,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,complex asparagine-linked glycosylation,disease_protein,35563467,unresolved_entity1,C3179455,
+1142,NPC,NPC_additional.csv,cellular signaling,complex asparagine-linked glycosylation,disease_protein,35563467,unresolved_entity1,C3895299,
+1143,NPC,NPC_additional.csv,protein stability,complex asparagine-linked glycosylation,disease_protein,35563467,unresolved_entity1,C2350440,
+1144,NPC,NPC_additional.csv,complex asparagine-linked glycosylation,"lysosome-associated membrane
+protein 1",bioprocess_protein,35563467,unresolved_entity1,C1623028,
+1145,NPC,NPC_additional.csv,complex asparagine-linked glycosylation,MGAT5,disease_phenotype_positive,35563467,unresolved_entity1,C1623028,
+1146,NPC,NPC_additional.csv,Anti-Tumor Necrosis Factor Therapy,caused neurological side effects,drug_effect,35694196,unresolved_entity1,C0281481,
+1147,NPC,NPC_additional.csv,Anti-Tumor Necrosis Factor Therapy,caused demyelination,drug_effect,35694196,unresolved_entity1,C0281481,
+1148,NPC,NPC_additional.csv,Anti-Tumor Necrosis Factor Therapy,caused central nervous system inflammation,drug_effect,35694196,unresolved_entity1,C0281481,
+1149,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,U18666A,drug_drug,35891519,unresolved_entity1,C4522177,
+1150,NPC,NPC_additional.csv,2-hydroxypropyl-γ-cyclodextrin,cholesterol accumulation,drug_effect,35891519,unresolved_entity1,C4522177,
+1152,NPC,NPC_additional.csv,Niemann-Pick type C,Neuropsychiatric manifestations,disease_phenotype_positive,35945383,unresolved_entity1,C0220756,
+1153,NPC,NPC_additional.csv,mycobacterial cell wall lipids,NPC1,exposure_protein,36085278,unresolved_entity1,C0026931,
+1154,NPC,NPC_additional.csv,Niemann-Pick disease Type C,stimulus-sensitive myoclonus,disease_phenotype_positive,36187872,unresolved_entity2,,C3554567
+1155,NPC,NPC_additional.csv,isogenic induced pluripotent stem cells,NPC1,anatomy_protein_present,36301667,unresolved_entity1,C2717959,
+1156,NPC,NPC_additional.csv,NPC1,cholesterol dyshomeostasis,phenotype_protein,36322609,unresolved_entity2,,C1843372
+1157,NPC,NPC_additional.csv,NPC2,cholesterol dyshomeostasis,phenotype_protein,36322609,unresolved_entity2,,C1843372
+1158,NPC,NPC_additional.csv,NPC1,robust phagocytic activity,phenotype_protein,36322609,unresolved_entity2,,C1372517
+1159,NPC,NPC_additional.csv,NPC1,shortfalls in fine odor discrimination,phenotype_protein,36322609,unresolved_entity2,,C4013074
+1160,NPC,NPC_additional.csv,2-hydroxypropyl-beta-cyclodextrin,brain capillary endothelial cells,drug_effect,36431844,unresolved_entity1,C0046237,
+1161,NPC,NPC_additional.csv,brain capillary endothelial cells,2-hydroxypropyl-beta-cyclodextrin.,anatomy_protein_present,36431844,unresolved_entity1,C1180238,
+1162,NPC,NPC_additional.csv,2-hydroxypropyl-beta-cyclodextrin.,primary rat brain endothelial cells,drug_effect,36431844,unresolved_entity1,C0046237,
+1163,NPC,NPC_additional.csv,Niemann-Pick disease type C,lysosomal lipid storage,disease_disease,36455410,unresolved_entity2,,C0085078
+1164,NPC,NPC_additional.csv,2-hydroxypropyl-ß-cyclodextrin,allopregnanolone,drug_protein,36614015,unresolved_entity1,C0046237,
+1165,NPC,NPC_additional.csv,2-hydroxypropyl-ß-cyclodextrin,miglustat,drug_drug,36614015,unresolved_entity1,C0046237,
+1166,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,late endosome tubulation,disease_phenotype_negative,36861884,unresolved_entity2,,C4328966
+1167,NPC,NPC_additional.csv,late endosome tubulation,StARD9,bioprocess_protein,36861884,unresolved_entity1,C4328966,
+1168,NPC,NPC_additional.csv,late endosome tubulation,NPC1,bioprocess_protein,36861884,unresolved_entity1,C4328966,
+1169,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,extends lifespan,disease_phenotype_positive,36920149,unresolved_entity2,,C0870809
+1170,NPC,NPC_additional.csv,Lithium,improved feeding phenotypes,drug_effect,37128603,unresolved_entity2,,C0015745
+1171,NPC,NPC_additional.csv,NPC1,intracellular trafficking of cholesterol,bioprocess_protein,37245481,unresolved_entity2,,C2749801
+1172,NPC,NPC_additional.csv,NPC1,cholesterol egress,bioprocess_protein,37440478,unresolved_entity2,,C2246761
+1173,NPC,NPC_additional.csv,NPC2,cholesterol egress,bioprocess_protein,37440478,unresolved_entity2,,C2246761
+1174,NPC,NPC_additional.csv,Niemann-Pick disease type C1,intracellular sphingolipid transport,bioprocess_protein,37423302,unresolved_entity1,C3179455,
+1175,NPC,NPC_additional.csv,NPC1,lysosome limiting membrane,cellcomp_protein,37423302,unresolved_entity2,,C0230812
+1176,NPC,NPC_additional.csv,Niemann-Pick disease type C,lysosomal lipid storage disease,disease_disease,37480097,unresolved_entity2,,C0085078
+1177,NPC,NPC_additional.csv,miglustat,glucosylceramide synthase competitive inhibitor,drug_effect,37480097,unresolved_entity2,,C4075566
+1178,NPC,NPC_additional.csv,Niemann-Pick Type C disease,nanostructural ion channel clustering disease,disease_disease,37507375,unresolved_entity1,C0220756,
+1179,NPC,NPC_additional.csv,elevations in mitochondrial caltrium,neurotoxicity,phenotype_phenotype,37507375,unresolved_entity1,C5887225,
+1180,NPC,NPC_additional.csv,Niemann-Pick disease type C,progressive major organ failure,disease_phenotype_positive,37670901,unresolved_entity2,,C0026766
+1181,NPC,NPC_additional.csv,cerebrospinal fluid neurodegeneration,Tau protein,protein_protein,37670901,unresolved_entity1,C0007806,
+1182,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,fatal neurodegenerative condition,disease_phenotype_positive,38254990,unresolved_entity2,,C0524851
+1183,NPC,NPC_additional.csv,Fut2,elevated levels of reactive oxygen species,phenotype_protein,38550777,unresolved_entity2,,C4476796
+1184,NPC,NPC_additional.csv,S-Adenosyl-L-methionine,improves the decline of locomotor activity,drug_effect,38599016,unresolved_entity1,C3895949,
+1185,NPC,NPC_additional.csv,chloride channel inhibitors,reduced cytokine production,drug_effect,38645072,unresolved_entity1,C1153083,
+1186,NPC,NPC_additional.csv,Celecoxib,restored cell viability,drug_effect,38821960,unresolved_entity2,,C1516362
+1187,NPC,NPC_additional.csv,memantine,restored cell viability,drug_effect,38821960,unresolved_entity2,,C1516362
+1188,NPC,NPC_additional.csv,Niemann-Pick disease type A,enzyme acid sphingomyelinase deficiency,disease_phenotype_positive,38826605,unresolved_entity1,C0268242,
+1189,NPC,NPC_additional.csv,Niemann-Pick disease type B,enzyme acid sphingomyelinase deficiency,disease_phenotype_positive,38826605,unresolved_entity1,C0268243,
+1191,NPC,NPC_additional.csv,Niemann-Pick disease type A,lipid-laden foamy macrophages,disease_phenotype_positive,38826605,unresolved_entity1,C0268242,
+1192,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,impaired lysosomal function,disease_phenotype_positive,39048052,unresolved_entity1,C3179455,
+1193,NPC,NPC_additional.csv,NPC1,cholesterol acquisition,bioprocess_protein,39183751,unresolved_entity2,,C2611279
+1194,NPC,NPC_additional.csv,primary endothelial cells,NPC1,anatomy_protein_present,39183751,unresolved_entity1,C0225336,
+1195,NPC,NPC_additional.csv,Amyloid Precursor Protein,exacerbated interferon signaling,phenotype_protein,39202426,unresolved_entity1,C0085151,
+1196,NPC,NPC_additional.csv,Niemann-Pick type C1 disease,impaired intracellular cholesterol trafficking,disease_phenotype_positive,39207850,unresolved_entity1,C3179455,
+1197,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,psychiatric alterations,disease_phenotype_positive,39443481,unresolved_entity2,,C1306597
+1198,NPC,NPC_additional.csv,CTEP,psychiatric anomalies,indication,39443481,unresolved_entity1,C3641000,
+1199,NPC,NPC_additional.csv,U18666A,cancer cell pyroptosis,drug_bioprocess,41013744,unsupported_relation:drug_bioprocess,,
+1200,NPC,NPC_additional.csv,U18666A,human hematologic and solid cancers,indication,41013744,unresolved_entity1,C0077608,
+1201,NPC,NPC_additional.csv,NPC1,altered metabolites,phenotype_protein,39452896,unresolved_entity2,,C5139220
+1202,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,plasma phosphorylated-tau217,disease_protein,39502943,unresolved_entity2,,C5976210
+1203,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,neurofibrillary tangle pathology,disease_phenotype_positive,39502943,unresolved_entity2,,C3543859
+1204,NPC,NPC_additional.csv,plasma phosphorylated-tau217,disease progression,phenotype_protein,39502943,unresolved_entity1,C5976210,
+1205,NPC,NPC_additional.csv,plasma phosphorylated-tau217,age at disease onset,phenotype_protein,39502943,unresolved_entity1,C5976210,
+1206,NPC,NPC_additional.csv,NPC1,macrophage efferocytosis,phenotype_protein,39547438,unresolved_entity2,,C1523908
+1207,NPC,NPC_additional.csv,Niemann-Pick Disease Type C1,impaired intracellular cholesterol trafficking,disease_phenotype_positive,39688135,unresolved_entity1,C3179455,
+1208,NPC,NPC_additional.csv,Niemann-Pick Disease Type C,choroid plexus enlargement,disease_phenotype_positive,39689839,unresolved_entity2,,C5788142
+1209,NPC,NPC_additional.csv,neuroinflammation,choroid plexus enlargement,pathology_phenotype,39689839,unsupported_relation:pathology_phenotype,,
+1210,NPC,NPC_additional.csv,extensive hypometabolism,cerebellum,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1211,NPC,NPC_additional.csv,extensive hypometabolism,thalamus,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1212,NPC,NPC_additional.csv,extensive hypometabolism,frontotemporal areas,pathology_anatomy_present,40009086,unsupported_relation:pathology_anatomy_present,,
+1213,NPC,NPC_additional.csv,NPC1,lipid transport pathway,bioprocess_protein,40257496,unresolved_entity2,,C0596846
+1214,NPC,NPC_additional.csv,amphipathic peptide,improved cholesterol efflux,drug_bioprocess,40301465,unsupported_relation:drug_bioprocess,,
+1215,NPC,NPC_additional.csv,Niemann Pick Type C,coginitive decline,disease_phenotype_positive,40525490,unresolved_entity1,C0220756,
+1216,NPC,NPC_additional.csv,Niemann Pick Type C,gelastic cataplexy,disease_phenotype_positive,40525490,unresolved_entity1,C0220756,
+1217,NPC,NPC_additional.csv,Niemann-Pick disease type C,cognitive performance deterioration,disease_phenotype_positive,40701909,unresolved_entity2,,C0338656
+1218,NPC,NPC_additional.csv,efavirenz,preservation of executive control,drug_effect,40701909,unresolved_entity2,,C0935584
+1219,NPC,NPC_additional.csv,Niemann-Pick disease type C,impairment of verbal fluency,disease_phenotype_positive,40701909,unresolved_entity2,,C0751514
+1220,NPC,NPC_additional.csv,nigrostriatal circuit,Parkinson's disease,anatomy_disease,40737317,unsupported_relation:anatomy_disease,,
+1221,NPC,NPC_additional.csv,Niemann-Pick disease type C,impaired intracellular cholesterol trafficking,disease_phenotype_positive,40847051,unresolved_entity2,,C2749801
+1222,NPC,NPC_additional.csv,Niemann-Pick disease type C,multiple sphingolipids,disease_phenotype_positive,40869913,unresolved_entity2,,C0037900
+1223,NPC,NPC_additional.csv,Niemann-Pick disease type C,β-amyloid peptide,disease_protein,40869913,unresolved_entity2,,C5979866
+1227,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1002/prot.26180,duplicate_literature_row,,
+1228,Tay-Sachs,Tay-Sachs_final.csv,glioblastoma multiforme,HEXA,disease_protein,10.3389/fonc.2021.685893,unresolved_entity1,C1621958,
+1229,Tay-Sachs,Tay-Sachs_final.csv,glioblastoma multiforme,HEXB,disease_protein,10.3389/fonc.2021.685893,unresolved_entity1,C1621958,
+1230,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1007/s12031-021-01907-6,duplicate_literature_row,,
+1233,Tay-Sachs,Tay-Sachs_final.csv,lysosomal storage disease,sphingolipidosis,disease_disease,10.1007/s12031-021-01907-6,unresolved_entity1,in_kg,
+1234,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.3390/life11101007,duplicate_literature_row,,
+1235,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1007/s10072-021-05757-3,duplicate_literature_row,,
+1236,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,slowly progressive cerebellar ataxia,disease_phenotype_positive,10.1007/s10072-021-05757-3,unresolved_entity2,,C1846368
+1237,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,lower motor neuron disease,disease_disease,10.1007/s10072-021-05757-3,unresolved_entity2,,C0085084|C0270764
+1238,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.5546/aap.2022.eng.e25,duplicate_literature_row,,
+1242,Tay-Sachs,Tay-Sachs_final.csv,Sandhoff disease,HEXB,disease_protein,10.1016/j.ibneur.2022.01.004,duplicate_literature_row,,
+1243,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1016/j.ibneur.2022.01.004,duplicate_literature_row,,
+1244,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.3389/fmolb.2022.892248,duplicate_literature_row,,
+1245,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,neurodegeneration,disease_phenotype_positive,10.3389/fmolb.2022.892248,duplicate_literature_row,,
+1247,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.3390/ijms231810672,duplicate_literature_row,,
+1248,Tay-Sachs,Tay-Sachs_final.csv,Sandhoff disease,HEXB,disease_protein,10.3390/ijms231810672,duplicate_literature_row,,
+1251,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.5334/tohm.726,duplicate_literature_row,,
+1252,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1186/s13023-023-02637-1,duplicate_literature_row,,
+1253,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1371/journal.pone.0280650,duplicate_literature_row,,
+1254,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,neurodegeneration,disease_phenotype_positive,10.1371/journal.pone.0280650,duplicate_literature_row,,
+1255,Tay-Sachs,Tay-Sachs_final.csv,miglustat,glycosphingolipid synthesis,drug_bioprocess,10.1111/ene.15871,unsupported_relation:drug_bioprocess,,
+1256,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.3390/jpm13081222,duplicate_literature_row,,
+1258,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,early death,disease_phenotype_positive,10.3390/jpm13081222,unresolved_entity2,,C1271991
+1259,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1111/ene.16069,duplicate_literature_row,,
+1260,Tay-Sachs,Tay-Sachs_final.csv,Gemfibrozil,improved behavior,drug_effect,10.3390/cells12242791,unresolved_entity2,,C4063022
+1261,Tay-Sachs,Tay-Sachs_final.csv,Sandhoff disease,HEXB,disease_protein,10.1016/j.omtm.2023.101168,duplicate_literature_row,,
+1262,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1016/j.omtm.2023.101168,duplicate_literature_row,,
+1263,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1016/j.ymgme.2024.108140,duplicate_literature_row,,
+1264,Tay-Sachs,Tay-Sachs_final.csv,lithium,autophagy inducer,drug_bioprocess,10.1016/j.ymgme.2024.108140,unsupported_relation:drug_bioprocess,,
+1265,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,seizures,disease_phenotype_positive,10.7759/cureus.51797,unresolved_entity2,,C0036572
+1266,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1016/j.isci.2024.109413,duplicate_literature_row,,
+1268,Tay-Sachs,Tay-Sachs_final.csv,rare genetic disease,Tay-Sachs disease,disease_disease,10.1186/s13023-024-03300-z,unresolved_entity1,C0037277|C5681510,
+1269,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1038/s41439-024-00300-0,duplicate_literature_row,,
+1270,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,neurodegeneration,disease_phenotype_positive,10.1007/s11033-025-10380-y,duplicate_literature_row,,
+1275,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1007/s12031-025-02395-8,duplicate_literature_row,,
+1276,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,neurodegeneration,disease_phenotype_positive,10.1007/s12031-025-02395-8,duplicate_literature_row,,
+1278,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,elevated levels of proinflammatory cytokines,disease_phenotype_positive,10.1007/s12031-025-02395-8,unresolved_entity2,,C4023535|C5194194
+1279,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,64_40819571(article 64),duplicate_literature_row,,
+1282,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1242/bio.062045,duplicate_literature_row,,
+1283,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,neurodegeneration,disease_phenotype_positive,10.1242/bio.062045,duplicate_literature_row,,
+1284,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,seizures,disease_phenotype_positive,10.1016/j.nbd.2025.107099,unresolved_entity2,,C0036572
+1286,Tay-Sachs,Tay-Sachs_final.csv,Tay-Sachs disease,HEXA,disease_protein,10.1016/j.gim.2025.101615,duplicate_literature_row,,
+1287,Tay-Sachs,Tay-Sachs_final.csv,Sandhoff disease,HEXB,disease_protein,10.1016/j.gim.2025.101615,duplicate_literature_row,,
+1291,Tay-Sachs,Tay-Sachs_additional.csv,HEXA,enzyme activity reduction,molfunc_protein,10.1016/j.ymgme.2021.05.001,unresolved_entity2,,C1152555
+1292,Tay-Sachs,Tay-Sachs_additional.csv,sphingolipidosis,sphingolipid hydrolases mutation,disease_protein,10.1007/s12031-021-01907-6,unresolved_entity2,,C5680990
+1293,Tay-Sachs,Tay-Sachs_additional.csv,β-hexosaminidase mutation,amyloid-beta accumulation,phenotype_protein,10.1016/j.ibneur.2022.01.004,unresolved_entity1,C5970465,
+1294,Tay-Sachs,Tay-Sachs_additional.csv,Sandhoff disease,amyloid-beta accumulation,disease_phenotype_positive,10.1016/j.ibneur.2022.01.004,unresolved_entity2,,C2247791
+1295,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,amyloid-beta accumulation,disease_phenotype_positive,10.1016/j.ibneur.2022.01.004,unresolved_entity2,,C2247791
+1296,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,impaired autophagic flux,disease_bioprocess,10.1371/journal.pone.0280650,unknown_relation:disease_bioprocess,,
+1297,Tay-Sachs,Tay-Sachs_additional.csv,Gemfibrozil,activated glial suppression,drug_effect,10.3390/cells12242791,unresolved_entity2,,C4690080
+1298,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,impaired autophagic flux,drug_bioprocess,10.1016/j.ymgme.2024.108140,unsupported_relation:drug_bioprocess,,
+1299,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,chronic neuroinflammation,disease_phenotype_positive,10.1007/s11011-025-01553-6,unresolved_entity2,,C5137640
+1300,Tay-Sachs,Tay-Sachs_additional.csv,propagermanium + ketogenic diet,reduced neuroinflammation,drug_effect,10.1007/s11011-025-01553-6,unresolved_entity1,C5826444,
+1301,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,lyso-platelet activating factors accumulation,disease_phenotype_positive,10.1016/j.ymgme.2025.109180,unresolved_entity2,,C5380074
+1302,Tay-Sachs,Tay-Sachs_additional.csv,Tay-Sachs disease,macular brown spot,disease_phenotype_positive,10.1016/j.ajoc.2025.102381,unresolved_entity2,,C4024756
+1303,Tay-Sachs,Tay-Sachs_additional.csv,macular brown spot,cherry-red spot,phenotype_phenotype,10.1016/j.ajoc.2025.102381,unresolved_entity1,C4024756,
+1304,Tay-Sachs,Tay-Sachs_additional.csv,prime editing,protein translation readthrough of stop codons,drug_bioprocess,10.1038/s41586-025-09732-2,unsupported_relation:drug_bioprocess,,
+1305,Tay-Sachs,Tay-Sachs_additional.csv,prime editing,enzyme activity restoration,drug_effect,10.1038/s41586-025-09732-2,unresolved_entity1,C3821012,

@@ -1,0 +1,32 @@
+entity_type,tui,semantic_type_name,notes
+disease,T047,Disease or Syndrome,Primary disease category
+,T191,Neoplastic Process,Tumor and cancer-related
+,T048,Mental or Behavioral Dysfunction,Psychiatric disease-related
+gene/protein,T028,Gene or Genome,Primary gene category
+,T192,Receptor,Treated as protein
+drug,T121,Pharmacologic Substance,Primary drug category
+,T200,Clinical Drug,Formulated drug products
+,T195,Antibiotic,Subset of pharmacologic substance
+phenotype,T033,Finding,"Clinical findings (e.g., hypotonia)"
+,T034,Laboratory or Test Result,Lab-based phenotypes
+,T041,Mental Process,Cognitive/behavioral phenotypes
+,T184,Sign or Symptom,Observable clinical signs
+,T019,Congenital Abnormality,Structural birth defects
+,T020,Acquired Abnormality,Post-natal structural changes
+biological_process,T038,Biologic Function,Broad biological processes
+,T039,Physiologic Function,Normal physiological processes
+molecular_function,T043,Cell Function,Cellular-level molecular functions
+cellular_component,—,—,No direct TUI mapping available
+pathway,T038,Biologic Function,Closest approximation; no pathway-specific TUI
+anatomy,T017,Anatomical Structure,General anatomical entities
+,T018,Embryonic Structure,Developmental anatomy
+,T021,Fully Formed Anatomical Structure,Mature anatomical entities
+,T022,Body System,Organ systems
+,T023,"Body Part, Organ, or Organ Component",Organs and substructures
+,T024,Tissue,Tissue-level structures
+,T029,Body Location or Region,Spatial body regions
+,T030,Body Space or Junction,Cavities and junctions
+exposure,T060,Diagnostic Procedure,"Imaging and diagnostic tests (e.g., MRI)"
+,T061,Therapeutic or Preventive Procedure,Clinical interventions
+,T063,Molecular Biology Research Technique,Laboratory research methods
+pathology,T046,Pathologic Function,"Pathological processes (e.g., inflammation)"

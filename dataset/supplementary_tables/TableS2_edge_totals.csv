@@ -1,0 +1,2 @@
+metric,original_n,primekg_plus_n,reason_for_change
+total_directed_edges,8097472,7683206,Net −3.3% edges: fewer anatomy/drug–disease edges (stricter filters); more disease–gene and PPI edges.

@@ -1,0 +1,5 @@
+pattern,identifier,original_mapping,curated_bijective
+One CUI → many MONDO,UMLS C0019829,"5 MONDO diseases (e.g., MONDO:9348 classic Hodgkin lymphoma; MONDO:4952 Hodgkins lymphoma; MONDO:4604 Hodgkin's lymphoma, lymphocytic-histiocytic predominance)",MONDO:9348 only → 28 vs 140 pipeline rows; e.g. mechlorethamine: 1 DC row → 5 indication edges
+One CUI → two MONDO,UMLS C0001125,MONDO:6040 (lactic acidosis) + MONDO:24306 (acquired lactic acidosis),MONDO:6040 only → 23 vs 46 pipeline rows; e.g. metformin: 1 contraindication → 2 disease edges
+One MONDO → many UMLS,MONDO:18076 tuberculosis,"49 UMLS CUIs (e.g., C0041296, C0026926, C0151332)",1 preferred CUI per MONDO
+One MONDO → two UMLS,MONDO:9348 classic Hodgkin lymphoma,C0019829 and C1333064,C0019829 retained

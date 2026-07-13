@@ -1,0 +1,52 @@
+,entity_name,original_entity_types,PMID,relation,entity_side
+8,accelerated mature cathepsins release,phenotype,10.3390/cells10113122,disease_phenotype_positive,2
+9,activated glial suppression,phenotype,10.3390/cells12242791,drug_effect,2
+13,ameliorated late-stage disease severity,phenotype,10.1371/journal.pone.0315005,drug_effect,2
+14,amyloid-beta accumulation,phenotype,10.1016/j.ibneur.2022.01.004,disease_phenotype_positive|phenotype_protein,2
+16,attenuated glial activation,phenotype,10.1515/nipt-2023-0027,drug_effect,2
+41,cerebellar symptoms,phenotype,10.5334/tohm.726,disease_phenotype_positive,2
+43,chronic neuroinflammation,phenotype,10.1007/s11011-025-01553-6,disease_phenotype_positive,2
+46,decreased phosphatidylcholine,cellular_component,10.3389/fmolb.2022.892248,cellcomp_protein,2
+47,decreased phosphatidylserine,cellular_component,10.3389/fmolb.2022.892248,cellcomp_protein,2
+56,elevated phosphatidylcholine-ether,cellular_component,10.3389/fmolb.2022.892248,cellcomp_protein,2
+57,enhance +1 ribosomal frameshifting,biological_process,10.1016/j.isci.2024.109413,bioprocess_protein,2
+58,enhanced frequent +1 frameshifting,biological_process,10.1016/j.isci.2024.109413,bioprocess_protein,2
+59,enlarged neuron,phenotype,10.1016/j.ymgme.2021.05.001,disease_phenotype_positive,2
+60,enzyme activity reduction,molecular_function,10.1016/j.ymgme.2021.05.001,molfunc_protein,2
+61,enzyme activity restoration,phenotype,10.1038/s41586-025-09732-2,drug_effect,2
+62,enzyme β-hexosaminidase deficiency,phenotype,10.3390/ijms22136751,disease_phenotype_positive,2
+65,extended lifspan,phenotype,10.1172/JCI183434,drug_effect,2
+68,foamy neuron,phenotype,10.1016/j.ymgme.2021.05.001,disease_phenotype_positive,2
+69,frequent +1 frameshifting,biological_process,10.1016/j.isci.2024.109413,bioprocess_protein,2
+88,halted motor decline,phenotype,10.1371/journal.pone.0315005,drug_effect,2
+101,iminosugar compounds,drug,10.1080/14756366.2022.2073444,drug_effect,1
+102,impaired autophagic flux,biological process | phenotype,10.1016/j.ymgme.2024.108140|10.1371/journal.pone.0280650|10.3390/cells10113122,disease_bioprocess|disease_phenotype_positive|drug_bioprocess,2
+107,improved survival,phenotype,10.3390/cells12242791,drug_effect,2
+114,increased lyso-platelet activating factor,phenotype,10.1016/j.ymgme.2024.108615,phenotype_phenotype,2
+115,increased lysosomal permeability,phenotype,10.3390/cells10113122,disease_phenotype_positive,2
+120,increased β-hexosaminidase activity,phenotype,10.1172/JCI183434|10.3390/ijms231810672,drug_effect,2
+123,inflammation suppression,phenotype,10.3390/cells12242791,drug_effect,2
+124,inhibited neuroinflammation,phenotype,10.1007/s11011-025-01553-6,drug_effect,2
+127,lifespan extension,phenotype,10.1016/j.omtm.2022.03.011,drug_effect,2
+130,lyso-platelet activating factors accumulation,phenotype,10.1016/j.ymgme.2025.109180,disease_phenotype_positive,2
+132,lysosomal undegraded metabolites accumulation,phenotype,10.1016/j.ymgme.2021.05.001,disease_phenotype_positive,2
+133,lysosomal β-hexosaminidase activity,phenotype,10.1016/j.ymgme.2022.106983,disease_phenotype_negative,2
+134,macular brown spot,phenotype,10.1016/j.ajoc.2025.102381,disease_phenotype_positive|phenotype_anatomy|phenotype_phenotype,1|2
+154,neurocognitive function,phenotype,63_40817303 (article 63),drug_effect,2
+164,normalized neurodegenerative phenotype,phenotype,10.1016/j.omtm.2022.03.011,drug_effect,2
+168,partial exon skipping,biological_process,10.1093/qjmed/hcaf246,bioprocess_protein,2
+169,perifoveal whitening,phenotype,10.1016/j.ajoc.2025.102381,phenotype_anatomy,2
+172,postsynaptic receptors upregulation,phenotype,10.1016/j.nbd.2025.107099,phenotype_phenotype,2
+174,prime editing,drug,10.1038/s41586-025-09732-2,drug_bioprocess|drug_effect,1
+177,propagermanium + ketogenic diet,drug,10.1007/s11011-025-01553-6,drug_effect,1
+178,protein translation readthrough of stop codons,biological_process,10.1038/s41586-025-09732-2,drug_bioprocess,2
+182,rapid central nervous system deterioration,phenotype,10.1016/j.ymgme.2024.108615,phenotype_phenotype,2
+184,recovered oxidative stress,phenotype,10.3390/ijms231810672,drug_effect,2
+191,reduced inflammatory cytokines,phenotype,10.3390/life11101007,drug_effect,2
+193,reduced lysosomal mass,phenotype,10.3390/pharmaceutics17050628,drug_effect,2
+195,reduced neuroinflammation,phenotype,10.1007/s11011-025-01553-6,drug_effect,2
+197,rescued disease pathology,phenotype,10.1038/s41586-025-09732-2,drug_effect,2
+198,rescued lysosomal accumulation,phenotype,10.3390/jpm15050196,drug_effect,2
+199,restored enzyme deficiency,phenotype,10.4103/1673-5374.375328,drug_effect,2
+208,sphingolipid hydrolases mutation,protein/gene,10.1007/s12031-021-01907-6,disease_protein,2
+221,β-hexosaminidase mutation,protein/gene,10.1016/j.ibneur.2022.01.004,phenotype_protein,1

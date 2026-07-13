@@ -1,0 +1,172 @@
+entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,integratable
+24S-hydroxycholesterol,improved motor function,protein/gene,phenotype,phenotype_protein,38142760,C0208133,C5452884,True
+poly-β-cyclodextrin,Niemann-Pick type C diseases,drug,disease,indication,34748340,C1699799,C0220756,True
+liver−spleen region,Niemann-Pick Disease Type C1,anatomy,disease,anatomy_disease,34061502,C0545797,C3179455,True
+adamantane-pentyl-deoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug,biological_process,drug_bioprocess,36804125,C1565642,C1709101,True
+N-nonyldeoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug,biological_process,drug_bioprocess,36804125,C0674666,C1709101,True
+N-butyldeoxynojirimycin,fibroblast-to-myofibroblast differentiation,drug,biological_process,drug_bioprocess,36804125,C1321596,C1709101,True
+lysosomal lipid storage,Niemann-Pick Disease Type C,disease,disease,disease_disease,38087834,C0085078,in_kg,True
+Niemann-Pick Disease Type C1,neuropsychiatric signs,disease,phenotype,disease_phenotype_positive,38087834,C3179455,C3203509,True
+systemic organ lesions,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C0026766,in_kg,True
+pathological changes in kidneys,NPC1,phenotype,protein/gene,phenotype_protein,38087834,C6022317,in_kg,True
+Niemann-Pick disease type C,peripheral organ dysfunction,disease,phenotype,disease_phenotype_positive,40215728,in_kg,C0342953,True
+NPC1,premature degradation,protein/gene,phenotype,phenotype_protein,40215728,in_kg,C5542995,True
+Niemann-Pick Disease Type C,faulty cholesterol trafficking,disease,phenotype,disease_phenotype_positive,40215728,in_kg,C2749801,True
+target of rapamycin,systemic insulin signaling,protein/gene,biological_process,bioprocess_protein,35245460,C1257553,C1512804,True
+cholesterol,cellular and systemic growth control,exposure,biological_process,exposure_bioprocess,35245460,in_kg,C0596286,True
+lyso-sphingolipids,Niemann-Pick disease type C,biological_process,disease,bioprocess_disease,41274250,C0037900,in_kg,True
+Niemann-Pick Disease Type C,neuropsychiatric issues,disease,phenotype,disease_phenotype_positive,39789920,in_kg,C6013326,True
+Niemann-Pick Disease Type C1,lysomsomal storage disorder,disease,disease,disease_disease,35081253,C3179455,C0085078,True
+Niemann-Pick Disease Type C1,pronouced neurological manifestations,disease,phenotype,disease_phenotype_positive,35081253,C3179455,C0027854,True
+Niemann-Pick Disease Type C1,long-term congenital immunodeficiencies,disease,disease,disease_disease,35081253,C3179455,C0272229,True
+highly heterogeneous phenotypes,NPC1,phenotype,protein/gene,phenotype_protein,38131230,C1839039,in_kg,True
+symtomatic therapy,Niemann-Pick Disease Type C,exposure,disease,exposure_disease,36243834,C5243901,in_kg,True
+2-hydroxypropyl-γ-cyclodextrin,cholesterol homeostasis,drug,phenotype,drug_effect,38852794,C4522177,in_kg,True
+2-hydroxypropyl-γ-cyclodextrin,tissue distribution,drug,biological_process,drug_bioprocess,38852794,C4522177,C0220927,True
+2-hydroxypropyl-γ-cyclodextrin,disease amelioration,drug,phenotype,drug_effect,38852794,C4522177,C0679240,True
+2-hydroxypropyl-γ-cyclodextrin,blood-brain barrier,drug,anatomy,drug_effect,38852794,C4522177,C0005854,True
+2-hydroxypropyl-γ-cyclodextrin,hepatic dysfunction,drug,phenotype,drug_effect,38852794,C4522177,C0086565,True
+2-hydroxypropyl-γ-cyclodextrin,peripheral manifestations,drug,phenotype,drug_effect,38852794,C4522177,C4710884,True
+2-hydroxypropyl-γ-cyclodextrin,cholesterol homeostasis,drug,phenotype,drug_effect,38852794,C4522177,in_kg,True
+severe acute liver failure,living donor liver transplantation,pathology,exposure,pathology_phenotype,37429811,C0162557,C3544287,True
+Niemann-Pick disease type C,substantial fibrosis,disease,phenotype,disease_phenotype_positive,37429811,in_kg,C0016059,True
+Niemann-Pick disease type C,coginitive decline,disease,phenotype,disease_phenotype_positive,40221338,in_kg,C0338656,True
+Niemann Pick type C disease,liver failure developed,disease,phenotype,disease_phenotype_positive,36265573,C0220756,C0085605,True
+Niemann-Pick C disease,lyso-sphingolipids,disease,phenotype,disease_phenotype_positive,34810067,C0220756,C0037900,True
+Niemann-Pick C disease,total diacylglycerols,disease,phenotype,disease_phenotype_positive,34810067,C0220756,C0012262,True
+Niemann Pick type C disease,hippocampal subregional atrophy,disease,phenotype,disease_phenotype_positive,34146215,C0220756,C4315130,True
+Niemann Pick type C disease,smaller whole hippocampi volumes,anatomy,disease,disease_phenotype_positive,34146215,C0220756,C4315130,True
+endo-lysosomal network,endo-lysosomal network,cellular_component,cellular_component,cellcomp_protein,40026274,C1156044,C1156044,True
+Niemann-Pick Disease Type C,Visceral manifestations,disease,phenotype,disease_phenotype_positive,34993563,in_kg,C5960196,True
+Niemann-Pick Disease Type C,neuro-psychiatric symptoms,disease,phenotype,disease_phenotype_positive,34993563,in_kg,C0150881,True
+Niemann-Pick disease type C,gelastic cataplexy,disease,phenotype,disease_phenotype_positive,40898442,in_kg,C0007384,True
+Neurofilament light chain,neuronal injury,protein/gene,phenotype,phenotype_protein,38581830,C5774172,C0161479,True
+Niemann-Pick Type-C,neuropsychiatric manifestations,disease,phenotype,disease_phenotype_positive,39607035,C0220756,C3203509,True
+Intracellular trafficking of cholesterol,NPC1,biological_process,gene/protein,bioprocess_protein,39697013,C2749801,in_kg,True
+Intracellular trafficking of cholesterol,NPC2,biological_process,gene/protein,bioprocess_protein,39697013,C2749801,in_kg,True
+Niemann-Pick type C,visceral enlargement,disease,phenotype,disease_phenotype_positive,34303826,C0220756,C4054315,True
+miglustat,glucocerbrosi-dase 2,drug,protein/gene,drug_protein,38302739,in_kg,C3539583,True
+Niemann-Pick Disease Type C,increased membrane contact sites,disease,phenotype,disease_phenotype_positive,38302739,in_kg,C2828354,True
+Niemann-Pick Disease Type C,early neurodevelopmental disturbance,disease,phenotype,disease_phenotype_positive,37612148,in_kg,C1970828,True
+Niemann-Pick type C disease,autosomal recessive lysosomal disorder,disease,phenotype,disease_phenotype_positive,34455703,C0220756,C0085078,True
+accumulation of lipids,cellular organelles,phenotype,cellular_component,exposure_cellcomp,34455703,C1512921,C0029219,True
+Niemann-Pick Disease Type C,idiopathic neonatal cholestasis,disease,phenotype,disease_phenotype_positive,34455703,in_kg,C1112213,True
+NPC1,cellular organelles,protein/gene,cellular_component,cellcomp_protein,34455703,in_kg,C0029219,True
+Niemann-Pick Disease Type C,visceral manifestations,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C5960196,True
+Niemann-Pick Disease Type C,abnormal cholesterol accumulation,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C3553603,True
+Niemann-Pick Disease Type C,abnormal cholesterol accumulation,disease,phenotype,disease_phenotype_positive,36325261,in_kg,C3553603,True
+Niemann-Pick type C,elevated 7-ketocholesterol,disease,anatomy,disease_phenotype_positive,36325261,C0220756,C0049920,True
+Niemann-Pick type C,elevated oxysterols,disease,anatomy,disease_phenotype_positive,36325261,C0220756,C4277571,True
+cationic amphiphilic agents,phospholipidosis,drug,phenotype,drug_effect,36325261,C0016365,C3805040,True
+elevated oxysterols,NPC1,phenotype,protein/gene,phenotype_protein,36325261,C4277571,in_kg,True
+Niemann-Pick Disease Type C,oculomotor dysfunction,disease,phenotype,bioprocess_protein,34086834,in_kg,C0497202,True
+Niemann-Pick type C,oculomotor dysfunction,disease,phenotype,disease_phenotype_positive,34086834,C0220756,C0497202,True
+Niemann-Pick disease type C,vertical supranuclear saccade palsy,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C1843369,True
+Niemann-Pick disease type C,ocular-motor dysfunction,disease,phenotype,disease_phenotype_positive,34096670,in_kg,C0497202,True
+Niemann-Pick disease type C,early cholestatic disease,disease,disease,disease_disease,34138521,in_kg,C1859162,True
+Niemann-Pick Type C disease,progressive neurovisceral manifestations,disease,phenotype,disease_phenotype_positive,34150357,C0220756,C0027854,True
+Niemann-Pick Type C disease,accumulation of intracellular unesteri ed cholesterol,disease,phenotype,disease_phenotype_positive,34150357,C0220756,C3553603,True
+Niemann-Pick Type C disease,neuro lament light,disease,protein/gene,disease_protein,34150357,C0220756,C5774172,True
+acid ceramidase,oxidative stress-mediated cell death,protein/gene,phenotype,phenotype_protein,34175669,C2350443,C3546229,True
+N-acetyl-l-leucine,cerebral glucose metabolism,drug,biological_process,drug_bioprocess,34387740,C4547971,C0596620,True
+arimoclomol,improve lysosomal function,drug,phenotype,drug_effect,34418116,in_kg,C1372391,True
+heat shock response 70,NPC1,protein/gene,protein/gene,protein_protein,34418116,C0243043,in_kg,True
+pathways of liver damage,NPC1,pathway,protein/gene,pathway_protein,34440927,C0151763,in_kg,True
+against oxidative,peroxisome proliferator-activated receptor-γ,phenotype,protein/gene,phenotype_protein,34502342,C3894362,C0166417,True
+inflammatory damage,peroxisome proliferator-activated receptor-γ,phenotype,protein/gene,phenotype_protein,34502342,C1817415,C0166417,True
+Telmisartan,peroxisome proliferator-activated receptor-γ,drug,protein/gene,drug_protein,34502342,in_kg,C0166417,True
+Niemann-Pick Disease Type C,initial psychopharmacology,disease,phenotype,disease_phenotype_positive,34744838,in_kg,C0033929,True
+rare lysosomal storage disorder,Niemann-Pick Disease Type C1,disease,disease,disease_disease,34830064,C0085078,C3179455,True
+progressive lysosomal storage disorder,Niemann-Pick Disease Type C1,disease,disease,disease_disease,35007562,C0085078,C3179455,True
+increased plasma granulocyte-colony stimulating factor by 2-fold,NPC1,phenotype,protein/gene,phenotype_protein,35007562,C4552323,in_kg,True
+lysosomal storage defects,NPC,disease,phenotype,disease_phenotype_positive,35016719,C0085078,C2931822,True
+Niemann-Pick disease type C,an autosomal recessive hereditary disease,disease,disease,disease_disease,36199263,in_kg,C0265388,True
+N-butyldeoxynojirimycin,glucosyl ceramide synthase,drug,protein/gene,drug_protein,35140266,C1321596,C4283742,True
+miglustat,glucosyl ceramide synthase,drug,protein/gene,drug_protein,35140266,in_kg,C4283742,True
+Zavesca,glucosyl ceramide synthase,drug,protein/gene,drug_protein,35140266,C1174772,C4283742,True
+Niemann-Pick type C disease,increasing adenosine levels,disease,phenotype,disease_phenotype_positive,35408815,C0220756,C1863254,True
+T1-11,increase adenosine levels,molecular_function,phenotype,off_label_use,35408815,C4308067,C1863254,True
+Niemann-Pick Disease Type C1,complex asparagine-linked glycosylation,disease,biological_process,disease_protein,35563467,C3179455,C1623028,True
+cellular signaling,complex asparagine-linked glycosylation,biological_process,biological_process,disease_protein,35563467,C3895299,C1623028,True
+protein stability,complex asparagine-linked glycosylation,biological_process,biological_process,disease_protein,35563467,C2350440,C1623028,True
+complex asparagine-linked glycosylation,"lysosome-associated membrane
+protein 1",biological_process,protein/gene,bioprocess_protein,35563467,C1623028,C1416788,True
+complex asparagine-linked glycosylation,MGAT5,biological_process,protein/gene,disease_phenotype_positive,35563467,C1623028,in_kg,True
+Anti-Tumor Necrosis Factor Therapy,caused neurological side effects,drug,phenotype,drug_effect,35694196,C0281481,C0421229,True
+Anti-Tumor Necrosis Factor Therapy,caused demyelination,drug,phenotype,drug_effect,35694196,C0281481,C0011304,True
+Anti-Tumor Necrosis Factor Therapy,caused central nervous system inflammation,drug,phenotype,drug_effect,35694196,C0281481,C0178264,True
+2-hydroxypropyl-γ-cyclodextrin,U18666A,drug,drug,drug_drug,35891519,C4522177,C0077608,True
+2-hydroxypropyl-γ-cyclodextrin,cholesterol accumulation,drug,phenotype,drug_effect,35891519,C4522177,C5436605,True
+2-hydroxypropyl-γ-cyclodextrin,cholesterol accumulation,drug,phenotype,drug_effect,35891519,C4522177,C5436605,True
+Niemann-Pick type C,Neuropsychiatric manifestations,disease,phenotype,disease_phenotype_positive,35945383,C0220756,C3203509,True
+mycobacterial cell wall lipids,NPC1,exposure,protein/gene,exposure_protein,36085278,C0026931,in_kg,True
+Niemann-Pick disease Type C,stimulus-sensitive myoclonus,disease,phenotype,disease_phenotype_positive,36187872,in_kg,C3554567,True
+isogenic induced pluripotent stem cells,NPC1,anatomy,protein/gene,anatomy_protein_present,36301667,C2717959,in_kg,True
+NPC1,cholesterol dyshomeostasis,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C1843372,True
+NPC2,cholesterol dyshomeostasis,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C1843372,True
+NPC1,robust phagocytic activity,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C1372517,True
+NPC1,shortfalls in fine odor discrimination,protein/gene,phenotype,phenotype_protein,36322609,in_kg,C4013074,True
+2-hydroxypropyl-beta-cyclodextrin,brain capillary endothelial cells,drug,anatomy,drug_effect,36431844,C0046237,C1180238,True
+brain capillary endothelial cells,2-hydroxypropyl-beta-cyclodextrin.,anatomy,drug,anatomy_protein_present,36431844,C1180238,C0046237,True
+2-hydroxypropyl-beta-cyclodextrin.,primary rat brain endothelial cells,drug,anatomy,drug_effect,36431844,C0046237,C0225336,True
+Niemann-Pick disease type C,lysosomal lipid storage,disease,disease,disease_disease,36455410,in_kg,C0085078,True
+2-hydroxypropyl-ß-cyclodextrin,allopregnanolone,drug,protein/gene,drug_protein,36614015,C0046237,C0086244,True
+2-hydroxypropyl-ß-cyclodextrin,miglustat,drug,drug,drug_drug,36614015,C0046237,in_kg,True
+Niemann-Pick Disease Type C,late endosome tubulation,disease,phenotype,disease_phenotype_negative,36861884,in_kg,C4328966,True
+late endosome tubulation,StARD9,biological_process,protein/gene,bioprocess_protein,36861884,C4328966,in_kg,True
+late endosome tubulation,NPC1,biological_process,protein/gene,bioprocess_protein,36861884,C4328966,in_kg,True
+Niemann-Pick Disease Type C,extends lifespan,disease,phenotype,disease_phenotype_positive,36920149,in_kg,C0870809,True
+Lithium,improved feeding phenotypes,drug,phenotype,drug_effect,37128603,in_kg,C0015745,True
+NPC1,intracellular trafficking of cholesterol,protein/gene,biological_process,bioprocess_protein,37245481,in_kg,C2749801,True
+NPC1,cholesterol egress,protein/gene,biological_process,bioprocess_protein,37440478,in_kg,C2246761,True
+NPC2,cholesterol egress,protein/gene,biological_process,bioprocess_protein,37440478,in_kg,C2246761,True
+Niemann-Pick disease type C1,intracellular sphingolipid transport,disease,biological_process,bioprocess_protein,37423302,C3179455,C1148655,True
+NPC1,lysosome limiting membrane,protein/gene,cellular_component,cellcomp_protein,37423302,in_kg,C0230812,True
+Niemann-Pick disease type C,lysosomal lipid storage disease,disease,disease,disease_disease,37480097,in_kg,C0085078,True
+miglustat,glucosylceramide synthase competitive inhibitor,drug,phenotype,drug_effect,37480097,in_kg,C4075566,True
+Niemann-Pick Type C disease,nanostructural ion channel clustering disease,disease,disease,disease_disease,37507375,C0220756,C1720983,True
+elevations in mitochondrial caltrium,neurotoxicity,phenotype,phenotype,phenotype_phenotype,37507375,C5887225,C0235032,True
+Niemann-Pick disease type C,progressive major organ failure,disease,phenotype,disease_phenotype_positive,37670901,in_kg,C0026766,True
+cerebrospinal fluid neurodegeneration,Tau protein,protein/gene,protein/gene,protein_protein,37670901,C0007806,C0085401,True
+Niemann-Pick Disease Type C,fatal neurodegenerative condition,disease,phenotype,disease_phenotype_positive,38254990,in_kg,C0524851,True
+Fut2,elevated levels of reactive oxygen species,protein/gene,phenotype,phenotype_protein,38550777,in_kg,C4476796,True
+S-Adenosyl-L-methionine,improves the decline of locomotor activity,drug,phenotype,drug_effect,38599016,C3895949,C5452884,True
+chloride channel inhibitors,reduced cytokine production,drug,phenotype,drug_effect,38645072,C1153083,C1371550,True
+Celecoxib,restored cell viability,drug,phenotype,drug_effect,38821960,in_kg,C1516362,True
+memantine,restored cell viability,drug,phenotype,drug_effect,38821960,in_kg,C1516362,True
+Niemann-Pick disease type A,enzyme acid sphingomyelinase deficiency,disease,phenotype,disease_phenotype_positive,38826605,C0268242,C5243927,True
+Niemann-Pick disease type B,enzyme acid sphingomyelinase deficiency,disease,phenotype,disease_phenotype_positive,38826605,C0268243,C5243927,True
+Niemann-Pick disease type A,enzyme acid sphingomyelinase deficiency,disease,phenotype,disease_phenotype_positive,38826605,C0268242,C5243927,True
+Niemann-Pick disease type A,lipid-laden foamy macrophages,disease,phenotype,disease_phenotype_positive,38826605,C0268242,C0333738,True
+Niemann-Pick Disease Type C1,impaired lysosomal function,disease,phenotype,disease_phenotype_positive,39048052,C3179455,C1371708,True
+NPC1,cholesterol acquisition,protein/gene,biological_process,bioprocess_protein,39183751,in_kg,C2611279,True
+primary endothelial cells,NPC1,anatomy,protein/gene,anatomy_protein_present,39183751,C0225336,in_kg,True
+Amyloid Precursor Protein,exacerbated interferon signaling,protein/gene,phenotype,phenotype_protein,39202426,C0085151,C5883586,True
+Niemann-Pick type C1 disease,impaired intracellular cholesterol trafficking,disease,phenotype,disease_phenotype_positive,39207850,C3179455,C2749801,True
+Niemann-Pick Disease Type C,psychiatric alterations,disease,phenotype,disease_phenotype_positive,39443481,in_kg,C1306597,True
+CTEP,psychiatric anomalies,drug,phenotype,indication,39443481,C3641000,C1306597,True
+U18666A,cancer cell pyroptosis,drug,biological_process,drug_bioprocess,41013744,C0077608,C2610960,True
+U18666A,human hematologic and solid cancers,drug,disease,indication,41013744,C0077608,C0376545,True
+NPC1,altered metabolites,protein/gene,phenotype,phenotype_protein,39452896,in_kg,C5139220,True
+Niemann-Pick Disease Type C,plasma phosphorylated-tau217,disease,protein/gene,disease_protein,39502943,in_kg,C5976210,True
+Niemann-Pick Disease Type C,neurofibrillary tangle pathology,disease,pathology,disease_phenotype_positive,39502943,in_kg,C3543859,True
+plasma phosphorylated-tau217,disease progression,protein/gene,phenotype,phenotype_protein,39502943,C5976210,C0242656,True
+plasma phosphorylated-tau217,age at disease onset,protein/gene,phenotype,phenotype_protein,39502943,C5976210,C6054024,True
+NPC1,macrophage efferocytosis,protein/gene,biological_process,phenotype_protein,39547438,in_kg,C1523908,True
+Niemann-Pick Disease Type C1,impaired intracellular cholesterol trafficking,disease,phenotype,disease_phenotype_positive,39688135,C3179455,C2749801,True
+Niemann-Pick Disease Type C,choroid plexus enlargement,disease,phenotype,disease_phenotype_positive,39689839,in_kg,C5788142,True
+neuroinflammation,choroid plexus enlargement,pathology,phenotype,pathology_phenotype,39689839,in_kg,C5788142,True
+extensive hypometabolism,cerebellum,pathology,anatomy,pathology_anatomy_present,40009086,C0347938,in_kg,True
+extensive hypometabolism,thalamus,pathology,anatomy,pathology_anatomy_present,40009086,C0347938,C0039729,True
+extensive hypometabolism,frontotemporal areas,pathology,anatomy,pathology_anatomy_present,40009086,C0347938,C4330011,True
+NPC1,lipid transport pathway,protein/gene,biological_process,bioprocess_protein,40257496,in_kg,C0596846,True
+amphipathic peptide,improved cholesterol efflux,drug,biological_process,drug_bioprocess,40301465,C0537277,C2246761,True
+Niemann Pick Type C,coginitive decline,disease,phenotype,disease_phenotype_positive,40525490,C0220756,C0338656,True
+Niemann Pick Type C,gelastic cataplexy,disease,phenotype,disease_phenotype_positive,40525490,C0220756,C0007384,True
+Niemann-Pick disease type C,cognitive performance deterioration,disease,phenotype,disease_phenotype_positive,40701909,in_kg,C0338656,True
+efavirenz,preservation of executive control,drug,phenotype,drug_effect,40701909,in_kg,C0935584,True
+Niemann-Pick disease type C,impairment of verbal fluency,disease,phenotype,disease_phenotype_positive,40701909,in_kg,C0751514,True
+nigrostriatal circuit,Parkinson's disease,anatomy,disease,anatomy_disease,40737317,C0815010,C0030567,True
+Niemann-Pick disease type C,impaired intracellular cholesterol trafficking,disease,phenotype,disease_phenotype_positive,40847051,in_kg,C2749801,True
+Niemann-Pick disease type C,multiple sphingolipids,disease,phenotype,disease_phenotype_positive,40869913,in_kg,C0037900,True
+Niemann-Pick disease type C,β-amyloid peptide,disease,phenotype,disease_protein,40869913,in_kg,C5979866,True

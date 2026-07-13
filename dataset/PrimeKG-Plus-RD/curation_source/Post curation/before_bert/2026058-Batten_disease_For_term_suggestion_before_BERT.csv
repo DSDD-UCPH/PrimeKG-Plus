@@ -1,0 +1,438 @@
+,entity_name,original_entity_types,PMID,relation,entity_side
+0,1.02 kb deletion on exons 7,protein/gene,36576693,protein_protein,2
+1,1.02 kb deletion on exons 8,protein/gene,36576693,protein_protein,2
+4,966 bp deletion,protein/gene,36453132,disease_protein,2
+20,abnormal activated microglial cell,phenotype,37571859,phenotype_protein,2
+23,abnormal palmitoylation,phenotype,35462699,phenotype_protein,2
+24,abnormal storage material in myocardium,phenotype,36071899,disease_phenotype_positive,2
+27,absented vision loss,phenotype,34868216,phenotype_protein,1
+29,accumulation of ceroid lipofuscins,phenotype,34597687,disease_phenotype_positive,2
+30,accumulation of ceroid lipopigment,phenotype,36833170,phenotype_protein,1
+32,accumulation of glycerophosphodiesters,phenotype,38447580,disease_phenotype_positive,2
+33,accumulation of lipofuscin granules,phenotype,36324638,disease_phenotype_positive,2
+34,accumulation of lipoprotein aggregates,phenotype,36368077,disease_phenotype_positive,2
+35,accumulation of lysosomal storage,phenotype,35256654,disease_phenotype_positive,2
+36,accumulation of lysosomal storage bodies,phenotype,34216614,phenotype_anatomy,1
+37,accumulation of lysosomal storage deposits,phenotype,36368077,pathology_phenotype,2
+41,accumulations of autofluorescent inclusions,phenotype,35427439,disease_phenotype_positive,2
+42,acidified drinking water,exposure,37932327,drug_effect|exposure_disease,1
+46,activation of lysosomal proteases,biological_process,35241513,bioprocess_protein,1
+50,acylating the precursor lipid phosphatidylglycerol,biological_process,39548099,bioprocess_bioprocess,2
+52,adeno-associated virus-mediated gene therapy,drug,39813314,drug_effect,1
+56,adult-onset neuronal ceroid lipofuscinoses,disease,37566176,disease_mutation|disease_phenotype_positive|disease_protein,1
+57,adult-onset neuronal ceroid lipofuscinosis,disease,38193346|39470529|39812704,disease_disease|disease_phenotype_positive|disease_protein,1|2
+61,against neurodegeneration,phenotype,39364042,drug_effect,2
+71,altered axonal growth,biological_process,40346285,bioprocess_protein,2
+72,altered calcium signaling,phenotype,37899458,disease_phenotype_positive,2
+73,altered glycerophospholipid metabolism,phenotype,37899458,disease_phenotype_positive,2
+75,altered protein secretion,biological_process,37742391,bioprocess_protein,1
+76,altered sphingolipid metabolism,phenotype,37899458,disease_phenotype_positive,2
+80,ameliorated enteric neuron loss,phenotype,39813314,drug_effect,2
+81,ameliorated neurodegeneration,phenotype,38211816,drug_effect,2
+82,ameliorated neuropathology,phenotype,40333988,drug_effect,2
+83,amelioration of cholesterol accumulation,phenotype,35929194,bioprocess_phenotype,2
+84,amelioration of lipofuscin accumulation,phenotype,35929194,bioprocess_phenotype,2
+85,amelioration of the formation of abnormal vacuoles,phenotype,35929194,bioprocess_phenotype,2
+93,anterograde vesicular trafficking,biological_process,34188051,bioprocess_protein,1
+94,anti-diabetec drug,drug,39364042,off_label_use,1
+98,"anxiety,mood disturbances,fear",phenotype,37113551,disease_phenotype_positive,2
+99,anxious/fear circuit,phenotype,37771451,disease_phenotype_positive|exposure_disease,2
+109,attention may have limited abilities,phenotype,35627432,disease_phenotype_positive,2
+111,attenuated lysosomal hypertrophy,phenotype,35033660,drug_effect,2
+112,attenuated neuroinflammation,biological_process,36697260,drug_bioprocess,2
+113,attenuated pathological phenotype,phenotype,38763444,drug_effect,2
+117,autofluorescent intracellular inclusions,pathology,35447247,pathology_anatomy_present,1
+118,autofluorescent lipofuscin,phenotype,34910516,disease_phenotype_positive|exposure_phenotype,2
+119,autofluorescent lysosomal storage material accumulation,phenotype,38798824,disease_phenotype_positive,2
+121,autofluorescent storage granules,pathology,35447247,pathology_anatomy_present,1
+125,autophagic defects,phenotype,35921411|36368077,pathology_phenotype|phenotype_phenotype,2
+126,autophagic flux,biological_process,38877824,phenotype_protein,2
+127,autophagosome-related factor,cellular_component,36640303,cellcomp_protein,2
+128,autophagy defects,phenotype,36880056,disease_phenotype_positive,2
+130,autophagy impairment,biological_process,38763444,bioprocess_protein,1
+132,autophagy pathway activation,phenotype,37296619,drug_effect,2
+133,autophagy-lysosomal pathway,biological_process,35033660,bioprocess_protein|drug_bioprocess,1|2
+137,averting skeletal muscle atrophy,phenotype,40702562,drug_effect,2
+150,behavioural issue,phenotype,36964447,disease_phenotype_positive,2
+152,bilateral progressive retinal thinning,phenotype,38049626,drug_effect,2
+154,bis(monoacylglycero)phosphate deficiency,protein/gene,37708259,bioprocess_protein,1
+160,bull’s eye maculopathy,phenotype,36964447,disease_phenotype_positive,2
+162,c.1086del,mutation,38659533,disease_mutation,2
+172,c.461-280_677 + 382del966,mutation,37039534,mutation_protein,2
+183,c.768_769dup,mutation,39812704,disease_mutation,2
+191,c.944dup,mutation,37621118,disease_mutation,2
+218,cerebral accumulation of lipopigments,phenotype,36362641,phenotype_protein,2
+219,cerebral neurodegenerative disease,disease,3542788,disease_disease,2
+223,ceroid lipofuscin accumulation,phenotype,37571859|37645970|38183037,disease_phenotype_positive|phenotype_protein,2
+238,childhood dementia,phenotype,38117343,disease_phenotype_positive,2
+243,cholesterol accumulation in microglia,phenotype,39438652,phenotype_protein,2
+244,cholesteryl ester accumulation,phenotype,38195117,disease_phenotype_positive,2
+245,choreo-athetotic movements,phenotype,35917699,disease_phenotype_positive,2
+250,cis-prenyltransferase activity,molecular_function,34382076,molfunc_protein,2
+251,classic storage material accumulation,phenotype,36100791,disease_phenotype_positive,2
+253,clearance of storage,phenotype,35033660,drug_effect,2
+254,clearanced protein aggregates,phenotype,34214607,drug_effect,2
+295,cognitive ability loss,phenotype,38693756,disease_phenotype_positive,2
+300,combination in trans of two severe variants,phenotype,35457110,disease_phenotype_positive,2
+301,combination of miglustat and trehalose,drug,35681535,drug_effect,1
+304,completely rescued tremor,phenotype,37790379,drug_effect,2
+308,cone system dysfunction,phenotype,34272513,disease_phenotype_positive|phenotype_phenotype,2
+309,conjunctival endothelial cells,anatomy,36576693,pathology_anatomy_present,2
+311,control clathrin-dependent endocytosis,biological_process,34618685,bioprocess_protein,1
+313,correction of protein deficiency,biological_process,38252341,drug_effect,2
+323,cysteine palmitoyl thioesterase,protein/gene,38055807,protein_protein,2
+326,cysteine string protein α,protein/gene,38193346,protein_protein,1|2
+333,decline in cognitive and motor capacities,phenotype,35627432,disease_phenotype_positive,2
+334,decline in memory,phenotype,35627432,disease_phenotype_positive,2
+335,declined sit-to-stand performance,phenotype,39762319,drug_effect,2
+336,decreased bis(monoacylglycero)phosphate species,phenotype,38195117,disease_phenotype_positive,2
+337,decreased cell viability,phenotype,35241513,phenotype_protein,1
+338,decreased chloride permeability,phenotype,34910516,phenotype_protein,1
+339,decreased grey matter volume,phenotype,36632184,disease_phenotype_positive,2
+340,decreased in lipid droplets,phenotype,35681535,drug_effect,2
+341,decreased in the dimensions of the lipid droplet-like structures,phenotype,35681535,drug_effect,2
+344,decreased lysosomal bis(monoacylglycero)phosphate,biological_process,39080379,bioprocess_bioprocess,2
+345,decreased myofibril nuclei,cellular_component,40702562,anatomy_protein_present,2
+346,decreased seizure frequency,phenotype,36324638,drug_effect,2
+347,decreased synapse density,phenotype,35358180,disease_phenotype_positive,2
+349,decreased the number of lipid droplet-like structures,phenotype,35681535,drug_effect,2
+350,decreased visual tracking,phenotype,35427439,disease_phenotype_positive,2
+351,decreased volumes of basal ganglia,phenotype,35699772,phenotype_phenotype,2
+352,decreased volumes of cerebellar gray matter,phenotype,35699772,phenotype_phenotype,2
+353,decreased volumes of hippocampus,phenotype,35699772,phenotype_phenotype,2
+354,decreased volumes of supratentorial cortical gray matter volume,phenotype,35699772,phenotype_phenotype,2
+355,decreased volumes of supratentorial white matter,phenotype,35699772,phenotype_phenotype,2
+356,decreased volumes of thalamus,phenotype,35699772,phenotype_phenotype,2
+357,decreasing cortical thicknesses,phenotype,35404973,disease_phenotype_positive,2
+358,decreasing intracranial volumes,phenotype,35404973,disease_phenotype_positive,2
+359,defect in photoreceptor to bipolar cell synaptic connectivity,phenotype,36374771,disease_phenotype_positive,2
+360,defected lipid droplet formation in microglia,phenotype,39438652,phenotype_protein,2
+361,defective autophagic flow,phenotype,36347423,disease_phenotype_positive,2
+362,defective autophagic lysosomal reformation,biological_process,37400440,bioprocess_protein,1
+364,defective phagocytosis of photoreceptor outer segments,biological_process,38895469,bioprocess_protein,2
+365,defective protein degradation,phenotype,38049626,disease_phenotype_positive,2
+370,degradation of unfolded or abnormal intracellular proteins,biological_process,34331747,bioprocess_protein,2
+371,degrading cysteine residues,biological_process,36088080,bioprocess_protein,1
+373,delayed functional decline,phenotype,37059438,drug_effect,2
+377,dementia in children,phenotype,36833170,disease_phenotype_positive,2
+382,deposition of ceroid lipopigment,phenotype,35356463,disease_phenotype_positive,2
+383,deposition of light-brown pigments,pathology,34679057,pathology_anatomy_present,1
+384,destabilize the protein structure,phenotype,36088080,phenotype_protein,1
+385,deteriorating heart function,phenotype,35356463,disease_phenotype_positive,2
+387,diffuse acanthocytes,phenotype,35917699,disease_phenotype_positive,2
+388,diffuse neurodegeneration,phenotype,34491000,disease_phenotype_positive,2
+389,diminished neuronal loss,phenotype,36040802,exposure_phenotype,2
+392,disrupt the alpha helix,phenotype,36088080,phenotype_protein,1
+393,disrupted calcium homeostasis,biological_process,40346285,bioprocess_protein,2
+401,disturbed autophagic flow,phenotype,34214607,disease_phenotype_positive,2
+404,disturbed somatosensory modulation,phenotype,37771451,phenotype_phenotype,1
+412,downregulation of proteins related to axon guidance,phenotype,36453132,disease_phenotype_positive,2
+413,downregulation of proteins related to endocytosis,phenotype,36453132,disease_phenotype_positive,2
+415,dysfucntional lipid metabolism,biological_process,37708259,bioprocess_protein,2
+418,early loss of cone function,phenotype,36374771,disease_phenotype_positive,2
+419,early loss of rod function,phenotype,36374771,disease_phenotype_positive,2
+422,early-stage neuroinflammation,phenotype,39438652,disease_phenotype_positive,2
+425,elevated glycerophosphoinositol,protein/gene,40628808,anatomy_protein_present|bioprocess_protein,1|2
+429,endo components,protein/gene,35358180,protein_protein,2
+431,endolysosomal chloride channel,molecular_function,34910516,molfunc_protein,1
+432,endolysosomal chloride currents,biological_process,34910516,bioprocess_protein,2
+433,endoplasmic reticulum non-glycosylated transmembrain,protein/gene,34868216,protein_protein,2
+435,enhanced cell adhesion,phenotype,39154552,drug_effect,2
+436,enhanced hippocampal γ oscillation,phenotype,39284877,drug_effect,2
+437,enhanced inhibitory synaptic transmission,biological_process,39695089,bioprocess_protein,2
+438,enhanced lysosomal exocytosis,biological_process,39080379,drug_bioprocess,2
+440,enlarged endolysosomes,phenotype,34910516,phenotype_protein,2
+441,enteric glia changes,phenotype,39813314,disease_phenotype_positive,2
+442,enteric neuron loss,phenotype,39975385,disease_phenotype_positive,2
+446,epilepsy of unknown etiology,phenotype,36576693,disease_phenotype_positive,2
+448,epithelial-mesenchymal transition pathway enrichment,protein/gene,39154552,anatomy_protein_present,2
+449,epithelial-mesenchymal transition pathway inducer,protein/gene,39154552,disease_protein,2
+452,exocytic components,protein/gene,35358180,protein_protein,2
+453,exon-skipping antisense oligonucleotides,drug,37359347,drug_effect,1
+456,failed autophagy,phenotype,35087090,disease_phenotype_positive,2
+457,fatal neurodegeneration,disease,36453132,disease_disease,1
+462,focal right lower limb dystonia,phenotype,39525553,disease_phenotype_positive,2
+476,general proprioceptive ataxia,phenotype,35427439,disease_phenotype_positive,2
+480,genetic progressive encephalopathies with myoclonus,disease,34382076,disease_disease,2
+487,glucosylsphingosine 18:1 accumulation,phenotype,40639691,disease_phenotype_positive,2
+488,glycerophosphodiester release defect,biological_process | protein/gene,38853929,bioprocess_bioprocess|bioprocess_protein,1|2
+490,glycerophosphodiesters accumulation,phenotype,38195117|39724071,disease_phenotype_positive,2
+501,habitual seizures,phenotype,35356463,disease_phenotype_positive,2
+502,haploinsufficiency of the progranulin,molecular_function,37120788,disease_protein,2
+504,"heavy metal toxicity (manganese, iron, zinc)",exposure,38249738,exposure_disease,1
+505,heavy metal toxicity sensitivity,biological_process,38249738,molfunc_molfunc,2
+510,heterozygous variants c.544_545del,protein/gene,36118858,protein_protein,2
+512,high-dose intravenous immunoglobulin,drug,39470529,drug_effect,1
+514,hippocampal dysfunction,phenotype,40628808,disease_phenotype_positive,2
+526,homozygous variant c.316dup,mutation,38382230,mutation_protein,2
+531,hydrolized acyl-phosphatidylglycerol,biological_process,39548099,bioprocess_bioprocess,1
+535,hypersensitivity to pro-convulsive drugs,phenotype,38195117,disease_phenotype_positive,2
+537,hyposensitivity to abrupt light changes,phenotype,38195117,disease_phenotype_positive,2
+539,immune cell increase,phenotype,37014321,disease_phenotype_positive,2
+542,impaired autophagy,phenotype,39791756,disease_phenotype_positive,2
+543,impaired carnitine biosynthesis,phenotype,35427439,disease_phenotype_positive,2
+547,impaired long-term potentiation,phenotype,35358180,disease_phenotype_positive,2
+548,impaired myelin integrity,phenotype,39438652,phenotype_protein,2
+549,impaired prehension,phenotype,35427439,disease_phenotype_positive,2
+552,impairment locomotion,phenotype,39791756,disease_phenotype_positive,2
+555,improved locomotor activities,phenotype,36697260,drug_effect,2
+556,improved lysosomal pathology,phenotype,37790379,drug_effect,2
+557,improved motor function,phenotype,36040802|37932327,drug_effect|exposure_phenotype,2
+558,improved neural network activity,phenotype,39284877,drug_effect,2
+559,improved neuroinflammation,phenotype,38798824,drug_effect,2
+560,improved neuronal survival,phenotype,37296618,drug_effect,2
+563,improved social behavior,phenotype,39791756,drug_effect,2
+566,increase in lysosomal-related proteins,phenotype,36453132,disease_phenotype_positive,2
+567,increase in many ribosomal subunit proteins,phenotype,36453132,disease_phenotype_positive,2
+568,increase in the volume of the ventricular system,phenotype,35427439,disease_phenotype_positive,2
+569,increased astrogliosis,phenotype | protein/gene,38696065|40358187,anatomy_protein_present|molfunc_molfunc,1|2
+570,increased atypical muscle activity,phenotype,37113554,disease_phenotype_positive,2
+571,increased autophagic flux,biological_process,36347423,drug_bioprocess,2
+572,increased autophagic vacuoles,cellular_component,37571859,cellcomp_cellcomp,1
+575,increased expression of choroid plexus genes,phenotype,34749772,disease_phenotype_positive,2
+578,increased hydrolase in lysosome,biological_process,37974165,bioprocess_protein,2
+588,increased life span,phenotype,34214607,drug_effect,2
+590,increased lysosomal genes,phenotype,38696065,molfunc_molfunc,2
+591,increased microgliosis,phenotype,38696065,molfunc_molfunc,2
+592,increased motor deficiency,phenotype,34749772,disease_phenotype_positive,2
+593,increased overall lysosomal proteolysis,biological_process,36347423,drug_bioprocess,2
+594,increased oxysterol-binding protein,protein/gene,40333988,bioprocess_protein|protein_protein,1|2
+595,increased pro-inflammatory cytokines,phenotype,38696065,molfunc_molfunc,2
+597,increased saposin expression,phenotype,34214607,disease_phenotype_positive,2
+598,increased sphingomyelin synthesis,biological_process,40678187,bioprocess_bioprocess,2
+605,increased volume of lateral ventricle,phenotype,35699772,phenotype_phenotype,2
+606,induced exon skipping,biological_process | phenotype,37359347|40501755,drug_bioprocess|drug_effect,2
+609,inherited lysosomal storage disorders,disease,36777709,disease_disease,1
+610,inherited neurodegenerative diseases,disease,35462699,disease_disease,1
+611,inherited neurodegenerative lysosomal storage diseases,disease,35404973,disease_disease,1
+612,inherited retinal diseases,disease,36811936,disease_phenotype_positive,1
+614,inhibit lysosomal phospholispases,protein/gene,38447580,protein_protein,2
+621,inositol monophosphatase inhibition,molecular_function,37746514,drug_effect,2
+624,intense glial activation,phenotype,35404973,disease_phenotype_positive,2
+628,interictal focal epileptiform discharges,phenotype,37039534,disease_phenotype_positive,2
+630,intestinal stem cell activation,biological_process,39917569,bioprocess_bioprocess|bioprocess_protein,1|2
+631,intracellular accumulation of auto-fluorescent lipopigment,phenotype,3542788,disease_phenotype_positive,2
+633,intracerebroventricular enzyme replacement therapy,Gene therapy | drug,36831752|39762319,drug_effect|indication,1
+635,intronic splice variant,phenotype,37922835,phenotype_protein,2
+638,isolated retinal degeneration,phenotype,35457110,phenotype_protein,1
+639,isolated retinal dystrophy,disease,35457110,disease_phenotype_positive,1
+665,language delay/regression,phenotype,38763144,disease_phenotype_positive,2
+677,late-infantile form of neuronal ceroid lipofuscinosis,disease,35457110,disease_phenotype_positive|disease_protein,1
+679,late-infantile neuronal ceroid lipofuscinoses,disease,34910516,disease_phenotype_positive|disease_protein,1
+680,late-onset lysosomal storage disease,disease,35262198,disease_protein,1
+681,late-onset progressive ataxia,phenotype,37184663,disease_phenotype_positive,2
+682,lateinfantile-onset psychomotor retardation,phenotype,34678132,disease_phenotype_positive,2
+685,learning and memory impairment,phenotype,39695089,phenotype_protein,1
+691,lipid dysregulation reduction,phenotype,37131734,drug_effect,2
+693,lipid perturbation,biological_process,38853929,bioprocess_bioprocess,2
+697,lipofuscin aggregate degradation,biological_process,37296619,drug_bioprocess,2
+698,lipofuscin aggregate reduction,phenotype,37296618,drug_effect,2
+701,lipofuscin formation,biological_process,40166029,bioprocess_bioprocess,1
+702,localised macular ellipsoid zone disruption,pathology,34272513,disease_phenotype_positive,2
+703,longer survivor,phenotype,39745261,drug_effect,2
+704,loss of bipolar cells,phenotype,36374771,disease_phenotype_positive,2
+705,loss of control over defecation,phenotype,35447247,disease_phenotype_positive,2
+706,loss of control over urination,phenotype,35447247,disease_phenotype_positive,2
+708,loss of dopamine transporter,phenotype,37566176,disease_phenotype_positive,2
+709,loss of enzymatic activity,phenotype,39199020,disease_protein,2
+712,loss of muscular tone,phenotype,35356463,disease_phenotype_positive,2
+713,loss of progranulin,molecular_function,37120788,disease_protein,2
+714,loss of retinal cell types,phenotype,35033660,drug_effect,2
+715,loss of the inner nuclear layer,phenotype,36374771,disease_phenotype_positive,2
+718,low plasma carnitine concentrations,phenotype,35427439,disease_phenotype_positive,2
+720,lower electrophysical activity,phenotype,36453132,disease_phenotype_positive,2
+723,lysophosphatidylglycerol accumulation,biological_process,37708259,bioprocess_protein,2
+724,lysosoma dysfuntion,phenotype,36368077,pathology_phenotype,2
+727,lysosomal accumulation of ceroid lipofuscin,phenotype,35150145,phenotype_protein,1
+728,lysosomal accumulation of fluorescent storage material,phenotype,34749772,disease_phenotype_positive,2
+735,lysosomal chloride channel,biological_process,37742391,bioprocess_protein,2
+736,lysosomal chloride conductance,biological_process,34910516,bioprocess_protein,1
+737,lysosomal cholesterol homeostasis,biological_process,40333988,bioprocess_protein,2
+738,lysosomal cholesterol storage disorder,disease,37245481,disease_disease,1
+740,lysosomal depalmitoylation enzyme,protein/gene,39284877,protein_protein,2
+742,lysosomal dysfunction,biological_process | phenotype,35921411|36880056|38352418|38552867|40507848|40639691,disease_phenotype_positive|exposure_bioprocess|phenotype_phenotype,2
+746,lysosomal globotriaosylceramide accumulation,biological_process,39080379,bioprocess_bioprocess,2
+747,lysosomal glycerophosphodiester accumulation,biological_process,39080379,bioprocess_bioprocess,2
+748,lysosomal ion homeostasis,biological_process,36917920,bioprocess_protein,1
+749,lysosomal lipofuscin accumulation,biological_process,40706588,bioprocess_protein,2
+754,lysosomal storage accumulation,phenotype,37246363,disease_phenotype_positive,2
+755,lysosomal storage bodies,phenotype,34216614,phenotype_anatomy,1
+759,lysosomal storage of undigested cargo,phenotype,35150145,phenotype_protein,2
+761,lysosomal-mitochondrial axis,biological_process,40166029,bioprocess_bioprocess,2
+762,lysosome dysfunction reduction,phenotype,37131734,drug_effect,2
+763,lysosome's degradative capacity,biological_process,37974165,bioprocess_protein,2
+765,macroautophagic defects,phenotype,36368077,pathology_phenotype,2
+766,macular ellipsoid zone disruption,phenotype,34272513,phenotype_phenotype,1
+767,manifesting developmental regression,phenotype,40545665,disease_phenotype_positive,2
+768,melanin precursor uptake,biological_process,36640303,bioprocess_protein,2
+769,membrane-bound vacuoles containing diverse storage material,phenotype,36453132,disease_phenotype_positive,2
+771,menace response deficits,phenotype,35427439,disease_phenotype_positive,2
+782,microglial cell bodies,cellular_component,37571859,cellcomp_cellcomp,2
+783,microgliosis reduction,phenotype,37131734,drug_effect,2
+786,milasen,drug,38252341,drug_effect,1
+792,minor immune or inflammatory stimulus,phenotype,35025759,drug_effect,2
+801,mitochondrial reactive oxygen species,molecular_function,35087090,molfunc_protein,1
+802,modifying cysteine residues,biological_process,36088080,bioprocess_protein,1
+804,mood-related concerns,phenotype,38500130,disease_protein,2
+806,motor decline,phenotype,35256654|35917699|36011304|36118858|39201975|39656415,disease_phenotype_positive,2
+810,motor disease signs,phenotype,34216614,disease_phenotype_positive,2
+819,multiple lysosomal tubules formation,biological_process | protein/gene,37400440,bioprocess_protein,1|2
+821,mutant retinas,anatomy,35033660,anatomy_protein_present,1
+824,myenteric plexus neuron loss,phenotype,39813314,disease_phenotype_positive,2
+834,neural circuit dysfunction,phenotype,35395398,disease_phenotype_positive,2
+835,neurocognitive deterioration,phenotype,38978590|39702211,disease_phenotype_positive,2
+838,neurodegenerative condition,disease,35233790,disease_disease,1
+839,neurodegenerative conditions,disease,38249738,exposure_disease,2
+843,neurodegenerative lysosomal storage disorder,disease,34325129|36040802,disease_disease,1
+844,neurodegenerative lysosomal storage disorders,disease,35395398|35425725|35921411|36368077,disease_disease,1|2
+845,neurodegenerative metabolic disease,disease,36576693,disease_disease,1
+847,neurodegenerative phenotype,phenotype,35605667,drug_effect,2
+848,neurodegenerative phenotypes,phenotype,35929194,disease_phenotype_positive,2
+850,neurodevelopmental alterations,phenotype,36453132,phenotype_protein,2
+851,neurodevelopmental and neurodegenerative disorder,disease,34382076,disease_disease|disease_phenotype_positive|disease_protein,1|2
+853,neuroinflammatory trajectory,phenotype,34325129,phenotype_protein,1
+859,neuromuscular degeneration,phenotype,40702562,disease_phenotype_positive,2
+860,neuronal autofluorescent ceroid-lipofuscin accumulation,phenotype,40686560,disease_phenotype_positive,2
+864,neuronal ceroid lipofuscinoses condition,disease,35233790,disease_disease,2
+873,neuropathological phenotypes,phenotype,34618685,phenotype_phenotype,2
+875,neuroprotective properties,phenotype,37746513,drug_effect,2
+883,non-syndromic macular dystrophy,phenotype,39108195,disease_phenotype_positive,2
+886,novel lysosomal storage disease,disease,35447247,disease_disease,1
+890,ocular phenotype,phenotype,35457110,disease_phenotype_positive,2
+891,ombination of at least one severe variant with a moderate one,phenotype,35457110,disease_phenotype_positive,2
+892,open reading frame correction,phenotype,37359347,drug_effect,2
+897,oxysterol-binding protein inhibitor,drug,40333988,drug_effect,1
+914,palmitoyl-protein thioesterase 1 deficiency,phenotype,36876653,disease_protein,2
+915,palmitoylation-depalmitoylation cycles,biological_process,38211816,bioprocess_bioprocess,1
+920,partially rescued aberrant synaptic calcium dynamics,phenotype,39033629,drug_effect,2
+922,pediatric dementia syndrome,disease,37113550,disease_disease,1
+923,pediatric rare neurometabolic diseases,disease,36461157,disease_disease,1
+924,peripapillary retinal nerve fiber layer degeneration,phenotype,39559345,disease_phenotype_positive,2
+934,photoreceptor outer segment phagocytosis defect,biological_process,39535788,bioprocess_protein,2
+935,photoreceptor to bipolar synaptic defects,phenotype,36374771,disease_phenotype_positive,2
+936,photosensitivity at low and higher frequencies,phenotype,39718800,disease_phenotype_positive,2
+941,pigment-containing macrophages,pathology,34679057,pathology_anatomy_present,1
+942,plants demonstrating reduced astrocyte activation,drug,36880056,drug_effect,1
+943,plants with anti-neuro-inflammatory action,drug,36880056,drug_effect,1
+945,postural vertical nystagmus,phenotype,34679057,disease_phenotype_positive,2
+957,premature death in adolescence,phenotype,37329878,disease_phenotype_positive,2
+958,prevent language decline,phenotype,37926545,drug_effect,2
+959,prevent motor decline,phenotype,37926545,drug_effect,2
+960,prevented bowel distention,phenotype,39975385,drug_effect,2
+961,prevented bowel transit defect,phenotype,39813314,drug_effect,2
+962,prevented tremors,phenotype,37932327,drug_effect,2
+963,prevented vesicle trafficking,phenotype,34188051,phenotype_protein,1
+968,progranulin deficiency,molecular_function | phenotype | protein/gene,37120788|37131734|38696065,disease_phenotype_positive|disease_protein|phenotype_protein,1|2
+969,progranulin insufficiency,phenotype,35241513,bioprocess_phenotype,2
+971,progressive atrophy of the outer retinal layers,phenotype,35256654,disease_phenotype_positive,2
+972,progressive brain deterioration,phenotype,34313725,disease_phenotype_positive,2
+977,progressive deterioration of cognitive abilities,phenotype,36369162,disease_phenotype_positive,2
+979,progressive gait abnormality,phenotype,34679057,disease_phenotype_positive,2
+981,progressive global brain atrophy,phenotype,35427439,disease_phenotype_positive,2
+990,progressive neurological decline,phenotype,34216614,disease_phenotype_positive,2
+993,progressive psychomotor developmental retardation,phenotype,35628400,disease_phenotype_positive,2
+994,progressive regionally defined glial activation,phenotype,35404973,disease_phenotype_positive,2
+996,progressive retinal deterioration,phenotype,34313725,disease_phenotype_positive,2
+998,prominent retinal,phenotype,35929194,disease_phenotype_positive,2
+999,prominent storage body accumulation,phenotype,35404973,disease_phenotype_positive,2
+1012,psychomotor behavioral outcomes,pathology,36369162,disease_phenotype_positive,2
+1017,rapid degeneration of the caudate nucleus,phenotype,36632184,disease_phenotype_positive,2
+1021,reduce neurological disease burden,phenotype,40501755,drug_effect,2
+1023,reduced astroglial activation,biological_process,36697260,drug_bioprocess,2
+1024,reduced attenuated reactive astrogliosis,phenotype,34214607,drug_effect,2
+1027,reduced cell viability,biological_process,40678187,exposure_bioprocess,2
+1029,reduced disease-associated pathology,phenotype,36040802,exposure_phenotype,2
+1030,reduced enzymatic activity,biological_process,40507848,bioprocess_protein,2
+1031,reduced gliosis,phenotype,34214607,drug_effect,2
+1032,reduced lifespans,phenotype,36282524,phenotype_protein,1
+1033,reduced lysosomal autofluorescent storage material accumulation,phenotype,39033629,drug_effect,2
+1034,reduced lysosomal globotriaosylceramide accumulation,biological_process,39080379,bioprocess_bioprocess,2
+1035,reduced lysosomal glycerophosphodiester accumulation,biological_process,39080379,bioprocess_bioprocess,2
+1037,reduced lysosomal storage material,phenotype,37790379,drug_effect,2
+1039,reduced microglial activation,biological_process,36697260,drug_bioprocess,2
+1040,reduced neurodegeneration,phenotype,34214607,drug_effect,2
+1041,reduced neuroinflammation,phenotype,37790379|39033629|39364042,drug_effect,2
+1042,reduced neurological decline,phenotype,37329878,drug_effect,2
+1043,reduced oxidative stress,biological_process,39364042,drug_effect,2
+1044,reduced pain threshold,phenotype,37771451,disease_phenotype_positive|phenotype_phenotype,2
+1045,reduced pain-related neuropeptides,protein/gene,38368171,drug_effect,2
+1046,reduced patellar reflex,phenotype,34679057,disease_phenotype_positive,2
+1047,reduced photoreceptor outer segment binding,biological_process,38895469,bioprocess_protein,2
+1050,reduced retinal dysfunction,phenotype,40501755,drug_effect,2
+1053,reduced scotopic and photopic electroretinographic waveforms,phenotype,34532411,phenotype_protein,2
+1055,reduced strength during walking,phenotype,35605667,disease_phenotype_positive,2
+1057,reduced the mitochondrial reactive oxygen spices,phenotype,35681535,drug_effect,2
+1058,reduced α-synuclein aggregation,biological_process,37566176,bioprocess_protein,2
+1059,reduction in lipofuscin deposits,phenotype,34485593,phenotype_protein,2
+1060,reduction in microglia infiltration,phenotype,34485593,phenotype_protein,2
+1061,reduction in retina thinning,phenotype,34485593,drug_effect,2
+1066,rescued autophagy,biological_process,40333988,drug_effect,2
+1067,rescued locomotor impairment,phenotype,35681535,drug_effect,2
+1068,residual histopathology,phenotype,35395398,disease_phenotype_positive,2
+1069,restored autophagy,biological_process,38211816,drug_bioprocess,2
+1070,restored chemotaxis,phenotype,36282524,drug_effect,2
+1071,restored muscle strength,phenotype,37932327,drug_effect,2
+1081,retinal volume stable,phenotype,38049626,drug_effect,2
+1088,robust mismatch negativity response,phenotype,37645970,disease_phenotype_positive,2
+1089,robust therapeutic benefit,phenotype,36876653,drug_effect,2
+1091,rod system dysfunction,phenotype,34272513,disease_phenotype_positive|phenotype_phenotype,2
+1096,scattered drusen,phenotype,34532411,phenotype_phenotype,2
+1101,sequestosome 1/p62,protein/gene,35033660,bioprocess_protein,2
+1107,severe cerebellum atrophy,phenotype,39716776,disease_phenotype_positive,2
+1108,severe cortical atrophy,anatomy,39718800,anatomy_anatomy,2
+1110,severe reduction in heart rate,phenotype,35356463,disease_phenotype_positive,2
+1112,sex-dependent myelination defect,phenotype,37120788,phenotype_protein,2
+1114,sharp fall in the number of lipid droplets,phenotype,35681535,drug_effect,2
+1115,significant atrophy of all retinal layers,phenotype,35256654,disease_phenotype_positive,2
+1116,significant cortical atrophy,phenotype,36632184,disease_phenotype_positive,2
+1122,slow brain volume loss,phenotype,38977290,drug_effect,2
+1123,slow deteriorated language function,phenotype,39201975,drug_effect,2
+1124,slow deteriorated motor function,phenotype,39201975,drug_effect,2
+1125,slow movement disorder progression,phenotype,38976822,drug_effect,2
+1127,slow supratentorial gray matter volume loss,phenotype,38977290,drug_effect,2
+1129,slowed language decline,protein/gene,40162009,drug_effect,2
+1130,slowed language function decline,phenotype,38101904,drug_effect,2
+1131,slowed motor decline,phenotype | protein/gene,38101904|40162009,drug_effect,2
+1132,slowed stereotypical brain atrophy,phenotype,37614821,drug_effect,2
+1134,small caudate volume,phenotype,36991106,disease_phenotype_positive,2
+1135,small gray matter volume,phenotype,36991106,disease_phenotype_positive,2
+1136,small intracranial volume,phenotype,36991106,disease_phenotype_positive,2
+1137,small putamen volume,phenotype,36991106,disease_phenotype_positive,2
+1143,soluble lysosomal enzymes,protein/gene,35033660,disease_protein,2
+1144,sortilin inhibitor,protein/gene,37790379,drug_protein,2
+1145,specific emotions and behaviou,phenotype,35627432,phenotype_phenotype,2
+1146,specific emotions and behaviour,phenotype,35627432,phenotype_phenotype,2
+1150,splice-switching antisense oligonucleotide,drug,40501755,drug_bioprocess|drug_effect,1
+1151,spontaneous myoclonus,phenotype,34201538,disease_phenotype_negative,2
+1157,stimulating pro-apoptotic signaling,biological_process,38853929,bioprocess_bioprocess,2
+1159,storage body accumulation,phenotype,35404973|36509165,disease_phenotype_positive|indication,2
+1160,storage lipid accumulation within neuronal lipofuscin,phenotype,37184663,disease_phenotype_positive,2
+1162,stress granule dynamics,biological_process,36965618,bioprocess_protein,1
+1165,sudden loss of consciousness,phenotype,35356463,disease_phenotype_positive,2
+1170,surgical site swelling,pathology,34624852,pathology_anatomy_present,1
+1171,symmetrical progressive atrophy of the cervical spinal cord,phenotype,34679057,disease_phenotype_positive,2
+1172,symmetrical progressive atrophy of the whole brain,phenotype,34679057,disease_phenotype_positive,2
+1173,sympathetic nervous system dysregulation,phenotype,35716526,anatomy_disease,2
+1174,synapse functions,biological_process,35358180,bioprocess_protein,1
+1178,synaptic depletion of tethers,protein/gene,35692423,protein_protein,2
+1180,synaptic subcompartments,cellular_component,35358180,cellcomp_protein,2
+1181,synaptic vesicle endocytic deficits,phenotype,35358180,disease_phenotype_positive,2
+1185,thickening of inner nuclear layer,phenotype,34532411,disease_phenotype_positive,2
+1186,thickening of the inner plexiform layer,phenotype,34532411,disease_phenotype_positive,2
+1188,thinning of outer photoreceptor segments,phenotype,34532411,disease_phenotype_positive,2
+1189,thinning of the whole retina,phenotype,34532411,phenotype_protein,2
+1190,thoght-related concerns,phenotype,38500130,disease_protein,2
+1193,toxic lysophospholipid accumulation,cellular_component,38447580,cellcomp_cellcomp,2
+1205,transacylation reaction,biological_process,39548099,bioprocess_bioprocess,1
+1207,transcutaneous vagal stimulation,drug,40244276,drug_bioprocess,1
+1209,transient withdrawal of parasympathetic activity,phenotype,39390491,disease_phenotype_positive|phenotype_phenotype,1|2
+1222,tumor microenvironment regulation,biological_process,36980592,bioprocess_protein,1
+1226,ultrahigh frequency - transcutaneous electrical nerve stimulation,drug,38368171,drug_effect,1
+1228,unconventional secretory pathway,biological_process,34188051,bioprocess_protein,1
+1231,unusual elevation of lyso-sphingomyelin-509,phenotype,36777709,pathology_phenotype,2
+1232,unwillingness to cooperate,phenotype,35427439,disease_phenotype_positive,2
+1236,various forms of abnormal movement.,phenotype,36011304,disease_phenotype_positive,2
+1243,visual activity decline,phenotype,38500130,disease_phenotype_positive,2
+1244,visual decline,phenotype,36964447,disease_phenotype_positive,2
+1256,widespread gliosis,phenotype,35256654,disease_phenotype_positive,2
+1257,wild-type hematopoietic stem and progenitor cells,Gene therapy,36876653,indication,1

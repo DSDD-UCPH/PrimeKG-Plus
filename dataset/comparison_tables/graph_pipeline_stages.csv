@@ -1,0 +1,5 @@
+stage,directed_edges,delta_from_previous
+Raw graph (pre-giant component),7796104,
+Giant component,7781310,-14794
+Disease-grouped graph,7683206,-98104
+Published PrimeKG (deduplicated),8097472,414266

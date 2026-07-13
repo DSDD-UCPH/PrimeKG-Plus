@@ -1,0 +1,16 @@
+entity1,entity2,entity_type1,entity_type2,Relation,PMID,entity1_status,entity2_status,integratable
+HEXA,enzyme activity reduction,protein/gene,molecular_function,molfunc_protein,10.1016/j.ymgme.2021.05.001,in_kg,C1152555,True
+sphingolipidosis,sphingolipid hydrolases mutation,disease,protein/gene,disease_protein,10.1007/s12031-021-01907-6,in_kg,C5680990,True
+β-hexosaminidase mutation,amyloid-beta accumulation,protein/gene,phenotype,phenotype_protein,10.1016/j.ibneur.2022.01.004,C5970465,C2247791,True
+Sandhoff disease,amyloid-beta accumulation,disease,phenotype,disease_phenotype_positive,10.1016/j.ibneur.2022.01.004,in_kg,C2247791,True
+Tay-Sachs disease,amyloid-beta accumulation,disease,phenotype,disease_phenotype_positive,10.1016/j.ibneur.2022.01.004,in_kg,C2247791,True
+Tay-Sachs disease,impaired autophagic flux,disease,biological process,disease_bioprocess,10.1371/journal.pone.0280650,in_kg,C5137600,True
+Gemfibrozil,activated glial suppression,drug,phenotype,drug_effect,10.3390/cells12242791,in_kg,C4690080,True
+Tay-Sachs disease,impaired autophagic flux,disease,phenotype,drug_bioprocess,10.1016/j.ymgme.2024.108140,in_kg,C5137600,True
+Tay-Sachs disease,chronic neuroinflammation,disease,phenotype,disease_phenotype_positive,10.1007/s11011-025-01553-6,in_kg,C5137640,True
+propagermanium + ketogenic diet,reduced neuroinflammation,drug,phenotype,drug_effect,10.1007/s11011-025-01553-6,C5826444,C5137640,True
+Tay-Sachs disease,lyso-platelet activating factors accumulation,disease,phenotype,disease_phenotype_positive,10.1016/j.ymgme.2025.109180,in_kg,C5380074,True
+Tay-Sachs disease,macular brown spot,disease,phenotype,disease_phenotype_positive,10.1016/j.ajoc.2025.102381,in_kg,C4024756,True
+macular brown spot,cherry-red spot,phenotype,phenotype,phenotype_phenotype,10.1016/j.ajoc.2025.102381,C4024756,C0278234|C2216370,True
+prime editing,protein translation readthrough of stop codons,drug,biological_process,drug_bioprocess,10.1038/s41586-025-09732-2,C3821012,C1157545,True
+prime editing,enzyme activity restoration,drug,phenotype,drug_effect,10.1038/s41586-025-09732-2,C3821012,C1152522,True

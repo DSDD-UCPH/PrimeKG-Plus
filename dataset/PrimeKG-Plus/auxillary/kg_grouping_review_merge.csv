@@ -1,0 +1,81 @@
+Unnamed: 0,anchor_group_name,legacy_lookup_status,legacy_conflict_names,Expert review,anchor_group_idx,decision_auto,proposed_group_name_auto,cutoff,cluster_size,cluster_member_idx,cluster_member_name,reviewer_final_group_name,cui
+62,familial renal glucosuria,missing,,no,308.0,yes,familial renal glucosuria,0.98,2.0,308|13693,familial renal glucosuria || familial cystic renal disease,,
+82,autosomal recessive congenital ichthyosis,found,,no,409.0,yes,autosomal recessive congenital ichthyosis,0.98,2.0,409|7313,autosomal recessive congenital ichthyosis || autosomal recessive faciodigitogenital syndrome,,
+107,congenital myopathy,conflict,congenital myasthenic syndrome|congenital myopathy|nemaline myopathy,no,568.0,yes,congenital myopathy,0.98,4.0,251|568|13640|15343,congenital myasthenic syndrome || congenital myopathy || congenital structural myopathy || congenital acardia,,
+116,galactosemia 4,found,,galactosemia,645.0,yes,galactosemia,0.98,2.0,645|13883,galactosemia 4 || galactosemia,,C0016952
+142,hyperprolinemia,found,,no,863.0,yes,hyperprolinemia,0.98,3.0,863|3952|14496,hyperprolinemia || hyperheparinemia || hyperprolactinemia,,
+158,neurofibromatosis type 1,found,,neurofibromatosis type 1,999.0,yes,neurofibromatosis,0.98,2.0,999|23097,neurofibromatosis type 1 || mosaic neurofibromatosis type 1,,C0027831
+197,hyperparathyroidism,conflict,hyperparathyroidism|hypothyroidism,no,1370.0,yes,hyperparathyroidism,0.98,7.0,1370|11207|11451|11682|13574|14704|22403,hyperparathyroidism || hyperthyroidism || secondary hyperparathyroidism || hypothyroidism || hyperthyroxinemia || primary hyperparathyroidism || tertiary hyperparathyroidism,,
+243,mevalonic aciduria,missing,,no,1853.0,yes,mevalonic aciduria,0.98,2.0,1853|2705,mevalonic aciduria || urocanic aciduria,,
+254,osteocraniostenosis,missing,,no,2033.0,yes,osteocraniostenosis,0.98,2.0,2033|10459,osteocraniostenosis || osteomyelitis,,
+260,"hematuria, benign familial",missing,,no,2159.0,yes,"hematuria, benign familial",0.98,2.0,2159|5251,"hematuria, benign familial || chorea, benign familial",,
+265,"brain abnormalities, neurodegeneration, and dysosteosclerosis",missing,,no,2242.0,yes,"brain abnormalities, neurodegeneration, and dysosteosclerosis",0.98,2.0,2242|8048,"brain abnormalities, neurodegeneration, and dysosteosclerosis || fibrosis, neurodegeneration, and cerebral angiomatosis",,
+286,"Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;",found,,no,2534.0,yes,"Charcot-Marie-Tooth disease, axonal, autosomal recessive",0.98,2.0,2534|4628,"Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;",,C4310725
+286,"Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;",found,,no,2534.0,yes,"Charcot-Marie-Tooth disease, axonal, autosomal recessive",0.98,2.0,2534|4628,"Charcot-Marie-Tooth disease, axonal, with vocal cord paresis, autosomal recessive",,C4729446
+313,inflammatory poikiloderma with hair abnormalities and acral keratoses,missing,,no,3016.0,yes,inflammatory poikiloderma with hair abnormalities and acral keratoses,0.98,2.0,3016|17112,inflammatory poikiloderma with hair abnormalities and acral keratoses || focal palmoplantar keratoderma with joint keratoses,,
+327,obsessive-compulsive disorder,found,,no,3184.0,yes,obsessive-compulsive disorder,0.98,2.0,3184|18387,obsessive-compulsive disorder || obsessive-compulsive personality disorder,,
+350,familial cylindromatosis,missing,,no,3542.0,yes,familial cylindromatosis,0.98,2.0,3542|13522,familial cylindromatosis || familial polycythemia,,
+358,"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities",missing,,no,3635.0,yes,"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities",0.98,2.0,3635|24440,"dystonia, childhood-onset, with optic atrophy and basal ganglia abnormalities || neurodegeneration, infantile-onset, with optic atrophy and brain abnormalities",,
+370,MEGF10-related myopathy,missing,,no,3973.0,yes,MEGF10-related myopathy,0.98,2.0,3973|5172,MEGF10-related myopathy || MEGF8-related Carpenter syndrome,,
+380,craniofacial dyssynostosis,missing,,no,4127.0,yes,craniofacial dyssynostosis,0.98,2.0,4127|13601,craniofacial dyssynostosis || craniofacial dystonia,,
+381,"ptosis, hereditary congenital",found,,no,4131.0,yes,"ptosis, hereditary congenital",0.98,2.0,4131|5037,"ptosis, hereditary congenital || facial paresis, hereditary congenital",,
+384,neuroferritinopathy,missing,,no,4253.0,yes,neuroferritinopathy,0.98,2.0,4253|10825,neuroferritinopathy || neurocristopathy,,
+429,familial visceral amyloidosis,missing,,no,5418.0,yes,familial visceral amyloidosis,0.98,2.0,5418|9279,familial visceral amyloidosis || familial visceral myopathy,,
+435,CBL-related disorder,missing,,no,5581.0,yes,CBL-related disorder,0.98,2.0,5581|13688,CBL-related disorder || CTSC-related disorder,,
+444,Pick disease,missing,,no,5886.0,yes,Pick disease,0.98,2.0,5886|6707,Pick disease || Coats disease,,
+485,osteoporosis,missing,,no,6911.0,yes,osteoporosis,0.98,2.0,6911|13614,osteoporosis || osteopetrosis,,
+557,yellow fever,missing,,no,8678.0,yes,yellow fever,0.98,2.0,8678|10686,yellow fever || spotted fever,,
+578,cystinosis,missing,,no,8840.0,yes,cystinosis,0.98,2.0,8840|10848,cystinosis || cystitis,,
+584,idiopathic pulmonary fibrosis,missing,,no,8920.0,yes,idiopathic pulmonary fibrosis,0.98,3.0,8920|21445|25382,"idiopathic pulmonary fibrosis || idiopathic pulmonary artery dilatation || idiopathic pulmonary fibrosis, dog",,
+586,pleomorphic liposarcoma,missing,,no,8963.0,yes,pleomorphic liposarcoma,0.98,3.0,8963|15533|17277,pleomorphic liposarcoma || pleomorphic carcinoma || pleomorphic lipoma,,
+594,bullous lichen planus,conflict,lichen myxedematosus|lichen planus,no,9054.0,yes,bullous lichen planus,0.98,4.0,9054|21611|21612|22119,bullous lichen planus || linear lichen planus || actinic lichen planus || nodular lichen myxedematosus,,
+599,lichen amyloidosis,found,,no,9104.0,yes,lichen amyloidosis,0.98,2.0,9104|14637,lichen amyloidosis || lichen myxedematosus,,
+661,familial melanoma,missing,,no,9855.0,yes,familial melanoma,0.98,2.0,9855|22833,familial melanoma || familial prostate carcinoma,,
+737,anemia,missing,,no,10504.0,yes,anemia,0.98,2.0,10504|16531,anemia || anuria,,
+757,hereditary skin disorder,missing,,no,10602.0,yes,hereditary skin disorder,0.98,3.0,10602|10672|10927,hereditary skin disorder || hereditary skeletal muscle disorder || inherited kidney disorder,,
+759,liver failure,missing,,no,10610.0,yes,liver failure,0.98,2.0,10610|11890,liver failure || kidney failure,,
+769,skeletal system disorder,missing,,no,10644.0,yes,skeletal system disorder,0.98,3.0,10644|10839|10925,skeletal system disorder || skeletal muscle disorder || immune system disorder,,
+784,tonsillitis,missing,,no,10710.0,yes,tonsillitis,0.98,2.0,10710|11559,tonsillitis || mastitis,,
+794,liver disorder,missing,,no,10730.0,yes,liver disorder,0.98,2.0,10730|11209,liver disorder || kidney disorder,,
+849,congenital anemia,missing,,no,11023.0,yes,congenital anemia,0.98,3.0,10628|11023|15343,congenital heart disease || congenital anemia || congenital acardia,,
+908,parathyroid gland disorder,missing,,no,11271.0,yes,parathyroid gland disorder,0.98,3.0,11207|11271|11449,hyperthyroidism || parathyroid gland disorder || thyroid gland disorder,,
+920,inherited thyroid metabolism disease,missing,,no,11340.0,yes,inherited thyroid metabolism disease,0.98,2.0,10672|11340,hereditary skeletal muscle disorder || inherited thyroid metabolism disease,,
+1064,chronic endometritis,conflict,endometritis|gastritis,no,12157.0,yes,chronic endometritis,0.98,3.0,12157|12671|13290,chronic endometritis || endometritis || chronic gastritis,,
+1121,thymus gland disorder,missing,,no,12499.0,yes,thymus gland disorder,0.98,2.0,11449|12499,thyroid gland disorder || thymus gland disorder,,
+1210,pneumococcal infection,missing,,no,13127.0,yes,pneumococcal infection,0.98,3.0,13127|14940|16731,pneumococcal infection || Pneumocystis infectious disease || pneumococcal meningitis,,
+1229,familial hemolytic anemia,missing,,no,13252.0,yes,familial hemolytic anemia,0.98,3.0,13252|13522|14329,familial hemolytic anemia || familial polycythemia || familial hyperinsulinism,,
+1251,hereditary ataxia,missing,,no,13412.0,yes,hereditary ataxia,0.98,3.0,13412|13803|14214,hereditary ataxia || hereditary anemia || hereditary dementia,,
+1371,pulmonary valve agenesis,found,,no,14566.0,yes,pulmonary valve agenesis,0.98,2.0,14566|17118,pulmonary valve agenesis || pulmonary agenesis,,
+1380,caveolinopathy,missing,,no,14678.0,yes,caveolinopathy,0.98,2.0,14678|14914,caveolinopathy || tubulinopathy,,
+1381,infectious myositis,missing,,no,14679.0,yes,infectious myositis,0.98,5.0,14679|14945|16581|21498|21685,infectious myositis || bacterial myositis || viral myocarditis || viral myositis || infectious panuveitis,,
+1480,chronic closed-angle glaucoma,found,,closed-angle glaucoma,15526.0,yes,closed-angle glaucoma,0.98,2.0,15526|17811,chronic closed-angle glaucoma || acute closed-angle glaucoma,,C0017605
+1495,collagenous colitis,missing,,no,16661.0,yes,collagenous colitis,0.98,2.0,16661|23359,collagenous colitis || collagenous gastritis,,
+1497,acute hepatitis C virus infection,missing,,viral hepatitis,15729.0,pending,name decided later,0.98,5.0,12974|15685|15705|15729|22535,hepatitis C virus infection || chronic hepatitis B virus infection || chronic hepatitis C virus infection || acute hepatitis C virus infection || acute hepatitis B virus infection,,C0042721
+1501,toxic labyrinthitis,missing,,no,15759.0,pending,name decided later,0.98,3.0,15759|17741|19050,toxic labyrinthitis,,C0155507
+1501,toxic labyrinthitis,missing,,no,15759.0,pending,name decided later,0.98,3.0,15759|17741|19050,toxic optic neuropathy,,C0155303
+1501,toxic labyrinthitis,missing,,no,15759.0,pending,name decided later,0.98,3.0,15759|17741|19050,toxic maculopathy,,C0271086
+1518,mastoiditis,missing,,no,16852.0,yes,mastoiditis,0.98,2.0,11559|16852,mastitis || mastoiditis,,
+1540,acute myeloid leukemia with t(8;16)(p11;p13) translocation,missing,,acute myeloid leukemia with recurrent genetic abnormalities,16177.0,pending,name decided later,0.98,15.0,16177|20385|20990|20991|22537|22540|22541|22546|22547|22558|22559|22563|22569|22572|23055,"acute myeloid leukemia with t(8;16)(p11;p13) translocation || acute myeloid leukemia with t(8;21)(q22;q22) translocation || acute myeloid leukemia with t(6;9)(p23;q34) || acute myeloid leukemia with t(9;11)(p22;q23) || acute myeloid leukemia, t(16;16)(p13.1;q22) || acute myeloid leukemia, t(10;11)(p12;q23) || acute myeloid leukemia, t(10;11)(p11.2;q23) || acute myeloid leukemia, t(11;19)(q23;p13) || acute myeloid leukemia, t(11;19)(q23;p13.1) || acute myeloid leukemia, t(5;11)(q35;p15) || acute myeloid leukemia, t(7;12)(q36;p13) || acute myeloid leukemia, t(3;12)(q23;p12.3) || acute myeloid leukemia, t(11;15)(p15;q35) || acute myeloid leukemia, t(16;21)(p11;q22) || acute myeloid leukemia, t(1;22)(p13;q13)",,C1275661
+1587,pulmonary sarcoidosis,missing,,no,17641.0,yes,pulmonary sarcoidosis,0.98,4.0,17641|17874|18640|23892,pulmonary sarcoidosis || cardiac sarcoidosis || cerebral sarcoidosis || pulmonary amyloidosis,,
+1591,atrophy of testis,missing,,no,17652.0,yes,atrophy of testis,0.98,2.0,17652|17789,atrophy of testis || atrophy of thyroid,,
+1603,bladder sarcoma,missing,,no,17864.0,yes,bladder sarcoma,0.98,4.0,12010|12077|17864|18485,kidney sarcoma || breast sarcoma || bladder sarcoma || bladder lymphoma,,
+1699,leukorrhea,missing,,no,19001.0,yes,leukorrhea,0.98,2.0,17179|19001,leukostasis || leukorrhea,,
+1712,epithelioid neurofibroma,missing,,no,19174.0,yes,epithelioid neurofibroma,0.98,2.0,19174|23442,epithelioid neurofibroma || epithelioid cell nevus,,
+1723,breast liposarcoma,found,,no,19282.0,yes,breast liposarcoma,0.98,6.0,10513|12077|12673|18304|19280|19282,breast carcinoma || breast sarcoma || breast adenoma || breast lipoma || kidney liposarcoma || breast liposarcoma,,
+1805,antigen defined by monoclonal antibody Aj9,missing,,no,20489.0,yes,antigen defined by monoclonal antibody Aj9,0.98,2.0,20489|20490,antigen defined by monoclonal antibody Aj9 || antigen defined by monoclonal antibody T87,,
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),,C2826037
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,mixed phenotype acute leukemia with t(v;11q23.3),,C2826048
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,"acute myeloid leukemia, t(10;11)(p11.2;q23)",,not found
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,"acute myeloid leukemia, t(11;19)(q23.3;p13.3)",,C5855195
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,"acute myeloid leukemia, t(9;22)(q34.1;q11.2)",,C4329268
+1915,mixed phenotype acute leukemia with t(9;22)(q34.1;q11.2),missing,,no,22151.0,pending,name decided later,0.98,6.0,22151|22152|22541|22548|22560|23054,"acute myeloid leukemia, t(8;21)(q22; q22.1)",,C1292774
+1936,"acute myeloid leukemia, inv(16)(p13.1;q22)",missing,,acute myeloid leukemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22) CBFB-MYH11,22536.0,pending,name decided later,0.98,4.0,22536|22537|22561|22568,"acute myeloid leukemia, inv(16)(p13.1;q22) || acute myeloid leukemia, t(16;16)(p13.1;q22)",,C5395080
+1936,"acute myeloid leukemia, inv(16)(p13.1;q22)",missing,,no,22536.0,pending,name decided later,0.98,4.0,22536|22537|22561|22568,"acute myeloid leukemia, inv(3)(q21.3;q26.2)",,C4053754
+1936,"acute myeloid leukemia, inv(16)(p13.1;q22)",missing,,no,22536.0,pending,name decided later,0.98,4.0,22536|22537|22561|22568,"acute myeloid leukemia, inv(16)(p13.3;q24.3)",,not found
+1937,"acute myeloid leukemia, t(15;17)(q24;q21)",missing,,no,22538.0,pending,name decided later,0.98,26.0,20385|20990|20991|22537|22538|22539|22540|22541|22542|22543|22544|22545|22546|22547|22548|22558|22559|22560|22562|22563|22569|22570|22571|22572|23054|23055,"acute myeloid leukemia, t(15;17)(q24;q21) [+ 25 others]",,not found
+1938,"acute myeloid leukemia, t(v;11q23.3)",missing,,no,22549.0,pending,name decided later,0.98,6.0,20991|22540|22545|22547|22549|22563,"acute myeloid leukemia with t(9;11)(p22;q23) || acute myeloid leukemia, t(10;11)(p12;q23) || acute myeloid leukemia, t(6;9)(p23;q34.1) || acute myeloid leukemia, t(11;19)(q23;p13.1) || acute myeloid leukemia, t(v;11q23.3) || acute myeloid leukemia, t(3;12)(q23;p12.3)",,not found
+1941,"acute myeloid leukemia, t(2;12)",missing,,no,22554.0,pending,name decided later,0.98,4.0,22554|22555|22556|22557,"acute myeloid leukemia, t(2;12)",,not found
+1941,"acute myeloid leukemia, t(2;12)",missing,,no,22554.0,pending,name decided later,0.98,4.0,22554|22555|22556|22557,"acute myeloid leukemia, t(11;17)",,C2825129
+1941,"acute myeloid leukemia, t(2;12)",missing,,no,22554.0,pending,name decided later,0.98,4.0,22554|22555|22556|22557,"acute myeloid leukemia, t(8;16)",,C4511003
+1941,"acute myeloid leukemia, t(2;12)",missing,,no,22554.0,pending,name decided later,0.98,4.0,22554|22555|22556|22557,"acute myeloid leukemia, t(1;22)",,C4706584
+1975,"supratentorial ependymoma, ZFTA fusion–positive",missing,,,23118.0,pending,name decided later,0.98,2.0,23118|23119,"supratentorial ependymoma, ZFTA fusion–positive || supratentorial ependymoma, YAP1 fusion–positive",,
