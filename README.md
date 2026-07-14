@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-**PrimeKG-Plus** extends [PrimeKG](https://github.com/mims-harvard/PrimeKG) with updated public biomedical resources and an optional literature-augmented build for four rare neurological diseases (Canavan, Batten, Niemann–Pick type C, Tay–Sachs). The public-database graph **`primekg_plus.csv`** has **129,317** nodes and **7,683,206** directed edges (build **20260529**). Download the full bundle from [Zenodo](https://doi.org/10.5281/zenodo.20796545) or load `dataset/PrimeKG-Plus/primekg_plus.csv` after cloning this repository.
+**PrimeKG-Plus** extends [PrimeKG](https://github.com/mims-harvard/PrimeKG) with updated public biomedical resources to Dec 2025 and an optional literature-augmented build for four rare neurological disorders (Canavan, Batten, Niemann–Pick type C, Tay–Sachs). The public-database graph **`primekg_plus.csv`** has **129,317** nodes and **7,683,206** directed edges (build **20260529**). Download the full bundle from [Zenodo](https://doi.org/10.5281/zenodo.20796545) or load `dataset/PrimeKG-Plus/primekg_plus.csv` after cloning this repository.
 ## Table of Contents
 
 - [Unique features of PrimeKG-Plus](#unique-features-of-primekg-plus)
@@ -20,8 +20,8 @@
 - [License](#license)
 
 ## Unique features of PrimeKG-Plus
-- **Updated public databases:** Refreshed upstream sources relative to original PrimeKG, including Open Targets disease–protein associations, RepurposeDrugs Phase-4 indications, and SIDER integrated with nSIDES (see Supplementary Information for deviations from the PrimeKG paper pipeline).
-- **Two graph products:** `primekg_plus.csv` (public databases only) and `PrimeKG-Plus-RD/primekg_plus_rd.csv` (`primekg_plus.csv` + **550** curated literature edges for four neurological disorders).
+- **Updated public databases:** Refreshed upstream sources relative to original PrimeKG, including Open Targets disease–protein associations, RepurposeDrugs Phase-4 indications, and SIDER integrated with nSIDES.
+- **Two graph products:** `primekg_plus.csv` (public databases only) and `primekg_plus_rd.csv` (`primekg_plus.csv` + **550** curated literature edges for four studied neurological disorders).
 - **PrimeKG-compatible schema:** Same edge-list format as PrimeKG (`relation`, `display_relation`, `x_id`, `y_id`, …) with companion `nodes.csv` and `edges.csv` exports.
 - **Validation bundle:** Manuscript supplementary tables (S1–S11), comparison tables against original PrimeKG, and a bundled Original PrimeKG baseline (`dataset/baseline/no_dup_kg.csv`).
 - **Self-contained rebuild:** Processing scripts live in this repository (`primary_data_prep/`, `additional_data_source/`); no separate PrimeKG checkout is required to find upstream preprocessing code.

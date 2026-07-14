@@ -1,8 +1,7 @@
-# Additional sources (PrimeKG-Plus extensions)
+# Additional sources (beyond the 20 primary resources used by PrimeKG)
 
-Preprocessing for **Plus-only** upstream tables. Scripts read bundled `inputs/` from this folder and **write build outputs into `primary_data_prep/data/`** (same layout as original PrimeKG `datasets/data/`).
+Scripts read bundled `inputs/` from this folder and **write build outputs into `primary_data_prep/data/`** (same layout as original PrimeKG `datasets/data/`).
 
-No PrimeKG checkout required. Override data root with `PRIMARY_DATA_DIR` if needed.
 
 | Step | Folder | Script | Output under `primary_data_prep/data/` |
 |------|--------|--------|-----------------------------------|
@@ -34,7 +33,7 @@ Merged with DisGeNET (`disgenet/Authors-curated_gene_disease_associations.tsv`) 
 | `20260417-EnsemblID-Genename.csv` | Ensembl → gene symbol |
 | `Authors-curated_gene_disease_associations.tsv` | DisGeNET baseline for filtering |
 
-## RepurposeDrugs (Phase 4)
+## RepurposeDrugs
 
 **Output:** `primary_data_prep/data/repurposed_drug/RepurposedDrug_Indication.csv`
 

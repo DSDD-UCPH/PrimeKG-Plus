@@ -11,6 +11,10 @@ dataset/PrimeKG-Plus/auxillary/kg_grouped.csv
 
 # Zenodo archive (local packaging only)
 zenodo_bundle.tar.gz
+scripts/ZENODO_UPLOAD_CHECKLIST.md
+
+# Local QC walkthroughs (not part of public release pipeline)
+scripts/literature_curation/16_integrate_primekg_plus_rd_walkthrough.ipynb
 
 # Large upstream inputs (see additional_data_source/README.md and primary_data_prep/README.md)
 additional_data_source/opentarget/inputs/
