@@ -9,7 +9,13 @@
 
 ## TL;DR
 
-**PrimeKG-Plus** extends [PrimeKG](https://github.com/mims-harvard/PrimeKG) with updated public biomedical resources to Dec 2025 and an optional literature-augmented build for four rare neurological disorders (Canavan, Batten, Niemann–Pick type C, Tay–Sachs). The public-database graph **`primekg_plus.csv`** has **129,317** nodes and **7,683,206** directed edges (build **20260529**). Download the full bundle from [Zenodo](https://doi.org/10.5281/zenodo.20796545) or load `dataset/PrimeKG-Plus/primekg_plus.csv` after cloning this repository.
+This release provides **two PrimeKG-compatible knowledge graphs** (build **20260529**), both distributed via [Zenodo](https://doi.org/10.5281/zenodo.20796545):
+
+**PrimeKG-Plus** (`dataset/PrimeKG-Plus/primekg_plus.csv`) extends [PrimeKG](https://github.com/mims-harvard/PrimeKG) with updated public biomedical resources through Dec 2025, plus Open Targets, RepurposeDrugs, and SIDER+nSIDES. It contains **129,317** nodes and **7,683,206** directed edges. No PubMed-derived relations are included.
+
+**PrimeKG-Plus-RD** (`dataset/PrimeKG-Plus-RD/primekg_plus_rd.csv`) is the literature-augmented build for four rare neurological disorders—Canavan disease, Batten disease, Niemann–Pick disease type C, and Tay–Sachs disease. It contains every edge in `primekg_plus.csv` plus **550** expert-validated novel literature edges derived from **637** curated PubMed abstracts and PMC full-text articles (**129,353** nodes; **7,683,756** directed edges; **36** new ontology nodes).
+
+
 ## Table of Contents
 
 - [Unique features of PrimeKG-Plus](#unique-features-of-primekg-plus)
@@ -28,10 +34,9 @@
 
 ## Using PrimeKG-Plus
 
-Graph CSVs are distributed via **Zenodo** (not stored in git). After downloading the archive or cloning this repo with local data:
+Graph CSVs are distributed via **Zenodo** (not stored in git). After downloading the archive and cloning this repo with local data:
 
 ### Getting started in Python
->>>>>>> c6b62db (Add full literature curation audit trail and extracted curation_source)
 
 ```python
 import pandas as pd
@@ -42,7 +47,7 @@ ROOT = Path("PrimeKG-Plus_release")  # Zenodo extract or repo root
 # Public-database graph
 kg = pd.read_csv(ROOT / "dataset/PrimeKG-Plus/primekg_plus.csv", low_memory=False)
 
-# Literature-augmented graph (four rare neurological diseases)
+# Literature-augmented graph (four rare neurological disorders)
 kg_rd = pd.read_csv(
     ROOT / "dataset/PrimeKG-Plus-RD/primekg_plus_rd.csv",
     low_memory=False,
@@ -115,7 +120,7 @@ Full pipeline index: [`scripts/SCRIPTS.md`](scripts/SCRIPTS.md).
 
 ## Citing PrimeKG-Plus
 
-If you use PrimeKG-Plus, cite the Zenodo record and the manuscript (under review):
+If you use PrimeKG-Plus, cite the Zenodo record and the manuscript (in submission):
 
 ```
 @dataset{primekg_plus_2026,
