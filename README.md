@@ -3,6 +3,7 @@
 **Note**: the manuscript is in submission and can be accessed on bioRxiv at: https://www.biorxiv.org/content/10.64898/2026.07.14.738415v1
 
 
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-DSDD--UCPH%2FPrimeKG--Plus-blue)](https://github.com/DSDD-UCPH/PrimeKG-Plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.20796545-blue)](https://doi.org/10.5281/zenodo.20796545)
@@ -13,9 +14,26 @@
 
 This release provides **two PrimeKG-compatible knowledge graphs** (build **20260529**), both distributed via [Zenodo](https://doi.org/10.5281/zenodo.20796545):
 
-**PrimeKG-Plus** (`dataset/PrimeKG-Plus/primekg_plus.csv`) extends [PrimeKG](https://github.com/mims-harvard/PrimeKG) with updated public biomedical resources through Dec 2025, plus Open Targets, RepurposeDrugs, and SIDER+nSIDES. It contains **129,317** nodes and **7,683,206** directed edges. No PubMed-derived relations are included.
 
-**PrimeKG-Plus-RD** (`dataset/PrimeKG-Plus-RD/primekg_plus_rd.csv`) is the literature-augmented build for four rare neurological disorders—Canavan disease, Batten disease, Niemann–Pick disease type C, and Tay–Sachs disease. It contains every edge in `primekg_plus.csv` plus **550** expert-validated novel literature edges derived from **637** curated PubMed abstracts and PMC full-text articles (**129,353** nodes; **7,683,756** directed edges; **36** new ontology nodes).
+### PrimeKG-Plus
+`dataset/PrimeKG-Plus/primekg_plus.csv`
+
+Extends [PrimeKG](#) with updated public biomedical resources through **Dec 2025**, plus **Open Targets**, **RepurposeDrugs**, and **SIDER+nSIDES**.
+
+- **Nodes:** 129,317
+- **Directed edges:** 7,683,206
+- **PubMed-derived relations:** *none included*
+
+### PrimeKG-Plus-RD
+`dataset/PrimeKG-Plus-RD/primekg_plus_rd.csv`
+
+The *literature-augmented build* for four rare neurological disorders — Canavan disease, Batten disease, Niemann–Pick disease type C, and Tay–Sachs disease. Contains every edge in `primekg_plus.csv`, plus expert-validated novel literature edges.
+
+- **Nodes:** 129,353
+- **Directed edges:** 7,683,756
+- **New literature edges:** 550 *(derived from 637 curated PubMed abstracts and PMC full-text articles)*
+- **New ontology nodes:** 36
+  
 
 
 ## Table of Contents
