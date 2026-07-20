@@ -1,5 +1,7 @@
 # PrimeKG-Plus
 ----
+**Note**: the manuscript is in submission and can be accessed on bioRxiv at: https://www.biorxiv.org/content/10.64898/2026.07.14.738415v1
+
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-DSDD--UCPH%2FPrimeKG--Plus-blue)](https://github.com/DSDD-UCPH/PrimeKG-Plus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
