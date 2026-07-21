@@ -1,4 +1,4 @@
-# PrimeKG-Plus
+# PrimeKG-Plus: a literature-derived expansion of a multimodal precision medicine knowledge graph
 ----
 **Note**: the manuscript is in submission and can be accessed on bioRxiv at: https://www.biorxiv.org/content/10.64898/2026.07.14.738415v1
 
