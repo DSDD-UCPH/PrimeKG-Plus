@@ -1,7 +1,7 @@
 # PrimeKG-Plus: a literature-derived expansion of a multimodal precision medicine knowledge graph
 ----
-**Note**: the manuscript is in submission and can be accessed on bioRxiv at: https://www.biorxiv.org/content/10.64898/2026.07.14.738415v1
-
+**Note**: the manuscript is in submission and can be accessed on bioRxiv at: https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2026/738415&roleName=author&msversion=2
+(ver 2 - latest)
 
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-DSDD--UCPH%2FPrimeKG--Plus-blue)](https://github.com/DSDD-UCPH/PrimeKG-Plus)
