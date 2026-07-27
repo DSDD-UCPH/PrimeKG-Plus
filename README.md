@@ -1,4 +1,4 @@
-# PrimeKG-Plus
+# PrimeKG-Plus: a refreshed and rare-disease-enriched precision medicine knowledge graph
 
 Pipeline and release for an updated, PrimeKG-compatible biomedical knowledge graph: refreshed public databases (through December 2025), three added resources ([Open Targets](https://www.opentargets.org/), [RepurposeDrugs](https://repurposedrugs.org/), SIDER+nSIDES), and optional literature-curated edges for four rare neurological disorders.
 
