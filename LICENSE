@@ -21,9 +21,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-Dataset license note (see README and Usage Notes in the manuscript):
-
-- Curated literature-derived relations: CC-BY 4.0
-- Integrated third-party biomedical resources: subject to their respective licenses
-- Graph CSV files deposited on Zenodo may be cited via the Zenodo DOI (see CITATION.cff)
