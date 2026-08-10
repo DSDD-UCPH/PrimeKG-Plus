@@ -1,0 +1,50 @@
+Creative Commons Legal Code
+
+CC0 1.0 Universal
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
+LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
+ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
+PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
+THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
+HEREUNDER.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+---
+
+## Scope of this license
+
+This CC0 1.0 Universal dedication applies **only to the dataset files**
+contained in this repository (including, but not limited to, files
+under the `data/` directory and any other data artifacts distributed
+alongside the codebase).
+
+All **source code** in this repository is licensed separately under
+the MIT License (see `LICENSE`).
+
+The full, complete version of the dataset — including large files not
+hosted in this GitHub repository due to size constraints — is archived
+on Zenodo at: https://zenodo.org/records/20796545, also released under
+CC0 1.0 Universal.
+
+## Summary
+
+- **Code** → MIT License (see `LICENSE`)
+- **Data** (in this repo and on Zenodo) → CC0 1.0 Universal (this file)
+
+The person who associated a work with this deed has dedicated the work
+to the public domain by waiving all of his or her rights to the work
+worldwide under copyright law, including all related and neighboring
+rights, to the extent allowed by law. You can copy, modify, distribute
+and perform the work, even for commercial purposes, all without asking
+permission.
+
+---
+
+## Additional notes
+
+- Integrated third-party biomedical resources: subject to their respective licenses
+- While CC0 does not require attribution, if you use this dataset in your work, citation of the Zenodo DOI is appreciated (see CITATION.cff).
