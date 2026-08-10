@@ -249,9 +249,14 @@ If you use PrimeKG-Plus, please cite the Zenodo record and the manuscript:
 }
 ```
 
-Manuscript: *PrimeKG-Plus: a literature-derived expansion of a multimodal precision medicine knowledge graph* (bioRxiv / under review). See [`CITATION.cff`](CITATION.cff).
+Manuscript: *PrimeKG-Plus: a refreshed and rare-disease-enriched precision medicine knowledge graph* (bioRxiv / under review). See [`CITATION.cff`](CITATION.cff).
 
 Please also cite [original PrimeKG](https://doi.org/10.1038/s41597-023-01960-3) when comparing against or building on the baseline graph.
+
+## License
+- **Code**: MIT License (see [LICENSE](LICENSE))
+- **Data**: CC0 1.0 Universal (see [DATA_LICENSE](DATA_LICENSE.md)) — 
+  full dataset also archived on [Zenodo](https://zenodo.org/records/20796545) under CC0.
 
 ---
 
